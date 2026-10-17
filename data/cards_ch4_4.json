@@ -570,23 +570,6 @@
   ]
  },
  {
-  "order": 33,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "フン、オデッセイの支配人、<b>山形</b>か……",
-  "word": "山形",
-  "reading": "やまがた",
-  "meaning": "Yamagata (city, prefecture)",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "01022264",
-  "candidates": [
-   "(noun) Yamagata (city, prefecture)",
-   "(noun) mountain shape; chevron; cone"
-  ]
- },
- {
   "order": 35,
   "kind": "i+1",
   "standalone": false,
