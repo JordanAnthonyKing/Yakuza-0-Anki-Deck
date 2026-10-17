@@ -160,18 +160,27 @@ def validate(kind, inp, out):
 
 
 # ---------------------------------------------------------------- the step list
+def translate_batch_size(ch, maxo):
+    """~64 cards per batch, evened out so a chapter never ends in a tiny tail batch (68 cards
+    -> one batch, not 64+4). Chapters that already have range files keep the old fixed 64."""
+    if glob.glob(os.path.join(DATA, "translate", f"ch{ch}", "*.json")):
+        return 64
+    n = maxo + 1
+    return -(-n // max(1, round(n / 64)))
+
 def translate_jobs(ch):
     al = load(os.path.join(DATA, f"align_ch{ch}.json"))
     maxo = max(r["order"] for r in al)
     jobs = []
-    for s in range(0, maxo + 1, 64):
-        e = min(s + 63, maxo)
+    B = translate_batch_size(ch, maxo)
+    for s in range(0, maxo + 1, B):
+        e = min(s + B - 1, maxo)
         if not any(s <= r["order"] <= e for r in al):
             continue
         jobs.append(("translate", work(ch, f"tbatch_ch{ch}_{s:03d}-{e:03d}.json"),
                      os.path.join(DATA, "translate", f"ch{ch}", f"{s:03d}-{e:03d}.json")))
     if any(not os.path.exists(i) for _, i, o in jobs if not os.path.exists(o)):
-        run(["translate_next.py", str(ch), "999"])           # (re)write missing inputs
+        run(["translate_next.py", str(ch), "999", str(B)])   # (re)write missing inputs
     return jobs
 
 def steps(ch):
