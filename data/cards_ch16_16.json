@@ -1,0 +1,428 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ああ。<b>食欲</b>があるんはええことや。",
+  "word": "食欲",
+  "reading": "しょくよく",
+  "meaning": "appetite (for food)",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "00331490",
+  "candidates": [
+   "(noun) appetite (for food)"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "たこ焼き、ごっつ<b>美味かっ</b>たで。",
+  "word": "旨い",
+  "reading": "うまい",
+  "meaning": "skillful; skilful; skilled; good",
+  "pos": "i-adjective",
+  "chapter": 16,
+  "speaker": "",
+  "uid": "00331498",
+  "candidates": [
+   "(i-adjective) skillful; skilful; skilled; good",
+   "(i-adjective) delicious; tasty; good; nice",
+   "(i-adjective) good (deal, idea, etc.); profitable; promising; lucky"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ほな、冷めへんうちに急いで<b>児童</b>公園に戻らな",
+  "word": "児童",
+  "reading": "じどう",
+  "meaning": "children; juvenile",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "",
+  "uid": "00331498",
+  "candidates": [
+   "(noun) children; juvenile"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>早</b>よ言えやあ!!",
+  "word": "早",
+  "reading": "はや",
+  "meaning": "already; now; by this time",
+  "pos": "adverb",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "01331488",
+  "candidates": [
+   "(adverb) already; now; by this time",
+   "(noun) quick; early; fast; rapid"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どこ<b>ほっつき歩い</b>とんねん。マコト……",
+  "word": "ほっつき歩く",
+  "reading": "ほっつきあるく",
+  "meaning": "to loiter around; to wander about",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "01331488",
+  "candidates": [
+   "(verb) to loiter around; to wander about"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ウチの雇った<b>鬼</b>仁会……",
+  "word": "鬼",
+  "reading": "おに",
+  "meaning": "ogre; demon; oni",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(noun) ogre; demon; oni",
+   "(noun) spirit of a deceased person",
+   "(noun) ogre-like person (i.e. fierce, relentless, merciless, etc.)",
+   "(noun) it (in a game of tag, hide-and-seek, etc.); seeker; chaser; tagger",
+   "(noun) Chinese \"ghost\" constellation (one of the 28 mansions)",
+   "(pref) very; extremely; super-"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あの女からウチの親父に土地を<b>譲り</b>てえって",
+  "word": "譲る",
+  "reading": "ゆずる",
+  "meaning": "to hand over; to transfer; to turn over; to assign",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(verb) to hand over; to transfer; to turn over; to assign",
+   "(verb) to give up (e.g. one's seat); to give way",
+   "(verb) to yield; to concede; to give ground; to surrender",
+   "(verb) to sell",
+   "(verb) to postpone; to put off; to defer"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>丁重</b>にお迎えしてやったよ。",
+  "word": "丁重",
+  "reading": "ていちょう",
+  "meaning": "polite; courteous; hospitable",
+  "pos": "na-adjective",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(na-adjective) polite; courteous; hospitable"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "しつこく<b>つきまとっ</b>てくるから",
+  "word": "付き纏う",
+  "reading": "つきまとう",
+  "meaning": "to follow around; to shadow; to tag along",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(verb) to follow around; to shadow; to tag along",
+   "(verb) to haunt one (e.g. feeling, failure); to follow one"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>あの世</b>なんだからな。",
+  "word": "彼の世",
+  "reading": "あのよ",
+  "meaning": "the other world; the next world; the world beyond; world after death",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(noun) the other world; the next world; the world beyond; world after death"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あの娘は……　どこにおん<b>ねや</b>ぁ!!",
+  "word": "閨",
+  "reading": "ねや",
+  "meaning": "bedroom (esp. one used by a married couple); sleeping quarters",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "01331488",
+  "candidates": [
+   "(noun) bedroom (esp. one used by a married couple); sleeping quarters",
+   "(noun) inner room; room at the back of the house"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "（<b>迷っ</b>てる暇はない、行くで……！）",
+  "word": "迷う",
+  "reading": "まよう",
+  "meaning": "to lose one's way; to get lost; to go astray",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "01331488",
+  "candidates": [
+   "(verb) to lose one's way; to get lost; to go astray",
+   "(verb) to waver; to hesitate; to vacillate; to be of two minds (about)",
+   "(verb) to be captivated (by); to be infatuated (with); to be charmed (by); to be carried away (by)",
+   "(verb) to linger (of a departed soul); to be restless in one's grave; to be unable to rest in peace"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "わざわざ時間を<b>指定</b>して呼び出すからには",
+  "word": "指定",
+  "reading": "してい",
+  "meaning": "designation; specification; assignment; appointment",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "0133149b",
+  "candidates": [
+   "(verb) designation; specification; assignment; appointment"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>乗車</b>賃が払えそうにない。",
+  "word": "乗車",
+  "reading": "じょうしゃ",
+  "meaning": "boarding (a train, bus, etc.); getting into (e.g. a taxi)",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "",
+  "uid": "013314ae",
+  "candidates": [
+   "(verb) boarding (a train, bus, etc.); getting into (e.g. a taxi)"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>初乗り</b>料金４７０円になります。",
+  "word": "初乗り",
+  "reading": "はつのり",
+  "meaning": "first ride (in a new vehicle, in the new year, etc.)",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "タクシー",
+  "uid": "013314ae",
+  "candidates": [
+   "(verb) first ride (in a new vehicle, in the new year, etc.)",
+   "(noun) base-fare zone (of a train, taxi, etc.)",
+   "(noun) base fare; minimum fare; starting fare"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "すまないが、<b>急用</b>を思い出した。",
+  "word": "急用",
+  "reading": "きゅうよう",
+  "meaning": "urgent business",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "桐生",
+  "uid": "013314ae",
+  "candidates": [
+   "(noun) urgent business"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "他の<b>都市</b>ですと１０万円掛かりますが、",
+  "word": "都市",
+  "reading": "とし",
+  "meaning": "town; city; municipal; urban",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "タクシー",
+  "uid": "013314ae",
+  "candidates": [
+   "(noun) town; city; municipal; urban"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "道<b>あけ</b>な血ぃ見るだけやで。",
+  "word": "明け",
+  "reading": "あけ",
+  "meaning": "dawn; daybreak",
+  "pos": "adverb",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "013314b0",
+  "candidates": [
+   "(adverb) dawn; daybreak",
+   "(noun) end; soon after something has ended",
+   "(noun) beginning (of a new year, month, etc.)"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "さっさと<b>どかん</b>かい、ボケがあ!!",
+  "word": "どかん",
+  "reading": "どかん",
+  "meaning": "earthen pipe",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "真島",
+  "uid": "013314b0",
+  "candidates": [
+   "(noun) earthen pipe"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>細身</b>の堂島組組員",
+  "word": "細身",
+  "reading": "ほそみ",
+  "meaning": "narrow (blade)",
+  "pos": "adj-no",
+  "chapter": 16,
+  "speaker": "",
+  "uid": "013314b0",
+  "candidates": [
+   "(adj-no) narrow (blade)",
+   "(adj-no) slender (figure, build); thin"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>太め</b>の堂島組組員",
+  "word": "太め",
+  "reading": "ふとめ",
+  "meaning": "plump; somewhat large",
+  "pos": "na-adjective",
+  "chapter": 16,
+  "speaker": "",
+  "uid": "013314b0",
+  "candidates": [
+   "(na-adjective) plump; somewhat large"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>毎度</b>あり！",
+  "word": "毎度",
+  "reading": "まいど",
+  "meaning": "each time; every time; always; often",
+  "pos": "adverb",
+  "chapter": 16,
+  "speaker": "おばちゃん",
+  "uid": "00331498",
+  "candidates": [
+   "(adverb) each time; every time; always; often",
+   "(int) thank you for your continued patronage; thank you for your support; greetings!; welcome!",
+   "(int) hello; I'm coming in"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "毎度<b>あり</b>！",
+  "word": "有り",
+  "reading": "あり",
+  "meaning": "existing (at the present moment)",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "おばちゃん",
+  "uid": "00331498",
+  "candidates": [
+   "(noun) existing (at the present moment)",
+   "(na-adjective) alright; acceptable; passable",
+   "(verb) to be (usu. of inanimate objects); to have"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>展望</b>テラスだ……",
+  "word": "展望",
+  "reading": "てんぼう",
+  "meaning": "view; outlook; prospect",
+  "pos": "verb",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(verb) view; outlook; prospect"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "展望<b>テラス</b>だ……",
+  "word": "テラス",
+  "reading": "テラス",
+  "meaning": "terrace",
+  "pos": "noun",
+  "chapter": 16,
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "candidates": [
+   "(noun) terrace"
+  ]
+ }
+]
