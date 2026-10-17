@@ -150,24 +150,6 @@
   ]
  },
  {
-  "order": 9,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "このガキ、なに<b>突っ立っ</b>てんだ、おらあ!!",
-  "word": "突き立つ",
-  "reading": "つきたつ",
-  "meaning": "to stick (in)",
-  "pos": "verb",
-  "chapter": 9,
-  "speaker": "酔っ払い",
-  "uid": "01331355",
-  "candidates": [
-   "(verb) to stick (in)",
-   "(verb) to stick out; to rise sharply; to stand tall",
-   "(verb) to stand (doing nothing)"
-  ]
- },
- {
   "order": 10,
   "kind": "i+1",
   "standalone": false,
