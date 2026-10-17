@@ -1316,23 +1316,6 @@
   ]
  },
  {
-  "order": 79,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "……招福町西の「<b>雀</b>薔薇屋」やったか。",
-  "word": "雀",
-  "reading": "すずめ",
-  "meaning": "tree sparrow (Passer montanus)",
-  "pos": "noun",
-  "chapter": 7,
-  "speaker": "",
-  "uid": "0133127b",
-  "candidates": [
-   "(noun) tree sparrow (Passer montanus)",
-   "(noun) talkative person; knowledgeable person"
-  ]
- },
- {
   "order": 80,
   "kind": "i+1",
   "standalone": false,

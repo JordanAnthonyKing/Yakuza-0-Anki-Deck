@@ -3412,23 +3412,6 @@
   ]
  },
  {
-  "order": 203,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>ヒヒ</b>、聞いた話じゃ仁星一家の組長、",
-  "word": "狒々",
-  "reading": "ひひ",
-  "meaning": "baboon",
-  "pos": "noun",
-  "chapter": 2,
-  "speaker": "ホームレス",
-  "uid": "013311b9",
-  "candidates": [
-   "(noun) baboon",
-   "(noun) lecher; dirty old man; skirt-chaser"
-  ]
- },
- {
   "order": 204,
   "kind": "i+1",
   "standalone": false,
