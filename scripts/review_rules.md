@@ -31,6 +31,14 @@ line costs little; a wrong one teaches the wrong thing.
 - Fix an obviously wrong gloss directly in `gloss_polish_ch{N}.json` (e.g. 然も → "as if;
   seemingly").
 - More than ~10% of a chapter's cards flagged = something systematic → stop and tell the user.
+  Count only GENUINE mistags. Agents also flag borderline notes (idioms, loanword fragments),
+  which should get a gloss fix, not a drop. Ch4 (Kansai-heavy): 34 flags, 19 drops (6%).
+- More Kansai misparse patterns (Ch4): やと → 野兎, てんねん → 天然, (ええと)こや → 小屋,
+  やのうて(な) → 台, ちごた (違った) → 稚児, あない (あんな) → 案内, 食えん → 食, plus Kansai
+  adverbial/verb stems lemmatized as nouns (早よ → 早, 軽なる → 軽, 払たる → 払い). Also
+  美味しそう → 美味 and もみ返し → 籾 + 返し.
+- Loanword fragments of a compound (ドレス|コード, ゴッド|ハンド, ブレイク|ダンス): keep them, with a
+  gloss that names the compound.
 
 ## regate-review — accepts from the ±5 re-gate
 - Accept loose localizations of the SAME beat: rewording, jokes, slang, inserted names, merged lines.
