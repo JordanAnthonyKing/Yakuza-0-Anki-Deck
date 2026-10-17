@@ -1,0 +1,619 @@
+[
+ {
+  "order": 0,
+  "word": "手柄",
+  "reading": "てがら",
+  "meaning": "achievement; feat; meritorious deed; distinguished service",
+  "pos": "noun",
+  "speaker": "久瀬",
+  "uid": "01331355",
+  "sentence": "兄弟……　手柄はてめえにくれてやる。",
+  "parity": true,
+  "official_candidate": "Bro...",
+  "official_neighbors": [
+   "Heh, stubborn son of a bitch, ain't ya? You had to know it'd pan out like this, though.",
+   "Thing is, we're past the empty threats stage now."
+  ]
+ },
+ {
+  "order": 1,
+  "word": "庇う",
+  "reading": "かばう",
+  "meaning": "to protect (someone); to look after (e.g. an injured leg); to defend; to cover for",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "sentence": "桐生。お前がかばった立華はどうしてんだろうな？",
+  "parity": true,
+  "official_candidate": "Hey, Kiryu. Where do you figure Tachibana is now, after you covered his ass all this time? Haven't heard a peep. ...They cut you loose, boyo.",
+  "official_neighbors": [
+   "Bro... I'll let you take the credit, but I'm the one who gets to break him.",
+   "Looks like Kazama's just gonna sit by and let you die, too.",
+   "Raw fucking deal, am I right? People today are so heartless."
+  ]
+ },
+ {
+  "order": 2,
+  "word": "ばったり",
+  "reading": "ばったり",
+  "meaning": "with a clash; with a thud; with a bang; with a flop",
+  "pos": "adverb",
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "sentence": "ここんとこバッタリ姿消しちまってる。",
+  "parity": true,
+  "official_candidate": "Hey, Kiryu. Where do you figure Tachibana is now, after you covered his ass all this time? Haven't heard a peep. ...They cut you loose, boyo.",
+  "official_neighbors": [
+   "Bro... I'll let you take the credit, but I'm the one who gets to break him.",
+   "Looks like Kazama's just gonna sit by and let you die, too.",
+   "Raw fucking deal, am I right? People today are so heartless."
+  ]
+ },
+ {
+  "order": 3,
+  "word": "見捨てる",
+  "reading": "みすてる",
+  "meaning": "to abandon; to fail; to desert; to forsake",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "sentence": "……連中、お前を見捨てたってわけだ。",
+  "parity": true,
+  "official_candidate": "Hey, Kiryu. Where do you figure Tachibana is now, after you covered his ass all this time? Haven't heard a peep. ...They cut you loose, boyo.",
+  "official_neighbors": [
+   "Bro... I'll let you take the credit, but I'm the one who gets to break him.",
+   "Looks like Kazama's just gonna sit by and let you die, too.",
+   "Raw fucking deal, am I right? People today are so heartless."
+  ]
+ },
+ {
+  "order": 4,
+  "word": "見殺し",
+  "reading": "みごろし",
+  "meaning": "letting (someone) die without helping",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "sentence": "……風間のカシラも、お前を見殺しにする気らしい。",
+  "parity": true,
+  "official_candidate": "Looks like Kazama's just gonna sit by and let you die, too.",
+  "official_neighbors": [
+   "Hey, Kiryu. Where do you figure Tachibana is now, after you covered his ass all this time? Haven't heard a peep. ...They cut you loose, boyo.",
+   "Raw fucking deal, am I right? People today are so heartless.",
+   "Tachibana's going to be the one to get the Empty Lot. Then it'll be your turn to sweat."
+  ]
+ },
+ {
+  "order": 5,
+  "word": "たっぷり",
+  "reading": "たっぷり",
+  "meaning": "plentifully; amply; abundantly; copiously",
+  "pos": "na-adjective",
+  "speaker": "久瀬",
+  "uid": "01331355",
+  "sentence": "……たっぷり楽しましてもらうぜ、桐生!!",
+  "parity": true,
+  "official_candidate": "I'm gonna have some real fun this time, Kiryu!",
+  "official_neighbors": [
+   "That cocky attitude's gonna get you hurt, boy.",
+   "Let me at him, bro. I'll shut him up."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "道連れ",
+  "reading": "みちづれ",
+  "meaning": "fellow traveler; fellow traveller; travelling companion",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331355",
+  "sentence": "ああ。だが……　こんだけ道連れがいりゃ",
+  "parity": true,
+  "official_candidate": "True... but at least I know I won't be lonely when I bring all you guys down with me.",
+  "official_neighbors": [
+   "Nowhere to run, Kiryu.",
+   "You stupid? There's even more of us coming. Doesn't matter what you try, the only one going to hell today is you.",
+   "All right, get to work on him!"
+  ]
+ },
+ {
+  "order": 7,
+  "word": "巻き添え",
+  "reading": "まきぞえ",
+  "meaning": "getting mixed up in; getting embroiled in; involvement; entanglement",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331355",
+  "sentence": "あんたも俺にかまうな。巻き添えにしたくない。",
+  "parity": true,
+  "official_candidate": "You should do the same. I don't want you on my conscience.",
+  "official_neighbors": [
+   "He and I aren't bros. We cut ties.",
+   "What?",
+   "And you think saying that's enough to change my mind? Give me a little credit here... Look. Either you come with me, now, or I start screaming. I mean it.",
+   "A place like this, it's just a matter of time till they find you. Now please, don't make this take any longer."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "引っ込める",
+  "reading": "ひっこめる",
+  "meaning": "to draw in; to take in; to retract",
+  "pos": "verb",
+  "speaker": "麗奈",
+  "uid": "01331355",
+  "sentence": "そんな風に言われて引っ込めると思う？",
+  "parity": true,
+  "official_candidate": "And you think saying that's enough to change my mind? Give me a little credit here... Look. Either you come with me, now, or I start screaming. I mean it.",
+  "official_neighbors": [
+   "What?",
+   "You should do the same. I don't want you on my conscience.",
+   "A place like this, it's just a matter of time till they find you. Now please, don't make this take any longer.",
+   "Okay? I'll go close the bar now. Give me just a few minutes, then come on up. Use the back entrance, it's more discreet."
+  ]
+ },
+ {
+  "order": 10,
+  "word": "逮捕",
+  "reading": "たいほ",
+  "meaning": "arrest; apprehension; capture",
+  "pos": "verb",
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "sentence": "逮捕されるかもしれないけど……",
+  "parity": true,
+  "official_candidate": "Wait! I'll call the police! They might arrest you, but at least you'll still be alive.",
+  "official_neighbors": [
+   "...Sorry for wrecking the place, Reina. This is all my fault.",
+   "More of them will be here any minute. I've got to go.",
+   "I'm afraid not. If the yakuza are going this far, a few cops on the scene won't stop them. They're not calling this off till I'm dead.",
+   "Then... there's no one else you can ask for help?"
+  ]
+ },
+ {
+  "order": 11,
+  "word": "引き",
+  "reading": "ひき",
+  "meaning": "pull; patronage; influence",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "sentence": "サツが来たとこで引きはしない。",
+  "parity": true,
+  "official_candidate": "I'm afraid not. If the yakuza are going this far, a few cops on the scene won't stop them. They're not calling this off till I'm dead.",
+  "official_neighbors": [
+   "More of them will be here any minute. I've got to go.",
+   "Wait! I'll call the police! They might arrest you, but at least you'll still be alive.",
+   "Then... there's no one else you can ask for help?",
+   "If there were, I wouldn't have dragged you into this, too."
+  ]
+ },
+ {
+  "order": 12,
+  "word": "二の舞",
+  "reading": "にのまい",
+  "meaning": "... all over again (repeating the same failure)",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "sentence": "組に逆らえば……　あいつは俺の二の舞になる。",
+  "parity": true,
+  "official_candidate": "When you do, tell him... I don't want him to try to avenge me, no matter what happens. If he crosses the family, he'll wind up right where I am now.",
+  "official_neighbors": [
+   "A watch?",
+   "Kiryu-san... Kiryu-san!"
+  ]
+ },
+ {
+  "order": 13,
+  "word": "手当て",
+  "reading": "てあて",
+  "meaning": "salary; pay; compensation; allowance (e.g. housing allowance)",
+  "pos": "verb",
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "sentence": "とにかく頭の傷手当しなきゃ。",
+  "parity": true,
+  "official_candidate": "Of course. Have a seat. We need to get that head patched up.",
+  "official_neighbors": [
+   "Good, you actually showed up, Kiryu-san.",
+   "I won't stay long. Just until a man named Tachibana gets in touch with me. Until then, thank you.",
+   "Reina... Have you heard if anything's happened with Nishiki?"
+  ]
+ },
+ {
+  "order": 14,
+  "word": "消毒",
+  "reading": "しょうどく",
+  "meaning": "disinfection; sterilization; sterilisation",
+  "pos": "verb",
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "sentence": "傷、そこまで深くはないみたい。消毒だけするわ。",
+  "parity": true,
+  "official_candidate": "The cut doesn't look very deep. I'll just clean it.",
+  "official_neighbors": [
+   "I think he's out in the Kazama Family office now. I saw him go in a little while ago. He looked really upset.",
+   "I see... That's good to hear.",
+   "Thanks."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "苦しめる",
+  "reading": "くるしめる",
+  "meaning": "to torment; to pain; to inflict (physical) pain; to hurt",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "sentence": "もう……兄弟を、苦しめたくない。",
+  "parity": true,
+  "official_candidate": "I've done enough... I don't want to hurt a brother.",
+  "official_neighbors": []
+ },
+ {
+  "order": 16,
+  "word": "刑事",
+  "reading": "けいじ",
+  "meaning": "(police) detective",
+  "pos": "noun",
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "sentence": "今日この店に刑事が来て、",
+  "parity": true,
+  "official_candidate": "A detective came in today, saying he wanted to ask you a few questions.",
+  "official_neighbors": [
+   "You know, Kiryu-san, I think you should hear the police are looking for you, too.",
+   "Any guesses why?",
+   "Yeah... Guess I've hit my time limit."
+  ]
+ },
+ {
+  "order": 17,
+  "word": "押さえる",
+  "reading": "おさえる",
+  "meaning": "to pin down; to hold down; to press down; to hold in place",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "sentence": "俺への捜査を押さえてくれてたんだ。",
+  "parity": true,
+  "official_candidate": "Tachibana pulled some strings to stall the cops from looking into me. That grace period's over now.",
+  "official_neighbors": [
+   "Time limit? What do you mean?",
+   "I'm being framed for murder. The shooting that happened over in the Empty Lot.",
+   "But you say \"framed,\" so...",
+   "Yeah, I didn't do it. The whole thing's a setup."
+  ]
+ },
+ {
+  "order": 18,
+  "word": "猶予",
+  "reading": "ゆうよ",
+  "meaning": "postponement; deferment; extension (of time)",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "sentence": "その猶予が、切れた……",
+  "parity": true,
+  "official_candidate": "Tachibana pulled some strings to stall the cops from looking into me. That grace period's over now.",
+  "official_neighbors": [
+   "Time limit? What do you mean?",
+   "I'm being framed for murder. The shooting that happened over in the Empty Lot.",
+   "But you say \"framed,\" so...",
+   "Yeah, I didn't do it. The whole thing's a setup."
+  ]
+ },
+ {
+  "order": 19,
+  "word": "エレベーター",
+  "reading": "エレベーター",
+  "meaning": "elevator; lift",
+  "pos": "noun",
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "sentence": "もうエレベーターは動かないはずなのに……！",
+  "parity": true,
+  "official_candidate": "Kiryu-san, someone's coming. This time of night, nobody should be using that elevator!",
+  "official_neighbors": [
+   "Hide in the back room!"
+  ]
+ },
+ {
+  "order": 20,
+  "word": "締め付け",
+  "reading": "しめつけ",
+  "meaning": "pressure; clamping; tightening; fastening",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "……堂島組のしめつけで、ウチの情報網も",
+  "parity": true,
+  "official_candidate": "The added pressure from Dojima's men has hampered our information network these last few days.",
+  "official_neighbors": [
+   "It has been difficult to keep track of your situation... let alone to pass instructions on to Oda-san.",
+   "Hence... my impromptu debut as the world's worst chauffeur."
+  ]
+ },
+ {
+  "order": 21,
+  "word": "鈍る",
+  "reading": "にぶる",
+  "meaning": "to become blunt; to grow dull",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "動きが鈍っていましてね。",
+  "parity": true,
+  "official_candidate": "The added pressure from Dojima's men has hampered our information network these last few days.",
+  "official_neighbors": [
+   "It has been difficult to keep track of your situation... let alone to pass instructions on to Oda-san.",
+   "Hence... my impromptu debut as the world's worst chauffeur."
+  ]
+ },
+ {
+  "order": 22,
+  "word": "御陰",
+  "reading": "おかげ",
+  "meaning": "grace (of God); benevolence (of Buddha); blessing",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331378",
+  "sentence": "おかげで助かった。あんたが来なけりゃ……",
+  "parity": true,
+  "official_candidate": "Well, it saved me. If you hadn't come when you did, that would've been the end of the line for me.",
+  "official_neighbors": [
+   "I'm surprised there's anything you can't do.",
+   "It seems I at least know one pedal from the other... but that's the most I've driven since getting licensed. It was terrifying.",
+   "I was... naive. Thought I was stronger than I am. I figured no matter how far I pushed, I'd be able to see it all through by myself. Make it alone.",
+   "But now, just being around other people puts them in danger. Everyone who's tried to help me has paid for it."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "突っ走る",
+  "reading": "つっぱしる",
+  "meaning": "to run swiftly; to speed; to dash; to rush",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "01331378",
+  "sentence": "思ってたんだ。だからどんなに突っ走ったところで、",
+  "parity": true,
+  "official_candidate": "I was... naive. Thought I was stronger than I am. I figured no matter how far I pushed, I'd be able to see it all through by myself. Make it alone.",
+  "official_neighbors": [
+   "It seems I at least know one pedal from the other... but that's the most I've driven since getting licensed. It was terrifying.",
+   "Well, it saved me. If you hadn't come when you did, that would've been the end of the line for me.",
+   "But now, just being around other people puts them in danger. Everyone who's tried to help me has paid for it.",
+   "The owner of Serena, Kazama, Nishiki... You, too."
+  ]
+ },
+ {
+  "order": 24,
+  "word": "環境",
+  "reading": "かんきょう",
+  "meaning": "environment; surroundings; circumstances",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "私の育ってきた環境では、誰もがそうしていました。",
+  "parity": true,
+  "official_candidate": "Such was the way of the world where I grew up. Any less, and one would simply not survive. To say nothing of climbing the ranks.",
+  "official_neighbors": [
+   "Were I in your place, that would not bother me remotely.",
+   "You see, Kiryu-san, I firmly believe that we must all use anyone and everyone around us.",
+   "The only question was how to extract the most from others, whether through money, force, or any other means.",
+   "I am sure it was a world far different from the one that gave rise to a gentle soul like you."
+  ]
+ },
+ {
+  "order": 25,
+  "word": "如何に",
+  "reading": "いかに",
+  "meaning": "how; in what way",
+  "pos": "adverb",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "金でもなんでも使って、いかにまわりの人間を",
+  "parity": true,
+  "official_candidate": "The only question was how to extract the most from others, whether through money, force, or any other means.",
+  "official_neighbors": [
+   "You see, Kiryu-san, I firmly believe that we must all use anyone and everyone around us.",
+   "Such was the way of the world where I grew up. Any less, and one would simply not survive. To say nothing of climbing the ranks.",
+   "I am sure it was a world far different from the one that gave rise to a gentle soul like you.",
+   "So the only reason you came running to my rescue was so that you could use me now?"
+  ]
+ },
+ {
+  "order": 26,
+  "word": "損得",
+  "reading": "そんとく",
+  "meaning": "loss and gain; advantage and disadvantage",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "自分の損得で動く人間でないことを知っている。",
+  "parity": true,
+  "official_candidate": "Those who would risk themselves to protect you are aware that you are not a man motivated by personal gain.",
+  "official_neighbors": [
+   "You describe yourself as an idiot. Well... I suppose I too aspire to be such an idiot.",
+   "Tachibana...",
+   "What's more, once you've decided to trust someone, you are able to do so blindly, recklessly, heedless of the costs.",
+   "That sort of person is exceedingly rare... especially in this day and age."
+  ]
+ },
+ {
+  "order": 27,
+  "word": "命懸け",
+  "reading": "いのちがけ",
+  "meaning": "putting one's life on the line; staking one's life (on); risking one's life; life and death situation",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "馬鹿みたいに命がけで信じることができる。",
+  "parity": true,
+  "official_candidate": "What's more, once you've decided to trust someone, you are able to do so blindly, recklessly, heedless of the costs.",
+  "official_neighbors": [
+   "Tachibana...",
+   "Those who would risk themselves to protect you are aware that you are not a man motivated by personal gain.",
+   "That sort of person is exceedingly rare... especially in this day and age.",
+   "I regret to admit that I am still unable to risk my own life in order to protect yours."
+  ]
+ },
+ {
+  "order": 28,
+  "word": "滅多",
+  "reading": "めった",
+  "meaning": "thoughtless; reckless; careless; rash",
+  "pos": "na-adjective",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "滅多にいるもんじゃありません。",
+  "parity": true,
+  "official_candidate": "That sort of person is exceedingly rare... especially in this day and age.",
+  "official_neighbors": [
+   "Those who would risk themselves to protect you are aware that you are not a man motivated by personal gain.",
+   "What's more, once you've decided to trust someone, you are able to do so blindly, recklessly, heedless of the costs.",
+   "I regret to admit that I am still unable to risk my own life in order to protect yours.",
+   "However, I can place my trust in you, and place my life in your hands."
+  ]
+ },
+ {
+  "order": 29,
+  "word": "素面",
+  "reading": "すめん",
+  "meaning": "not wearing a mask (in kendo, noh, etc.)",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "今のは……　シラフで言うことじゃ",
+  "parity": true,
+  "official_candidate": "Apologies... Perhaps that was the sort of thing better said AND heard after a few drinks.",
+  "official_neighbors": [
+   "However, I can place my trust in you, and place my life in your hands.",
+   "Tachibana...",
+   "The first round's on me."
+  ]
+ },
+ {
+  "order": 30,
+  "word": "羽目",
+  "reading": "はめ",
+  "meaning": "panel; wainscoting; wainscotting",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "おかげで……　自分で慣れない運転をする羽目に。",
+  "parity": true,
+  "official_candidate": "Hence... my impromptu debut as the world's worst chauffeur.",
+  "official_neighbors": [
+   "The added pressure from Dojima's men has hampered our information network these last few days.",
+   "It has been difficult to keep track of your situation... let alone to pass instructions on to Oda-san.",
+   "I'm surprised there's anything you can't do.",
+   "It seems I at least know one pedal from the other... but that's the most I've driven since getting licensed. It was terrifying."
+  ]
+ },
+ {
+  "order": 31,
+  "word": "報う",
+  "reading": "むくう",
+  "meaning": "to reward; to recompense; to repay",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "sentence": "報われねえなぁ。いまどきの仁義ってやつはよ。",
+  "parity": true,
+  "official_candidate": "Raw fucking deal, am I right? People today are so heartless.",
+  "official_neighbors": [
+   "Hey, Kiryu. Where do you figure Tachibana is now, after you covered his ass all this time? Haven't heard a peep. ...They cut you loose, boyo.",
+   "Looks like Kazama's just gonna sit by and let you die, too.",
+   "Tachibana's going to be the one to get the Empty Lot. Then it'll be your turn to sweat."
+  ]
+ },
+ {
+  "order": 32,
+  "word": "仁義",
+  "reading": "じんぎ",
+  "meaning": "humanity and justice (esp. in Confucianism); virtue",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "sentence": "報われねえなぁ。いまどきの仁義ってやつはよ。",
+  "parity": true,
+  "official_candidate": "Raw fucking deal, am I right? People today are so heartless.",
+  "official_neighbors": [
+   "Hey, Kiryu. Where do you figure Tachibana is now, after you covered his ass all this time? Haven't heard a peep. ...They cut you loose, boyo.",
+   "Looks like Kazama's just gonna sit by and let you die, too.",
+   "Tachibana's going to be the one to get the Empty Lot. Then it'll be your turn to sweat."
+  ]
+ },
+ {
+  "order": 33,
+  "word": "ペーパー",
+  "reading": "ペーパー",
+  "meaning": "paper",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "いわゆるペーパードライバーっていうやつです。",
+  "parity": true,
+  "official_candidate": "It seems I at least know one pedal from the other... but that's the most I've driven since getting licensed. It was terrifying.",
+  "official_neighbors": [
+   "Hence... my impromptu debut as the world's worst chauffeur.",
+   "I'm surprised there's anything you can't do.",
+   "Well, it saved me. If you hadn't come when you did, that would've been the end of the line for me.",
+   "I was... naive. Thought I was stronger than I am. I figured no matter how far I pushed, I'd be able to see it all through by myself. Make it alone."
+  ]
+ },
+ {
+  "order": 34,
+  "word": "ドライバー",
+  "reading": "ドライバー",
+  "meaning": "driver (of a vehicle); motorist",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "いわゆるペーパードライバーっていうやつです。",
+  "parity": true,
+  "official_candidate": "It seems I at least know one pedal from the other... but that's the most I've driven since getting licensed. It was terrifying.",
+  "official_neighbors": [
+   "Hence... my impromptu debut as the world's worst chauffeur.",
+   "I'm surprised there's anything you can't do.",
+   "Well, it saved me. If you hadn't come when you did, that would've been the end of the line for me.",
+   "I was... naive. Thought I was stronger than I am. I figured no matter how far I pushed, I'd be able to see it all through by myself. Make it alone."
+  ]
+ },
+ {
+  "order": 35,
+  "word": "方面",
+  "reading": "ほうめん",
+  "meaning": "direction; district; area",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "どうも私にはその方面の才能があったようです。",
+  "parity": true,
+  "official_candidate": "By using those around me, I have amassed money and power... It seems what talents I have lend themselves naturally to such pursuits.",
+  "official_neighbors": [
+   "...In so many words, yes.",
+   "What are you... Why tell me this?",
+   "However... unlike you, I have no friends who would risk their lives for my sake."
+  ]
+ },
+ {
+  "order": 36,
+  "word": "才能",
+  "reading": "さいのう",
+  "meaning": "talent; ability",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331378",
+  "sentence": "どうも私にはその方面の才能があったようです。",
+  "parity": true,
+  "official_candidate": "By using those around me, I have amassed money and power... It seems what talents I have lend themselves naturally to such pursuits.",
+  "official_neighbors": [
+   "...In so many words, yes.",
+   "What are you... Why tell me this?",
+   "However... unlike you, I have no friends who would risk their lives for my sake."
+  ]
+ }
+]
