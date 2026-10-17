@@ -1,0 +1,322 @@
+{
+ "64": {
+  "literal": "Me? Lately I've gotten really into skiing.",
+  "official": "Me? I'm super into skiing lately.",
+  "official_ok": true
+ },
+ "65": {
+  "literal": "You're planning to get your customers to pay for it anyway, right?",
+  "official": "Plannin' to get one of your customers to buy it for ya?",
+  "official_ok": true
+ },
+ "66": {
+  "literal": "None of my customers are that generous...",
+  "official": "Aw, none of my regulars are that sweet...",
+  "official_ok": true
+ },
+ "67": {
+  "literal": "Geez, mister, you're so mean!",
+  "official": "Heyyy, don't be mean!",
+  "official_ok": true
+ },
+ "68": {
+  "literal": "I nearly lost sight of why I came here...",
+  "official": "Damn near forgot why I came in.",
+  "official_ok": true
+ },
+ "69": {
+  "literal": "Well, part of it is that it's the end of the year, but",
+  "official": "Well, the holiday season certainly helps,",
+  "official_ok": true
+ },
+ "70": {
+  "literal": "lately we're all being forced to bring customers in on dates, so",
+  "official": "but they also told us girls we've all gotta bring a guy in with us every night, so maybe that's helping too?",
+  "official_ok": true
+ },
+ "71": {
+  "literal": "But for them to be so desperate about making you bring in dates,",
+  "official": "Gotta say, this place don't look like it's so hard-up that they've gotta force the hostesses to bring dates in.",
+  "official_ok": true
+ },
+ "72": {
+  "literal": "Pride?",
+  "official": "Pride?",
+  "official_ok": true
+ },
+ "73": {
+  "literal": "They say if we don't win this month for sure, everyone gets fined, and stuff like that,",
+  "official": "so management says if we don't beat 'em this month, the whole staff's payin' a fine.",
+  "official_ok": true
+ },
+ "74": {
+  "literal": "What's that about... As long as your own place is making money,",
+  "official": "The heck is that about? Long as you're turnin' a solid profit, why stir up trouble?",
+  "official_ok": true
+ },
+ "75": {
+  "literal": "Honestly, no matter how many dates we bring in, even the regulars",
+  "official": "And honestly, even if we go out with them before comin' in, it's not like our regulars are droppin' hundreds of thousands in here every day.",
+  "official_ok": true
+ },
+ "76": {
+  "literal": "Looks like Odyssey is desperate to overtake the Grand.",
+  "official": "(Looks like they're really desperate to beat the Grand here.",
+  "official_ok": true
+ },
+ "77": {
+  "literal": "But that momentum is about to hit its ceiling.",
+  "official": "Problem is, they're runnin' out of steam.",
+  "official_ok": true
+ },
+ "78": {
+  "literal": "I think there are about 40 here today, though.",
+  "official": "I think only about 40 are workin' today, though.",
+  "official_ok": true
+ },
+ "79": {
+  "literal": "Yeah. There are even girls who only come in once a week.",
+  "official": "You said it. And a bunch of girls only work maybe one shift a week.",
+  "official_ok": true
+ },
+ "80": {
+  "literal": "It happens all the time.",
+  "official": "Seems like every other night I'm sitting in a booth with a girl I've never talked to before in my life.",
+  "official_ok": true
+ },
+ "81": {
+  "literal": "Huh... So new faces come in that often, huh?",
+  "official": "Wow, you got new girls comin' here in droves, huh?",
+  "official_ok": true
+ },
+ "82": {
+  "literal": "The hierarchy at our place is super strict, and",
+  "official": "The hierarchy here's way scary.",
+  "official_ok": true
+ },
+ "83": {
+  "literal": "So the competition's fierce, huh...",
+  "official": "Sounds like competition's tough.",
+  "official_ok": true
+ },
+ "84": {
+  "literal": "(Here it comes! Things are going my way...!)",
+  "official": "(Bingo! I like where this is headed...)",
+  "official_ok": true
+ },
+ "85": {
+  "literal": "So, to keep up in conversation with people like that, we",
+  "official": "So management's always on our case to read the paper and follow the news so we can keep up with their conversations.",
+  "official_ok": true
+ },
+ "86": {
+  "literal": "She's really popular with customers like that, and",
+  "official": "so she's always been popular with those types.",
+  "official_ok": true
+ },
+ "87": {
+  "literal": "she racked up tons of requests.",
+  "official": "Now a lot of them request her when they come in.",
+  "official_ok": true
+ },
+ "88": {
+  "literal": "Oh, keep what I just said a secret, okay?",
+  "official": "",
+  "official_ok": false
+ },
+ "89": {
+  "literal": "If the other girls found out I said something like that,",
+  "official": "",
+  "official_ok": false
+ },
+ "90": {
+  "literal": "Just like the rumors say, their hostess training seems flawless.",
+  "official": "",
+  "official_ok": false
+ },
+ "91": {
+  "literal": "She'd be more than capable of handling them...",
+  "official": "",
+  "official_ok": false
+ },
+ "92": {
+  "literal": "If you'd like, I can bring you a drink as well...?",
+  "official": "",
+  "official_ok": false
+ },
+ "93": {
+  "literal": "I'll just wait at my leisure.",
+  "official": "",
+  "official_ok": false
+ },
+ "94": {
+  "literal": "Not turning customers away even when they're full... Impressive.",
+  "official": "",
+  "official_ok": false
+ },
+ "95": {
+  "literal": "Here, it'd be better not to go requesting Nozomi carelessly",
+  "official": "",
+  "official_ok": false
+ },
+ "96": {
+  "literal": "Party of one, right this way. Please follow me.",
+  "official": "",
+  "official_ok": false
+ },
+ "97": {
+  "literal": "At least inside the club, why not take off those sunglasses?",
+  "official": "Sunglasses indoors is a hard look to rock...",
+  "official_ok": true
+ },
+ "98": {
+  "literal": "You're here for Nozomi, right?",
+  "official": "Here for Nozomi, I take it?",
+  "official_ok": true
+ },
+ "99": {
+  "literal": "You, on the other hand, are being awfully roundabout.",
+  "official": "And you're awfully roundabout.",
+  "official_ok": true
+ },
+ "100": {
+  "literal": "I'll call her over. Persuade her, negotiate, whatever you like.",
+  "official": "If you wanna see Nozomi, I'll call her over. Negotiate with her to your heart's content.",
+  "official_ok": true
+ },
+ "101": {
+  "literal": "Even if I did that, if you, the man at the top,",
+  "official": "Wouldn't get me very far if I can't get you on board, boss.",
+  "official_ok": true
+ },
+ "102": {
+  "literal": "Seems you're anxious to change things somehow, aren't you?",
+  "official": "Seems to me you're pretty desperate for some kinda change.",
+  "official_ok": true
+ },
+ "103": {
+  "literal": "That's fine for now, but if you want to grow your sales from here on,",
+  "official": "Which ain't a problem right now, but if you're hopin' to expand at all,",
+  "official_ok": true
+ },
+ "104": {
+  "literal": "Aren't we able to cater to a wide range of customer tastes?",
+  "official": "We cater to all tastes here just fine.",
+  "official_ok": true
+ },
+ "105": {
+  "literal": "You're seriously short on girls who appeal to young men.",
+  "official": "Chicks a younger guy'd be into, though? You got zilch.",
+  "official_ok": true
+ },
+ "106": {
+  "literal": "Even when a young customer comes in now and then, he can't fit in with the club's atmosphere,",
+  "official": "Place like that, even when you do get the odd youngster in, he's gonna feel out of place.",
+  "official_ok": true
+ },
+ "107": {
+  "literal": "There's more. The truth is, Odyssey has a serious shortage of women right now.",
+  "official": "That ain't all. You talk big game about that roster, but this place is desperate for new girls...",
+  "official_ok": true
+ },
+ "108": {
+  "literal": "You want as many new girls as you can get... Am I wrong?",
+  "official": "this place is desperate for new girls... Am I wrong?",
+  "official_ok": true
+ },
+ "109": {
+  "literal": "I assume you've got grounds for saying that?",
+  "official": "You got proof to back that up?",
+  "official_ok": true
+ },
+ "110": {
+  "literal": "I got kept waiting a bit at the entrance.",
+  "official": "Had me wait by the entrance.",
+  "official_ok": true
+ },
+ "111": {
+  "literal": "Girls who treat it like a part-time job quit right away...",
+  "official": "it also drives off all the girls who ain't makin' this their life's work.",
+  "official_ok": true
+ },
+ "112": {
+  "literal": "You want to secure enough staff, but even so,",
+  "official": "You gotta build up your ranks, but you can't afford to let hostess quality drop...",
+  "official_ok": true
+ },
+ "113": {
+  "literal": "Tough spot, huh?",
+  "official": "Quite the dilemma ya got.",
+  "official_ok": true
+ },
+ "114": {
+  "literal": "It's true that we do have that problem right now.",
+  "official": "I admit, that's a problem we're facing at the moment.",
+  "official_ok": true
+ },
+ "115": {
+  "literal": "After all that, you get what I'm after, right?",
+  "official": "Look, you're a smart guy. You see where I'm goin' with all this, yeah?",
+  "official_ok": true
+ },
+ "116": {
+  "literal": "So you see right through our whole situation.",
+  "official": "Hmph... Right. So you've got us all figured out.",
+  "official_ok": true
+ },
+ "117": {
+  "literal": "it's about time a player who can bunt",
+  "official": "Seems like it's about time you got somebody who could bunt, no?",
+  "official_ok": true
+ },
+ "118": {
+  "literal": "And? In exchange for our cleanup hitter,",
+  "official": "And? Just what are you offering in exchange for our cleanup hitter?",
+  "official_ok": true
+ },
+ "119": {
+  "literal": "what are you planning to offer?",
+  "official": "Just what are you offering in exchange for our cleanup hitter?",
+  "official_ok": true
+ },
+ "120": {
+  "literal": "For starters, 10 million as a deposit.",
+  "official": "Ten million cash in earnest money, to start.",
+  "official_ok": true
+ },
+ "121": {
+  "literal": "They're girls I've been training to target a younger clientele.",
+  "official": "I been trainin' a gaggle of girls, aimed square at the younger crowd.",
+  "official_ok": true
+ },
+ "122": {
+  "literal": "Majima-han, the prized talent you scouted yourself,",
+  "official": "Majima-han, you're seriously going to just hand over the fresh blood you've scouted?",
+  "official_ok": true
+ },
+ "123": {
+  "literal": "For your place, I guarantee future sales.",
+  "official": "You make this trade, you get big sales down the line.",
+  "official_ok": true
+ },
+ "124": {
+  "literal": "I see. Despite how you look, you",
+  "official": "I see. You certainly know how to get what you want without makin' enemies along the way. Wouldn't have guessed, by the look of you.",
+  "official_ok": true
+ },
+ "125": {
+  "literal": "So we've got a deal, right?",
+  "official": "I'm assumin' we got a deal?",
+  "official_ok": true
+ },
+ "126": {
+  "literal": "Let's make what happened today the last time, shall we?",
+  "official": "No more stunts like this, or else.",
+  "official_ok": true
+ },
+ "127": {
+  "literal": "From now on, we'll be going all-out to win as well",
+  "official": "Starting tomorrow, Odyssey will do everything it can to win.",
+  "official_ok": true
+ }
+}
