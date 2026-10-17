@@ -32,26 +32,6 @@
   ]
  },
  {
-  "order": 2,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>あない</b>なんは滅多に見られるもんとちゃう。",
-  "word": "あない",
-  "reading": "あんない",
-  "meaning": "guidance; leading (the way); showing around",
-  "pos": "verb",
-  "chapter": 13,
-  "speaker": "船頭の男",
-  "uid": "00331408",
-  "candidates": [
-   "(verb) guidance; leading (the way); showing around",
-   "(verb) information; notice; notification",
-   "(noun) announcement (of a visitor's arrival); informing (someone) of a visitor's arrival",
-   "(verb) invitation",
-   "(noun) acquaintance; knowledge"
-  ]
- },
- {
   "order": 3,
   "kind": "i+1",
   "standalone": false,
@@ -122,26 +102,6 @@
    "(noun) pouch of fried tofu stuffed with var. ingredients, used in oden",
    "(noun) hanger-on; follower; flunky; sycophant",
    "(noun) unlicensed prostitute (Edo period)"
-  ]
- },
- {
-  "order": 7,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "俺は電話<b>番っ</b>てわけか。",
-  "word": "番う",
-  "reading": "つがう",
-  "meaning": "to pair up; to form a pair; to become paired",
-  "pos": "verb",
-  "chapter": 13,
-  "speaker": "桐生",
-  "uid": "013313f3",
-  "candidates": [
-   "(verb) to pair up; to form a pair; to become paired",
-   "(verb) to mate; to copulate",
-   "(verb) to fix (an arrow to the string)",
-   "(verb) to place outriders on the left and right",
-   "(verb) to make a firm promise"
   ]
  },
  {
