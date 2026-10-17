@@ -1,0 +1,667 @@
+[
+ {
+  "order": 0,
+  "word": "返り討ち",
+  "reading": "かえりうち",
+  "meaning": "killing a would-be avenger",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "003313e6",
+  "sentence": "半端な覚悟じゃ返り討ちに遭うかも知れねぇ……",
+  "parity": true,
+  "official_candidate": "All right, we're heading to the Grove. They'll be expecting company--go into this half-assed and you're gonna end up more than half dead. You ready?",
+  "official_neighbors": [
+   "I'm set. Lead the way already.",
+   "Heh, somebody's eager. Try not to disappoint me this time, yeah, Majima-chan?"
+  ]
+ },
+ {
+  "order": 1,
+  "word": "失望",
+  "reading": "しつぼう",
+  "meaning": "disappointment; despair",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "003313e6",
+  "sentence": "今度こそ、俺を失望させないでくれよ？",
+  "parity": true,
+  "official_candidate": "Heh, somebody's eager. Try not to disappoint me this time, yeah, Majima-chan?",
+  "official_neighbors": [
+   "All right, we're heading to the Grove. They'll be expecting company--go into this half-assed and you're gonna end up more than half dead. You ready?",
+   "I'm set. Lead the way already.",
+   "......",
+   "Okay, let's roll out."
+  ]
+ },
+ {
+  "order": 2,
+  "word": "臆病",
+  "reading": "おくびょう",
+  "meaning": "cowardly; timid; easily frightened",
+  "pos": "na-adjective",
+  "speaker": "佐川",
+  "uid": "003313e6",
+  "sentence": "どうした？　臆病風に吹かれたのか？",
+  "parity": true,
+  "official_candidate": "What, you getting cold feet now? ...Fine, go. Better that than have you rush in and screw this up for me. I'll wait. Go get ready.",
+  "official_neighbors": [
+   "Gimme a second. Not quite ready to storm any castles, and I hear the Nikkyo Consortium don't mess around."
+  ]
+ },
+ {
+  "order": 3,
+  "word": "えぐい",
+  "reading": "えぐい",
+  "meaning": "harsh (taste, feeling, etc.); acrid; pungent; astringent",
+  "pos": "i-adjective",
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "sentence": "聞き出すには、相当エグい拷問でもしたんだろ？",
+  "parity": true,
+  "official_candidate": "Damn, and Nishitani's not an easy nut to crack. You must've really put it to him with some sick torture shit, yeah? What'd you do?",
+  "official_neighbors": [
+   "And you got all of this out of Nishitani in the can?",
+   "Yeah.",
+   "This and that...",
+   "Uh huh... So, we know Makoto-chan's popular with all the Tojo boys. Where is she now?"
+  ]
+ },
+ {
+  "order": 4,
+  "word": "もてもて",
+  "reading": "もてもて",
+  "meaning": "sexy; popular; well-liked",
+  "pos": "na-adjective",
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "sentence": "ふうん……　で、東城会からモテモテの",
+  "parity": true,
+  "official_candidate": "Uh huh... So, we know Makoto-chan's popular with all the Tojo boys. Where is she now?",
+  "official_neighbors": [
+   "Damn, and Nishitani's not an easy nut to crack. You must've really put it to him with some sick torture shit, yeah? What'd you do?",
+   "This and that...",
+   "Some old place in the Camellia Grove. \"Benten Inn.\" That's where the Nikkyo Consortium's holed up, anyway.",
+   "The Camellia Grove, huh? Savvy pick. Gotta hand it to these Nikkyo gents, they've got good taste."
+  ]
+ },
+ {
+  "order": 5,
+  "word": "違和",
+  "reading": "いわ",
+  "meaning": "physical disorder",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "sentence": "泣いて歩いてても違和感ねえからなぁ、椿園は……",
+  "parity": true,
+  "official_candidate": "A girl like Makoto Makimura shuffling around wailing and sobbing's not gonna get a second look in the Grove.",
+  "official_neighbors": [
+   "The Camellia Grove, huh? Savvy pick. Gotta hand it to these Nikkyo gents, they've got good taste.",
+   "Meanin' what, exactly?",
+   "Hm?",
+   "You'll see when we get there. Let's get moving."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "飼い主",
+  "reading": "かいぬし",
+  "meaning": "(pet) owner; keeper",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "sentence": "犬をひとりで散歩に行かせる飼い主がいるか？",
+  "parity": true,
+  "official_candidate": "You see a lot of people send their dog out to walk itself? Fuck no, right? If you leave Sotenbori, it's with me holding the leash. Understand?",
+  "official_neighbors": [
+   "You'll see when we get there. Let's get moving.",
+   "Huh? What, you're comin' too?",
+   "Hmph."
+  ]
+ },
+ {
+  "order": 7,
+  "word": "揺れる",
+  "reading": "ゆれる",
+  "meaning": "to shake; to sway; to rock; to swing",
+  "pos": "verb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "誰が手に入れるかで、東城会が大きく揺れている。",
+  "parity": true,
+  "official_candidate": "Yes. And right now, the future of the Tojo Clan hangs on who acquires that land.",
+  "official_neighbors": [
+   "It's in a city you know well.",
+   "...Kamurocho? They took Makoto to Kamurocho!?",
+   "The billion to buy it is pocket change by comparison. That plot is the key to the Kamurocho Revitalization Project. The money and power at stake are immeasurable.",
+   "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone..."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "齎す",
+  "reading": "もたらす",
+  "meaning": "to bring (news, knowledge, etc.); to introduce",
+  "pos": "verb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "莫大な金と権力をもたらす鍵なんだ……",
+  "parity": true,
+  "official_candidate": "The billion to buy it is pocket change by comparison. That plot is the key to the Kamurocho Revitalization Project. The money and power at stake are immeasurable.",
+  "official_neighbors": [
+   "...Kamurocho? They took Makoto to Kamurocho!?",
+   "Yes. And right now, the future of the Tojo Clan hangs on who acquires that land.",
+   "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+   "Please believe me. I have absolutely no intention of allowing the girl to come to harm."
+  ]
+ },
+ {
+  "order": 10,
+  "word": "行き先",
+  "reading": "いきさき",
+  "meaning": "destination",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "その不動産屋の名前と行先を教えんかい!!",
+  "parity": true,
+  "official_candidate": "In what world are some pencil-pushers gonna be able to keep her safe!? Now gimme that name and an address!",
+  "official_neighbors": [
+   "And now you're tellin' me some house-peddler's got her? Why not send out a formal invite sayin' \"come and get her\"!?",
+   "This particular firm is... unorthodox. As long as Makoto is in their custody, she will be safe.",
+   "What do you intend to do with it?",
+   "Haul ass up to Kamurocho, obviously!"
+  ]
+ },
+ {
+  "order": 11,
+  "word": "最良",
+  "reading": "さいりょう",
+  "meaning": "the best; ideal",
+  "pos": "na-adjective",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "佐川を食い止めることが最良なんじゃないのか？",
+  "parity": true,
+  "official_candidate": "If you're truly acting out of concern for her, isn't staying in Sotenbori to serve in Sagawa's shackles your priority?",
+  "official_neighbors": [
+   "Sagawa...",
+   "He will attempt to kill Makoto Makimura by any means. If you go to Kamurocho, death will be following at your heels.",
+   "You got any guarantees these real estate nerds can actually keep Makoto safe?"
+  ]
+ },
+ {
+  "order": 12,
+  "word": "範疇",
+  "reading": "はんちゅう",
+  "meaning": "category",
+  "pos": "noun",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "狙っている組織がある。その殆どが俺の予想の範疇",
+  "parity": true,
+  "official_candidate": "You are aware that the Nikkyo Consortium is not the only group interested in Makoto Makimura? Most are operating just as I'd expect them to, save one surprising exception.",
+  "official_neighbors": [
+   "I apologize for being so rough, but I needed to know the extent of your resolve.",
+   "\"Resolve\"?",
+   "That would be you, Majima."
+  ]
+ },
+ {
+  "order": 13,
+  "word": "忽然",
+  "reading": "こつぜん",
+  "meaning": "sudden; abrupt; unexpected",
+  "pos": "adj-t",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "３年前、忽然と嶋野組から消えた組員が、",
+  "parity": true,
+  "official_candidate": "Three years ago, a Shimano Family man vanished without a trace. And now he turns up in Sotenbori?",
+  "official_neighbors": [
+   "That would be you, Majima.",
+   "Furthermore, why are you involved with Makoto Makimura?"
+  ]
+ },
+ {
+  "order": 14,
+  "word": "犯す",
+  "reading": "おかす",
+  "meaning": "to commit (e.g. crime); to perpetrate; to make (e.g. mistake)",
+  "pos": "verb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "じゃあ、なぜ危険を冒してまで、ここに辿り着いた？",
+  "parity": true,
+  "official_candidate": "Exactly. You don't know her worth. So, why risk your life getting here?",
+  "official_neighbors": [
+   "Why then betray Sagawa and help the girl? Knowing what she's worth, are you attempting to cash in on it?",
+   "Screw Makoto's worth! I don't--",
+   "Did you fall in love with her? Surely not."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "かっか",
+  "reading": "かっか",
+  "meaning": "your Excellency; his Excellency; her Excellency",
+  "pos": "noun",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "そうカッカするな。",
+  "parity": true,
+  "official_candidate": "No need to get defensive. Whatever the reason, your desire to keep her safe is clear, and I have no intention of denigrating that desire.",
+  "official_neighbors": [
+   "Did you fall in love with her? Surely not.",
+   "The hell do you think you know about me!? Do I need some special reason to help someone out!?",
+   "But we stand now at a crossroads for the future of the Tojo Clan. Too much blood has already been spilled.",
+   "If you plan to charge into this predicament guns blazing, out of some half-baked notion to be her hero, I can't stand idly by and watch. Hence the need to test your resolve."
+  ]
+ },
+ {
+  "order": 16,
+  "word": "一心",
+  "reading": "いっしん",
+  "meaning": "one mind",
+  "pos": "adverb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "何であれ彼女を助けたい一心なのは分かった。",
+  "parity": true,
+  "official_candidate": "No need to get defensive. Whatever the reason, your desire to keep her safe is clear, and I have no intention of denigrating that desire.",
+  "official_neighbors": [
+   "Did you fall in love with her? Surely not.",
+   "The hell do you think you know about me!? Do I need some special reason to help someone out!?",
+   "But we stand now at a crossroads for the future of the Tojo Clan. Too much blood has already been spilled.",
+   "If you plan to charge into this predicament guns blazing, out of some half-baked notion to be her hero, I can't stand idly by and watch. Hence the need to test your resolve."
+  ]
+ },
+ {
+  "order": 17,
+  "word": "踏み躙る",
+  "reading": "ふみにじる",
+  "meaning": "to trample underfoot; to tread on; to crush with a foot",
+  "pos": "verb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "お前の気持ちを踏みにじる気はない。",
+  "parity": true,
+  "official_candidate": "No need to get defensive. Whatever the reason, your desire to keep her safe is clear, and I have no intention of denigrating that desire.",
+  "official_neighbors": [
+   "Did you fall in love with her? Surely not.",
+   "The hell do you think you know about me!? Do I need some special reason to help someone out!?",
+   "But we stand now at a crossroads for the future of the Tojo Clan. Too much blood has already been spilled.",
+   "If you plan to charge into this predicament guns blazing, out of some half-baked notion to be her hero, I can't stand idly by and watch. Hence the need to test your resolve."
+  ]
+ },
+ {
+  "order": 18,
+  "word": "二言",
+  "reading": "にごん",
+  "meaning": "double-dealing; double tongue; going back on what one has said",
+  "pos": "noun",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "ああ。二言は無い……",
+  "parity": true,
+  "official_candidate": "I will. You have my word.",
+  "official_neighbors": [
+   "Majima, if you are willing to protect Makoto Makimura with your life, prove it by defeating me.",
+   "And then you'll tell me where you put her?",
+   "Pisses me off that I gotta play by your rules, but I talk faster with my fists than my mouth anyway. Fine then... You got it!"
+  ]
+ },
+ {
+  "order": 19,
+  "word": "癪",
+  "reading": "しゃく",
+  "meaning": "annoyance; irritation; vexation",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "アンタのやり方に従うんは癪やが、",
+  "parity": true,
+  "official_candidate": "Pisses me off that I gotta play by your rules, but I talk faster with my fists than my mouth anyway. Fine then... You got it!",
+  "official_neighbors": [
+   "And then you'll tell me where you put her?",
+   "I will. You have my word."
+  ]
+ },
+ {
+  "order": 20,
+  "word": "まどろっこしい",
+  "reading": "まどろっこしい",
+  "meaning": "(frustratingly) slow; tedious; sluggish; roundabout (e.g. explanation)",
+  "pos": "i-adjective",
+  "speaker": "佐川",
+  "uid": "013313e9",
+  "sentence": "まどろっこしいのは止そうぜ。",
+  "parity": true,
+  "official_candidate": "Let's get this over quick. We split up and find the girl. I'll take left, you take right, Majima-chan.",
+  "official_neighbors": [
+   "Which way first?",
+   "Sure you'll be all right on your own, Sagawa-han?",
+   "Don't you worry about me. I'll kill on sight, plain and simple."
+  ]
+ },
+ {
+  "order": 21,
+  "word": "収める",
+  "reading": "おさめる",
+  "meaning": "to put (into); to put away (in); to put back (in); to keep (in)",
+  "pos": "verb",
+  "speaker": "日侠連組員",
+  "uid": "013313e9",
+  "sentence": "世良の親父は貴方を殺さずに事を収めたいと",
+  "parity": true,
+  "official_candidate": "President Sera has no desire to claim your life.",
+  "official_neighbors": [
+   "Goro Majima-san, I presume?",
+   "And what if I am?",
+   "Please see yourself out and drop this matter while you're still in the Tojo Clan's good graces.",
+   "How good can those graces be, comin' from a troop of weasels that won't even raise the clan flag?"
+  ]
+ },
+ {
+  "order": 22,
+  "word": "情け",
+  "reading": "なさけ",
+  "meaning": "pity; sympathy; compassion; mercy",
+  "pos": "noun",
+  "speaker": "日侠連組員",
+  "uid": "013313e9",
+  "sentence": "東城会の情けをかけられてるうちに、",
+  "parity": true,
+  "official_candidate": "Please see yourself out and drop this matter while you're still in the Tojo Clan's good graces.",
+  "official_neighbors": [
+   "And what if I am?",
+   "President Sera has no desire to claim your life.",
+   "How good can those graces be, comin' from a troop of weasels that won't even raise the clan flag?",
+   "Please be rational. If you insist on pressing further, I'm afraid we can't allow you to live."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "彷徨く",
+  "reading": "うろつく",
+  "meaning": "to loiter; to hang around; to wander around; to prowl",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "代紋隠してコソコソうろつくような男に、",
+  "parity": true,
+  "official_candidate": "How good can those graces be, comin' from a troop of weasels that won't even raise the clan flag?",
+  "official_neighbors": [
+   "President Sera has no desire to claim your life.",
+   "Please see yourself out and drop this matter while you're still in the Tojo Clan's good graces.",
+   "Please be rational. If you insist on pressing further, I'm afraid we can't allow you to live.",
+   "Huh. Sounds to me like you got somethin' real tasty you're hidin', huh? Now ya got me real damn curious."
+  ]
+ },
+ {
+  "order": 24,
+  "word": "くどくど",
+  "reading": "くどくど",
+  "meaning": "tediously (explain, complain, etc.); repeatedly; persistently; insistently",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "当たり前やろが!!　くどくど言っとらんで、",
+  "parity": true,
+  "official_candidate": "Goddamn right, I refuse! Now quit flappin' your lips and decide if ya wanna fork over Makoto or get yer asses beat!",
+  "official_neighbors": [
+   "Huh. Sounds to me like you got somethin' real tasty you're hidin', huh? Now ya got me real damn curious.",
+   "Are we to understand that you refuse to back down?",
+   "I decline both your generous offers.",
+   "Don't bother going easy on him. He needs to learn that the Nikkyo aren't to be crossed!"
+  ]
+ },
+ {
+  "order": 25,
+  "word": "付け所",
+  "reading": "つけどころ",
+  "meaning": "focus of one's attention; what one is looking for",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "sentence": "目の付け所がオツじゃないの……",
+  "parity": true,
+  "official_candidate": "The Camellia Grove, huh? Savvy pick. Gotta hand it to these Nikkyo gents, they've got good taste.",
+  "official_neighbors": [
+   "Uh huh... So, we know Makoto-chan's popular with all the Tojo boys. Where is she now?",
+   "Some old place in the Camellia Grove. \"Benten Inn.\" That's where the Nikkyo Consortium's holed up, anyway.",
+   "Meanin' what, exactly?",
+   "A girl like Makoto Makimura shuffling around wailing and sobbing's not gonna get a second look in the Grove."
+  ]
+ },
+ {
+  "order": 26,
+  "word": "乙",
+  "reading": "おつ",
+  "meaning": "(the) second (party, rank, etc.); B (grade); the latter",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "sentence": "目の付け所がオツじゃないの……",
+  "parity": true,
+  "official_candidate": "The Camellia Grove, huh? Savvy pick. Gotta hand it to these Nikkyo gents, they've got good taste.",
+  "official_neighbors": [
+   "Uh huh... So, we know Makoto-chan's popular with all the Tojo boys. Where is she now?",
+   "Some old place in the Camellia Grove. \"Benten Inn.\" That's where the Nikkyo Consortium's holed up, anyway.",
+   "Meanin' what, exactly?",
+   "A girl like Makoto Makimura shuffling around wailing and sobbing's not gonna get a second look in the Grove."
+  ]
+ },
+ {
+  "order": 27,
+  "word": "非力",
+  "reading": "ひりき",
+  "meaning": "powerless; weak; lacking physical strength",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "それで極道が非力な女から、力尽くで土地取り上げ",
+  "parity": true,
+  "official_candidate": "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+  "official_neighbors": [
+   "Yes. And right now, the future of the Tojo Clan hangs on who acquires that land.",
+   "The billion to buy it is pocket change by comparison. That plot is the key to the Kamurocho Revitalization Project. The money and power at stake are immeasurable.",
+   "Please believe me. I have absolutely no intention of allowing the girl to come to harm.",
+   "Hey, good for you. While you're playin' nice, the other guys are all comin' in hot. Already came a ball's hair away from gettin' lit up in a damn car bomb!"
+  ]
+ },
+ {
+  "order": 28,
+  "word": "取り上げ",
+  "reading": "とりあげ",
+  "meaning": "adoption; acceptance; confiscation",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "それで極道が非力な女から、力尽くで土地取り上げ",
+  "parity": true,
+  "official_candidate": "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+  "official_neighbors": [
+   "Yes. And right now, the future of the Tojo Clan hangs on who acquires that land.",
+   "The billion to buy it is pocket change by comparison. That plot is the key to the Kamurocho Revitalization Project. The money and power at stake are immeasurable.",
+   "Please believe me. I have absolutely no intention of allowing the girl to come to harm.",
+   "Hey, good for you. While you're playin' nice, the other guys are all comin' in hot. Already came a ball's hair away from gettin' lit up in a damn car bomb!"
+  ]
+ },
+ {
+  "order": 29,
+  "word": "危害",
+  "reading": "きがい",
+  "meaning": "injury; harm; danger",
+  "pos": "noun",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "俺は決して彼女に危害を加えていない。",
+  "parity": true,
+  "official_candidate": "Please believe me. I have absolutely no intention of allowing the girl to come to harm.",
+  "official_neighbors": [
+   "The billion to buy it is pocket change by comparison. That plot is the key to the Kamurocho Revitalization Project. The money and power at stake are immeasurable.",
+   "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+   "Hey, good for you. While you're playin' nice, the other guys are all comin' in hot. Already came a ball's hair away from gettin' lit up in a damn car bomb!",
+   "And now you're tellin' me some house-peddler's got her? Why not send out a formal invite sayin' \"come and get her\"!?"
+  ]
+ },
+ {
+  "order": 30,
+  "word": "加える",
+  "reading": "くわえる",
+  "meaning": "to add; to add up; to sum up; to append",
+  "pos": "verb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "俺は決して彼女に危害を加えていない。",
+  "parity": true,
+  "official_candidate": "Please believe me. I have absolutely no intention of allowing the girl to come to harm.",
+  "official_neighbors": [
+   "The billion to buy it is pocket change by comparison. That plot is the key to the Kamurocho Revitalization Project. The money and power at stake are immeasurable.",
+   "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+   "Hey, good for you. While you're playin' nice, the other guys are all comin' in hot. Already came a ball's hair away from gettin' lit up in a damn car bomb!",
+   "And now you're tellin' me some house-peddler's got her? Why not send out a formal invite sayin' \"come and get her\"!?"
+  ]
+ },
+ {
+  "order": 31,
+  "word": "現に",
+  "reading": "げんに",
+  "meaning": "actually; really",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "現に車ごと爆破される寸前やったんやで！",
+  "parity": true,
+  "official_candidate": "Hey, good for you. While you're playin' nice, the other guys are all comin' in hot. Already came a ball's hair away from gettin' lit up in a damn car bomb!",
+  "official_neighbors": [
+   "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+   "Please believe me. I have absolutely no intention of allowing the girl to come to harm.",
+   "And now you're tellin' me some house-peddler's got her? Why not send out a formal invite sayin' \"come and get her\"!?",
+   "This particular firm is... unorthodox. As long as Makoto is in their custody, she will be safe."
+  ]
+ },
+ {
+  "order": 32,
+  "word": "爆破",
+  "reading": "ばくは",
+  "meaning": "destructive blast; blowing up; explosion",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313e9",
+  "sentence": "現に車ごと爆破される寸前やったんやで！",
+  "parity": true,
+  "official_candidate": "Hey, good for you. While you're playin' nice, the other guys are all comin' in hot. Already came a ball's hair away from gettin' lit up in a damn car bomb!",
+  "official_neighbors": [
+   "So it takes an army of yakuza to pry the deed outta the the hands of a blind girl by force? The Tojo Clan has really gone to shit since I've been gone...",
+   "Please believe me. I have absolutely no intention of allowing the girl to come to harm.",
+   "And now you're tellin' me some house-peddler's got her? Why not send out a formal invite sayin' \"come and get her\"!?",
+   "This particular firm is... unorthodox. As long as Makoto is in their custody, she will be safe."
+  ]
+ },
+ {
+  "order": 33,
+  "word": "流石",
+  "reading": "さすが",
+  "meaning": "as one would expect; just as you'd expect (from); just like (someone)",
+  "pos": "na-adjective",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "さすがは嶋野組で鳴らした男だ。",
+  "parity": true,
+  "official_candidate": "Impressive work, getting this far against Consortium men. I can see why you were one of Shimano's favorites.",
+  "official_neighbors": [
+   "Sera!",
+   "Makoto... Where's Makoto Makimura!?",
+   "I've placed her in the care of a colleague. She just departed."
+  ]
+ },
+ {
+  "order": 34,
+  "word": "鳴らす",
+  "reading": "ならす",
+  "meaning": "to ring; to sound; to chime; to beat",
+  "pos": "verb",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "さすがは嶋野組で鳴らした男だ。",
+  "parity": true,
+  "official_candidate": "Impressive work, getting this far against Consortium men. I can see why you were one of Shimano's favorites.",
+  "official_neighbors": [
+   "Sera!",
+   "Makoto... Where's Makoto Makimura!?",
+   "I've placed her in the care of a colleague. She just departed."
+  ]
+ },
+ {
+  "order": 35,
+  "word": "ヒーロー",
+  "reading": "ヒーロー",
+  "meaning": "hero",
+  "pos": "noun",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "もしも、生半可なヒーロー気取りで",
+  "parity": true,
+  "official_candidate": "If you plan to charge into this predicament guns blazing, out of some half-baked notion to be her hero, I can't stand idly by and watch. Hence the need to test your resolve.",
+  "official_neighbors": [
+   "No need to get defensive. Whatever the reason, your desire to keep her safe is clear, and I have no intention of denigrating that desire.",
+   "But we stand now at a crossroads for the future of the Tojo Clan. Too much blood has already been spilled.",
+   "Yeah, real civilized way of doin' it... So? How'd I score on your sweet little test?",
+   "I've always been the cautious type, you see. Never could trust a result until I'd verified it with my own two hands."
+  ]
+ },
+ {
+  "order": 36,
+  "word": "気取り",
+  "reading": "きどり",
+  "meaning": "affectation; pretension; posturing",
+  "pos": "noun",
+  "speaker": "世良",
+  "uid": "013313e9",
+  "sentence": "もしも、生半可なヒーロー気取りで",
+  "parity": true,
+  "official_candidate": "If you plan to charge into this predicament guns blazing, out of some half-baked notion to be her hero, I can't stand idly by and watch. Hence the need to test your resolve.",
+  "official_neighbors": [
+   "No need to get defensive. Whatever the reason, your desire to keep her safe is clear, and I have no intention of denigrating that desire.",
+   "But we stand now at a crossroads for the future of the Tojo Clan. Too much blood has already been spilled.",
+   "Yeah, real civilized way of doin' it... So? How'd I score on your sweet little test?",
+   "I've always been the cautious type, you see. Never could trust a result until I'd verified it with my own two hands."
+  ]
+ },
+ {
+  "order": 37,
+  "word": "二手",
+  "reading": "ふたて",
+  "meaning": "two groups; two bands",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313e9",
+  "sentence": "二手に分かれて女探すぞ。",
+  "parity": true,
+  "official_candidate": "Let's get this over quick. We split up and find the girl. I'll take left, you take right, Majima-chan.",
+  "official_neighbors": [
+   "Which way first?",
+   "Sure you'll be all right on your own, Sagawa-han?",
+   "Don't you worry about me. I'll kill on sight, plain and simple."
+  ]
+ },
+ {
+  "order": 38,
+  "word": "分かれる",
+  "reading": "わかれる",
+  "meaning": "to branch; to fork; to diverge",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013313e9",
+  "sentence": "二手に分かれて女探すぞ。",
+  "parity": true,
+  "official_candidate": "Let's get this over quick. We split up and find the girl. I'll take left, you take right, Majima-chan.",
+  "official_neighbors": [
+   "Which way first?",
+   "Sure you'll be all right on your own, Sagawa-han?",
+   "Don't you worry about me. I'll kill on sight, plain and simple."
+  ]
+ }
+]
