@@ -365,23 +365,6 @@
   ]
  },
  {
-  "order": 22,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>もったい</b>ないし。",
-  "word": "勿体",
-  "reading": "もったい",
-  "meaning": "superior airs; air of importance",
-  "pos": "noun",
-  "chapter": 6,
-  "speaker": "ストリッパーの女",
-  "uid": "01331252",
-  "candidates": [
-   "(noun) superior airs; air of importance",
-   "(noun) overemphasis"
-  ]
- },
- {
   "order": 23,
   "kind": "i+1",
   "standalone": false,
