@@ -15,3 +15,6 @@ source/
 
 # Transient
 data/translate/**/*.pre_regate
+
+# Batch inputs for agent jobs (regenerated deterministically by the prep scripts)
+data/work/

@@ -182,7 +182,7 @@ def steps(ch):
     S = []
     if not vocab_done:
         S += [
-            ("divergence-prep", "py", (["prep_divergence_batches.py", str(ch), "3"], [f"data/work/ch{ch}/"], False)),
+            ("divergence-prep", "py", (["prep_divergence_batches.py", str(ch), "3"], [], False)),
             ("divergence", "agent", lambda: [("divergence", p, os.path.join(DATA, f"divergence_ch{ch}_part{re.search(r'_(\d+)\.json$', p).group(1)}.json"))
                                              for p in sorted(glob.glob(work(ch, f"divergence_batch_{ch}_*.json")))]),
             ("divergence-combine", "py", (["combine_divergence.py", str(ch)], [f"data/sense_divergent_ch{ch}*.json"], False)),
@@ -190,7 +190,7 @@ def steps(ch):
              f"Review data/sense_divergent_ch{ch}.json (+ _flags.json): remove any word that is a tokenizer "
              f"misparse (Kansai へん/ひん/やろう/ねん, compound fragments, set phrases) — see scripts/review_rules.md."),
             ("build", "py", (["build_deck.py", str(ch)], [f"data/cards_ch{ch}_{ch}.json", f"data/decks/yakuza0_ch{ch}.apkg"], False)),
-            ("polish-prep", "py", (["prep_polish_batches.py", str(ch), str(ch), "5"], [f"data/work/ch{ch}/"], False)),
+            ("polish-prep", "py", (["prep_polish_batches.py", str(ch), str(ch), "5"], [], False)),
             ("polish", "agent", lambda: [("polish", p, os.path.join(DATA, f"gloss_polish_ch{ch}_part{re.search(r'_(\d+)\.json$', p).group(1)}.json"))
                                          for p in sorted(glob.glob(work(ch, f"polish_batch_{ch}_*.json")))]),
             ("polish-combine", "py", (["combine_polish.py", str(ch)], [f"data/gloss_polish_ch{ch}*.json"], False)),
