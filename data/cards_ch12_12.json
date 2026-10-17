@@ -1,0 +1,665 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "半端な覚悟じゃ<b>返り討ち</b>に遭うかも知れねぇ……",
+  "word": "返り討ち",
+  "reading": "かえりうち",
+  "meaning": "killing a would-be avenger",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "003313e6",
+  "candidates": [
+   "(noun) killing a would-be avenger",
+   "(noun) having the tables turned on someone (e.g. by a challenger); being beaten at one's own game"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今度こそ、俺を<b>失望</b>させないでくれよ？",
+  "word": "失望",
+  "reading": "しつぼう",
+  "meaning": "disappointment; despair",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "003313e6",
+  "candidates": [
+   "(verb) disappointment; despair"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どうした？　<b>臆病</b>風に吹かれたのか？",
+  "word": "臆病",
+  "reading": "おくびょう",
+  "meaning": "cowardly; timid; easily frightened",
+  "pos": "na-adjective",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "003313e6",
+  "candidates": [
+   "(na-adjective) cowardly; timid; easily frightened"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "聞き出すには、相当<b>エグい</b>拷問でもしたんだろ？",
+  "word": "えぐい",
+  "reading": "えぐい",
+  "meaning": "harsh (taste, feeling, etc.); acrid; pungent; astringent",
+  "pos": "i-adjective",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "candidates": [
+   "(i-adjective) harsh (taste, feeling, etc.); acrid; pungent; astringent",
+   "(i-adjective) sharp (language, question, etc.); biting; harsh",
+   "(i-adjective) nasty; gross; disgusting; brutal",
+   "(i-adjective) awesome; amazing; incredible; cool"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ふうん……　で、東城会から<b>モテモテ</b>の",
+  "word": "もてもて",
+  "reading": "もてもて",
+  "meaning": "sexy; popular; well-liked",
+  "pos": "na-adjective",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "candidates": [
+   "(na-adjective) sexy; popular; well-liked"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "泣いて歩いてても<b>違和</b>感ねえからなぁ、椿園は……",
+  "word": "違和",
+  "reading": "いわ",
+  "meaning": "physical disorder",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "candidates": [
+   "(noun) physical disorder",
+   "(noun) incongruity; incompatibility; inconsistency"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "犬をひとりで散歩に行かせる<b>飼い主</b>がいるか？",
+  "word": "飼い主",
+  "reading": "かいぬし",
+  "meaning": "(pet) owner; keeper",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "candidates": [
+   "(noun) (pet) owner; keeper"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "誰が手に入れるかで、東城会が大きく<b>揺れ</b>ている。",
+  "word": "揺れる",
+  "reading": "ゆれる",
+  "meaning": "to shake; to sway; to rock; to swing",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to shake; to sway; to rock; to swing",
+   "(verb) to become unstable; to become unsettled; to be shaken; to waver"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "莫大な金と権力を<b>もたらす</b>鍵なんだ……",
+  "word": "齎す",
+  "reading": "もたらす",
+  "meaning": "to bring (news, knowledge, etc.); to introduce",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to bring (news, knowledge, etc.); to introduce",
+   "(verb) to bring about; to cause; to produce (e.g. results)"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せやのに不動産屋に渡した<b>やと</b>？",
+  "word": "野兎",
+  "reading": "のうさぎ",
+  "meaning": "hare (esp. the Japanese hare, Lepus brachyurus)",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) hare (esp. the Japanese hare, Lepus brachyurus)",
+   "(noun) wild rabbit"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "その不動産屋の名前と<b>行先</b>を教えんかい!!",
+  "word": "行き先",
+  "reading": "いきさき",
+  "meaning": "destination",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) destination",
+   "(noun) whereabouts",
+   "(noun) future; prospects"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "佐川を食い止めることが<b>最良</b>なんじゃないのか？",
+  "word": "最良",
+  "reading": "さいりょう",
+  "meaning": "the best; ideal",
+  "pos": "na-adjective",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(na-adjective) the best; ideal"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "狙っている組織がある。その殆どが俺の予想の<b>範疇</b>",
+  "word": "範疇",
+  "reading": "はんちゅう",
+  "meaning": "category",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) category",
+   "(noun) category"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "３年前、<b>忽然</b>と嶋野組から消えた組員が、",
+  "word": "忽然",
+  "reading": "こつぜん",
+  "meaning": "sudden; abrupt; unexpected",
+  "pos": "adj-t",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(adj-t) sudden; abrupt; unexpected"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "じゃあ、なぜ危険を<b>冒し</b>てまで、ここに辿り着いた？",
+  "word": "犯す",
+  "reading": "おかす",
+  "meaning": "to commit (e.g. crime); to perpetrate; to make (e.g. mistake)",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to commit (e.g. crime); to perpetrate; to make (e.g. mistake)",
+   "(verb) to break (e.g. rule); to violate; to transgress; to contravene",
+   "(verb) to rape; to violate; to ravish; to deflower"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そう<b>カッカ</b>するな。",
+  "word": "かっか",
+  "reading": "かっか",
+  "meaning": "your Excellency; his Excellency; her Excellency",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) your Excellency; his Excellency; her Excellency"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "何であれ彼女を助けたい<b>一心</b>なのは分かった。",
+  "word": "一心",
+  "reading": "いっしん",
+  "meaning": "one mind",
+  "pos": "adverb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(adverb) one mind",
+   "(adverb) wholeheartedness; one's whole heart"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お前の気持ちを<b>踏みにじる</b>気はない。",
+  "word": "踏み躙る",
+  "reading": "ふみにじる",
+  "meaning": "to trample underfoot; to tread on; to crush with a foot",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to trample underfoot; to tread on; to crush with a foot"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ああ。<b>二言</b>は無い……",
+  "word": "二言",
+  "reading": "にごん",
+  "meaning": "double-dealing; double tongue; going back on what one has said",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) double-dealing; double tongue; going back on what one has said",
+   "(noun) repeating oneself"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタのやり方に従うんは<b>癪</b>やが、",
+  "word": "癪",
+  "reading": "しゃく",
+  "meaning": "annoyance; irritation; vexation",
+  "pos": "na-adjective",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(na-adjective) annoyance; irritation; vexation",
+   "(noun) abdominal spasms; convulsions; cramps"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>まどろっこしい</b>のは止そうぜ。",
+  "word": "まどろっこしい",
+  "reading": "まどろっこしい",
+  "meaning": "(frustratingly) slow; tedious; sluggish; roundabout (e.g. explanation)",
+  "pos": "i-adjective",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e9",
+  "candidates": [
+   "(i-adjective) (frustratingly) slow; tedious; sluggish; roundabout (e.g. explanation)"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "世良の親父は貴方を殺さずに事を<b>収め</b>たいと",
+  "word": "収める",
+  "reading": "おさめる",
+  "meaning": "to put (into); to put away (in); to put back (in); to keep (in)",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "日侠連組員",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to put (into); to put away (in); to put back (in); to keep (in)",
+   "(verb) to include (in an anthology, catalogue, etc.); to contain; to publish (in); to capture (on film)",
+   "(verb) to achieve (results, success, etc.); to obtain; to get; to gain",
+   "(verb) to pay (fees, taxes, etc.); to deliver; to supply",
+   "(verb) to accept (a gift or money)",
+   "(verb) to keep (within a limit)"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "東城会の<b>情け</b>をかけられてるうちに、",
+  "word": "情け",
+  "reading": "なさけ",
+  "meaning": "pity; sympathy; compassion; mercy",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "日侠連組員",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) pity; sympathy; compassion; mercy",
+   "(noun) affection; love"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "代紋隠してコソコソ<b>うろつく</b>ような男に、",
+  "word": "彷徨く",
+  "reading": "うろつく",
+  "meaning": "to loiter; to hang around; to wander around; to prowl",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to loiter; to hang around; to wander around; to prowl"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "当たり前やろが!!　<b>くどくど</b>言っとらんで、",
+  "word": "くどくど",
+  "reading": "くどくど",
+  "meaning": "tediously (explain, complain, etc.); repeatedly; persistently; insistently",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) tediously (explain, complain, etc.); repeatedly; persistently; insistently"
+  ]
+ },
+ {
+  "order": 25,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "目の<b>付け所</b>がオツじゃないの……",
+  "word": "付け所",
+  "reading": "つけどころ",
+  "meaning": "focus of one's attention; what one is looking for",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "candidates": [
+   "(noun) focus of one's attention; what one is looking for"
+  ]
+ },
+ {
+  "order": 26,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "目の付け所が<b>オツ</b>じゃないの……",
+  "word": "乙",
+  "reading": "おつ",
+  "meaning": "(the) second (party, rank, etc.); B (grade); the latter",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e5",
+  "candidates": [
+   "(noun) (the) second (party, rank, etc.); B (grade); the latter",
+   "(na-adjective) stylish; chic; smart; witty",
+   "(na-adjective) strange; quaint; queer",
+   "(exp) thank you; good job",
+   "(exp) see you; goodbye; goodnight"
+  ]
+ },
+ {
+  "order": 27,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "それで極道が<b>非力</b>な女から、力尽くで土地取り上げ",
+  "word": "非力",
+  "reading": "ひりき",
+  "meaning": "powerless; weak; lacking physical strength",
+  "pos": "na-adjective",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(na-adjective) powerless; weak; lacking physical strength",
+   "(na-adjective) incompetent; lacking ability; powerless"
+  ]
+ },
+ {
+  "order": 28,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "それで極道が非力な女から、力尽くで土地<b>取り上げ</b>",
+  "word": "取り上げ",
+  "reading": "とりあげ",
+  "meaning": "adoption; acceptance; confiscation",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) adoption; acceptance; confiscation",
+   "(noun) midwifery; midwife"
+  ]
+ },
+ {
+  "order": 29,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "俺は決して彼女に<b>危害</b>を加えていない。",
+  "word": "危害",
+  "reading": "きがい",
+  "meaning": "injury; harm; danger",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) injury; harm; danger"
+  ]
+ },
+ {
+  "order": 30,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "俺は決して彼女に危害を<b>加え</b>ていない。",
+  "word": "加える",
+  "reading": "くわえる",
+  "meaning": "to add; to add up; to sum up; to append",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to add; to add up; to sum up; to append",
+   "(verb) to increase; to gather (e.g. speed); to pick up",
+   "(verb) to include; to count in; to let join",
+   "(verb) to inflict (damage); to deal; to give"
+  ]
+ },
+ {
+  "order": 31,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>現に</b>車ごと爆破される寸前やったんやで！",
+  "word": "現に",
+  "reading": "げんに",
+  "meaning": "actually; really",
+  "pos": "adverb",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(adverb) actually; really"
+  ]
+ },
+ {
+  "order": 32,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "現に車ごと<b>爆破</b>される寸前やったんやで！",
+  "word": "爆破",
+  "reading": "ばくは",
+  "meaning": "destructive blast; blowing up; explosion",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "真島",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) destructive blast; blowing up; explosion"
+  ]
+ },
+ {
+  "order": 33,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>さすが</b>は嶋野組で鳴らした男だ。",
+  "word": "流石",
+  "reading": "さすが",
+  "meaning": "as one would expect; just as you'd expect (from); just like (someone)",
+  "pos": "na-adjective",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(na-adjective) as one would expect; just as you'd expect (from); just like (someone)",
+   "(adverb) still; all the same; after all",
+   "(adverb) even ... (e.g. \"even a genius\")"
+  ]
+ },
+ {
+  "order": 34,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "さすがは嶋野組で<b>鳴らし</b>た男だ。",
+  "word": "鳴らす",
+  "reading": "ならす",
+  "meaning": "to ring; to sound; to chime; to beat",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to ring; to sound; to chime; to beat",
+   "(verb) to be popular; to be esteemed; to be reputed",
+   "(verb) to state; to insist; to complain",
+   "(verb) to fart (loudly)"
+  ]
+ },
+ {
+  "order": 35,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "もしも、生半可な<b>ヒーロー</b>気取りで",
+  "word": "ヒーロー",
+  "reading": "ヒーロー",
+  "meaning": "hero",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) hero"
+  ]
+ },
+ {
+  "order": 36,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "もしも、生半可なヒーロー<b>気取り</b>で",
+  "word": "気取り",
+  "reading": "きどり",
+  "meaning": "affectation; pretension; posturing",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "世良",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) affectation; pretension; posturing",
+   "(noun) posing as; behaving as; acting like; pretending to be"
+  ]
+ },
+ {
+  "order": 37,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>二手</b>に分かれて女探すぞ。",
+  "word": "二手",
+  "reading": "ふたて",
+  "meaning": "two groups; two bands",
+  "pos": "noun",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e9",
+  "candidates": [
+   "(noun) two groups; two bands"
+  ]
+ },
+ {
+  "order": 38,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "二手に<b>分かれ</b>て女探すぞ。",
+  "word": "分かれる",
+  "reading": "わかれる",
+  "meaning": "to branch; to fork; to diverge",
+  "pos": "verb",
+  "chapter": 12,
+  "speaker": "佐川",
+  "uid": "013313e9",
+  "candidates": [
+   "(verb) to branch; to fork; to diverge",
+   "(verb) to separate; to split; to divide",
+   "(verb) to disperse; to scatter"
+  ]
+ }
+]
