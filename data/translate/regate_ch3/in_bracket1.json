@@ -1,0 +1,209 @@
+[
+ {
+  "order": 5,
+  "speaker": "真島",
+  "sentence": "女っちゅうのはホンマ面倒くさいのう。",
+  "literal": "Women really are a damn pain, huh.",
+  "official_candidate": "I tried to speak with her about it, but she's... tenacious.",
+  "official_neighbors": [
+   "The hostess we got in last month, Kanae-chan. She seems to be butting heads with some of the other girls. Especially Sakurako-chan.",
+   "This shit again? Herdin' these women is gonna put me in the nut house.",
+   "I tried to speak with her about it, but she's... tenacious.",
+   "Alright, fine. I'll go drop some wisdom.",
+   "Sorry to trouble you with it, sir. That's all from me.",
+   "(May as well go see her now and get this over with. She's probably in the dressin' room.)"
+  ],
+  "prev_official": "She seems to be butting heads with some of the other girls. Especially Sakurako-chan.",
+  "next_official": "May as well go see her now and get this over with."
+ },
+ {
+  "order": 6,
+  "speaker": "店長",
+  "sentence": "すみません、お手数ですがお願いします。",
+  "literal": "Sorry to trouble you, sir, but I'll leave it to you.",
+  "official_candidate": "I tried to speak with her about it, but she's... tenacious.",
+  "official_neighbors": [
+   "The hostess we got in last month, Kanae-chan. She seems to be butting heads with some of the other girls. Especially Sakurako-chan.",
+   "This shit again? Herdin' these women is gonna put me in the nut house.",
+   "I tried to speak with her about it, but she's... tenacious.",
+   "Alright, fine. I'll go drop some wisdom.",
+   "Sorry to trouble you with it, sir. That's all from me.",
+   "(May as well go see her now and get this over with. She's probably in the dressin' room.)"
+  ],
+  "prev_official": "She seems to be butting heads with some of the other girls. Especially Sakurako-chan.",
+  "next_official": "May as well go see her now and get this over with."
+ },
+ {
+  "order": 62,
+  "speaker": "真島",
+  "sentence": "やっぱりそう簡単に一見の客にノゾミは来んか……",
+  "literal": "Figures Nozomi won't come to a first-time customer that easily...",
+  "official_candidate": "Whoa, they sent me a ten and a half!",
+  "official_neighbors": [
+   "(Guys their own age probably don't get anything from it, but I bet it makes the old boys club feel right at home.)",
+   "(The fact that all the girls got the same look means it's probably club policy, not their personal taste.)",
+   "(What the shit is THAT!? Dude is like a lust machine! Is Odyssey popular with that crowd? Is there even a crowd for... whatever that is?)",
+   "Hi there!",
+   "(Figures they wouldn't waste Nozomi on a first-timer. Still, I can probably pump good intel outta this gal.)",
+   "Whoa, they sent me a ten and a half!",
+   "Aww, thanks! Now, what can we get you to drink?",
+   "Hm, why don't we kick things off with champagne?",
+   "You got it! Drink order, please!",
+   "(Okay, what's my plan of attack here? What do I ask to get info on Nozomi?)",
+   "So, got any hobbies, Takako-chan?",
+   "Me? I'm super into skiing lately. I'm on the slopes just about every weekend!"
+  ],
+  "prev_official": "but I bet it makes the old boys club feel right at home.",
+  "next_official": "Me? I'm super into skiing lately."
+ },
+ {
+  "order": 63,
+  "speaker": "真島",
+  "sentence": "おぉ～、こらえらいべっぴんさんが来たなぁ！",
+  "literal": "Whoa, what a real beauty they've sent over!",
+  "official_candidate": "Whoa, they sent me a ten and a half!",
+  "official_neighbors": [
+   "(Guys their own age probably don't get anything from it, but I bet it makes the old boys club feel right at home.)",
+   "(The fact that all the girls got the same look means it's probably club policy, not their personal taste.)",
+   "(What the shit is THAT!? Dude is like a lust machine! Is Odyssey popular with that crowd? Is there even a crowd for... whatever that is?)",
+   "Hi there!",
+   "(Figures they wouldn't waste Nozomi on a first-timer. Still, I can probably pump good intel outta this gal.)",
+   "Whoa, they sent me a ten and a half!",
+   "Aww, thanks! Now, what can we get you to drink?",
+   "Hm, why don't we kick things off with champagne?",
+   "You got it! Drink order, please!",
+   "(Okay, what's my plan of attack here? What do I ask to get info on Nozomi?)",
+   "So, got any hobbies, Takako-chan?",
+   "Me? I'm super into skiing lately. I'm on the slopes just about every weekend!"
+  ],
+  "prev_official": "but I bet it makes the old boys club feel right at home.",
+  "next_official": "Me? I'm super into skiing lately."
+ },
+ {
+  "order": 163,
+  "speaker": "真島",
+  "sentence": "あの暴れてたドアホ、一応見張っとけや。",
+  "literal": "Keep an eye on that idiot who was acting up, just in case.",
+  "official_candidate": "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty."
+  ],
+  "prev_official": "Nothing kills morale like gettin' felt up for nothing.",
+  "next_official": "Of course. I'd already taken the liberty."
+ },
+ {
+  "order": 164,
+  "speaker": "真島",
+  "sentence": "あの暴れてたドアホ、一応見張っとけや。",
+  "literal": "Keep an eye on that idiot who was acting up, just in case.",
+  "official_candidate": "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty."
+  ],
+  "prev_official": "Nothing kills morale like gettin' felt up for nothing.",
+  "next_official": "Of course. I'd already taken the liberty."
+ },
+ {
+  "order": 165,
+  "speaker": "真島",
+  "sentence": "あの暴れてたドアホ、一応見張っとけや。",
+  "literal": "Keep an eye on that idiot who was acting up, just in case.",
+  "official_candidate": "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty."
+  ],
+  "prev_official": "Nothing kills morale like gettin' felt up for nothing.",
+  "next_official": "Of course. I'd already taken the liberty."
+ },
+ {
+  "order": 166,
+  "speaker": "真島",
+  "sentence": "トンズラこかんとも限らんからな。",
+  "literal": "You never know, he might try to skip out.",
+  "official_candidate": "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty."
+  ],
+  "prev_official": "Nothing kills morale like gettin' felt up for nothing.",
+  "next_official": "Of course. I'd already taken the liberty."
+ },
+ {
+  "order": 167,
+  "speaker": "真島",
+  "sentence": "トンズラこかんとも限らんからな。",
+  "literal": "You never know, he might try to skip out.",
+  "official_candidate": "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty."
+  ],
+  "prev_official": "Nothing kills morale like gettin' felt up for nothing.",
+  "next_official": "Of course. I'd already taken the liberty."
+ },
+ {
+  "order": 200,
+  "speaker": "真島",
+  "sentence": "アカン、俺は何を普通に話し込んでるんや……！",
+  "literal": "Damn it, what am I doing just sitting here chatting away like normal...!",
+  "official_candidate": "Me? I'm super into skiing lately. I'm on the slopes just about every weekend!",
+  "official_neighbors": [
+   "(What the shit is THAT!? Dude is like a lust machine! Is Odyssey popular with that crowd? Is there even a crowd for... whatever that is?)",
+   "Hi there!",
+   "(Figures they wouldn't waste Nozomi on a first-timer. Still, I can probably pump good intel outta this gal.)",
+   "Whoa, they sent me a ten and a half!",
+   "Aww, thanks! Now, what can we get you to drink?",
+   "Hm, why don't we kick things off with champagne?",
+   "You got it! Drink order, please!",
+   "(Okay, what's my plan of attack here? What do I ask to get info on Nozomi?)",
+   "So, got any hobbies, Takako-chan?",
+   "Me? I'm super into skiing lately. I'm on the slopes just about every weekend!",
+   "I got my eye on this new snow suit that's MEGA cute! Now I just need someone to come along and buy it for me, ha ha...",
+   "Plannin' to get one of your customers to buy it for ya?",
+   "Aw, none of my regulars are that sweet... Which means this is the perfect chance for somebody new to make their move!",
+   "Sure sounds like it. If you're a good girl, maybe Santa will bring it for ya. You got a stocking big enough to hold it?",
+   "Heyyy, don't be mean! And whatever, I'll just buy it for myself, so nyah!",
+   "(Ugh, why am I chattin' this girl up like a tool? Damn near forgot why I came in.)",
+   "Awful busy in here tonight. Is business always this brisk?",
+   "Well, the holiday season certainly helps, but they also told us girls we've all gotta bring a guy in with us every night, so maybe that's helping too?",
+   "Oh, yeah? Huh... Gotta say, this place don't look like it's so hard-up that they've gotta force the hostesses to bring dates in.",
+   "Oh, that's just their pride talkin'."
+  ],
+  "prev_official": "Dude is like a lust machine!",
+  "next_official": "Oh, that's just their pride talkin'."
+ },
+ {
+  "order": 201,
+  "speaker": "真島",
+  "sentence": "アカン、俺は何を普通に話し込んでるんや……！",
+  "literal": "Damn it, what am I doing just sitting here chatting away like normal...!",
+  "official_candidate": "Me? I'm super into skiing lately. I'm on the slopes just about every weekend!",
+  "official_neighbors": [
+   "(What the shit is THAT!? Dude is like a lust machine! Is Odyssey popular with that crowd? Is there even a crowd for... whatever that is?)",
+   "Hi there!",
+   "(Figures they wouldn't waste Nozomi on a first-timer. Still, I can probably pump good intel outta this gal.)",
+   "Whoa, they sent me a ten and a half!",
+   "Aww, thanks! Now, what can we get you to drink?",
+   "Hm, why don't we kick things off with champagne?",
+   "You got it! Drink order, please!",
+   "(Okay, what's my plan of attack here? What do I ask to get info on Nozomi?)",
+   "So, got any hobbies, Takako-chan?",
+   "Me? I'm super into skiing lately. I'm on the slopes just about every weekend!",
+   "I got my eye on this new snow suit that's MEGA cute! Now I just need someone to come along and buy it for me, ha ha...",
+   "Plannin' to get one of your customers to buy it for ya?",
+   "Aw, none of my regulars are that sweet... Which means this is the perfect chance for somebody new to make their move!",
+   "Sure sounds like it. If you're a good girl, maybe Santa will bring it for ya. You got a stocking big enough to hold it?",
+   "Heyyy, don't be mean! And whatever, I'll just buy it for myself, so nyah!",
+   "(Ugh, why am I chattin' this girl up like a tool? Damn near forgot why I came in.)",
+   "Awful busy in here tonight. Is business always this brisk?",
+   "Well, the holiday season certainly helps, but they also told us girls we've all gotta bring a guy in with us every night, so maybe that's helping too?",
+   "Oh, yeah? Huh... Gotta say, this place don't look like it's so hard-up that they've gotta force the hostesses to bring dates in.",
+   "Oh, that's just their pride talkin'."
+  ],
+  "prev_official": "Dude is like a lust machine!",
+  "next_official": "Oh, that's just their pride talkin'."
+ }
+]
