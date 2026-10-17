@@ -1,0 +1,44 @@
+[
+ {
+  "order": 118,
+  "speaker": "",
+  "sentence": "「スーパースピードフィン」を貰った",
+  "literal": "You got a \"Super Speed Fin.\"",
+  "official_candidate": "You got Extra Slim Tires.",
+  "official_neighbors": [
+   "You got a Hawker's Belly Warmer.",
+   "You got a Stone of Enduring.",
+   "You got the Judgement outfit.",
+   "You got an Extra Balanced Motor.",
+   "You got Extra Slim Tires.",
+   "You got Boost Gears.",
+   "You got a Speed Frame Plus.",
+   "You got a Side Stabilizer.",
+   "You got a Stun Gun.",
+   "You got a Photon Blade Prototype."
+  ],
+  "prev_official": "You got a Hawker's Belly Warmer.",
+  "next_official": "You got a Photon Blade Prototype."
+ },
+ {
+  "order": 119,
+  "speaker": "",
+  "sentence": "「スーパースピードフィン」を貰った",
+  "literal": "You got a \"Super Speed Fin.\"",
+  "official_candidate": "You got Extra Slim Tires.",
+  "official_neighbors": [
+   "You got a Hawker's Belly Warmer.",
+   "You got a Stone of Enduring.",
+   "You got the Judgement outfit.",
+   "You got an Extra Balanced Motor.",
+   "You got Extra Slim Tires.",
+   "You got Boost Gears.",
+   "You got a Speed Frame Plus.",
+   "You got a Side Stabilizer.",
+   "You got a Stun Gun.",
+   "You got a Photon Blade Prototype."
+  ],
+  "prev_official": "You got a Hawker's Belly Warmer.",
+  "next_official": "You got a Photon Blade Prototype."
+ }
+]
