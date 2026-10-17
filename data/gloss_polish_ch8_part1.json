@@ -1,0 +1,29 @@
+{
+"別口": "different kind; another sort; separate item; another approach",
+"命ずる": "to order; to command",
+"方々": "people; (all) persons; everyone; ladies and gentlemen",
+"急ぎ": "haste; hurry; urgency; pressingness",
+"節": "occasion; time",
+"差し上げる": "to do (for someone)",
+"拝む": "to see (something or someone of high status)",
+"騒がしい": "noisy; boisterous",
+"浮かべる": "to float; to set afloat; to launch",
+"潰す": "to smash; to crush; to flatten",
+"身元": "(one's) identity; background; upbringing; birth (and parentage)",
+"動転": "disturbance of mind; losing one's head; being upset; being astonished",
+"鬼": "ogre; demon; oni",
+"縄張り": "one's turf; domain; territory; jurisdiction",
+"メーカー": "maker (person or device that makes something)",
+"染みる": "to feel keenly; to make a deep impression; to sink into (e.g. one's mind); to be moved",
+"切れ": "piece; slice; strip; scrap",
+"旦那": "sir; boss; master; governor",
+"命令": "order; command; decree; directive",
+"狒々": "lecher; dirty old man; skirt-chaser",
+"次第": "as soon as; immediately after; upon",
+"__flags__": {
+"方々": "方々から = ほうぼう 'from all over/many places', not かたがた 'people'",
+"鬼": "鬼仁会 is a clan name; 鬼 is part of the name",
+"切れ": "時間切れ = 'time's up/expired'; 切れ is suffix 'running out', not 'piece'",
+"狒々": "ヒヒ is a sly laugh 'hehe', not baboon/lecher"
+}
+}
