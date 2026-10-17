@@ -12,7 +12,8 @@
   10,
   11,
   12,
-  13
+  13,
+  14
  ],
  "entries": {
   "劇場": {
@@ -3306,7 +3307,8 @@
    "chapter": 1,
    "multi_sense": true,
    "glosses": [
-    "that; that much; like that"
+    "that; that much; like that",
+    "no way!; never!"
    ],
    "candidates": [
     "(adj-pn) such; that sort of; that kind of; like that",
@@ -9239,7 +9241,8 @@
    "chapter": 2,
    "multi_sense": true,
    "glosses": [
-    "to go; to leave"
+    "to go; to leave",
+    "to disappear; to vanish; to fade away"
    ],
    "candidates": [
     "(verb) to disappear; to vanish; to fade away",
@@ -10375,7 +10378,8 @@
    "chapter": 2,
    "multi_sense": true,
    "glosses": [
-    "to offer (a drink, cigarette, seat, etc.)"
+    "to offer (a drink, cigarette, seat, etc.)",
+    "to recommend (a book, someone for a position, etc.); to suggest"
    ],
    "candidates": [
     "(verb) to recommend (someone to do); to advise; to encourage; to urge",
@@ -11524,7 +11528,8 @@
    "chapter": 3,
    "multi_sense": true,
    "glosses": [
-    "stock phrase; set phrase; cliché; platitude"
+    "stock phrase; set phrase; cliché; platitude",
+    "comment; remark; phrase; words"
    ],
    "candidates": [
     "(noun) (spoken) line (in a play, film, comic, etc.); one's lines",
@@ -15276,7 +15281,8 @@
    "chapter": 4,
    "multi_sense": true,
    "glosses": [
-    "going to several places in succession (e.g. barhopping)"
+    "going to several places in succession (e.g. barhopping)",
+    "ladder"
    ],
    "candidates": [
     "(noun) ladder",
@@ -20450,7 +20456,8 @@
    "chapter": 5,
    "multi_sense": true,
    "glosses": [
-    "to be troubled; to be at a loss; to be perplexed; to be annoyed"
+    "to be troubled; to be at a loss; to be perplexed; to be annoyed",
+    "to weaken; to grow weak; to wane; to decline (of one's health)"
    ],
    "candidates": [
     "(verb) to weaken; to grow weak; to wane; to decline (of one's health)",
@@ -31033,6 +31040,1645 @@
    ],
    "candidates": [
     "(noun) boatman; ferryman"
+   ]
+  },
+  "後戻り": {
+   "reading": "あともどり",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "going backward; turning back; backtracking; doubling back"
+   ],
+   "candidates": [
+    "(verb) going backward; turning back; backtracking; doubling back",
+    "(verb) regression; retrogression; relapse; returning to a bad state"
+   ]
+  },
+  "挑む": {
+   "reading": "いどむ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to challenge to (a fight, game, etc.); to throw down the gauntlet; to contend for"
+   ],
+   "candidates": [
+    "(verb) to challenge to (a fight, game, etc.); to throw down the gauntlet; to contend for",
+    "(verb) to tackle (e.g. a problem); to attempt; to go after (a prize, record, etc.)",
+    "(verb) to pressure (someone) for sex; to make advances to"
+   ]
+  },
+  "成長": {
+   "reading": "せいちょう",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "growth (of a company, the economy, etc.)"
+   ],
+   "candidates": [
+    "(verb) growth; development; growing up; becoming an adult",
+    "(verb) growth (of a company, the economy, etc.)"
+   ]
+  },
+  "運用": {
+   "reading": "うんよう",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "making use of; application; practical use; effective management (e.g. of funds)"
+   ],
+   "candidates": [
+    "(verb) making use of; application; practical use; effective management (e.g. of funds)",
+    "(verb) operation (esp. of a boat); steering"
+   ]
+  },
+  "高める": {
+   "reading": "たかめる",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to raise; to lift; to boost; to enhance"
+   ],
+   "candidates": [
+    "(verb) to raise; to lift; to boost; to enhance"
+   ]
+  },
+  "使い道": {
+   "reading": "つかいみち",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "way to use something"
+   ],
+   "candidates": [
+    "(noun) purpose; utility; objective",
+    "(noun) way to use something"
+   ]
+  },
+  "思い遣る": {
+   "reading": "おもいやる",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to think of (a far-off person, place, etc.); to cast one's mind to"
+   ],
+   "candidates": [
+    "(verb) to sympathize with; to sympathise with; to feel for; to be considerate of",
+    "(verb) to think of (a far-off person, place, etc.); to cast one's mind to",
+    "(verb) to worry about; to feel anxious about; to be concerned about"
+   ]
+  },
+  "引き受ける": {
+   "reading": "ひきうける",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to take on; to undertake; to accept; to take charge of"
+   ],
+   "candidates": [
+    "(verb) to take on; to undertake; to accept; to take charge of",
+    "(verb) to take over; to inherit",
+    "(verb) to guarantee; to vouch for",
+    "(verb) to contract (a disease)"
+   ]
+  },
+  "一定": {
+   "reading": "いってい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "constant; definite; uniform; defined"
+   ],
+   "candidates": [
+    "(verb) to fix; to settle; to standardize; to regularize",
+    "(adj-no) constant; definite; uniform; defined"
+   ]
+  },
+  "初期": {
+   "reading": "しょき",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "early days; early years; early stages; initial stages"
+   ],
+   "candidates": [
+    "(noun) early days; early years; early stages; initial stages"
+   ]
+  },
+  "餞別": {
+   "reading": "せんべつ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "farewell gift"
+   ],
+   "candidates": [
+    "(noun) farewell gift"
+   ]
+  },
+  "心許ない": {
+   "reading": "こころもとない",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "uneasy; unsure; anxious"
+   ],
+   "candidates": [
+    "(i-adjective) uneasy; unsure; anxious",
+    "(i-adjective) unreliable; untrustworthy; erratic; undependable",
+    "(i-adjective) nervous; impatient; irritated from anxiety",
+    "(i-adjective) unclear; indistinct; vague"
+   ]
+  },
+  "楽曲": {
+   "reading": "がっきょく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "musical composition; tune"
+   ],
+   "candidates": [
+    "(noun) musical composition; tune"
+   ]
+  },
+  "再生": {
+   "reading": "さいせい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "playback; regeneration (of video or sound); views (of an online video)"
+   ],
+   "candidates": [
+    "(verb) restoration to life; coming to life again; resuscitation; regeneration",
+    "(verb) reformation; rehabilitation",
+    "(verb) recycling; reclamation; recovery",
+    "(verb) playback; regeneration (of video or sound); views (of an online video)",
+    "(verb) regeneration (of lost or damaged tissue); regrowth",
+    "(verb) rebirth; reincarnation"
+   ]
+  },
+  "ウォーク": {
+   "reading": "ウォーク",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "walk"
+   ],
+   "candidates": [
+    "(noun) walk"
+   ]
+  },
+  "ギー": {
+   "reading": "ギー",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "ghee"
+   ],
+   "candidates": [
+    "(noun) ghee"
+   ]
+  },
+  "踏ん張り": {
+   "reading": "ふんばり",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "standing firm; holding out"
+   ],
+   "candidates": [
+    "(noun) standing firm; holding out"
+   ]
+  },
+  "衣装": {
+   "reading": "いしょう",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "clothing; costume; outfit; garment"
+   ],
+   "candidates": [
+    "(noun) clothing; costume; outfit; garment"
+   ]
+  },
+  "竜": {
+   "reading": "りゅう",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "dragon (esp. a Chinese dragon)"
+   ],
+   "candidates": [
+    "(noun) dragon (esp. a Chinese dragon)",
+    "(noun) naga; semi-divine human-cobra chimera in Hindu and Buddhist mythology",
+    "(noun) promoted rook"
+   ]
+  },
+  "狂犬": {
+   "reading": "きょうけん",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "mad dog"
+   ],
+   "candidates": [
+    "(noun) mad dog"
+   ]
+  },
+  "ぬるぬる": {
+   "reading": "ヌルヌル",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "slimy; slippery; greasy; clammy"
+   ],
+   "candidates": [
+    "(verb) slimy; slippery; greasy; clammy",
+    "(adverb) smoothly (of CGI movements, video streaming, etc.)"
+   ]
+  },
+  "バール": {
+   "reading": "バール",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "crowbar"
+   ],
+   "candidates": [
+    "(noun) crowbar",
+    "(noun) bar (unit of pressure)"
+   ]
+  },
+  "審判": {
+   "reading": "しんぱん",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "judgement; judgment; decision; verdict"
+   ],
+   "candidates": [
+    "(verb) judgement; judgment; decision; verdict",
+    "(verb) refereeing; umpiring; judging",
+    "(verb) judgement (of God)",
+    "(noun) referee; umpire; judge"
+   ]
+  },
+  "ステー": {
+   "reading": "ステイ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "stay; prop; support"
+   ],
+   "candidates": [
+    "(noun) stay; sojourn",
+    "(noun) stay; prop; support"
+   ]
+  },
+  "スタン": {
+   "reading": "スタン",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "stun"
+   ],
+   "candidates": [
+    "(noun) stun"
+   ]
+  },
+  "王子": {
+   "reading": "おうじ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "prince"
+   ],
+   "candidates": [
+    "(noun) prince",
+    "(noun) subordinate Kumano shrine"
+   ]
+  },
+  "鉄材": {
+   "reading": "てつざい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "iron material"
+   ],
+   "candidates": [
+    "(noun) iron material"
+   ]
+  },
+  "材木": {
+   "reading": "ざいもく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "wood (for building); lumber; timber"
+   ],
+   "candidates": [
+    "(noun) wood (for building); lumber; timber"
+   ]
+  },
+  "良質": {
+   "reading": "りょうしつ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "good quality; fine quality; superior quality; high quality"
+   ],
+   "candidates": [
+    "(na-adjective) good quality; fine quality; superior quality; high quality"
+   ]
+  },
+  "鬼面": {
+   "reading": "きめん",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "mask of a devil; startling appearance; devil's face"
+   ],
+   "candidates": [
+    "(noun) mask of a devil; startling appearance; devil's face"
+   ]
+  },
+  "激辛": {
+   "reading": "げきから",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "extremely spicy; fiery hot"
+   ],
+   "candidates": [
+    "(noun) extremely spicy; fiery hot",
+    "(noun) extremely harsh (criticism, review, etc.); scathing"
+   ]
+  },
+  "骨董": {
+   "reading": "こっとう",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "antique; curio"
+   ],
+   "candidates": [
+    "(noun) antique; curio"
+   ]
+  },
+  "プラチナ": {
+   "reading": "プラチナ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "platinum (Pt)"
+   ],
+   "candidates": [
+    "(noun) platinum (Pt)"
+   ]
+  },
+  "神速": {
+   "reading": "しんそく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "great speed; extreme speed; swiftness"
+   ],
+   "candidates": [
+    "(na-adjective) great speed; extreme speed; swiftness"
+   ]
+  },
+  "梶木": {
+   "reading": "かじき",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "marlin; swordfish; spearfish; sailfish"
+   ],
+   "candidates": [
+    "(noun) marlin; swordfish; spearfish; sailfish"
+   ]
+  },
+  "ダイヤモンド": {
+   "reading": "ダイヤモンド",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "diamond"
+   ],
+   "candidates": [
+    "(noun) diamond",
+    "(noun) diamond; infield",
+    "(noun) diamonds (suit)"
+   ]
+  },
+  "金塊": {
+   "reading": "きんかい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "gold nugget; gold bullion; gold bar; gold ingot"
+   ],
+   "candidates": [
+    "(noun) gold nugget; gold bullion; gold bar; gold ingot"
+   ]
+  },
+  "銀塊": {
+   "reading": "ぎんかい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "silver nugget; silver ingot; silver bullion"
+   ],
+   "candidates": [
+    "(noun) silver nugget; silver ingot; silver bullion"
+   ]
+  },
+  "パック": {
+   "reading": "パック",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "pack; packet; carton"
+   ],
+   "candidates": [
+    "(noun) pack; packet; carton",
+    "(verb) to pack; to package; to wrap",
+    "(verb) (cosmetic) face pack; face mask; facial mask; facial",
+    "(noun) package (tour, holiday, etc.)"
+   ]
+  },
+  "エンジョイ": {
+   "reading": "エンジョイ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "enjoying; enjoyment"
+   ],
+   "candidates": [
+    "(verb) enjoying; enjoyment"
+   ]
+  },
+  "プレーヤー": {
+   "reading": "プレイヤー",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "player"
+   ],
+   "candidates": [
+    "(noun) player"
+   ]
+  },
+  "待機": {
+   "reading": "たいき",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "standing by; awaiting an opportunity; being on alert"
+   ],
+   "candidates": [
+    "(verb) standing by; awaiting an opportunity; being on alert",
+    "(verb) quarantine"
+   ]
+  },
+  "慌ただしい": {
+   "reading": "あわただしい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "busy; hectic; hurried; rushed"
+   ],
+   "candidates": [
+    "(i-adjective) busy; hectic; hurried; rushed",
+    "(i-adjective) rapid; quick; sudden"
+   ]
+  },
+  "図": {
+   "reading": "ず",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "drawing; picture; diagram; figure"
+   ],
+   "candidates": [
+    "(noun) drawing; picture; diagram; figure",
+    "(noun) sight; scene"
+   ]
+  },
+  "塗り替える": {
+   "reading": "ぬりかえる",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to change completely; to break (a record); to redraw (e.g. the map); to remake"
+   ],
+   "candidates": [
+    "(verb) to repaint; to paint again; to paint (a different colour)",
+    "(verb) to change completely; to break (a record); to redraw (e.g. the map); to remake"
+   ]
+  },
+  "引き上げ": {
+   "reading": "ひきあげ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "pulling up; drawing up; salvage; re-flotation"
+   ],
+   "candidates": [
+    "(noun) pulling up; drawing up; salvage; re-flotation",
+    "(noun) raising; increase; upward revision",
+    "(noun) repatriation; evacuation"
+   ]
+  },
+  "抗争": {
+   "reading": "こうそう",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "rivalry; feud; conflict; dispute"
+   ],
+   "candidates": [
+    "(verb) rivalry; feud; conflict; dispute"
+   ]
+  },
+  "暢気": {
+   "reading": "のんき",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "easy; easygoing; carefree; happy-go-lucky"
+   ],
+   "candidates": [
+    "(na-adjective) easy; easygoing; carefree; happy-go-lucky"
+   ]
+  },
+  "連れ戻す": {
+   "reading": "つれもどす",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to bring back"
+   ],
+   "candidates": [
+    "(verb) to bring back"
+   ]
+  },
+  "むさくるしい": {
+   "reading": "むさくるしい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "messy; shabby; scruffy; dirty"
+   ],
+   "candidates": [
+    "(i-adjective) messy; shabby; scruffy; dirty"
+   ]
+  },
+  "達し": {
+   "reading": "たっし",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "official notice; notification"
+   ],
+   "candidates": [
+    "(noun) official notice; notification"
+   ]
+  },
+  "唆す": {
+   "reading": "そそのかす",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to instigate; to tempt; to entice; to incite"
+   ],
+   "candidates": [
+    "(verb) to instigate; to tempt; to entice; to incite"
+   ]
+  },
+  "知らす": {
+   "reading": "しらす",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to inform; to notify"
+   ],
+   "candidates": [
+    "(verb) to inform; to notify",
+    "(verb) to know",
+    "(verb) to reign"
+   ]
+  },
+  "漏らす": {
+   "reading": "もらす",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to let out (a secret); to leak (information); to divulge; to disclose"
+   ],
+   "candidates": [
+    "(verb) to let leak; to let out (e.g. light)",
+    "(verb) to let out (a secret); to leak (information); to divulge; to disclose",
+    "(verb) to give utterance to (e.g. one's dissatisfaction); to vent; to express; to reveal (e.g. one's true intentions)",
+    "(verb) to wet one's pants",
+    "(verb) to omit; to leave out",
+    "(verb) to fail to do; to miss; to omit (by mistake); to forget to do"
+   ]
+  },
+  "横取り": {
+   "reading": "よこどり",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "snatching; stealing; seizure; usurpation"
+   ],
+   "candidates": [
+    "(verb) snatching; stealing; seizure; usurpation"
+   ]
+  },
+  "後継": {
+   "reading": "こうけい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "successor"
+   ],
+   "candidates": [
+    "(noun) succession",
+    "(noun) successor"
+   ]
+  },
+  "本心": {
+   "reading": "ほんしん",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "true feelings; real intention; one's heart"
+   ],
+   "candidates": [
+    "(noun) true feelings; real intention; one's heart",
+    "(noun) one's right mind; one's senses; one's conscience"
+   ]
+  },
+  "戦後": {
+   "reading": "せんご",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "postwar period; period after Second World War"
+   ],
+   "candidates": [
+    "(adverb) postwar period; period after Second World War"
+   ]
+  },
+  "記録": {
+   "reading": "きろく",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "record; document; minutes; log"
+   ],
+   "candidates": [
+    "(verb) record; document; minutes; log",
+    "(verb) record (e.g. in sports); setting (a record); recording (a record high, etc.)"
+   ]
+  },
+  "分割": {
+   "reading": "ぶんかつ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "partition; division; separation; segmenting"
+   ],
+   "candidates": [
+    "(verb) partition; division; separation; segmenting"
+   ]
+  },
+  "意図": {
+   "reading": "いと",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "intention; aim; design"
+   ],
+   "candidates": [
+    "(verb) intention; aim; design"
+   ]
+  },
+  "手元": {
+   "reading": "てもと",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "at hand; on hand; nearby; close at hand"
+   ],
+   "candidates": [
+    "(adverb) at hand; on hand; nearby; close at hand",
+    "(noun) way of moving one's arms; skill",
+    "(noun) money at hand; pocket money",
+    "(noun) grip; handle"
+   ]
+  },
+  "生き別れる": {
+   "reading": "いきわかれる",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to be parted from; to be separated"
+   ],
+   "candidates": [
+    "(verb) to be parted from; to be separated"
+   ]
+  },
+  "母親": {
+   "reading": "ははおや",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "mother"
+   ],
+   "candidates": [
+    "(noun) mother"
+   ]
+  },
+  "最早": {
+   "reading": "もはや",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "no longer; not any more"
+   ],
+   "candidates": [
+    "(adverb) already; now",
+    "(adverb) no longer; not any more"
+   ]
+  },
+  "救い出す": {
+   "reading": "すくいだす",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to rescue; to free"
+   ],
+   "candidates": [
+    "(verb) to rescue; to free"
+   ]
+  },
+  "痛む": {
+   "reading": "いたむ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to hurt; to ache; to feel a pain"
+   ],
+   "candidates": [
+    "(verb) to hurt; to ache; to feel a pain",
+    "(verb) to be injured; to be spoiled (e.g. food); to be damaged"
+   ]
+  },
+  "様態": {
+   "reading": "ようたい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "form; situation; condition"
+   ],
+   "candidates": [
+    "(noun) form; situation; condition"
+   ]
+  },
+  "詫び": {
+   "reading": "わび",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "apology"
+   ],
+   "candidates": [
+    "(noun) apology"
+   ]
+  },
+  "狂わす": {
+   "reading": "くるわす",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to derail (a plan, etc.)"
+   ],
+   "candidates": [
+    "(verb) to drive mad; to make insane",
+    "(verb) to cause a malfunction; to put out of order; to throw out of kilter",
+    "(verb) to derail (a plan, etc.)"
+   ]
+  },
+  "蔑む": {
+   "reading": "さげすむ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to scorn; to despise; to hold in contempt; to look down on"
+   ],
+   "candidates": [
+    "(verb) to scorn; to despise; to hold in contempt; to look down on"
+   ]
+  },
+  "踏み入れる": {
+   "reading": "ふみいれる",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to walk in on; to tread upon"
+   ],
+   "candidates": [
+    "(verb) to walk in on; to tread upon"
+   ]
+  },
+  "根": {
+   "reading": "ね",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "root (of a plant)"
+   ],
+   "candidates": [
+    "(noun) root (of a plant)",
+    "(noun) root (of a tooth, hair, etc.); center (of a pimple, etc.)",
+    "(noun) root (of all evil, etc.); source; origin; cause",
+    "(noun) one's true nature",
+    "(noun) (fishing) reef"
+   ]
+  },
+  "一足": {
+   "reading": "いっそく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "a pair (of shoes or socks)"
+   ],
+   "candidates": [
+    "(noun) a pair (of shoes or socks)"
+   ]
+  },
+  "致命": {
+   "reading": "ちめい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "fatal"
+   ],
+   "candidates": [
+    "(noun) fatal"
+   ]
+  },
+  "注ぎ込む": {
+   "reading": "そそぎこむ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to pour in (money); to pump in (investment)"
+   ],
+   "candidates": [
+    "(verb) to pour in (liquids)",
+    "(verb) to pour in (money); to pump in (investment)"
+   ]
+  },
+  "行き詰まる": {
+   "reading": "いきづまる",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to come to a dead end; to come to a standstill; to reach a deadlock; to reach an impasse"
+   ],
+   "candidates": [
+    "(verb) to come to a dead end; to come to a standstill; to reach a deadlock; to reach an impasse"
+   ]
+  },
+  "許容": {
+   "reading": "きょよう",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "permission; allowance; acceptance; tolerance"
+   ],
+   "candidates": [
+    "(verb) permission; allowance; acceptance; tolerance"
+   ]
+  },
+  "暴走": {
+   "reading": "ぼうそう",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "acting rashly; running wildly; behaving recklessly; rampaging"
+   ],
+   "candidates": [
+    "(verb) acting rashly; running wildly; behaving recklessly; rampaging",
+    "(verb) runaway (process)",
+    "(verb) reckless baserunning"
+   ]
+  },
+  "行く行く": {
+   "reading": "ゆくゆく",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "in the future; someday; eventually"
+   ],
+   "candidates": [
+    "(adverb) on the way; as one goes",
+    "(adverb) in the future; someday; eventually"
+   ]
+  },
+  "纏わる": {
+   "reading": "まつわる",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to be related to; to concern; to be associated with"
+   ],
+   "candidates": [
+    "(verb) to coil around; to follow about",
+    "(verb) to be related to; to concern; to be associated with"
+   ]
+  },
+  "シナリオ": {
+   "reading": "シナリオ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "scenario"
+   ],
+   "candidates": [
+    "(noun) script; screenplay",
+    "(noun) scenario"
+   ]
+  },
+  "取り合う": {
+   "reading": "とりあう",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to join (hands); to take (each other's hands)"
+   ],
+   "candidates": [
+    "(verb) to join (hands); to take (each other's hands)",
+    "(verb) to scramble for; to struggle for; to fight for",
+    "(verb) to pay attention to; to take notice of; to listen to; to concern oneself with"
+   ]
+  },
+  "クレッシェンド": {
+   "reading": "クレッシェンド",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "crescendo"
+   ],
+   "candidates": [
+    "(noun) crescendo"
+   ]
+  },
+  "タイトル": {
+   "reading": "タイトル",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "title"
+   ],
+   "candidates": [
+    "(noun) title"
+   ]
+  },
+  "隣接": {
+   "reading": "りんせつ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "adjacency; contiguity; being adjoined"
+   ],
+   "candidates": [
+    "(verb) adjacency; contiguity; being adjoined"
+   ]
+  },
+  "連れ込む": {
+   "reading": "つれこむ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to bring (someone into a place); to lead into"
+   ],
+   "candidates": [
+    "(verb) to bring (someone into a place); to lead into"
+   ]
+  },
+  "鞍替え": {
+   "reading": "くらがえ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "changing (one's job, loyalties, stance, etc.); switching over"
+   ],
+   "candidates": [
+    "(verb) changing (one's job, loyalties, stance, etc.); switching over",
+    "(verb) changing quarters (of a geisha, prostitute, etc.)"
+   ]
+  },
+  "内部": {
+   "reading": "ないぶ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "interior; inside; internal"
+   ],
+   "candidates": [
+    "(noun) interior; inside; internal"
+   ]
+  },
+  "マネージャー": {
+   "reading": "マネージャー",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "manager"
+   ],
+   "candidates": [
+    "(noun) manager",
+    "(noun) person in a (school or university) sports team in charge of administrative and miscellaneous duties"
+   ]
+  },
+  "配置": {
+   "reading": "はいち",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "arrangement (of resources); deployment; stationing; posting"
+   ],
+   "candidates": [
+    "(verb) arrangement (of resources); deployment; stationing; posting"
+   ]
+  },
+  "人材": {
+   "reading": "じんざい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "human resources; personnel"
+   ],
+   "candidates": [
+    "(noun) capable person; talented person",
+    "(noun) human resources; personnel"
+   ]
+  },
+  "率": {
+   "reading": "りつ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "rate; ratio; proportion; percentage"
+   ],
+   "candidates": [
+    "(noun) rate; ratio; proportion; percentage"
+   ]
+  },
+  "比較": {
+   "reading": "ひかく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "comparison"
+   ],
+   "candidates": [
+    "(verb) comparison"
+   ]
+  },
+  "安価": {
+   "reading": "あんか",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "low-priced; cheap; inexpensive"
+   ],
+   "candidates": [
+    "(na-adjective) low-priced; cheap; inexpensive",
+    "(na-adjective) shallow (e.g. sympathy); superficial; cheap (e.g. government)",
+    "(noun) link back to discussion group, bulletin board, etc. posting"
+   ]
+  },
+  "ラジカセ": {
+   "reading": "ラジカセ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "radio-cassette player"
+   ],
+   "candidates": [
+    "(noun) radio-cassette player"
+   ]
+  },
+  "編集": {
+   "reading": "へんしゅう",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "editing; compilation"
+   ],
+   "candidates": [
+    "(verb) editing; compilation"
+   ]
+  },
+  "長押": {
+   "reading": "なげし",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "beam running between columns in traditional Japanese architecture, esp. within Japanese-style rooms"
+   ],
+   "candidates": [
+    "(noun) beam running between columns in traditional Japanese architecture, esp. within Japanese-style rooms"
+   ]
+  },
+  "パネル": {
+   "reading": "パネル",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "panel"
+   ],
+   "candidates": [
+    "(noun) panel"
+   ]
+  },
+  "停止": {
+   "reading": "ていし",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "stoppage; coming to a stop; halt; standstill"
+   ],
+   "candidates": [
+    "(verb) stoppage; coming to a stop; halt; standstill",
+    "(verb) ceasing (movement, activity, etc.); suspension (of operations); interruption (e.g. of electricity supply); cutting off",
+    "(verb) suspension (of payment, a licence, etc.); (temporary) prohibition; ban",
+    "(verb) suspension of music, dance, etc. as a sign of mourning for a prominent person"
+   ]
+  },
+  "惜しむ": {
+   "reading": "おしむ",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to spare; to grudge; to be sparing (with); to be frugal"
+   ],
+   "candidates": [
+    "(verb) to spare; to grudge; to be sparing (with); to be frugal",
+    "(verb) to regret; to lament",
+    "(verb) to be reluctant (to do); to be unwilling",
+    "(verb) to value; to prize; to hold dear",
+    "(verb) to love; to cherish"
+   ]
+  },
+  "じゃんじゃん": {
+   "reading": "じゃんじゃん",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "continuously; incessantly; one after another; rapidly"
+   ],
+   "candidates": [
+    "(adverb) clanging (of a bell); jangling; ding-dong",
+    "(adverb) continuously; incessantly; one after another; rapidly"
+   ]
+  },
+  "改造": {
+   "reading": "かいぞう",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "remodeling; remodelling; reconstruction; conversion"
+   ],
+   "candidates": [
+    "(verb) remodeling; remodelling; reconstruction; conversion",
+    "(verb) modding"
+   ]
+  },
+  "モデル": {
+   "reading": "モデル",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "model (of a vehicle, machine, etc.); version"
+   ],
+   "candidates": [
+    "(noun) model; dummy; mock-up",
+    "(noun) model (profession); fashion model",
+    "(noun) model (of a vehicle, machine, etc.); version",
+    "(noun) model (e.g. mathematical)",
+    "(noun) model (for a fictional character, place, etc.); inspiration",
+    "(noun) model (in model theory)"
+   ]
+  },
+  "タフネス": {
+   "reading": "タフネス",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "toughness"
+   ],
+   "candidates": [
+    "(noun) toughness"
+   ]
+  },
+  "エンペラー": {
+   "reading": "エンペラー",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "emperor"
+   ],
+   "candidates": [
+    "(noun) emperor"
+   ]
+  },
+  "的屋": {
+   "reading": "てきや",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "stall-keeper (esp. at a festival); street vendor; huckster; faker"
+   ],
+   "candidates": [
+    "(noun) stall-keeper (esp. at a festival); street vendor; huckster; faker"
+   ]
+  },
+  "腹巻き": {
+   "reading": "はらまき",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "haramaki; bellyband; stomach band; stomach covering (worn for warmth)"
+   ],
+   "candidates": [
+    "(noun) haramaki; bellyband; stomach band; stomach covering (worn for warmth)",
+    "(noun) torso armour that opens at the back; haramaki"
+   ]
+  },
+  "ハイパー": {
+   "reading": "ハイパー",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "hyper"
+   ],
+   "candidates": [
+    "(adj-f) hyper"
+   ]
+  },
+  "ミドル": {
+   "reading": "ミドル",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "middle"
+   ],
+   "candidates": [
+    "(noun) middle",
+    "(noun) middle age"
+   ]
+  },
+  "スピード": {
+   "reading": "スピード",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "speed"
+   ],
+   "candidates": [
+    "(noun) speed"
+   ]
+  },
+  "フィン": {
+   "reading": "フィン",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "fin (on a surfboard, aircraft, etc.)"
+   ],
+   "candidates": [
+    "(noun) (diving) fin; swim fin; flipper",
+    "(noun) fin (on a surfboard, aircraft, etc.)"
+   ]
+  },
+  "フォトン": {
+   "reading": "フォトン",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "photon"
+   ],
+   "candidates": [
+    "(noun) photon"
+   ]
+  },
+  "ブレード": {
+   "reading": "ブレード",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "blade"
+   ],
+   "candidates": [
+    "(noun) blade"
+   ]
+  },
+  "試作": {
+   "reading": "しさく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "trial manufacture; experiment; test piece; prototype"
+   ],
+   "candidates": [
+    "(verb) trial manufacture; experiment; test piece; prototype"
+   ]
+  },
+  "血染め": {
+   "reading": "ちぞめ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "bloodstained"
+   ],
+   "candidates": [
+    "(noun) bloodstained"
+   ]
+  },
+  "布": {
+   "reading": "ぬの",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "cloth; fabric; material; textile"
+   ],
+   "candidates": [
+    "(noun) cloth; fabric; material; textile",
+    "(noun) bujian (spade-shaped bronze coin of ancient China)"
+   ]
+  },
+  "ＴＶ": {
+   "reading": "ティー・ブイ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "television; TV"
+   ],
+   "candidates": [
+    "(noun) television; TV"
+   ]
+  },
+  "プロデューサー": {
+   "reading": "プロデューサー",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "producer (film, TV, etc.)"
+   ],
+   "candidates": [
+    "(noun) producer (film, TV, etc.)"
+   ]
+  },
+  "凍る": {
+   "reading": "こおる",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to freeze; to become frozen; to freeze over"
+   ],
+   "candidates": [
+    "(verb) to freeze; to become frozen; to freeze over"
+   ]
+  },
+  "鰯": {
+   "reading": "いわし",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "pilchard (esp. Japanese pilchard, Sardinops melanostictus); sardine"
+   ],
+   "candidates": [
+    "(noun) pilchard (esp. Japanese pilchard, Sardinops melanostictus); sardine"
+   ]
+  },
+  "クイック": {
+   "reading": "クイック",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "quick"
+   ],
+   "candidates": [
+    "(adj-f) quick",
+    "(noun) quickstep"
+   ]
+  },
+  "屋台": {
+   "reading": "やたい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "cart (esp. a food cart); stall; stand"
+   ],
+   "candidates": [
+    "(noun) cart (esp. a food cart); stall; stand",
+    "(noun) festival float; portable shrine dedicated to a god and shaped like a house; dancing platform",
+    "(noun) stage prop fashioned after a large building",
+    "(noun) framework (of a building); foundation",
+    "(noun) house (esp. a small and miserable one)"
+   ]
+  },
+  "遠巻き": {
+   "reading": "とおまき",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "surrounding at a distance"
+   ],
+   "candidates": [
+    "(noun) surrounding at a distance"
+   ]
+  },
+  "ふらふら": {
+   "reading": "ふらふら",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "unsteadily (e.g. on one's feet); shakily; staggering; tottering"
+   ],
+   "candidates": [
+    "(verb) unsteadily (e.g. on one's feet); shakily; staggering; tottering",
+    "(verb) wavering (in one's mind); unsteadily; indecisively",
+    "(adverb) aimlessly; unconsciously; whimsically; without thinking"
+   ]
+  },
+  "足取り": {
+   "reading": "あしどり",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "gait; walk; stride; pace"
+   ],
+   "candidates": [
+    "(noun) gait; walk; stride; pace",
+    "(noun) trace (e.g. of route taken by hunted criminal); track; trail; movements"
+   ]
+  },
+  "流れ弾": {
+   "reading": "ながれだま",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "stray bullet"
+   ],
+   "candidates": [
+    "(noun) stray bullet"
+   ]
+  },
+  "一般": {
+   "reading": "いっぱん",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "ordinary; average; common; non-celebrity"
+   ],
+   "candidates": [
+    "(noun) general; universal",
+    "(noun) ordinary; average; common; non-celebrity",
+    "(noun) the same; no different; (just) as if"
+   ]
+  },
+  "見届ける": {
+   "reading": "みとどける",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "to make sure of; to ascertain; to see with one's own eyes; to watch to the end"
+   ],
+   "candidates": [
+    "(verb) to make sure of; to ascertain; to see with one's own eyes; to watch to the end"
+   ]
+  },
+  "再会": {
+   "reading": "さいかい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "meeting again; reunion"
+   ],
+   "candidates": [
+    "(verb) meeting again; reunion"
+   ]
+  },
+  "目印": {
+   "reading": "めじるし",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "mark (for quick identification or recognition); sign"
+   ],
+   "candidates": [
+    "(noun) mark (for quick identification or recognition); sign",
+    "(noun) landmark; guide",
+    "(noun) trademark"
+   ]
+  },
+  "表現": {
+   "reading": "ひょうげん",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "expression; representation; description"
+   ],
+   "candidates": [
+    "(verb) expression; representation; description",
+    "(noun) representation (of a group)"
+   ]
+  },
+  "憎しみ": {
+   "reading": "にくしみ",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "hatred"
+   ],
+   "candidates": [
+    "(noun) hatred"
+   ]
+  },
+  "周囲": {
+   "reading": "しゅうい",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "surroundings; environs"
+   ],
+   "candidates": [
+    "(noun) surroundings; environs",
+    "(noun) circumference"
+   ]
+  },
+  "日々": {
+   "reading": "ひび",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "daily; everyday"
+   ],
+   "candidates": [
+    "(adj-no) daily; everyday",
+    "(noun) days (e.g. of one's youth)",
+    "(adverb) every day; day after day; day by day; from day to day"
+   ]
+  },
+  "善悪": {
+   "reading": "ぜんあく",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "right and wrong; good and evil"
+   ],
+   "candidates": [
+    "(noun) right and wrong; good and evil"
+   ]
+  },
+  "振り返る": {
+   "reading": "ふりかえる",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to think back (on); to reminisce; to look back (on); to reflect (on)"
+   ],
+   "candidates": [
+    "(verb) to turn one's head; to look over one's shoulder; to turn around; to look back",
+    "(verb) to think back (on); to reminisce; to look back (on); to reflect (on)"
+   ]
+  },
+  "出来事": {
+   "reading": "できごと",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "occurrence; happening; incident; event"
+   ],
+   "candidates": [
+    "(noun) occurrence; happening; incident; event"
+   ]
+  },
+  "天才": {
+   "reading": "てんさい",
+   "chapter": 14,
+   "multi_sense": false,
+   "glosses": [
+    "genius; prodigy; natural gift"
+   ],
+   "candidates": [
+    "(noun) genius; prodigy; natural gift"
    ]
   }
  }
