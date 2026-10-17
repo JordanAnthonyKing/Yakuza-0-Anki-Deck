@@ -13,7 +13,7 @@ DATA = os.path.join(REPO, "data")
 SCRATCH = os.path.join(DATA, "work", f"ch{int(sys.argv[1])}")   # batch inputs live in the repo
 
 lo = int(sys.argv[1]); hi = int(sys.argv[2]) if len(sys.argv) > 2 else lo
-nb = int(sys.argv[3]) if len(sys.argv) > 3 else 5
+nb = sys.argv[3] if len(sys.argv) > 3 else "auto"      # "auto" = ~35 words per batch
 
 cards = json.load(open(os.path.join(DATA, f"cards_ch{lo}_{hi}.json"), encoding="utf-8"))
 multi = [c for c in cards if len(c["candidates"]) > 1]
@@ -32,6 +32,7 @@ for it in items:
     seen[it["word"]] = 1
     uniq.append(it)
 
+nb = max(1, -(-len(uniq) // 35)) if nb == "auto" else int(nb)
 size = (len(uniq) + nb - 1) // nb
 os.makedirs(SCRATCH, exist_ok=True)
 paths = []

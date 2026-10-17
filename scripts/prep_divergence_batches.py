@@ -15,7 +15,7 @@ from taught_ledger import DATA, load_ledger
 
 SCRATCH = os.path.join(DATA, "work", f"ch{int(sys.argv[1])}")   # batch inputs live in the repo
 
-ch = int(sys.argv[1]); nb = int(sys.argv[2]) if len(sys.argv) > 2 else 3
+ch = int(sys.argv[1]); nb = sys.argv[2] if len(sys.argv) > 2 else "auto"   # "auto" = ~60 words per batch
 
 known = json.load(open(os.path.join(DATA, "known_words.json"), encoding="utf-8"))
 known_w = set(known["words"]); known_r = set(known["readings"])
@@ -53,6 +53,7 @@ if not items:
     print("no divergence review needed -> run build_deck directly")
     sys.exit(0)
 
+nb = max(1, -(-len(items) // 60)) if nb == "auto" else int(nb)
 size = (len(items) + nb - 1) // nb
 os.makedirs(SCRATCH, exist_ok=True)
 for i in range(nb):
