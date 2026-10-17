@@ -1,0 +1,966 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……結局ここも<b>空振り</b>っちゅうわけか。",
+  "word": "空振り",
+  "reading": "からぶり",
+  "meaning": "swing and a miss",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "0033144e",
+  "candidates": [
+   "(verb) swing and a miss",
+   "(verb) (punching and) failing to make contact",
+   "(verb) (ending in) failure; fruitless effort; vain attempt"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>収穫</b>はあったか？　真島ちゃん。",
+  "word": "収穫",
+  "reading": "しゅうかく",
+  "meaning": "harvest; crop; ingathering",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) harvest; crop; ingathering",
+   "(noun) fruits (of one's labors); gain; result; returns",
+   "(verb) catch (fishing); bag (hunting); haul"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "我慢してんだ。近江の人間が神室町で<b>幅</b>きかしてたら",
+  "word": "幅",
+  "reading": "はば",
+  "meaning": "width; breadth",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(noun) width; breadth",
+   "(noun) freedom (e.g. of thought); latitude",
+   "(noun) gap; difference (e.g. in price); range (e.g. of voice)"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "１００億で<b>買いとる</b>用意がある。",
+  "word": "買い取る",
+  "reading": "かいとる",
+  "meaning": "to buy; to purchase; to buy out",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) to buy; to purchase; to buy out"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そうなりゃ近江は山ほど<b>兵隊</b>を神室町に",
+  "word": "兵隊",
+  "reading": "へいたい",
+  "meaning": "armed forces; military; troops",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(noun) armed forces; military; troops",
+   "(noun) (common) soldier; rank-and-file soldier",
+   "(noun) underling; ordinary employee; grunt"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>送り込める</b>んだよ。東城会が抵抗する間もなくな。",
+  "word": "送り込む",
+  "reading": "おくりこむ",
+  "meaning": "to send in",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) to send in"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そっ。嶋野は東京に<b>進出</b>してきた近江の兵隊を",
+  "word": "進出",
+  "reading": "しんしゅつ",
+  "meaning": "advance (into a new market, industry, etc.); expansion (into); launch (into); entering",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) advance (into a new market, industry, etc.); expansion (into); launch (into); entering",
+   "(verb) advance (to the next round of a competition)"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "近江の東京進出を許す<b>見返り</b>に",
+  "word": "見返り",
+  "reading": "みかえり",
+  "meaning": "reward; compensation; repayment; something done or given in return",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(noun) reward; compensation; repayment; something done or given in return",
+   "(noun) collateral; security",
+   "(noun) turning to look behind"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "一帯にある、<b>端切れ</b>の土地や。",
+  "word": "端切れ",
+  "reading": "はぎれ",
+  "meaning": "scrap of cloth; odds and ends",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "01331448",
+  "candidates": [
+   "(noun) scrap of cloth; odds and ends"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここはあの風間組や……　他の組とは<b>一味</b>違う。",
+  "word": "一味",
+  "reading": "いちみ",
+  "meaning": "clan; partisans; conspirators; gang",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331448",
+  "candidates": [
+   "(noun) clan; partisans; conspirators; gang",
+   "(verb) participation (e.g. in a plot)",
+   "(noun) one flavour; one charm",
+   "(noun) one ingredient (in traditional Chinese medicine)",
+   "(noun) universality (of the teachings of Buddha)"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "錦山いう男が<b>入り浸っ</b>とるいう話やが……",
+  "word": "入り浸る",
+  "reading": "いりびたる",
+  "meaning": "to stay long; to hang around; to hang out; to frequent",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331448",
+  "candidates": [
+   "(verb) to stay long; to hang around; to hang out; to frequent",
+   "(verb) to be immersed (in water) for a long time; to soak"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>ウダウダ</b>考えとってもしゃあない。",
+  "word": "うだうだ",
+  "reading": "うだうだ",
+  "meaning": "going on and on (about inconsequential things); talking nonsense",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331448",
+  "candidates": [
+   "(verb) going on and on (about inconsequential things); talking nonsense",
+   "(verb) idling away the time; dawdling"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "若いモンのご<b>無礼</b>をお許しください。",
+  "word": "無礼",
+  "reading": "ぶれい",
+  "meaning": "rudeness; impoliteness; discourtesy; insolence",
+  "pos": "na-adjective",
+  "chapter": 15,
+  "speaker": "古参の嶋野組組員",
+  "uid": "01331448",
+  "candidates": [
+   "(na-adjective) rudeness; impoliteness; discourtesy; insolence"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "街のモンからあんたを見たって<b>知らせ</b>があってな。",
+  "word": "知らせ",
+  "reading": "しらせ",
+  "meaning": "news; word; tidings; notice",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "candidates": [
+   "(noun) news; word; tidings; notice",
+   "(noun) omen; foreboding; premonition"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今頃蒼天堀で<b>のたれ死ん</b>でんのかと思ってたがよ。",
+  "word": "野垂れ死ぬ",
+  "reading": "のたれじぬ",
+  "meaning": "to die by the roadside; to die a dog's death",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "candidates": [
+   "(verb) to die by the roadside; to die a dog's death"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "自由に街を歩いてていい<b>身分</b>じゃねえだろ。",
+  "word": "身分",
+  "reading": "みぶん",
+  "meaning": "(social) standing; status; position; rank",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "candidates": [
+   "(noun) (social) standing; status; position; rank",
+   "(noun) identity; birth; origin",
+   "(noun) one's circumstances; one's means"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "親父から<b>許し</b>が出たなんて話は聞いてねえぞ。",
+  "word": "許し",
+  "reading": "ゆるし",
+  "meaning": "pardon; forgiveness; exemption; permission",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "candidates": [
+   "(noun) pardon; forgiveness; exemption; permission"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "でなきゃこんなお<b>膳立て</b>はしねえもんな。",
+  "word": "膳立て",
+  "reading": "ぜんだて",
+  "meaning": "setting the table; laying the table",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(verb) setting the table; laying the table",
+   "(verb) setting up; getting one's ducks in a row; running interference; setting the stage"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "目に<b>浮かぶ</b>でぇ？　殺しの命令を受けたお前は、",
+  "word": "浮かぶ",
+  "reading": "うかぶ",
+  "meaning": "to float; to be suspended",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "candidates": [
+   "(verb) to float; to be suspended",
+   "(verb) to rise to the surface; to appear; to emerge; to show up",
+   "(verb) to come to mind; to have inspiration"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "神室町再開発計画……　その<b>生き死に</b>が",
+  "word": "生き死に",
+  "reading": "いきしに",
+  "meaning": "life and death; life or death",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) life and death; life or death"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "風間も、親の堂島には<b>表立っ</b>て楯突けん。",
+  "word": "表立つ",
+  "reading": "おもてだつ",
+  "meaning": "to become public; to become known; to come out in the open",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "candidates": [
+   "(verb) to become public; to become known; to come out in the open",
+   "(verb) to be formal; to be official"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "堂島宗兵ってかつての親に<b>弓</b>は引けねえ。",
+  "word": "弓",
+  "reading": "ゆみ",
+  "meaning": "bow (weapon)",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) bow (weapon)",
+   "(noun) archery",
+   "(noun) bow (for a violin, etc.)"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "殺せと命令してまで<b>マキ</b>ムラに",
+  "word": "マキ",
+  "reading": "まき",
+  "meaning": "yew plum pine (Podocarpus macrophyllus)",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) yew plum pine (Podocarpus macrophyllus)"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "フッ、なるほど……　<b>愛</b>か。",
+  "word": "愛",
+  "reading": "あい",
+  "meaning": "love; affection; care",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) love; affection; care",
+   "(noun) attachment; craving; desire",
+   "(noun) agape",
+   "(noun) Ireland"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "愛は<b>盲目</b>ってやつか。",
+  "word": "盲目",
+  "reading": "もうもく",
+  "meaning": "blindness",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) blindness",
+   "(na-adjective) blind (e.g. love, faith); reckless"
+  ]
+ },
+ {
+  "order": 25,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "東城会内部の風間派を全部<b>あぶり出す</b>ためや。",
+  "word": "炙り出す",
+  "reading": "あぶりだす",
+  "meaning": "to bring into the open; to reveal; to uncover (e.g. evidence); to bring to light",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "candidates": [
+   "(verb) to bring into the open; to reveal; to uncover (e.g. evidence); to bring to light"
+  ]
+ },
+ {
+  "order": 26,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "フッ、女が消えたら<b>案の定</b>動き出した",
+  "word": "案の定",
+  "reading": "あんのじょう",
+  "meaning": "as expected; just as one thought; as feared; sure enough",
+  "pos": "adverb",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "candidates": [
+   "(adverb) as expected; just as one thought; as feared; sure enough"
+  ]
+ },
+ {
+  "order": 27,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "錦山も風間の<b>子飼い</b>や。",
+  "word": "子飼い",
+  "reading": "こがい",
+  "meaning": "rearing from infancy",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) rearing from infancy",
+   "(noun) training from an early age (e.g. an apprentice); teaching from an early stage (e.g. a subordinate)"
+  ]
+ },
+ {
+  "order": 28,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>与え</b>られた仕事さえ完璧にこなせばな。",
+  "word": "与える",
+  "reading": "あたえる",
+  "meaning": "to give (esp. to someone of lower status); to bestow; to grant; to confer",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(verb) to give (esp. to someone of lower status); to bestow; to grant; to confer",
+   "(verb) to provide; to afford; to offer; to supply",
+   "(verb) to assign",
+   "(verb) to cause",
+   "(verb) to pass (a variable to a function)"
+  ]
+ },
+ {
+  "order": 29,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "これでみんな<b>ハッピー</b>ってわけだ。",
+  "word": "ハッピー",
+  "reading": "ハッピー",
+  "meaning": "happy",
+  "pos": "na-adjective",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(na-adjective) happy"
+  ]
+ },
+ {
+  "order": 30,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "え？　錦山さんの……　お<b>知り合い</b>ですか？",
+  "word": "知り合い",
+  "reading": "しりあい",
+  "meaning": "acquaintance",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "風間組若衆",
+  "uid": "01331465",
+  "candidates": [
+   "(noun) acquaintance"
+  ]
+ },
+ {
+  "order": 31,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "いや。これから初<b>対面</b>や。",
+  "word": "対面",
+  "reading": "たいめん",
+  "meaning": "meeting face-to-face; seeing in person",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331465",
+  "candidates": [
+   "(verb) meeting face-to-face; seeing in person",
+   "(verb) facing (each other); opposing (traffic, etc.); confronting"
+  ]
+ },
+ {
+  "order": 32,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お前は東城会から<b>抹消</b>されてる。",
+  "word": "抹消",
+  "reading": "まっしょう",
+  "meaning": "erasure; striking off; crossing out; cancellation",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "柏木",
+  "uid": "01331465",
+  "candidates": [
+   "(verb) erasure; striking off; crossing out; cancellation"
+  ]
+ },
+ {
+  "order": 33,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "こない<b>小汚い</b>事務所でよう言うわ。",
+  "word": "小汚い",
+  "reading": "こぎたない",
+  "meaning": "somehow dirty; slightly dirty; dingy",
+  "pos": "i-adjective",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331465",
+  "candidates": [
+   "(i-adjective) somehow dirty; slightly dirty; dingy",
+   "(i-adjective) somewhat base; vaguely underhanded"
+  ]
+ },
+ {
+  "order": 34,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もらってる。お前の死体が<b>転がっ</b>ても",
+  "word": "転がる",
+  "reading": "ころがる",
+  "meaning": "to roll; to tumble",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "柏木",
+  "uid": "01331469",
+  "candidates": [
+   "(verb) to roll; to tumble",
+   "(verb) to fall over; to roll over",
+   "(verb) to lie down",
+   "(verb) to be scattered about; to be lying around",
+   "(verb) (of a situation or outcome) to change; to turn out",
+   "(verb) to come easily; to be common; to fall into one's hands; to grow on trees"
+  ]
+ },
+ {
+  "order": 35,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それじゃ<b>つまん</b>ねえだろ。",
+  "word": "詰まる",
+  "reading": "つまる",
+  "meaning": "to be packed (with); to be filled; to be full (e.g. of a schedule)",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "柏木",
+  "uid": "01331469",
+  "candidates": [
+   "(verb) to be packed (with); to be filled; to be full (e.g. of a schedule)",
+   "(verb) to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up",
+   "(verb) to be become shorter; to shrink; to narrow",
+   "(verb) to be at a loss (for); to be pressed (for); to be stuck (for)",
+   "(verb) to come to the end; to be settled",
+   "(verb) to become a geminate consonant"
+  ]
+ },
+ {
+  "order": 36,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺もお前とは一度<b>やり合っ</b>てみたかったんだ。",
+  "word": "遣り合う",
+  "reading": "やりあう",
+  "meaning": "to compete with; to argue with; to quarrel",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "柏木",
+  "uid": "01331469",
+  "candidates": [
+   "(verb) to compete with; to argue with; to quarrel"
+  ]
+ },
+ {
+  "order": 37,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>おっぱじめよう</b>ぜ、真島ぁ!!",
+  "word": "おっぱじめる",
+  "reading": "おっぱじめる",
+  "meaning": "to start; to begin; to commence",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "柏木",
+  "uid": "01331469",
+  "candidates": [
+   "(verb) to start; to begin; to commence"
+  ]
+ },
+ {
+  "order": 38,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "彼女の兄貴が殺された<b>直後</b>、行方が……",
+  "word": "直後",
+  "reading": "ちょくご",
+  "meaning": "immediately following",
+  "pos": "adverb",
+  "chapter": 15,
+  "speaker": "錦山",
+  "uid": "01331470",
+  "candidates": [
+   "(adverb) immediately following"
+  ]
+ },
+ {
+  "order": 39,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "後から妹も<b>来日</b>してたと知って彼女を探してた。",
+  "word": "来日",
+  "reading": "らいにち",
+  "meaning": "coming to Japan; visit to Japan; arrival in Japan",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "錦山",
+  "uid": "01331470",
+  "candidates": [
+   "(verb) coming to Japan; visit to Japan; arrival in Japan"
+  ]
+ },
+ {
+  "order": 40,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そこに<b>連れ帰っ</b>た後に、あの娘は消えた……",
+  "word": "連れ帰る",
+  "reading": "つれかえる",
+  "meaning": "to bring (someone) back home; to take (someone) back home",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "錦山",
+  "uid": "01331470",
+  "candidates": [
+   "(verb) to bring (someone) back home; to take (someone) back home"
+  ]
+ },
+ {
+  "order": 41,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺も桐生も死んだ立華に<b>合わせる</b>顔がねえ……！",
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "to match (rhythm, speed, etc.)",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "錦山",
+  "uid": "01331470",
+  "candidates": [
+   "(verb) to match (rhythm, speed, etc.)",
+   "(verb) to join together; to unite; to combine; to add up",
+   "(verb) to face; to be opposite (someone)",
+   "(verb) to compare; to check with",
+   "(verb) to cause to meet (e.g. an unpleasant fate)",
+   "(verb) to place together; to connect; to overlap"
+  ]
+ },
+ {
+  "order": 42,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "近江連合の<b>上層</b>部と嶋野の“共同作戦”なんだよ。",
+  "word": "上層",
+  "reading": "じょうそう",
+  "meaning": "upper stratum (classes, stories, storeys); upper layer; layer above",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(noun) upper stratum (classes, stories, storeys); upper layer; layer above"
+  ]
+ },
+ {
+  "order": 43,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "近江連合の上層部と嶋野の“<b>共同</b>作戦”なんだよ。",
+  "word": "共同",
+  "reading": "きょうどう",
+  "meaning": "cooperation; collaboration; association; partnership",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) cooperation; collaboration; association; partnership",
+   "(verb) community; communal use; common possession; sharing"
+  ]
+ },
+ {
+  "order": 44,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "近江連合の上層部と嶋野の“共同<b>作戦</b>”なんだよ。",
+  "word": "作戦",
+  "reading": "さくせん",
+  "meaning": "tactics; strategy",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(noun) tactics; strategy",
+   "(noun) military operation; naval operation"
+  ]
+ },
+ {
+  "order": 45,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そん時、嶋野と近江連合は神室町の<b>取り分</b>を話し合う",
+  "word": "取り分",
+  "reading": "とりぶん",
+  "meaning": "one's share; one's portion",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(noun) one's share; one's portion"
+  ]
+ },
+ {
+  "order": 46,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そん時、嶋野と近江連合は神室町の取り分を<b>話し合う</b>",
+  "word": "話し合う",
+  "reading": "はなしあう",
+  "meaning": "to discuss; to talk together",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) to discuss; to talk together"
+  ]
+ },
+ {
+  "order": 47,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "神室町の<b>支配</b>者の座さ。……近江連合側のね。",
+  "word": "支配",
+  "reading": "しはい",
+  "meaning": "rule; domination; control",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) rule; domination; control",
+   "(verb) direction; management; guidance",
+   "(verb) control (of one's destiny, public opinion, etc.); governing; influence; sway",
+   "(verb) government"
+  ]
+ },
+ {
+  "order": 48,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "神室町の支配者の<b>座さ</b>。……近江連合側のね。",
+  "word": "座する",
+  "reading": "ざする",
+  "meaning": "to sit; to squat",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": [
+   "(verb) to sit; to squat",
+   "(verb) to be implicated"
+  ]
+ },
+ {
+  "order": 49,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "今は直系の嶋野組も元を<b>ただしゃ</b>堂島組の系列。",
+  "word": "正す",
+  "reading": "ただす",
+  "meaning": "to correct; to rectify; to reform; to amend",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(verb) to correct; to rectify; to reform; to amend",
+   "(verb) to straighten (one's posture, collar, etc.); to adjust"
+  ]
+ },
+ {
+  "order": 50,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "今は直系の嶋野組も元をただしゃ堂島組の<b>系列</b>。",
+  "word": "系列",
+  "reading": "けいれつ",
+  "meaning": "series; sequence; system; succession",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "candidates": [
+   "(noun) series; sequence; system; succession",
+   "(noun) keiretsu (group); conglomeration of businesses linked by cross-shareholdings",
+   "(adj-no) affiliated; subsidiary"
+  ]
+ },
+ {
+  "order": 51,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "こない<b>化けモン</b>が、風間組にはおったんか……",
+  "word": "化け物",
+  "reading": "ばけもの",
+  "meaning": "goblin; apparition; monster; ghost",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331469",
+  "candidates": [
+   "(noun) goblin; apparition; monster; ghost"
+  ]
+ },
+ {
+  "order": 52,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "こない化けモンが、風間組に<b>はおっ</b>たんか……",
+  "word": "羽織る",
+  "reading": "はおる",
+  "meaning": "to put on (coat, gown, etc.)",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331469",
+  "candidates": [
+   "(verb) to put on (coat, gown, etc.)"
+  ]
+ },
+ {
+  "order": 53,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "さっさと答えんと、コイツの<b>左目</b>えぐるで。",
+  "word": "左目",
+  "reading": "ひだりめ",
+  "meaning": "left eye",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331469",
+  "candidates": [
+   "(noun) left eye"
+  ]
+ },
+ {
+  "order": 54,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "さっさと答えんと、コイツの左目<b>えぐる</b>で。",
+  "word": "抉る",
+  "reading": "えぐる",
+  "meaning": "to gouge; to hollow out; to bore; to excavate",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "真島",
+  "uid": "01331469",
+  "candidates": [
+   "(verb) to gouge; to hollow out; to bore; to excavate",
+   "(verb) to greatly perturb; to cause emotional pain",
+   "(verb) to get to the bottom of things; to relentlessly bring the truth to light"
+  ]
+ },
+ {
+  "order": 55,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "いたらしい。下手<b>打っ</b>て左目えぐられたって",
+  "word": "打つ",
+  "reading": "うつ",
+  "meaning": "to hit; to strike; to knock; to beat",
+  "pos": "verb",
+  "chapter": 15,
+  "speaker": "錦山",
+  "uid": "01331470",
+  "candidates": [
+   "(verb) to hit; to strike; to knock; to beat",
+   "(verb) to strike (noon, etc.); to sound (cymbals, etc.); to beat (a drum, etc.)",
+   "(verb) to beat (rhythmically, e.g. pulse, waves, etc.)",
+   "(verb) to move; to impress; to touch",
+   "(verb) to drive in; to hammer in; to put in; to inject",
+   "(verb) to type; to send; to transmit"
+  ]
+ }
+]
