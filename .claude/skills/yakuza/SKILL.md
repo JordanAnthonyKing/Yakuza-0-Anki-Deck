@@ -29,6 +29,8 @@ Run Python as `.venv/Scripts/python.exe` from the repo root (`C:\Users\jordan\re
      - `DONE`: all story chapters are complete. Tell the user.
    - When a chapter completes (`[chN] COMPLETE: …`), give the user a one-line note
      (cards, official %) and keep going.
+   - Tiny gate jobs (a `bracket` or `verify` input of ≤3 cards) aren't worth an agent's ~45k-token
+     overhead: judge them yourself by the same prompt's rules and write the output file, then `advance`.
 3. **One agent at a time** by default: it wastes the least when a usage limit hits. Only if the
    user explicitly asks to go faster (e.g. "I've only got an hour") may you run two jobs from the
    same agent step at once. Never run jobs from different steps together.
