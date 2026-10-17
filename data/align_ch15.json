@@ -1,0 +1,903 @@
+[
+ {
+  "order": 0,
+  "word": "空振り",
+  "reading": "からぶり",
+  "meaning": "swing and a miss",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0033144e",
+  "sentence": "……結局ここも空振りっちゅうわけか。",
+  "parity": true,
+  "official_candidate": "(Another swing and a miss... Where the hell is she?)",
+  "official_neighbors": [
+   "I hear the Dojima Family's chasing 'em. Don't know the details, though.",
+   "Got it... Thanks, pal."
+  ]
+ },
+ {
+  "order": 1,
+  "word": "収穫",
+  "reading": "しゅうかく",
+  "meaning": "harvest; crop; ingathering",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "……収穫はあったか？　真島ちゃん。",
+  "parity": true,
+  "official_candidate": "You got any news for me, Majima-chan?",
+  "official_neighbors": [
+   "Whaddaya expect me to find, just strollin' around?"
+  ]
+ },
+ {
+  "order": 2,
+  "word": "幅",
+  "reading": "はば",
+  "meaning": "width; breadth",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "我慢してんだ。近江の人間が神室町で幅きかしてたら",
+  "parity": true,
+  "official_candidate": "I'm putting up with the sardine treatment here in this tiny room. An Omi man goes strutting around Kamurocho and it's suddenly a thing. You're my only ears and eye out there.",
+  "official_neighbors": [
+   "Yeah.",
+   "Then it seems to me you might want to start putting a little more effort into this, eh tiger?",
+   "Fine, but why not call Shimano in on this, then? Own up to the fact you let the girl give you the slip."
+  ]
+ },
+ {
+  "order": 3,
+  "word": "買い取る",
+  "reading": "かいとる",
+  "meaning": "to buy; to purchase; to buy out",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "１００億で買いとる用意がある。",
+  "parity": true,
+  "official_candidate": "The Omi's got a deal to buy the Empty Lot from Shimano for ten billion.",
+  "official_neighbors": [
+   "This business with Makoto Makimura's a joint operation between the Omi Alliance brass and Shimano.",
+   "What the hell?",
+   "The Omi's got their eyes on the prize. Kamurocho. That lot's the cornerstone of the whole Kamurocho Revitalization Project."
+  ]
+ },
+ {
+  "order": 4,
+  "word": "兵隊",
+  "reading": "へいたい",
+  "meaning": "armed forces; military; troops",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "そうなりゃ近江は山ほど兵隊を神室町に",
+  "parity": true,
+  "official_candidate": "Then it's just a matter of the Omi Alliance flooding into Kamurocho with ground troops before the Tojo even knows what hit 'em. They make the ten billion back in no time.",
+  "official_neighbors": [
+   "The Omi's got their eyes on the prize. Kamurocho. That lot's the cornerstone of the whole Kamurocho Revitalization Project.",
+   "If the Omi gets their hands on it, they can snatch that whole fat slice of Tojo turf right out from under 'em.",
+   "So what, Shimano's selling the Tojo Clan out? He's selling the Empty Lot knowin' that's their plan!?",
+   "Yup. Shimano's end-game is to use those Omi troops as muscle to take over the Tojo Clan for himself."
+  ]
+ },
+ {
+  "order": 5,
+  "word": "送り込む",
+  "reading": "おくりこむ",
+  "meaning": "to send in",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "送り込めるんだよ。東城会が抵抗する間もなくな。",
+  "parity": true,
+  "official_candidate": "Then it's just a matter of the Omi Alliance flooding into Kamurocho with ground troops before the Tojo even knows what hit 'em. They make the ten billion back in no time.",
+  "official_neighbors": [
+   "The Omi's got their eyes on the prize. Kamurocho. That lot's the cornerstone of the whole Kamurocho Revitalization Project.",
+   "If the Omi gets their hands on it, they can snatch that whole fat slice of Tojo turf right out from under 'em.",
+   "So what, Shimano's selling the Tojo Clan out? He's selling the Empty Lot knowin' that's their plan!?",
+   "Yup. Shimano's end-game is to use those Omi troops as muscle to take over the Tojo Clan for himself."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "進出",
+  "reading": "しんしゅつ",
+  "meaning": "advance (into a new market, industry, etc.); expansion (into); launch (into); entering",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "そっ。嶋野は東京に進出してきた近江の兵隊を",
+  "parity": true,
+  "official_candidate": "Yup. Shimano's end-game is to use those Omi troops as muscle to take over the Tojo Clan for himself.",
+  "official_neighbors": [
+   "Then it's just a matter of the Omi Alliance flooding into Kamurocho with ground troops before the Tojo even knows what hit 'em. They make the ten billion back in no time.",
+   "So what, Shimano's selling the Tojo Clan out? He's selling the Empty Lot knowin' that's their plan!?",
+   "He gives the Omi a slice of Tokyo in exchange for getting to sit on the Tojo Clan throne."
+  ]
+ },
+ {
+  "order": 7,
+  "word": "見返り",
+  "reading": "みかえり",
+  "meaning": "reward; compensation; repayment; something done or given in return",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "近江の東京進出を許す見返りに",
+  "parity": true,
+  "official_candidate": "He gives the Omi a slice of Tokyo in exchange for getting to sit on the Tojo Clan throne.",
+  "official_neighbors": [
+   "So what, Shimano's selling the Tojo Clan out? He's selling the Empty Lot knowin' that's their plan!?",
+   "Yup. Shimano's end-game is to use those Omi troops as muscle to take over the Tojo Clan for himself.",
+   "When the time comes, Shimano and the Omi will have to work out how they split Kamurocho. If I show weakness now, I'm giving Shimano leverage down the line."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "端切れ",
+  "reading": "はぎれ",
+  "meaning": "scrap of cloth; odds and ends",
+  "pos": "noun",
+  "speaker": "嶋野",
+  "uid": "01331448",
+  "sentence": "一帯にある、端切れの土地や。",
+  "parity": true,
+  "official_candidate": "The Empty Lot's a shit stripe of land sandwiched 'tween Shichifuku Street and Taihei Boulevard.",
+  "official_neighbors": [
+   "(Wait, am I where I think I am?)",
+   "(It should be just up here...)"
+  ]
+ },
+ {
+  "order": 9,
+  "word": "一味",
+  "reading": "いちみ",
+  "meaning": "clan; partisans; conspirators; gang",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331448",
+  "sentence": "ここはあの風間組や……　他の組とは一味違う。",
+  "parity": true,
+  "official_candidate": "(Can't hurt to prepare first. 'Specially seein' as this is Kazama's people. They're a different breed than those other Dojima jokers, and I ain't takin' risks now.)",
+  "official_neighbors": [
+   "(The Kazama Family office... This Nishikiyama guy's s'posed to be a regular here.)"
+  ]
+ },
+ {
+  "order": 10,
+  "word": "入り浸る",
+  "reading": "いりびたる",
+  "meaning": "to stay long; to hang around; to hang out; to frequent",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331448",
+  "sentence": "錦山いう男が入り浸っとるいう話やが……",
+  "parity": true,
+  "official_candidate": "(The Kazama Family office... This Nishikiyama guy's s'posed to be a regular here.)",
+  "official_neighbors": [
+   "(Can't hurt to prepare first. 'Specially seein' as this is Kazama's people. They're a different breed than those other Dojima jokers, and I ain't takin' risks now.)",
+   "(I'm sure I'll have to throw down whether he's there or not... Am I ready?)",
+   "(Let's do this shit!)"
+  ]
+ },
+ {
+  "order": 11,
+  "word": "うだうだ",
+  "reading": "うだうだ",
+  "meaning": "going on and on (about inconsequential things); talking nonsense",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331448",
+  "sentence": "……ウダウダ考えとってもしゃあない。",
+  "parity": true,
+  "official_candidate": "(...Mopin' about it won't get me anywhere. I gotta find her.)",
+  "official_neighbors": [
+   "(Can't hurt to prepare first. 'Specially seein' as this is Kazama's people. They're a different breed than those other Dojima jokers, and I ain't takin' risks now.)",
+   "(I'll start with this Nishikiyama at the Kazama Family office. Make him tell me where Kiryu is.)"
+  ]
+ },
+ {
+  "order": 12,
+  "word": "無礼",
+  "reading": "ぶれい",
+  "meaning": "rudeness; impoliteness; discourtesy; insolence",
+  "pos": "na-adjective",
+  "speaker": "古参の嶋野組組員",
+  "uid": "01331448",
+  "sentence": "若いモンのご無礼をお許しください。",
+  "parity": true,
+  "official_candidate": "I hope you'll cut the young blood some slack. I'd like to make up for their rudeness by escorting you somewhere.",
+  "official_neighbors": [
+   "You haven't changed, Majima-san.",
+   "Huh?",
+   "Like I just got through tellin' these guys, I'm kinda busy at the moment.",
+   "Patriarch Shimano wants to see you."
+  ]
+ },
+ {
+  "order": 13,
+  "word": "知らせ",
+  "reading": "しらせ",
+  "meaning": "news; word; tidings; notice",
+  "pos": "noun",
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "sentence": "街のモンからあんたを見たって知らせがあってな。",
+  "parity": true,
+  "official_candidate": "Word from our guys on the street was that you were back in town. Figured you'd be rotting in a Sotenbori ditch by now.",
+  "official_neighbors": [
+   "......",
+   "What's somebody the family erased doing back in Kamurocho? I'm real curious to hear. Let's take a walk to the office."
+  ]
+ },
+ {
+  "order": 14,
+  "word": "野垂れ死ぬ",
+  "reading": "のたれじぬ",
+  "meaning": "to die by the roadside; to die a dog's death",
+  "pos": "verb",
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "sentence": "今頃蒼天堀でのたれ死んでんのかと思ってたがよ。",
+  "parity": true,
+  "official_candidate": "Word from our guys on the street was that you were back in town. Figured you'd be rotting in a Sotenbori ditch by now.",
+  "official_neighbors": [
+   "......",
+   "What's somebody the family erased doing back in Kamurocho? I'm real curious to hear. Let's take a walk to the office."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "身分",
+  "reading": "みぶん",
+  "meaning": "(social) standing; status; position; rank",
+  "pos": "noun",
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "sentence": "自由に街を歩いてていい身分じゃねえだろ。",
+  "parity": true,
+  "official_candidate": "That's not what we want to hear, man. Besides, these streets are off limits to you. I don't recall hearing the boss give you permission to walk free.",
+  "official_neighbors": [
+   "Sorry, but I'm in a hurry. I'll be sure to make a house call next time I'm in the neighborhood.",
+   "......",
+   "What, the silent treatment now!?"
+  ]
+ },
+ {
+  "order": 16,
+  "word": "許し",
+  "reading": "ゆるし",
+  "meaning": "pardon; forgiveness; exemption; permission",
+  "pos": "noun",
+  "speaker": "嶋野組組員",
+  "uid": "01331448",
+  "sentence": "親父から許しが出たなんて話は聞いてねえぞ。",
+  "parity": true,
+  "official_candidate": "That's not what we want to hear, man. Besides, these streets are off limits to you. I don't recall hearing the boss give you permission to walk free.",
+  "official_neighbors": [
+   "Sorry, but I'm in a hurry. I'll be sure to make a house call next time I'm in the neighborhood.",
+   "......",
+   "What, the silent treatment now!?"
+  ]
+ },
+ {
+  "order": 17,
+  "word": "膳立て",
+  "reading": "ぜんだて",
+  "meaning": "setting the table; laying the table",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "でなきゃこんなお膳立てはしねえもんな。",
+  "parity": true,
+  "official_candidate": "Fine, you win. You gonna make me say it? You already know, or you wouldn't have bothered with the fancy dinner.",
+  "official_neighbors": [
+   "Don't you got the answer to that one? Bro, maybe ya wanna tell me what brings ya out to Kamurocho?",
+   "Heh heh heh.",
+   "Makoto Makimura fled Sotenbori. Right now, guys from some \"Tachibana Real Estate\" group have got her up here in Kamurocho."
+  ]
+ },
+ {
+  "order": 18,
+  "word": "浮かぶ",
+  "reading": "うかぶ",
+  "meaning": "to float; to be suspended",
+  "pos": "verb",
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "sentence": "目に浮かぶでぇ？　殺しの命令を受けたお前は、",
+  "parity": true,
+  "official_candidate": "I can just picture it. You get orders to whack the girl, but ya go hide her away someplace safe instead, right? Exactly what I wanted ya to do.",
+  "official_neighbors": [
+   "Hey, what the fuck?",
+   "Haven't ya figured it out, Majima? I know ya better than ya know your damn self.",
+   "You serious right now?",
+   "You maybe wanna explain this to me, bro?"
+  ]
+ },
+ {
+  "order": 19,
+  "word": "生き死に",
+  "reading": "いきしに",
+  "meaning": "life and death; life or death",
+  "pos": "noun",
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "sentence": "神室町再開発計画……　その生き死にが",
+  "parity": true,
+  "official_candidate": "Dojima's been pourin' fucktons of money into this Kamurocho Revitalization Project. And that Empty Lot's got the power to shit the bed on the whole deal.",
+  "official_neighbors": [
+   "The Empty Lot's a shit stripe of land sandwiched 'tween Shichifuku Street and Taihei Boulevard. And right now it's got the whole fuckin' Tojo Clan by the balls.",
+   "Guess what happens if Sohei Dojima scores that land? Tojo Clan profits go through the fuckin' roof, and they make him next chairman, guaranteed."
+  ]
+ },
+ {
+  "order": 20,
+  "word": "表立つ",
+  "reading": "おもてだつ",
+  "meaning": "to become public; to become known; to come out in the open",
+  "pos": "verb",
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "sentence": "風間も、親の堂島には表立って楯突けん。",
+  "parity": true,
+  "official_candidate": "Not even Kazama can openly dick with Dojima, though. That's why he's usin' his pawns over at Tachibana's to fight by proxy.",
+  "official_neighbors": [
+   "Kazuma Kiryu...",
+   "Heh, not like you can cast stones, bro. The Shimano Family may be Tojo Clan direct now, but you used to be a Dojima branch yourself. Can't just turn your guns on ol' Sohei.",
+   "So you've been using Majima-chan here, whose name's been conveniently wiped from the family roster, no?"
+  ]
+ },
+ {
+  "order": 21,
+  "word": "弓",
+  "reading": "ゆみ",
+  "meaning": "bow (weapon)",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "堂島宗兵ってかつての親に弓は引けねえ。",
+  "parity": true,
+  "official_candidate": "Heh, not like you can cast stones, bro. The Shimano Family may be Tojo Clan direct now, but you used to be a Dojima branch yourself. Can't just turn your guns on ol' Sohei.",
+  "official_neighbors": [
+   "Not even Kazama can openly dick with Dojima, though. That's why he's usin' his pawns over at Tachibana's to fight by proxy.",
+   "So you've been using Majima-chan here, whose name's been conveniently wiped from the family roster, no?",
+   "Heh, guilty."
+  ]
+ },
+ {
+  "order": 22,
+  "word": "マキ",
+  "reading": "まき",
+  "meaning": "yew plum pine (Podocarpus macrophyllus)",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "殺せと命令してまでマキムラに",
+  "parity": true,
+  "official_candidate": "So? What's your game with all this? Why send Majima-chan off to kill-but-not-actually-kill Makimura?",
+  "official_neighbors": [
+   "So you've been using Majima-chan here, whose name's been conveniently wiped from the family roster, no?",
+   "Heh, guilty.",
+   "To earn her trust. Real trust, not some back door deal cut over a dirty chat."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "愛",
+  "reading": "あい",
+  "meaning": "love; affection; care",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "フッ、なるほど……　愛か。",
+  "parity": true,
+  "official_candidate": "Ha, I'm seeing it now... Love.",
+  "official_neighbors": [
+   "To earn her trust. Real trust, not some back door deal cut over a dirty chat.",
+   "Exactly. From that girl's view, there ain't a man alive she's gonna trust more'n a man sent to kill her but saved her instead.",
+   "Keep buildin' on that, and eventually she'll do anythin' he tells her to. Including selling me that chunk of land."
+  ]
+ },
+ {
+  "order": 24,
+  "word": "盲目",
+  "reading": "もうもく",
+  "meaning": "blindness",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "愛は盲目ってやつか。",
+  "parity": true,
+  "official_candidate": "A woman in love'll do anything for her man, huh? I guess love is as blind as her.",
+  "official_neighbors": [
+   "Exactly. From that girl's view, there ain't a man alive she's gonna trust more'n a man sent to kill her but saved her instead.",
+   "Keep buildin' on that, and eventually she'll do anythin' he tells her to. Including selling me that chunk of land.",
+   "And that ain't quite all. I had another reason I needed Makoto Makimura to lay low a while."
+  ]
+ },
+ {
+  "order": 25,
+  "word": "炙り出す",
+  "reading": "あぶりだす",
+  "meaning": "to bring into the open; to reveal; to uncover (e.g. evidence); to bring to light",
+  "pos": "verb",
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "sentence": "東城会内部の風間派を全部あぶり出すためや。",
+  "parity": true,
+  "official_candidate": "To flush out all of Kazama's little shits in the Tojo Clan. Need to know who to toss overboard before I take the helm.",
+  "official_neighbors": [
+   "And that ain't quite all. I had another reason I needed Makoto Makimura to lay low a while.",
+   "And what's that?",
+   "Heh, and no sooner than the girl goes missin', one Tojo rat crawls outta his hole. That shiny Nikkyo Consortium asshole... Sera."
+  ]
+ },
+ {
+  "order": 26,
+  "word": "案の定",
+  "reading": "あんのじょう",
+  "meaning": "as expected; just as one thought; as feared; sure enough",
+  "pos": "adverb",
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "sentence": "フッ、女が消えたら案の定動き出した",
+  "parity": true,
+  "official_candidate": "Heh, and no sooner than the girl goes missin', one Tojo rat crawls outta his hole. That shiny Nikkyo Consortium asshole... Sera.",
+  "official_neighbors": [
+   "And what's that?",
+   "To flush out all of Kazama's little shits in the Tojo Clan. Need to know who to toss overboard before I take the helm.",
+   "You get the credit for ferreting Sera out, Majima."
+  ]
+ },
+ {
+  "order": 27,
+  "word": "子飼い",
+  "reading": "こがい",
+  "meaning": "rearing from infancy",
+  "pos": "noun",
+  "speaker": "嶋野",
+  "uid": "0133145e",
+  "sentence": "錦山も風間の子飼いや。",
+  "parity": true,
+  "official_candidate": "Nishikiyama's another one of Kazama's charity cases. Drops by the Kazama Family office a lot.",
+  "official_neighbors": [
+   "Yeah, well, sorry for the reality check, but we have no idea where she is. If this is all playing out to your script, how about a little help, bro?",
+   "The guy draggin' her around is Tachibana's grunt, Kiryu. You find his oath brother, Nishikiyama, and he'll lead ya straight to Kiryu.",
+   "Tch, some fucking day... But hey, lucky you, Majima-chan. You don't have to kill the girl. You'll get back in the Tojo Clan, too. Just as long as you don't screw this up.",
+   "I'd say you're makin' out like a bandit in all this, huh? It's happily-ever-after for everyone involved."
+  ]
+ },
+ {
+  "order": 28,
+  "word": "与える",
+  "reading": "あたえる",
+  "meaning": "to give (esp. to someone of lower status); to bestow; to grant; to confer",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "与えられた仕事さえ完璧にこなせばな。",
+  "parity": true,
+  "official_candidate": "Tch, some fucking day... But hey, lucky you, Majima-chan. You don't have to kill the girl. You'll get back in the Tojo Clan, too. Just as long as you don't screw this up.",
+  "official_neighbors": [
+   "The guy draggin' her around is Tachibana's grunt, Kiryu. You find his oath brother, Nishikiyama, and he'll lead ya straight to Kiryu.",
+   "Nishikiyama's another one of Kazama's charity cases. Drops by the Kazama Family office a lot.",
+   "I'd say you're makin' out like a bandit in all this, huh? It's happily-ever-after for everyone involved.",
+   "Ya see, didn't I tell ya I had good news? Eh, Majima?"
+  ]
+ },
+ {
+  "order": 29,
+  "word": "ハッピー",
+  "reading": "ハッピー",
+  "meaning": "happy",
+  "pos": "na-adjective",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "これでみんなハッピーってわけだ。",
+  "parity": true,
+  "official_candidate": "I'd say you're makin' out like a bandit in all this, huh? It's happily-ever-after for everyone involved.",
+  "official_neighbors": [
+   "Nishikiyama's another one of Kazama's charity cases. Drops by the Kazama Family office a lot.",
+   "Tch, some fucking day... But hey, lucky you, Majima-chan. You don't have to kill the girl. You'll get back in the Tojo Clan, too. Just as long as you don't screw this up.",
+   "Ya see, didn't I tell ya I had good news? Eh, Majima?"
+  ]
+ },
+ {
+  "order": 30,
+  "word": "知り合い",
+  "reading": "しりあい",
+  "meaning": "acquaintance",
+  "pos": "noun",
+  "speaker": "風間組若衆",
+  "uid": "01331465",
+  "sentence": "え？　錦山さんの……　お知り合いですか？",
+  "parity": true,
+  "official_candidate": "Huh? Are you... a friend of Nishikiyama-san's?",
+  "official_neighbors": [
+   "...Whoa, hold up. Who the hell are you?",
+   "Name's Majima. Nishkiyama of the Dojima Family-- He around?",
+   "Nah. We're about to get acquainted.",
+   "Huh!? Is this some kinda joke? What the hell's your deal?"
+  ]
+ },
+ {
+  "order": 31,
+  "word": "対面",
+  "reading": "たいめん",
+  "meaning": "meeting face-to-face; seeing in person",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331465",
+  "sentence": "いや。これから初対面や。",
+  "parity": true,
+  "official_candidate": "Nah. We're about to get acquainted.",
+  "official_neighbors": [
+   "Name's Majima. Nishkiyama of the Dojima Family-- He around?",
+   "Huh? Are you... a friend of Nishikiyama-san's?",
+   "Huh!? Is this some kinda joke? What the hell's your deal?",
+   "I take it that's a no on Nishikiyama?"
+  ]
+ },
+ {
+  "order": 32,
+  "word": "抹消",
+  "reading": "まっしょう",
+  "meaning": "erasure; striking off; crossing out; cancellation",
+  "pos": "verb",
+  "speaker": "柏木",
+  "uid": "01331465",
+  "sentence": "お前は東城会から抹消されてる。",
+  "parity": true,
+  "official_candidate": "You've been erased from the Tojo Clan. You are not welcome here.",
+  "official_neighbors": [
+   "And is there some reason I should listen to you?",
+   "'Scuse me?",
+   "Enough talk. All I'm askin' here's for you to cough up Nishikiyama. Now if you got that through yer damn head, where IS he!?",
+   "Nishikiyama, Kiryu... I'm not giving them to you."
+  ]
+ },
+ {
+  "order": 33,
+  "word": "小汚い",
+  "reading": "こぎたない",
+  "meaning": "somehow dirty; slightly dirty; dingy",
+  "pos": "i-adjective",
+  "speaker": "真島",
+  "uid": "01331465",
+  "sentence": "こない小汚い事務所でよう言うわ。",
+  "parity": true,
+  "official_candidate": "Yeah, hate to get blood on all the dusty office supplies. ...Fine, whatever.",
+  "official_neighbors": [
+   "You all stay here. This is mine.",
+   "Majima, follow me. We'll do this outside. This office is sacred ground. I won't have it stained with your blood."
+  ]
+ },
+ {
+  "order": 34,
+  "word": "転がる",
+  "reading": "ころがる",
+  "meaning": "to roll; to tumble",
+  "pos": "verb",
+  "speaker": "柏木",
+  "uid": "01331469",
+  "sentence": "もらってる。お前の死体が転がっても",
+  "parity": true,
+  "official_candidate": "It's a building I look after. In return, I'm free to use it as I like. Excellent janitorial staff. A dead body would get tidied up in no time at all.",
+  "official_neighbors": [
+   "Where are we?",
+   "Heh, you sure you want to do this solo? Not too late to back out now. Or do ya wanna call in the cavalry?",
+   "What fun would that be? I always wanted the chance to try you one-on-one."
+  ]
+ },
+ {
+  "order": 36,
+  "word": "遣り合う",
+  "reading": "やりあう",
+  "meaning": "to compete with; to argue with; to quarrel",
+  "pos": "verb",
+  "speaker": "柏木",
+  "uid": "01331469",
+  "sentence": "俺もお前とは一度やり合ってみたかったんだ。",
+  "parity": true,
+  "official_candidate": "What fun would that be? I always wanted the chance to try you one-on-one.",
+  "official_neighbors": [
+   "It's a building I look after. In return, I'm free to use it as I like. Excellent janitorial staff. A dead body would get tidied up in no time at all.",
+   "Heh, you sure you want to do this solo? Not too late to back out now. Or do ya wanna call in the cavalry?",
+   "To be honest, the prospect's had my heart racing since you walked in... Call it a yakuza's nature."
+  ]
+ },
+ {
+  "order": 37,
+  "word": "おっぱじめる",
+  "reading": "おっぱじめる",
+  "meaning": "to start; to begin; to commence",
+  "pos": "verb",
+  "speaker": "柏木",
+  "uid": "01331469",
+  "sentence": "……おっぱじめようぜ、真島ぁ!!",
+  "parity": true,
+  "official_candidate": "Let's see where this goes... Come at me, Majima!!",
+  "official_neighbors": []
+ },
+ {
+  "order": 38,
+  "word": "直後",
+  "reading": "ちょくご",
+  "meaning": "immediately following",
+  "pos": "adverb",
+  "speaker": "錦山",
+  "uid": "01331470",
+  "sentence": "彼女の兄貴が殺された直後、行方が……",
+  "parity": true,
+  "official_candidate": "It happened maybe three hours ago. Right after her brother was killed, she--",
+  "official_neighbors": [
+   "That the truth?",
+   "Hold up. What's this about Makoto's brother?",
+   "You didn't know? Tetsu Tachibana... The president of Tachibana Real Estate was Makoto's older brother."
+  ]
+ },
+ {
+  "order": 39,
+  "word": "来日",
+  "reading": "らいにち",
+  "meaning": "coming to Japan; visit to Japan; arrival in Japan",
+  "pos": "verb",
+  "speaker": "錦山",
+  "uid": "01331470",
+  "sentence": "後から妹も来日してたと知って彼女を探してた。",
+  "parity": true,
+  "official_candidate": "Tachibana came over to Japan solo as a stowaway. Once he heard she'd come here too, he started looking for her.",
+  "official_neighbors": [
+   "You serious?",
+   "They were the kids of a Japanese war orphan in China. Hadn't seen each other since they got split up ten years back.",
+   "Makoto was searching for him the whole time, too. The whole reason she was in Sotenbori was because she might find him there."
+  ]
+ },
+ {
+  "order": 40,
+  "word": "連れ帰る",
+  "reading": "つれかえる",
+  "meaning": "to bring (someone) back home; to take (someone) back home",
+  "pos": "verb",
+  "speaker": "錦山",
+  "uid": "01331470",
+  "sentence": "そこに連れ帰った後に、あの娘は消えた……",
+  "parity": true,
+  "official_candidate": "West Park. The homeless village. We brought her back there, then she disappeared.",
+  "official_neighbors": [
+   "Where'd you see her last?",
+   "So what, she's just out walkin' the streets right now? You understand this girl's got about a million yakuza on her ass, right!?"
+  ]
+ },
+ {
+  "order": 41,
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "to match (rhythm, speed, etc.)",
+  "pos": "verb",
+  "speaker": "錦山",
+  "uid": "01331470",
+  "sentence": "俺も桐生も死んだ立華に合わせる顔がねえ……！",
+  "parity": true,
+  "official_candidate": "Then you've gotta help us find her. If anything happens to her, Tachibana will beat the shit outta me and Kiryu from the afterlife!",
+  "official_neighbors": [
+   "Yeah.",
+   "Shit..."
+  ]
+ },
+ {
+  "order": 42,
+  "word": "上層",
+  "reading": "じょうそう",
+  "meaning": "upper stratum (classes, stories, storeys); upper layer; layer above",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "近江連合の上層部と嶋野の“共同作戦”なんだよ。",
+  "parity": true,
+  "official_candidate": "This business with Makoto Makimura's a joint operation between the Omi Alliance brass and Shimano.",
+  "official_neighbors": [
+   "Why's that?",
+   "The Omi's got a deal to buy the Empty Lot from Shimano for ten billion.",
+   "What the hell?"
+  ]
+ },
+ {
+  "order": 43,
+  "word": "共同",
+  "reading": "きょうどう",
+  "meaning": "cooperation; collaboration; association; partnership",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "近江連合の上層部と嶋野の“共同作戦”なんだよ。",
+  "parity": true,
+  "official_candidate": "This business with Makoto Makimura's a joint operation between the Omi Alliance brass and Shimano.",
+  "official_neighbors": [
+   "Why's that?",
+   "The Omi's got a deal to buy the Empty Lot from Shimano for ten billion.",
+   "What the hell?"
+  ]
+ },
+ {
+  "order": 44,
+  "word": "作戦",
+  "reading": "さくせん",
+  "meaning": "tactics; strategy",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "近江連合の上層部と嶋野の“共同作戦”なんだよ。",
+  "parity": true,
+  "official_candidate": "This business with Makoto Makimura's a joint operation between the Omi Alliance brass and Shimano.",
+  "official_neighbors": [
+   "Why's that?",
+   "The Omi's got a deal to buy the Empty Lot from Shimano for ten billion.",
+   "What the hell?"
+  ]
+ },
+ {
+  "order": 45,
+  "word": "取り分",
+  "reading": "とりぶん",
+  "meaning": "one's share; one's portion",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "そん時、嶋野と近江連合は神室町の取り分を話し合う",
+  "parity": true,
+  "official_candidate": "When the time comes, Shimano and the Omi will have to work out how they split Kamurocho. If I show weakness now, I'm giving Shimano leverage down the line.",
+  "official_neighbors": [
+   "He gives the Omi a slice of Tokyo in exchange for getting to sit on the Tojo Clan throne.",
+   "'Course, it was Shimano who picked you to play hitman. I'd say he's at least as guilty as I am in losing her."
+  ]
+ },
+ {
+  "order": 46,
+  "word": "話し合う",
+  "reading": "はなしあう",
+  "meaning": "to discuss; to talk together",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "そん時、嶋野と近江連合は神室町の取り分を話し合う",
+  "parity": true,
+  "official_candidate": "When the time comes, Shimano and the Omi will have to work out how they split Kamurocho. If I show weakness now, I'm giving Shimano leverage down the line.",
+  "official_neighbors": [
+   "He gives the Omi a slice of Tokyo in exchange for getting to sit on the Tojo Clan throne.",
+   "'Course, it was Shimano who picked you to play hitman. I'd say he's at least as guilty as I am in losing her."
+  ]
+ },
+ {
+  "order": 47,
+  "word": "支配",
+  "reading": "しはい",
+  "meaning": "rule; domination; control",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "01331445",
+  "sentence": "神室町の支配者の座さ。……近江連合側のね。",
+  "parity": true,
+  "official_candidate": "Mm... Heh. Kamurocho is my prize. Or the Omi half of it, anyway.",
+  "official_neighbors": [
+   "And for whatever reason, the Omi higher-ups are lined up for the show. He's one impressive son of a bitch, Shimano.",
+   "So what are you gettin' outta all this, then? Gotta be some prize in it for you, right?",
+   "Before, you said Shimano didn't tell you a thing about all this. That don't exactly square with what you're sayin' now."
+  ]
+ },
+ {
+  "order": 49,
+  "word": "正す",
+  "reading": "ただす",
+  "meaning": "to correct; to rectify; to reform; to amend",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "今は直系の嶋野組も元をただしゃ堂島組の系列。",
+  "parity": true,
+  "official_candidate": "Heh, not like you can cast stones, bro. The Shimano Family may be Tojo Clan direct now, but you used to be a Dojima branch yourself. Can't just turn your guns on ol' Sohei.",
+  "official_neighbors": [
+   "Not even Kazama can openly dick with Dojima, though. That's why he's usin' his pawns over at Tachibana's to fight by proxy.",
+   "So you've been using Majima-chan here, whose name's been conveniently wiped from the family roster, no?",
+   "Heh, guilty."
+  ]
+ },
+ {
+  "order": 50,
+  "word": "系列",
+  "reading": "けいれつ",
+  "meaning": "series; sequence; system; succession",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133145e",
+  "sentence": "今は直系の嶋野組も元をただしゃ堂島組の系列。",
+  "parity": true,
+  "official_candidate": "Heh, not like you can cast stones, bro. The Shimano Family may be Tojo Clan direct now, but you used to be a Dojima branch yourself. Can't just turn your guns on ol' Sohei.",
+  "official_neighbors": [
+   "Not even Kazama can openly dick with Dojima, though. That's why he's usin' his pawns over at Tachibana's to fight by proxy.",
+   "So you've been using Majima-chan here, whose name's been conveniently wiped from the family roster, no?",
+   "Heh, guilty."
+  ]
+ },
+ {
+  "order": 51,
+  "word": "化け物",
+  "reading": "ばけもの",
+  "meaning": "goblin; apparition; monster; ghost",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331469",
+  "sentence": "こない化けモンが、風間組にはおったんか……",
+  "parity": true,
+  "official_candidate": "Who knew the Kazama Family was breedin' monsters like this...",
+  "official_neighbors": [
+   "Ka-Kashiwagi-san!?"
+  ]
+ },
+ {
+  "order": 52,
+  "word": "羽織る",
+  "reading": "はおる",
+  "meaning": "to put on (coat, gown, etc.)",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331469",
+  "sentence": "こない化けモンが、風間組にはおったんか……",
+  "parity": true,
+  "official_candidate": "Who knew the Kazama Family was breedin' monsters like this...",
+  "official_neighbors": [
+   "Ka-Kashiwagi-san!?"
+  ]
+ },
+ {
+  "order": 53,
+  "word": "左目",
+  "reading": "ひだりめ",
+  "meaning": "left eye",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331469",
+  "sentence": "さっさと答えんと、コイツの左目えぐるで。",
+  "parity": true,
+  "official_candidate": "Stay tongue tied, and I'll dig out your buddy's left eye. He can join the club.",
+  "official_neighbors": [
+   "Hey, yer timing's perfect. Where's this Nishikiyama guy at?",
+   "Uh..."
+  ]
+ },
+ {
+  "order": 54,
+  "word": "抉る",
+  "reading": "えぐる",
+  "meaning": "to gouge; to hollow out; to bore; to excavate",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331469",
+  "sentence": "さっさと答えんと、コイツの左目えぐるで。",
+  "parity": true,
+  "official_candidate": "Stay tongue tied, and I'll dig out your buddy's left eye. He can join the club.",
+  "official_neighbors": [
+   "Hey, yer timing's perfect. Where's this Nishikiyama guy at?",
+   "Uh..."
+  ]
+ },
+ {
+  "order": 55,
+  "word": "打つ",
+  "reading": "うつ",
+  "meaning": "to hit; to strike; to knock; to beat",
+  "pos": "verb",
+  "speaker": "錦山",
+  "uid": "01331470",
+  "sentence": "いたらしい。下手打って左目えぐられたって",
+  "parity": true,
+  "official_candidate": "Before I got my stripes, I remember hearin' about a guy named Majima in the Shimano Family. I hear he screwed up so royally, they carved out an eye and erased him.",
+  "official_neighbors": [
+   "Majima, you said? Right?",
+   "Yeah."
+  ]
+ }
+]
