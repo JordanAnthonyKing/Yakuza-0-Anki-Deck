@@ -151,23 +151,6 @@
   ]
  },
  {
-  "order": 9,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "せやのに不動産屋に渡した<b>やと</b>？",
-  "word": "野兎",
-  "reading": "のうさぎ",
-  "meaning": "hare (esp. the Japanese hare, Lepus brachyurus)",
-  "pos": "noun",
-  "chapter": 12,
-  "speaker": "真島",
-  "uid": "013313e9",
-  "candidates": [
-   "(noun) hare (esp. the Japanese hare, Lepus brachyurus)",
-   "(noun) wild rabbit"
-  ]
- },
- {
   "order": 10,
   "kind": "i+1",
   "standalone": false,
