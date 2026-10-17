@@ -1,0 +1,32 @@
+{
+"引き上げ": "pulling up; drawing up; salvage; re-flotation",
+"そんな": "no way!; never!",
+"台詞": "comment; remark; phrase; words",
+"梯子": "ladder",
+"知らす": "to inform; to notify",
+"漏らす": "to let out (a secret); to leak (information); to divulge; to disclose",
+"後継": "successor",
+"本心": "true feelings; real intention; one's heart",
+"記録": "record; document; minutes; log",
+"手元": "at hand; on hand; nearby; close at hand",
+"最早": "no longer; not any more",
+"痛む": "to hurt; to ache; to feel a pain",
+"弱る": "to weaken; to grow weak; to wane; to decline (of one's health)",
+"狂わす": "to derail (a plan, etc.)",
+"鬼子": "child which does not resemble its parents; changeling",
+"根": "root (of a plant)",
+"注ぎ込む": "to pour in (money); to pump in (investment)",
+"暴走": "acting rashly; running wildly; behaving recklessly; rampaging",
+"行く行く": "in the future; someday; eventually",
+"負う": "to take (responsibility); to assume; to accept; to bear (the blame, costs, etc.)",
+"纏わる": "to be related to; to concern; to be associated with",
+"シナリオ": "scenario",
+"取り合う": "to join (hands); to take (each other's hands)",
+"鞍替え": "changing (one's job, loyalties, stance, etc.); switching over",
+"マネージャー": "manager",
+"__flags__": {
+"梯子": "sentence is ハシゴ(を)はずされて = ladder pulled away (figurative), fine as ladder",
+"鬼子": "日本鬼子 (Riben guizi) is a Chinese slur for Japanese, not the Japanese word おにご",
+"根": "根を張る = put down roots (figurative), fine"
+}
+}
