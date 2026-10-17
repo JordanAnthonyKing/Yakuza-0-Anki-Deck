@@ -1,0 +1,1156 @@
+[
+ {
+  "order": 0,
+  "word": "唯一",
+  "reading": "ゆいいつ",
+  "meaning": "only; sole; unique",
+  "pos": "adverb",
+  "speaker": "錦山",
+  "uid": "0133124d",
+  "sentence": "唯一の道だと……",
+  "parity": true,
+  "official_candidate": "He \"suggested\" I start trying to convince you too. He wants to make sure you know, giving up Tachibana's the only way you get out of this alive.",
+  "official_neighbors": [
+   "Yeah...",
+   "C'mon. The boss is going around town right now, digging up enough info to get your ass off the hook for that murder.",
+   "You planning to serve his head up to Dojima on a platter?"
+  ]
+ },
+ {
+  "order": 1,
+  "word": "タイミング",
+  "reading": "タイミング",
+  "meaning": "timing",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "0133124d",
+  "sentence": "……思ったよりそのタイミングが早かっただけだ。",
+  "parity": true,
+  "official_candidate": "Besides, I already knew I'd be making an enemy of the Dojima Family, eventually. Just happened sooner rather than later.",
+  "official_neighbors": [
+   "You shitheads are the ones who dragged Kiryu into this!",
+   "Ease off. He's been hurt, Nishiki.",
+   "You're seriously planning to go head-to-head with them? You've gotta be outta your fucking mind! Not even Kazama-san could have known things would get this bad!",
+   "Yeah, you might actually have a point there..."
+  ]
+ },
+ {
+  "order": 2,
+  "word": "易々",
+  "reading": "やすやす",
+  "meaning": "easily; readily; with ease; without trouble",
+  "pos": "adverb",
+  "speaker": "尾田",
+  "uid": "0133124d",
+  "sentence": "堂島組でさえやすやすとはつぶせない組織に……",
+  "parity": true,
+  "official_candidate": "Play that trump card right, and we could buy control over a huge chunk of Kamurocho. We'd be a force even the Dojima Family couldn't shuffle out of the deck so easily.",
+  "official_neighbors": [
+   "Even Tachibana was planning to have the Empty Lot in his pocket long before going to war with the Dojima Family.",
+   "To Dojima, that little plot's worth more than a billion yen.",
+   "But now... We never figured the Dojima lieutenants would force our hand this early in the game."
+  ]
+ },
+ {
+  "order": 3,
+  "word": "じたばた",
+  "reading": "ジタバタ",
+  "meaning": "(kicking and) struggling; wriggling; floundering; flailing",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "0133124d",
+  "sentence": "今さらジタバタしても始まんねえ。",
+  "parity": true,
+  "official_candidate": "Panicking now won't get me anywhere. I knew when I left the family that I'd be walking this path alone.",
+  "official_neighbors": [
+   "Hey wait, Kiryu! What the hell are you planning!?",
+   "I'll nab Kuze, and then clear my name. Back to square one."
+  ]
+ },
+ {
+  "order": 4,
+  "word": "黒幕",
+  "reading": "くろまく",
+  "meaning": "black curtain",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "もし久瀬があなたをハメた黒幕であれば、",
+  "parity": true,
+  "official_candidate": "I have looked into Kuze using my network. If he is really the one who framed you, he must have hired a killer to perform this hit.",
+  "official_neighbors": [
+   "I know that much...",
+   "And yet... Kuze left no sign of any such activity."
+  ]
+ },
+ {
+  "order": 5,
+  "word": "殺し屋",
+  "reading": "ころしや",
+  "meaning": "professional killer; hit man",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "ここでの殺しのために殺し屋を雇ったはずです。",
+  "parity": true,
+  "official_candidate": "I have looked into Kuze using my network. If he is really the one who framed you, he must have hired a killer to perform this hit.",
+  "official_neighbors": [
+   "I know that much...",
+   "And yet... Kuze left no sign of any such activity."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "食う",
+  "reading": "くう",
+  "meaning": "to eat",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "01331252",
+  "sentence": "そのわりに、尾田は泡食ってたがな。",
+  "parity": true,
+  "official_candidate": "Oda sure didn't seem to think so.",
+  "official_neighbors": [
+   "Yes. But please do not worry. I have no intention of disappearing from Kamurocho.",
+   "I did think that it would take the Dojima Family a while longer to catch on to our activities, but the situation is still well within expected tolerances.",
+   "I have yet to inform Oda-san of this, but as it happens, I have located the owner of the Empty Lot.",
+   "Huh?"
+  ]
+ },
+ {
+  "order": 7,
+  "word": "接触",
+  "reading": "せっしょく",
+  "meaning": "touch; contact; touching",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "ワケあってまだ接触はできていません。",
+  "parity": true,
+  "official_candidate": "Though for various reasons, I have yet to make contact.",
+  "official_neighbors": [
+   "I have yet to inform Oda-san of this, but as it happens, I have located the owner of the Empty Lot.",
+   "Huh?",
+   "Regardless, if we can find them and acquire the Empty Lot, the Dojima Family will come to us, hat in hand, begging us to sell it."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "売り渡す",
+  "reading": "うりわたす",
+  "meaning": "to sell over to",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "01331252",
+  "sentence": "あんたを今阿波野に売り渡せば……",
+  "parity": true,
+  "official_candidate": "You realize I could just sell you out to Awano, and get taken off the Dojima hit list altogether.",
+  "official_neighbors": [
+   "How long until you can pin down the lot's owner?",
+   "Give me one day. I must ask, however, that you tell no one. Not even Nishikiyama-san or Kashiwagi-san.",
+   "If you were the sort of man to do that, I certainly would not be visiting you in such a place as this."
+  ]
+ },
+ {
+  "order": 9,
+  "word": "のこのこ",
+  "reading": "のこのこ",
+  "meaning": "unconcernedly; nonchalantly; shamelessly; brazenly",
+  "pos": "adverb",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "のこのこ顔を出したりしませんよ。",
+  "parity": true,
+  "official_candidate": "If you were the sort of man to do that, I certainly would not be visiting you in such a place as this.",
+  "official_neighbors": [
+   "Give me one day. I must ask, however, that you tell no one. Not even Nishikiyama-san or Kashiwagi-san.",
+   "You realize I could just sell you out to Awano, and get taken off the Dojima hit list altogether.",
+   "I will get in touch with you tomorrow. Until then, please stay safe and out of the Dojima Family's hands, Kiryu-san."
+  ]
+ },
+ {
+  "order": 10,
+  "word": "生き延びる",
+  "reading": "いきのびる",
+  "meaning": "to survive; to live long",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "堂島組から生き延びてください。……桐生さん。",
+  "parity": true,
+  "official_candidate": "I will get in touch with you tomorrow. Until then, please stay safe and out of the Dojima Family's hands, Kiryu-san.",
+  "official_neighbors": [
+   "If you were the sort of man to do that, I certainly would not be visiting you in such a place as this."
+  ]
+ },
+ {
+  "order": 11,
+  "word": "キャット",
+  "reading": "キャット",
+  "meaning": "cat",
+  "pos": "noun",
+  "speaker": "",
+  "uid": "01331252",
+  "sentence": "キャットファイトか……",
+  "parity": true,
+  "official_candidate": "(The catfights are high-risk, high-return, but if I play it right, it feels like I could turn a hefty profit quick.)",
+  "official_neighbors": [
+   "(I've got a new way to make big bucks. What I really need now is some sleep. Time to rest up for tomorrow.)",
+   "(All I can do now is wait for word from Tachibana. Better head home and lie low there.)"
+  ]
+ },
+ {
+  "order": 12,
+  "word": "備える",
+  "reading": "そなえる",
+  "meaning": "to furnish with; to equip with; to provide; to install",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "01331252",
+  "sentence": "明日に備え、そろそろ家に戻るとするか……",
+  "parity": true,
+  "official_candidate": "(I've got a new way to make big bucks. What I really need now is some sleep. Time to rest up for tomorrow.)",
+  "official_neighbors": [
+   "(The catfights are high-risk, high-return, but if I play it right, it feels like I could turn a hefty profit quick.)",
+   "(All I can do now is wait for word from Tachibana. Better head home and lie low there.)",
+   "(If I'm gonna look into the case while I wait for Tachibana to get in touch, I should stick to places without a lot of people around.)"
+  ]
+ },
+ {
+  "order": 13,
+  "word": "潜む",
+  "reading": "ひそむ",
+  "meaning": "to lurk; to be hidden; to be concealed; to lie dormant",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "01331252",
+  "sentence": "なるべく人気のない場所に潜みながら",
+  "parity": true,
+  "official_candidate": "(If I'm gonna look into the case while I wait for Tachibana to get in touch, I should stick to places without a lot of people around.)",
+  "official_neighbors": [
+   "(I've got a new way to make big bucks. What I really need now is some sleep. Time to rest up for tomorrow.)",
+   "(All I can do now is wait for word from Tachibana. Better head home and lie low there.)",
+   "(And even then, I should be ready to run into Dojima's men at any moment.)"
+  ]
+ },
+ {
+  "order": 14,
+  "word": "逃げ場",
+  "reading": "にげば",
+  "meaning": "(place of) refuge; escape; exit; way out",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331252",
+  "sentence": "……街中、逃げ場はねえってわけか。",
+  "parity": true,
+  "official_candidate": "Guess nowhere's safe in the city now...",
+  "official_neighbors": [
+   "Go. Get as many guys as you can. Tell 'em we found Kiryu.",
+   "Yessir.",
+   "You gotta know how this ends for you, Kiryu! Struggling's only gonna make it hurt worse. This place'll be swarming with Dojima crew in a minute. You're not going anywhere.",
+   "And I've got no backup coming, so there's no reason for me to hold back. Let's just get to the fun part."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "追っ付け",
+  "reading": "おっつけ",
+  "meaning": "soon; shortly; before long; in a moment",
+  "pos": "adverb",
+  "speaker": "堂島組組員",
+  "uid": "01331252",
+  "sentence": "抵抗したって無駄だ。おっつけここは堂島組で",
+  "parity": true,
+  "official_candidate": "You gotta know how this ends for you, Kiryu! Struggling's only gonna make it hurt worse. This place'll be swarming with Dojima crew in a minute. You're not going anywhere.",
+  "official_neighbors": [
+   "Yessir.",
+   "Guess nowhere's safe in the city now...",
+   "And I've got no backup coming, so there's no reason for me to hold back. Let's just get to the fun part.",
+   "You that desperate to delay your execution? Pathetic. A traitor like you should shut up and swallow his medicine!"
+  ]
+ },
+ {
+  "order": 16,
+  "word": "ごった返す",
+  "reading": "ごったがえす",
+  "meaning": "to be in confusion or commotion; to be in a turmoil; to be crowded or jammed with people",
+  "pos": "verb",
+  "speaker": "堂島組組員",
+  "uid": "01331252",
+  "sentence": "ごったがえす。逃げれやしねえぞ。",
+  "parity": true,
+  "official_candidate": "You gotta know how this ends for you, Kiryu! Struggling's only gonna make it hurt worse. This place'll be swarming with Dojima crew in a minute. You're not going anywhere.",
+  "official_neighbors": [
+   "Yessir.",
+   "Guess nowhere's safe in the city now...",
+   "And I've got no backup coming, so there's no reason for me to hold back. Let's just get to the fun part.",
+   "You that desperate to delay your execution? Pathetic. A traitor like you should shut up and swallow his medicine!"
+  ]
+ },
+ {
+  "order": 17,
+  "word": "みっともない",
+  "reading": "みっともない",
+  "meaning": "shameful; disgraceful; unsightly; indecent",
+  "pos": "i-adjective",
+  "speaker": "堂島組組員",
+  "uid": "01331252",
+  "sentence": "そうまでして死にたかねえか、みっともねえ。",
+  "parity": true,
+  "official_candidate": "You that desperate to delay your execution? Pathetic. A traitor like you should shut up and swallow his medicine!",
+  "official_neighbors": [
+   "You gotta know how this ends for you, Kiryu! Struggling's only gonna make it hurt worse. This place'll be swarming with Dojima crew in a minute. You're not going anywhere.",
+   "And I've got no backup coming, so there's no reason for me to hold back. Let's just get to the fun part."
+  ]
+ },
+ {
+  "order": 18,
+  "word": "身の程",
+  "reading": "みのほど",
+  "meaning": "one's social position; one's place; one's standing",
+  "pos": "noun",
+  "speaker": "堂島組組員",
+  "uid": "01331252",
+  "sentence": "……裏切りモンが身の程わきまえろや!!",
+  "parity": true,
+  "official_candidate": "You that desperate to delay your execution? Pathetic. A traitor like you should shut up and swallow his medicine!",
+  "official_neighbors": [
+   "You gotta know how this ends for you, Kiryu! Struggling's only gonna make it hurt worse. This place'll be swarming with Dojima crew in a minute. You're not going anywhere.",
+   "And I've got no backup coming, so there's no reason for me to hold back. Let's just get to the fun part."
+  ]
+ },
+ {
+  "order": 19,
+  "word": "キリ",
+  "reading": "きり",
+  "meaning": "paulownia (Paulownia tomentosa); empress tree; foxglove tree",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331252",
+  "sentence": "だがこれじゃキリがねえ……",
+  "parity": true,
+  "official_candidate": "(Did I lose them? I can't keep this up forever. There's too many of them...)",
+  "official_neighbors": [
+   "Hey."
+  ]
+ },
+ {
+  "order": 20,
+  "word": "歩き回る",
+  "reading": "あるきまわる",
+  "meaning": "to walk about; to walk around; to walk to and fro; to pace around",
+  "pos": "verb",
+  "speaker": "ストリッパーの女",
+  "uid": "01331252",
+  "sentence": "そんな風に街歩き回ってたら",
+  "parity": true,
+  "official_candidate": "You stay out on the streets like that and they'll find you in no time.",
+  "official_neighbors": [
+   "The yakuza are after you, aren't they?",
+   "If you wanted... you could step inside the club awhile.",
+   "What?"
+  ]
+ },
+ {
+  "order": 21,
+  "word": "下水",
+  "reading": "げすい",
+  "meaning": "drainage; ditch; gutter; sewerage",
+  "pos": "noun",
+  "speaker": "ストリッパーの女",
+  "uid": "01331252",
+  "sentence": "裏から下水道に降りて行けるの。",
+  "parity": true,
+  "official_candidate": "The floorplan's a little unconventional. Back door leads right into the sewers. You can get out from this part of town without anybody seeing you.",
+  "official_neighbors": [
+   "If you wanted... you could step inside the club awhile.",
+   "What?",
+   "Why are you helping me?",
+   "Because it's the Dojima Family who's after you."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "当て",
+  "reading": "あて",
+  "meaning": "aim; object; purpose; end",
+  "pos": "noun",
+  "speaker": "ストリッパーの女",
+  "uid": "01331252",
+  "sentence": "ま、他にアテがあるならいいけど？",
+  "parity": true,
+  "official_candidate": "But hey, if you've got a better offer, by all means.",
+  "official_neighbors": [
+   "Besides, it'd be a waste to let the yakuza take out a hot young stud like you.",
+   "(Being able to move around underground would be huge... But can I trust her?)",
+   "(This could be a trap, but I don't have many options.)"
+  ]
+ },
+ {
+  "order": 24,
+  "word": "罠",
+  "reading": "わな",
+  "meaning": "trap (for catching animals); snare",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331252",
+  "sentence": "（罠かもしれねえが、他に行くアテもない……）",
+  "parity": true,
+  "official_candidate": "(This could be a trap, but I don't have many options.)",
+  "official_neighbors": [
+   "But hey, if you've got a better offer, by all means.",
+   "(Being able to move around underground would be huge... But can I trust her?)"
+  ]
+ },
+ {
+  "order": 25,
+  "word": "ストリッパー",
+  "reading": "ストリッパー",
+  "meaning": "stripper",
+  "pos": "noun",
+  "speaker": "",
+  "uid": "01331252",
+  "sentence": "ストリッパーの女",
+  "parity": false,
+  "official_candidate": "kiryu_adv_c06_060_07",
+  "official_neighbors": [
+   "Subordinate",
+   "Talk_Angry",
+   "Female Voice",
+   "Stripper",
+   "woman_adv_c06_060_09",
+   "woman_adv_c06_060_10"
+  ]
+ },
+ {
+  "order": 26,
+  "word": "明ける",
+  "reading": "あける",
+  "meaning": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "01331258",
+  "sentence": "夜が明けたら、街で情報を探ってみよう",
+  "parity": true,
+  "official_candidate": "(There may still be something I can do. I'll hit the streets for info in the morning.)",
+  "official_neighbors": [
+   "(Tachibana's supposed to get in touch tomorrow, but... am I really supposed to just sit here until then?)",
+   "(It's fair to expect the family will be looking for me, and if they find me, there's no getting around a fight. They'll be coming for me with guns blazing.)",
+   "(Better make sure I'm ready now, before things go down. ...Anything left I should do before hitting the sack?)"
+  ]
+ },
+ {
+  "order": 27,
+  "word": "戦い",
+  "reading": "たたかい",
+  "meaning": "battle; war; fight; conflict",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331258",
+  "sentence": "見つかったら闘いは避けられない……",
+  "parity": true,
+  "official_candidate": "(It's fair to expect the family will be looking for me, and if they find me, there's no getting around a fight. They'll be coming for me with guns blazing.)",
+  "official_neighbors": [
+   "(Tachibana's supposed to get in touch tomorrow, but... am I really supposed to just sit here until then?)",
+   "(There may still be something I can do. I'll hit the streets for info in the morning.)",
+   "(Better make sure I'm ready now, before things go down. ...Anything left I should do before hitting the sack?)",
+   "(Getting some sleep now's part of being ready for tomorrow.)"
+  ]
+ },
+ {
+  "order": 28,
+  "word": "抜け道",
+  "reading": "ぬけみち",
+  "meaning": "byway; bypath; byroad; secret path",
+  "pos": "noun",
+  "speaker": "ストリッパーの女",
+  "uid": "01331264",
+  "sentence": "でなきゃ抜け道に使えないものね。",
+  "parity": true,
+  "official_candidate": "But it's got to connect back up to street level somewhere. Not much use as a secret passage otherwise.",
+  "official_neighbors": [
+   "Where does it lead?",
+   "Theater Square, apparently. I never bothered to check myself.",
+   "......",
+   "By now, the Dojima guys are probably all parked outside the club looking for you. Use this passage to pop up somewhere else and you'll probably throw them off."
+  ]
+ },
+ {
+  "order": 29,
+  "word": "つい",
+  "reading": "つい",
+  "meaning": "just (now)",
+  "pos": "adverb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "いやぁよ、ついこの前、お前が久瀬の兄貴と",
+  "parity": true,
+  "official_candidate": "You know, I was thinkin' about a little while back, maybe just after you and Kuze threw down the first time? I went golfing. Koshu Country Club. Friggin' gorgeous course.",
+  "official_neighbors": [
+   "All right, talk.",
+   "What's your point?",
+   "You may not know this, but the food these golf spots serve is fan-fuckin'-tastic."
+  ]
+ },
+ {
+  "order": 30,
+  "word": "実家",
+  "reading": "じっか",
+  "meaning": "(one's parents') home",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "……お前と錦山の“実家”に。",
+  "parity": true,
+  "official_candidate": "Anywho... So I was comin' back from golf, and I took a little detour. Visited you 'n Nishikiyama's old place.",
+  "official_neighbors": [
+   "I'm not sticking around to talk hobbies. Get to the point.",
+   "Still young 'n impatient. Y'know, the world's chock fulla shit that don't seem like it has any connection to anything, but then it turns out it's real important in the long run.",
+   "No...",
+   "After hearin' Kazama was lookin' after the joint, I figured it'd be nigh palatial, but nope. Was more like a kennel."
+  ]
+ },
+ {
+  "order": 31,
+  "word": "面倒",
+  "reading": "めんどう",
+  "meaning": "trouble; bother",
+  "pos": "na-adjective",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "風間のカシラが面倒見てるってハナシだったから、",
+  "parity": true,
+  "official_candidate": "After hearin' Kazama was lookin' after the joint, I figured it'd be nigh palatial, but nope. Was more like a kennel.",
+  "official_neighbors": [
+   "Anywho... So I was comin' back from golf, and I took a little detour. Visited you 'n Nishikiyama's old place.",
+   "No...",
+   "Sunflower Orphanage. The geezer runnin' it seemed lively, for his age.",
+   "Bastard... What did you do to Sunflower!?"
+  ]
+ },
+ {
+  "order": 32,
+  "word": "小屋",
+  "reading": "こや",
+  "meaning": "hut; cabin; shed; (animal) pen",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "ありゃ犬小屋だな。",
+  "parity": true,
+  "official_candidate": "After hearin' Kazama was lookin' after the joint, I figured it'd be nigh palatial, but nope. Was more like a kennel.",
+  "official_neighbors": [
+   "Anywho... So I was comin' back from golf, and I took a little detour. Visited you 'n Nishikiyama's old place.",
+   "No...",
+   "Sunflower Orphanage. The geezer runnin' it seemed lively, for his age.",
+   "Bastard... What did you do to Sunflower!?"
+  ]
+ },
+ {
+  "order": 33,
+  "word": "園長",
+  "reading": "えんちょう",
+  "meaning": "head of a garden; kindergarten principal; nursery school principal; park director",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "初老の園長さん……　お元気だったよ。",
+  "parity": true,
+  "official_candidate": "Sunflower Orphanage. The geezer runnin' it seemed lively, for his age.",
+  "official_neighbors": [
+   "No...",
+   "After hearin' Kazama was lookin' after the joint, I figured it'd be nigh palatial, but nope. Was more like a kennel.",
+   "Bastard... What did you do to Sunflower!?",
+   "Whoa there, down boy. Relax, I ain't done a thing."
+  ]
+ },
+ {
+  "order": 34,
+  "word": "罪",
+  "reading": "つみ",
+  "meaning": "crime; sin; wrongdoing; indiscretion",
+  "pos": "na-adjective",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "お前も自分のせいで、何の罪もねえあの園長さんを、",
+  "parity": true,
+  "official_candidate": "You wouldn't want to make an innocent guy like that sad because of somethin' you did, wouldya?",
+  "official_neighbors": [
+   "Awano, I swear...",
+   "Heh.",
+   "......",
+   "Am I bein' direct enough? Even if you make it outta here alive today, you got nowhere else to run."
+  ]
+ },
+ {
+  "order": 35,
+  "word": "悲しむ",
+  "reading": "かなしむ",
+  "meaning": "to be sad; to mourn for; to regret",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "悲しませるようなマネしたくねえだろ？",
+  "parity": true,
+  "official_candidate": "You wouldn't want to make an innocent guy like that sad because of somethin' you did, wouldya?",
+  "official_neighbors": [
+   "Awano, I swear...",
+   "Heh.",
+   "......",
+   "Am I bein' direct enough? Even if you make it outta here alive today, you got nowhere else to run."
+  ]
+ },
+ {
+  "order": 36,
+  "word": "友人",
+  "reading": "ゆうじん",
+  "meaning": "friend",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "お前の友人関係から住んでるアパート、",
+  "parity": true,
+  "official_candidate": "I know every li'l thing about you. 'Bout your friends, where you live, where you grew up, even your favorite ramen joint.",
+  "official_neighbors": [
+   "......",
+   "Am I bein' direct enough? Even if you make it outta here alive today, you got nowhere else to run.",
+   "Look, it's nothin' personal. The Dojima Family's always split up the responsibilities."
+  ]
+ },
+ {
+  "order": 37,
+  "word": "行き付け",
+  "reading": "いきつけ",
+  "meaning": "regular; usual; favourite; favorite",
+  "pos": "adj-no",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "行きつけのラーメン屋から、育った場所まで、",
+  "parity": true,
+  "official_candidate": "I know every li'l thing about you. 'Bout your friends, where you live, where you grew up, even your favorite ramen joint.",
+  "official_neighbors": [
+   "......",
+   "Am I bein' direct enough? Even if you make it outta here alive today, you got nowhere else to run.",
+   "Look, it's nothin' personal. The Dojima Family's always split up the responsibilities."
+  ]
+ },
+ {
+  "order": 38,
+  "word": "調べ",
+  "reading": "しらべ",
+  "meaning": "investigation; inspection; examination",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "全部調べはついてる。",
+  "parity": true,
+  "official_candidate": "I know every li'l thing about you. 'Bout your friends, where you live, where you grew up, even your favorite ramen joint.",
+  "official_neighbors": [
+   "......",
+   "Am I bein' direct enough? Even if you make it outta here alive today, you got nowhere else to run.",
+   "Look, it's nothin' personal. The Dojima Family's always split up the responsibilities."
+  ]
+ },
+ {
+  "order": 39,
+  "word": "役割",
+  "reading": "やくわり",
+  "meaning": "part; assigning (allotment of) parts; role; duties",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "昔から堂島組には役割があってなぁ。",
+  "parity": true,
+  "official_candidate": "Look, it's nothin' personal. The Dojima Family's always split up the responsibilities.",
+  "official_neighbors": [
+   "I know every li'l thing about you. 'Bout your friends, where you live, where you grew up, even your favorite ramen joint.",
+   "The Kazama Family writes the script, the Kenno Clan's the muscle. Boring paperwork's Shibusawa's game. And me..."
+  ]
+ },
+ {
+  "order": 40,
+  "word": "番長",
+  "reading": "ばんちょう",
+  "meaning": "leader of a group of juvenile delinquents",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "組の絵描くのは風間組。喧嘩番長、久瀬拳王会。",
+  "parity": true,
+  "official_candidate": "The Kazama Family writes the script, the Kenno Clan's the muscle. Boring paperwork's Shibusawa's game. And me...",
+  "official_neighbors": [
+   "Look, it's nothin' personal. The Dojima Family's always split up the responsibilities.",
+   "\"Public relations.\" Extortion's my department."
+  ]
+ },
+ {
+  "order": 41,
+  "word": "打っ飛ばす",
+  "reading": "ぶっとばす",
+  "meaning": "to knock (someone) off their feet; to knock down",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "良いクルマでぶっ飛ばす。",
+  "parity": true,
+  "official_candidate": "I wanna eat good food, wear nice clothes, and blast down the highway in a sweet-ass car. If I got a hot girl during that, so much the better.",
+  "official_neighbors": [
+   "...Kiryu, I ain't like ol' Kuze. I couldn't give two damp shits about livin' like a proper yakuza.",
+   "Being yakuza's a career for me. A job. My means to enjoy the sweet life."
+  ]
+ },
+ {
+  "order": 42,
+  "word": "摘み食い",
+  "reading": "つまみぐい",
+  "meaning": "eating with one's fingers",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "たまにゃ、オンナもつまみ食いしながらな。",
+  "parity": true,
+  "official_candidate": "I wanna eat good food, wear nice clothes, and blast down the highway in a sweet-ass car. If I got a hot girl during that, so much the better.",
+  "official_neighbors": [
+   "...Kiryu, I ain't like ol' Kuze. I couldn't give two damp shits about livin' like a proper yakuza.",
+   "Being yakuza's a career for me. A job. My means to enjoy the sweet life."
+  ]
+ },
+ {
+  "order": 43,
+  "word": "職業",
+  "reading": "しょくぎょう",
+  "meaning": "occupation; profession; job; vocation",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "俺にとっちゃ極道なんて“職業”は、",
+  "parity": true,
+  "official_candidate": "Being yakuza's a career for me. A job. My means to enjoy the sweet life.",
+  "official_neighbors": [
+   "I wanna eat good food, wear nice clothes, and blast down the highway in a sweet-ass car. If I got a hot girl during that, so much the better.",
+   "Come over to my side, Kiryu."
+  ]
+ },
+ {
+  "order": 44,
+  "word": "惨め",
+  "reading": "みじめ",
+  "meaning": "miserable; wretched; unhappy; sad",
+  "pos": "na-adjective",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "そして、売らなきゃみじめに死んじまうだけだ。",
+  "parity": true,
+  "official_candidate": "You gimme that real estate bum, Tachibana, and you're on the winning team. Set for life on easy street. And if you don't, you'll die a painful, pointless death.",
+  "official_neighbors": [
+   "Come over to my side, Kiryu.",
+   "You only just clawed your way outta that kennel with Nishikiyama, right? No reason to throw your life away now... Right?"
+  ]
+ },
+ {
+  "order": 45,
+  "word": "這い出る",
+  "reading": "はいでる",
+  "meaning": "to crawl out of; to creep out of",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "必死に這い出たばっかりなんだろう？",
+  "parity": true,
+  "official_candidate": "You only just clawed your way outta that kennel with Nishikiyama, right? No reason to throw your life away now... Right?",
+  "official_neighbors": [
+   "You gimme that real estate bum, Tachibana, and you're on the winning team. Set for life on easy street. And if you don't, you'll die a painful, pointless death."
+  ]
+ },
+ {
+  "order": 46,
+  "word": "怯える",
+  "reading": "おびえる",
+  "meaning": "to become frightened; to be frightened (of); to be scared (of)",
+  "pos": "verb",
+  "speaker": "ストリッパーの女",
+  "uid": "01331264",
+  "sentence": "何に怯えてたか知らないけど、こんな抜け道",
+  "parity": true,
+  "official_candidate": "I heard the previous owner wasn't exactly the upstanding businessman type. I dunno what he was so afraid of, but he wanted a quiet escape route. Stinks, but them's the breaks.",
+  "official_neighbors": [
+   "You weren't kidding about this place being unconventional. What do you need access to a place like this for?",
+   "Where does it lead?",
+   "Theater Square, apparently. I never bothered to check myself."
+  ]
+ },
+ {
+  "order": 47,
+  "word": "一角",
+  "reading": "いっかく",
+  "meaning": "corner; section; point; part",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "0133124d",
+  "sentence": "神室町の一角を担う組織になれる。",
+  "parity": true,
+  "official_candidate": "Play that trump card right, and we could buy control over a huge chunk of Kamurocho. We'd be a force even the Dojima Family couldn't shuffle out of the deck so easily.",
+  "official_neighbors": [
+   "Even Tachibana was planning to have the Empty Lot in his pocket long before going to war with the Dojima Family.",
+   "To Dojima, that little plot's worth more than a billion yen.",
+   "But now... We never figured the Dojima lieutenants would force our hand this early in the game."
+  ]
+ },
+ {
+  "order": 48,
+  "word": "担う",
+  "reading": "になう",
+  "meaning": "to carry on one's shoulder; to shoulder; to bear",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "0133124d",
+  "sentence": "神室町の一角を担う組織になれる。",
+  "parity": true,
+  "official_candidate": "Play that trump card right, and we could buy control over a huge chunk of Kamurocho. We'd be a force even the Dojima Family couldn't shuffle out of the deck so easily.",
+  "official_neighbors": [
+   "Even Tachibana was planning to have the Empty Lot in his pocket long before going to war with the Dojima Family.",
+   "To Dojima, that little plot's worth more than a billion yen.",
+   "But now... We never figured the Dojima lieutenants would force our hand this early in the game."
+  ]
+ },
+ {
+  "order": 49,
+  "word": "比べ物",
+  "reading": "くらべもの",
+  "meaning": "comparison; something worthy of comparison",
+  "pos": "noun",
+  "speaker": "錦山",
+  "uid": "0133124d",
+  "sentence": "久瀬なんかとは比べものにならねえよ。キレ者だ。",
+  "parity": true,
+  "official_candidate": "You guys underestimated Awano. You can't lump him in with a brute like Kuze. He's actually pretty sharp.",
+  "official_neighbors": [
+   "But now... We never figured the Dojima lieutenants would force our hand this early in the game.",
+   "I need to talk to the president. Mama, can I use your phone?"
+  ]
+ },
+ {
+  "order": 50,
+  "word": "切れ",
+  "reading": "きれ",
+  "meaning": "piece; slice; strip; scrap",
+  "pos": "noun",
+  "speaker": "錦山",
+  "uid": "0133124d",
+  "sentence": "久瀬なんかとは比べものにならねえよ。キレ者だ。",
+  "parity": true,
+  "official_candidate": "You guys underestimated Awano. You can't lump him in with a brute like Kuze. He's actually pretty sharp.",
+  "official_neighbors": [
+   "But now... We never figured the Dojima lieutenants would force our hand this early in the game.",
+   "I need to talk to the president. Mama, can I use your phone?"
+  ]
+ },
+ {
+  "order": 51,
+  "word": "想定",
+  "reading": "そうてい",
+  "meaning": "hypothesis; supposition; assumption; expectation",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "それでも想定の範囲内です。",
+  "parity": true,
+  "official_candidate": "I did think that it would take the Dojima Family a while longer to catch on to our activities, but the situation is still well within expected tolerances.",
+  "official_neighbors": [
+   "You came here just to tell me that?",
+   "Yes. But please do not worry. I have no intention of disappearing from Kamurocho.",
+   "Oda sure didn't seem to think so.",
+   "I have yet to inform Oda-san of this, but as it happens, I have located the owner of the Empty Lot."
+  ]
+ },
+ {
+  "order": 52,
+  "word": "範囲",
+  "reading": "はんい",
+  "meaning": "extent; scope; sphere; range",
+  "pos": "noun",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "それでも想定の範囲内です。",
+  "parity": true,
+  "official_candidate": "I did think that it would take the Dojima Family a while longer to catch on to our activities, but the situation is still well within expected tolerances.",
+  "official_neighbors": [
+   "You came here just to tell me that?",
+   "Yes. But please do not worry. I have no intention of disappearing from Kamurocho.",
+   "Oda sure didn't seem to think so.",
+   "I have yet to inform Oda-san of this, but as it happens, I have located the owner of the Empty Lot."
+  ]
+ },
+ {
+  "order": 53,
+  "word": "他言",
+  "reading": "たごん",
+  "meaning": "telling others; divulging (a secret); revealing; disclosing",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "……１日ください。ただし、他言無用です。",
+  "parity": true,
+  "official_candidate": "Give me one day. I must ask, however, that you tell no one. Not even Nishikiyama-san or Kashiwagi-san.",
+  "official_neighbors": [
+   "How long until you can pin down the lot's owner?",
+   "You realize I could just sell you out to Awano, and get taken off the Dojima hit list altogether.",
+   "If you were the sort of man to do that, I certainly would not be visiting you in such a place as this."
+  ]
+ },
+ {
+  "order": 54,
+  "word": "無用",
+  "reading": "むよう",
+  "meaning": "useless; futile",
+  "pos": "na-adjective",
+  "speaker": "立華",
+  "uid": "01331252",
+  "sentence": "……１日ください。ただし、他言無用です。",
+  "parity": true,
+  "official_candidate": "Give me one day. I must ask, however, that you tell no one. Not even Nishikiyama-san or Kashiwagi-san.",
+  "official_neighbors": [
+   "How long until you can pin down the lot's owner?",
+   "You realize I could just sell you out to Awano, and get taken off the Dojima hit list altogether.",
+   "If you were the sort of man to do that, I certainly would not be visiting you in such a place as this."
+  ]
+ },
+ {
+  "order": 55,
+  "word": "リスク",
+  "reading": "リスク",
+  "meaning": "risk",
+  "pos": "noun",
+  "speaker": "",
+  "uid": "01331252",
+  "sentence": "ハイリスク・ハイリターンだが、",
+  "parity": true,
+  "official_candidate": "(The catfights are high-risk, high-return, but if I play it right, it feels like I could turn a hefty profit quick.)",
+  "official_neighbors": [
+   "(I've got a new way to make big bucks. What I really need now is some sleep. Time to rest up for tomorrow.)",
+   "(All I can do now is wait for word from Tachibana. Better head home and lie low there.)"
+  ]
+ },
+ {
+  "order": 56,
+  "word": "リターン",
+  "reading": "リターン",
+  "meaning": "return; restoring",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "01331252",
+  "sentence": "ハイリスク・ハイリターンだが、",
+  "parity": true,
+  "official_candidate": "(The catfights are high-risk, high-return, but if I play it right, it feels like I could turn a hefty profit quick.)",
+  "official_neighbors": [
+   "(I've got a new way to make big bucks. What I really need now is some sleep. Time to rest up for tomorrow.)",
+   "(All I can do now is wait for word from Tachibana. Better head home and lie low there.)"
+  ]
+ },
+ {
+  "order": 57,
+  "word": "作り",
+  "reading": "つくり",
+  "meaning": "making; producing; manufacturing; building",
+  "pos": "noun",
+  "speaker": "ストリッパーの女",
+  "uid": "01331252",
+  "sentence": "ウチの店、ちょっと作りが特殊でさ。",
+  "parity": true,
+  "official_candidate": "The floorplan's a little unconventional. Back door leads right into the sewers. You can get out from this part of town without anybody seeing you.",
+  "official_neighbors": [
+   "If you wanted... you could step inside the club awhile.",
+   "What?",
+   "Why are you helping me?",
+   "Because it's the Dojima Family who's after you."
+  ]
+ },
+ {
+  "order": 58,
+  "word": "特殊",
+  "reading": "とくしゅ",
+  "meaning": "special; particular; peculiar; unique",
+  "pos": "na-adjective",
+  "speaker": "ストリッパーの女",
+  "uid": "01331252",
+  "sentence": "ウチの店、ちょっと作りが特殊でさ。",
+  "parity": true,
+  "official_candidate": "The floorplan's a little unconventional. Back door leads right into the sewers. You can get out from this part of town without anybody seeing you.",
+  "official_neighbors": [
+   "If you wanted... you could step inside the club awhile.",
+   "What?",
+   "Why are you helping me?",
+   "Because it's the Dojima Family who's after you."
+  ]
+ },
+ {
+  "order": 59,
+  "word": "カントリー",
+  "reading": "カントリー",
+  "meaning": "country; countryside",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "甲州カントリークラブ。すげぇ良いコースだったよ。",
+  "parity": true,
+  "official_candidate": "You know, I was thinkin' about a little while back, maybe just after you and Kuze threw down the first time? I went golfing. Koshu Country Club. Friggin' gorgeous course.",
+  "official_neighbors": [
+   "All right, talk.",
+   "What's your point?",
+   "You may not know this, but the food these golf spots serve is fan-fuckin'-tastic."
+  ]
+ },
+ {
+  "order": 60,
+  "word": "クラブ",
+  "reading": "クラブ",
+  "meaning": "nightclub",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "甲州カントリークラブ。すげぇ良いコースだったよ。",
+  "parity": true,
+  "official_candidate": "You know, I was thinkin' about a little while back, maybe just after you and Kuze threw down the first time? I went golfing. Koshu Country Club. Friggin' gorgeous course.",
+  "official_neighbors": [
+   "All right, talk.",
+   "What's your point?",
+   "You may not know this, but the food these golf spots serve is fan-fuckin'-tastic."
+  ]
+ },
+ {
+  "order": 61,
+  "word": "カレー",
+  "reading": "カレー",
+  "meaning": "curry (esp. Japanese curry)",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "コース廻った後のカレーとサウナ。",
+  "parity": true,
+  "official_candidate": "holes, then curry 'n a sauna. Once you taste that, the rest of the world's pleasures start feelin' like a joke.",
+  "official_neighbors": [
+   "What's your point?",
+   "You may not know this, but the food these golf spots serve is fan-fuckin'-tastic.",
+   "I'm not sticking around to talk hobbies. Get to the point.",
+   "Still young 'n impatient. Y'know, the world's chock fulla shit that don't seem like it has any connection to anything, but then it turns out it's real important in the long run."
+  ]
+ },
+ {
+  "order": 62,
+  "word": "サウナ",
+  "reading": "サウナ",
+  "meaning": "sauna",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "コース廻った後のカレーとサウナ。",
+  "parity": true,
+  "official_candidate": "holes, then curry 'n a sauna. Once you taste that, the rest of the world's pleasures start feelin' like a joke.",
+  "official_neighbors": [
+   "What's your point?",
+   "You may not know this, but the food these golf spots serve is fan-fuckin'-tastic.",
+   "I'm not sticking around to talk hobbies. Get to the point.",
+   "Still young 'n impatient. Y'know, the world's chock fulla shit that don't seem like it has any connection to anything, but then it turns out it's real important in the long run."
+  ]
+ },
+ {
+  "order": 63,
+  "word": "嘸かし",
+  "reading": "さぞかし",
+  "meaning": "certainly; surely",
+  "pos": "adverb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "さぞかし豪華なトコだと思っていたが、",
+  "parity": true,
+  "official_candidate": "After hearin' Kazama was lookin' after the joint, I figured it'd be nigh palatial, but nope. Was more like a kennel.",
+  "official_neighbors": [
+   "Anywho... So I was comin' back from golf, and I took a little detour. Visited you 'n Nishikiyama's old place.",
+   "No...",
+   "Sunflower Orphanage. The geezer runnin' it seemed lively, for his age.",
+   "Bastard... What did you do to Sunflower!?"
+  ]
+ },
+ {
+  "order": 64,
+  "word": "豪華",
+  "reading": "ごうか",
+  "meaning": "extravagant; lavish; opulent; luxurious",
+  "pos": "na-adjective",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "さぞかし豪華なトコだと思っていたが、",
+  "parity": true,
+  "official_candidate": "After hearin' Kazama was lookin' after the joint, I figured it'd be nigh palatial, but nope. Was more like a kennel.",
+  "official_neighbors": [
+   "Anywho... So I was comin' back from golf, and I took a little detour. Visited you 'n Nishikiyama's old place.",
+   "No...",
+   "Sunflower Orphanage. The geezer runnin' it seemed lively, for his age.",
+   "Bastard... What did you do to Sunflower!?"
+  ]
+ },
+ {
+  "order": 65,
+  "word": "渉外",
+  "reading": "しょうがい",
+  "meaning": "public relations; client liaison; client relations",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "渉外……　つまり「脅し」担当なんだよ。",
+  "parity": true,
+  "official_candidate": "\"Public relations.\" Extortion's my department.",
+  "official_neighbors": [
+   "The Kazama Family writes the script, the Kenno Clan's the muscle. Boring paperwork's Shibusawa's game. And me...",
+   "...Kiryu, I ain't like ol' Kuze. I couldn't give two damp shits about livin' like a proper yakuza."
+  ]
+ },
+ {
+  "order": 66,
+  "word": "担当",
+  "reading": "たんとう",
+  "meaning": "being in charge (of an area of responsibility); being responsible (for a work role, etc.)",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "渉外……　つまり「脅し」担当なんだよ。",
+  "parity": true,
+  "official_candidate": "\"Public relations.\" Extortion's my department.",
+  "official_neighbors": [
+   "The Kazama Family writes the script, the Kenno Clan's the muscle. Boring paperwork's Shibusawa's game. And me...",
+   "...Kiryu, I ain't like ol' Kuze. I couldn't give two damp shits about livin' like a proper yakuza."
+  ]
+ },
+ {
+  "order": 67,
+  "word": "勝ち組",
+  "reading": "かちぐみ",
+  "meaning": "winners (those who have succeeded socially, economically, etc.)",
+  "pos": "noun",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "お前は勝ち組……　一生楽しく暮らせる。",
+  "parity": true,
+  "official_candidate": "You gimme that real estate bum, Tachibana, and you're on the winning team. Set for life on easy street. And if you don't, you'll die a painful, pointless death.",
+  "official_neighbors": [
+   "Come over to my side, Kiryu.",
+   "You only just clawed your way outta that kennel with Nishikiyama, right? No reason to throw your life away now... Right?"
+  ]
+ },
+ {
+  "order": 68,
+  "word": "一生",
+  "reading": "いっしょう",
+  "meaning": "whole life; a lifetime; all through life",
+  "pos": "adverb",
+  "speaker": "阿波野",
+  "uid": "01331267",
+  "sentence": "お前は勝ち組……　一生楽しく暮らせる。",
+  "parity": true,
+  "official_candidate": "You gimme that real estate bum, Tachibana, and you're on the winning team. Set for life on easy street. And if you don't, you'll die a painful, pointless death.",
+  "official_neighbors": [
+   "Come over to my side, Kiryu.",
+   "You only just clawed your way outta that kennel with Nishikiyama, right? No reason to throw your life away now... Right?"
+  ]
+ }
+]
