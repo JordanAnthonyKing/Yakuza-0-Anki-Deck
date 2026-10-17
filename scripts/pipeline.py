@@ -162,9 +162,11 @@ def validate(kind, inp, out):
 # ---------------------------------------------------------------- the step list
 def translate_batch_size(ch, maxo):
     """~64 cards per batch, evened out so a chapter never ends in a tiny tail batch (68 cards
-    -> one batch, not 64+4). Chapters that already have range files keep the old fixed 64."""
-    if glob.glob(os.path.join(DATA, "translate", f"ch{ch}", "*.json")):
-        return 64
+    -> one batch, not 64+4). Once range files exist, their layout wins (read from the batch
+    that starts at 000), so a chapter never switches sizes midway."""
+    first = glob.glob(os.path.join(DATA, "translate", f"ch{ch}", "000-*.json"))
+    if first:
+        return int(re.search(r"000-(\d+)\.json$", first[0]).group(1)) + 1
     n = maxo + 1
     return -(-n // max(1, round(n / 64)))
 
