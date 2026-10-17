@@ -1,13 +1,46 @@
 {
- "5": {"official": "Herdin' these women is gonna put me in the nut house.", "official_ok": true},
- "6": {"official": "Sorry to trouble you with it, sir.", "official_ok": true},
- "62": {"official": "Figures they wouldn't waste Nozomi on a first-timer.", "official_ok": true},
- "63": {"official": "Whoa, they sent me a ten and a half!", "official_ok": true},
- "163": {"official": "", "official_ok": false},
- "164": {"official": "", "official_ok": false},
- "165": {"official": "", "official_ok": false},
- "166": {"official": "", "official_ok": false},
- "167": {"official": "", "official_ok": false},
- "200": {"official": "Ugh, why am I chattin' this girl up like a tool?", "official_ok": true},
- "201": {"official": "Ugh, why am I chattin' this girl up like a tool?", "official_ok": true}
+ "5": {
+  "official": "Herdin' these women is gonna put me in the nut house.",
+  "official_ok": true
+ },
+ "6": {
+  "official": "Sorry to trouble you with it, sir.",
+  "official_ok": true
+ },
+ "62": {
+  "official": "Figures they wouldn't waste Nozomi on a first-timer.",
+  "official_ok": true
+ },
+ "63": {
+  "official": "Whoa, they sent me a ten and a half!",
+  "official_ok": true
+ },
+ "163": {
+  "official": "",
+  "official_ok": false
+ },
+ "164": {
+  "official": "",
+  "official_ok": false
+ },
+ "165": {
+  "official": "",
+  "official_ok": false
+ },
+ "166": {
+  "official": "",
+  "official_ok": false
+ },
+ "167": {
+  "official": "",
+  "official_ok": false
+ },
+ "200": {
+  "official": "Ugh, why am I chattin' this girl up like a tool?",
+  "official_ok": true
+ },
+ "201": {
+  "official": "Ugh, why am I chattin' this girl up like a tool?",
+  "official_ok": true
+ }
 }
