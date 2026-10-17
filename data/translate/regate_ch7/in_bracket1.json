@@ -1,0 +1,29 @@
+[
+ {
+  "order": 127,
+  "speaker": "李",
+  "sentence": "せっかくこないなとこまで来たんや。",
+  "literal": "You went to the trouble of coming all the way out to a place like this.",
+  "official_candidate": "What?",
+  "official_neighbors": [
+   "I'll tell you once I got it worked out. Till then, it stays secret. How do I get in touch with you once I'm ready?",
+   "Cabaret Grand. I'm there from evening on. I run the place.",
+   "You serious? You're the guy in charge of the Grand?",
+   "Next time you're thirsty, drinks're on me.",
+   "Heh, all right then. I'll get in touch tonight. What's your name?",
+   "It's Majima. Goro.",
+   "Hey. Was wonderin' when you'd get here! Took ya longer'n I figured.",
+   "What?",
+   "Heh heh, drop the scowl, friend.",
+   "You... You're tellin' me you expected me to find this place?",
+   "Eh, let's say it was a distinct possibility. See, I ain't yer average acupuncturist. God Hands, remember?",
+   "Whoa, hold up! You didn't think I'd let that one slide, did ya? I been waitin' for that east tile.",
+   "Gah! You're killing me, Lee-san!",
+   "You just suck, buddy. Why don't ya give the newcomer there a turn?",
+   "You're in, right? Why else would anyone show up at a mahjong parlor?",
+   "See, I always wanted to play a round of mahjong with a hitman."
+  ],
+  "prev_official": "I'll tell you once I got it worked out. Till then, it stays secret.",
+  "next_official": "See, I always wanted to play a round of mahjong with a hitman."
+ }
+]
