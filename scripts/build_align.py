@@ -115,6 +115,20 @@ def file_delta(ja, en):
     deltas.sort(); return deltas[len(deltas) // 2]
 _delta_cache = {}
 
+_rec_cache = {}
+def get_records(uid):
+    """(JA record texts, EN record texts), cleaned like messages(); ([], []) if unknown"""
+    if uid not in _rec_cache:
+        from msg_speakers import records
+        jp = uid2path.get(uid)
+        if not jp:
+            _rec_cache[uid] = ([], [])
+        else:
+            ep = jp.replace(os.sep + "wdrj" + os.sep, os.sep + "wdr" + os.sep)
+            _rec_cache[uid] = ([clean_txt(t, True) for t in records(jp)],
+                               [clean_txt(t, False) for t in records(ep)] if os.path.exists(ep) else [])
+    return _rec_cache[uid]
+
 _dia = None
 def label_official(label):
     """official English of a speaker label, via the index-parallel JA/EN name tables"""
@@ -133,7 +147,7 @@ def label_official(label):
 
 cards = json.load(open(os.path.join(DATA, f"cards_ch{CH}_{CH}.json"), encoding="utf-8"))
 rows = []
-have = 0
+have = exact = 0
 for c in cards:
     sent = clean_txt(c["sentence"])           # strips the <b> emphasis too
     if c.get("kind") == "label":
@@ -146,6 +160,21 @@ for c in cards:
             "meaning": c["meaning"], "pos": c["pos"], "speaker": c.get("speaker", ""),
             "uid": c["uid"], "sentence": sent, "parity": True,
             "official_candidate": cand, "official_neighbors": [],
+        })
+        continue
+    # exact: JA and EN files are record-parallel, so the official line of JA record i is EN
+    # record i (neighbors ±2 cover the occasional cross-record merge). Positional fallback below.
+    rj, re_ = get_records(c["uid"])
+    hit = next((i for i, a in enumerate(rj) if sent and (sent in a or (len(a) > 3 and a in sent))), None)
+    if hit is not None and len(rj) == len(re_) and re_[hit].strip():
+        cand = re_[hit]
+        neigh = [re_[k] for k in range(hit - 2, hit + 3) if k != hit and 0 <= k < len(re_) and re_[k].strip()]
+        have += 1; exact += 1
+        rows.append({
+            "order": c["order"], "word": c["word"], "reading": c["reading"],
+            "meaning": c["meaning"], "pos": c["pos"], "speaker": c.get("speaker", ""),
+            "uid": c["uid"], "sentence": sent, "parity": True,
+            "official_candidate": cand, "official_neighbors": neigh,
         })
         continue
     ja, en, parity = get_msgs(c["uid"])
@@ -176,7 +205,7 @@ for c in cards:
 json.dump(rows, open(os.path.join(DATA, f"align_ch{CH}.json"), "w", encoding="utf-8"),
           ensure_ascii=False, indent=1)
 nz = {u: d for u, d in _delta_cache.items() if d}
-print(f"{len(rows)} Ch{CH} cards; official candidate found for {have} "
+print(f"{len(rows)} Ch{CH} cards; official candidate found for {have} ({exact} exact via records) "
       f"({100*have//len(rows)}%); offset-corrected files: {len(nz)} e.g. {list(nz.items())[:6]}")
 print("\nsamples:")
 for r in rows[:12]:

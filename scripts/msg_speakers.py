@@ -38,6 +38,23 @@ def names(path):
     d = open(path, "rb").read()
     return _names(d) if len(d) >= 0x24 else []
 
+def records(path):
+    """ALL message texts in record order (no language filter). The wdr/ (official English)
+    copy is record-parallel: records(en)[i] is the localization of records(ja)[i]."""
+    d = open(path, "rb").read()
+    if len(d) < 0x24:
+        return []
+    recs, first_text = {}, len(d)
+    for r in range(0x18, len(d) - 12, 4):
+        if r >= first_text:
+            break
+        t, c = struct.unpack(">II", d[r:r + 8])
+        if (0 < c < t < len(d) and c % 4 == 0 and d[t - 1] == 0
+                and d[c:c + 4] == b"\x01\x00\x00\x00" and t not in recs):
+            recs[t] = c
+            first_text = min(first_text, t)
+    return [_cstr(d, t) for t in sorted(recs)]
+
 def messages(path):
     d = open(path, "rb").read()
     if len(d) < 0x24:
