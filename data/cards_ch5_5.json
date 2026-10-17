@@ -738,23 +738,6 @@
   ]
  },
  {
-  "order": 44,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "……<b>付き合わせ</b>て悪かったな、錦。助かった。",
-  "word": "突き合わせる",
-  "reading": "つきあわせる",
-  "meaning": "to place persons opposite; to come face to face with",
-  "pos": "verb",
-  "chapter": 5,
-  "speaker": "桐生",
-  "uid": "01331210",
-  "candidates": [
-   "(verb) to place persons opposite; to come face to face with",
-   "(verb) to compare (with); to check (against); to match; to tally"
-  ]
- },
- {
   "order": 45,
   "kind": "i+1",
   "standalone": false,
@@ -1197,23 +1180,6 @@
   ]
  },
  {
-  "order": 71,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "大体、あの<b>辻</b>って占有屋はうちの交渉相手じゃねえ。",
-  "word": "辻",
-  "reading": "つじ",
-  "meaning": "crossroads; crossing; intersection; street corner",
-  "pos": "noun",
-  "chapter": 5,
-  "speaker": "尾田",
-  "uid": "01331210",
-  "candidates": [
-   "(noun) crossroads; crossing; intersection; street corner",
-   "(noun) street"
-  ]
- },
- {
   "order": 72,
   "kind": "i+1",
   "standalone": false,
@@ -1606,24 +1572,6 @@
   ]
  },
  {
-  "order": 95,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "何<b>突っ立っ</b>てんだ？　……土下座しろや、土下座ぁ！",
-  "word": "突き立つ",
-  "reading": "つきたつ",
-  "meaning": "to stick (in)",
-  "pos": "verb",
-  "chapter": 5,
-  "speaker": "岡部",
-  "uid": "01331210",
-  "candidates": [
-   "(verb) to stick (in)",
-   "(verb) to stick out; to rise sharply; to stand tall",
-   "(verb) to stand (doing nothing)"
-  ]
- },
- {
   "order": 96,
   "kind": "i+1",
   "standalone": false,
@@ -1976,23 +1924,6 @@
   ]
  },
  {
-  "order": 116,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "馬鹿、ここは２人<b>がけ</b>の席だろうが。",
-  "word": "崖",
-  "reading": "がけ",
-  "meaning": "cliff; precipice",
-  "pos": "noun",
-  "chapter": 5,
-  "speaker": "尾田",
-  "uid": "0133121d",
-  "candidates": [
-   "(noun) cliff; precipice",
-   "(noun) precipice; brink of a dangerous situation"
-  ]
- },
- {
   "order": 117,
   "kind": "i+1",
   "standalone": false,
@@ -2041,26 +1972,6 @@
   "candidates": [
    "(verb) execution (e.g. of a plan); carrying out; (putting into) practice; action",
    "(verb) execution (of a program); run"
-  ]
- },
- {
-  "order": 120,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "椅子に座るときは<b>常</b>に気をつけるようにしとけよ。",
-  "word": "常",
-  "reading": "ただ",
-  "meaning": "ordinary; common; usual",
-  "pos": "noun",
-  "chapter": 5,
-  "speaker": "尾田",
-  "uid": "0133121e",
-  "candidates": [
-   "(noun) ordinary; common; usual",
-   "(noun) free of charge",
-   "(noun) unaffected; as is; safe",
-   "(adverb) only; merely; just; simply",
-   "(conj) but; however; nevertheless"
   ]
  },
  {
@@ -2377,27 +2288,6 @@
   ]
  },
  {
-  "order": 140,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "もともとあんたがそいつに金出すスジ<b>はね</b>んだ。",
-  "word": "撥ねる",
-  "reading": "はねる",
-  "meaning": "to hit (e.g. with a car); to knock down",
-  "pos": "verb",
-  "chapter": 5,
-  "speaker": "桐生",
-  "uid": "0133121e",
-  "candidates": [
-   "(verb) to hit (e.g. with a car); to knock down",
-   "(verb) to reject; to eliminate; to exclude; to get rid of",
-   "(verb) to refuse (e.g. a request); to deny; to turn down",
-   "(verb) to flip; to splash; to splatter",
-   "(verb) to take (a percentage)",
-   "(verb) to stick up (e.g. of hair); to curl up (e.g. of a moustache); to sweep up (the end of a brush stroke)"
-  ]
- },
- {
   "order": 141,
   "kind": "i+1",
   "standalone": false,
@@ -2532,27 +2422,6 @@
    "(noun) skill; dexterity; artistry; ingenuity",
    "(noun) tea-ceremony procedures",
    "(pn) I; me"
-  ]
- },
- {
-  "order": 149,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "あとこれ、<b>つまら</b>ないものですけど。",
-  "word": "詰まる",
-  "reading": "つまる",
-  "meaning": "to be packed (with); to be filled; to be full (e.g. of a schedule)",
-  "pos": "verb",
-  "chapter": 5,
-  "speaker": "尾田",
-  "uid": "01331224",
-  "candidates": [
-   "(verb) to be packed (with); to be filled; to be full (e.g. of a schedule)",
-   "(verb) to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up",
-   "(verb) to be become shorter; to shrink; to narrow",
-   "(verb) to be at a loss (for); to be pressed (for); to be stuck (for)",
-   "(verb) to come to the end; to be settled",
-   "(verb) to become a geminate consonant"
   ]
  },
  {
@@ -3598,26 +3467,6 @@
    "(na-adjective) careless (with something, esp. time, money, promises, etc.); lax; sloppy; slack",
    "(na-adjective) loose-fitting; relaxed-fit; baggy",
    "(na-adjective) laid-back (e.g. beat, rhythm); easygoing (e.g. atmosphere); relaxed"
-  ]
- },
- {
-  "order": 211,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "いや、待つよ。先輩を<b>放っ</b>といて、",
-  "word": "放つ",
-  "reading": "はなつ",
-  "meaning": "to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind",
-  "pos": "verb",
-  "chapter": 5,
-  "speaker": "桐生",
-  "uid": "01331239",
-  "candidates": [
-   "(verb) to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind",
-   "(verb) to set free; to release; to let loose",
-   "(verb) to emit (e.g. light); to give off (e.g. a scent)",
-   "(verb) to send out (a person to carry out a duty)",
-   "(verb) to set fire to"
   ]
  },
  {
@@ -5825,23 +5674,6 @@
   "candidates": [
    "(noun) backdoor; rear entrance; rear exit",
    "(noun) unauthorized; illicit; illegal"
-  ]
- },
- {
-  "order": 342,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "（裏口から<b>入れ</b>と言われてたな……）",
-  "word": "入れ",
-  "reading": "いれ",
-  "meaning": "container; receptacle; case; bag",
-  "pos": "noun",
-  "chapter": 5,
-  "speaker": "桐生",
-  "uid": "01331237",
-  "candidates": [
-   "(noun) container; receptacle; case; bag",
-   "(noun) inserting; putting in"
   ]
  },
  {
