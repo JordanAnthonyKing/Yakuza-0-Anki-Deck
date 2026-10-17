@@ -1,0 +1,368 @@
+[
+ {
+  "order": 0,
+  "word": "食欲",
+  "reading": "しょくよく",
+  "meaning": "appetite (for food)",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "00331490",
+  "sentence": "ああ。食欲があるんはええことや。",
+  "parity": true,
+  "official_candidate": "Yeah. And a big appetite's a good sign. I'll buy ya another round. Sit tight a sec.",
+  "official_neighbors": [
+   "Huh? Ohh, sorry 'bout that. I'll go back and buy an order of hot ones fresh.",
+   "...That takoyaki was good.",
+   "Sorry..."
+  ]
+ },
+ {
+  "order": 1,
+  "word": "旨い",
+  "reading": "うまい",
+  "meaning": "skillful; skilful; skilled; good",
+  "pos": "i-adjective",
+  "speaker": "",
+  "uid": "00331498",
+  "sentence": "たこ焼き、ごっつ美味かったで。",
+  "parity": true,
+  "official_candidate": "That was some damn fine takoyaki. I'll take one more.",
+  "official_neighbors": [
+   "Hello there! ...Hm? You're the gentleman from before.",
+   "Is that so? Aren't you the sweetest? You take just as many as you'd like, honey. On the house!",
+   "For real? All the same, just one right now, and you bet I'll be back to buy more another day. Thanks, lady."
+  ]
+ },
+ {
+  "order": 2,
+  "word": "児童",
+  "reading": "じどう",
+  "meaning": "children; juvenile",
+  "pos": "noun",
+  "speaker": "",
+  "uid": "00331498",
+  "sentence": "ほな、冷めへんうちに急いで児童公園に戻らな",
+  "parity": true,
+  "official_candidate": "(Alright, got some hot takoyaki. Now to get it back to the Children's Park before it gets cold.)",
+  "official_neighbors": [
+   "You got Piping Hot Takoyaki."
+  ]
+ },
+ {
+  "order": 3,
+  "word": "早",
+  "reading": "はや",
+  "meaning": "already; now; by this time",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "01331488",
+  "sentence": "……早よ言えやあ!!",
+  "parity": true,
+  "official_candidate": "I said TALK!",
+  "official_neighbors": [
+   "Talk quick... or I'll move on to one of your buddies. You'll be too dead to watch what I do to him.",
+   "R-Roppongi... The Sebastian Building... rooftop terrace.",
+   "......"
+  ]
+ },
+ {
+  "order": 4,
+  "word": "ほっつき歩く",
+  "reading": "ほっつきあるく",
+  "meaning": "to loiter around; to wander about",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331488",
+  "sentence": "どこほっつき歩いとんねん。マコト……",
+  "parity": true,
+  "official_candidate": "Where the hell'd you go wanderin' off to, Makoto?",
+  "official_neighbors": []
+ },
+ {
+  "order": 6,
+  "word": "譲る",
+  "reading": "ゆずる",
+  "meaning": "to hand over; to transfer; to turn over; to assign",
+  "pos": "verb",
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "sentence": "あの女からウチの親父に土地を譲りてえって",
+  "parity": true,
+  "official_candidate": "She reached out to our boss saying she wanted him to take that land off her hands. We gave her a warm welcome.",
+  "official_neighbors": [
+   "What'd you do with Makoto?",
+   "What? She got in contact with Shibusawa herself?",
+   "Bitter that you got dumped? Heh, the boss is probably serving her up to Patriarch Dojima on a platter right now."
+  ]
+ },
+ {
+  "order": 7,
+  "word": "丁重",
+  "reading": "ていちょう",
+  "meaning": "polite; courteous; hospitable",
+  "pos": "na-adjective",
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "sentence": "丁重にお迎えしてやったよ。",
+  "parity": true,
+  "official_candidate": "She reached out to our boss saying she wanted him to take that land off her hands. We gave her a warm welcome.",
+  "official_neighbors": [
+   "What'd you do with Makoto?",
+   "What? She got in contact with Shibusawa herself?",
+   "Bitter that you got dumped? Heh, the boss is probably serving her up to Patriarch Dojima on a platter right now."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "付き纏う",
+  "reading": "つきまとう",
+  "meaning": "to follow around; to shadow; to tag along",
+  "pos": "verb",
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "sentence": "しつこくつきまとってくるから",
+  "parity": true,
+  "official_candidate": "Said she was tired of you followin' her around like a lost puppy.",
+  "official_neighbors": [
+   "I tell you, women are scary things. She even went out of her way to let us know you'd be here.",
+   "Where's she meeting Dojima?"
+  ]
+ },
+ {
+  "order": 9,
+  "word": "彼の世",
+  "reading": "あのよ",
+  "meaning": "the other world; the next world; the world beyond; world after death",
+  "pos": "noun",
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "sentence": "あの世なんだからな。",
+  "parity": true,
+  "official_candidate": "Don't see why you'd care. The only place you're going is off this roof and into a little box.",
+  "official_neighbors": [
+   "Where's she meeting Dojima?",
+   "She wants me there. Sendin' you clowns here's as good as a formal invitation."
+  ]
+ },
+ {
+  "order": 11,
+  "word": "迷う",
+  "reading": "まよう",
+  "meaning": "to lose one's way; to get lost; to go astray",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331488",
+  "sentence": "（迷ってる暇はない、行くで……！）",
+  "parity": true,
+  "official_candidate": "(No time to stand here thinkin'!)",
+  "official_neighbors": [
+   "(Makoto should be waitin' up there... Whatever comes next is a problem I gotta solve when I get to it.)",
+   "(But when I meet her, then what? I gotta get a plan of attack ready here...)"
+  ]
+ },
+ {
+  "order": 12,
+  "word": "指定",
+  "reading": "してい",
+  "meaning": "designation; specification; assignment; appointment",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133149b",
+  "sentence": "わざわざ時間を指定して呼び出すからには",
+  "parity": true,
+  "official_candidate": "(Who knows why she gave me the slip last night, but she wouldn't do this without some sorta plan...)",
+  "official_neighbors": [
+   "(I ain't about to leave her by herself, regardless. She wants me there, I'll be there.)"
+  ]
+ },
+ {
+  "order": 13,
+  "word": "乗車",
+  "reading": "じょうしゃ",
+  "meaning": "boarding (a train, bus, etc.); getting into (e.g. a taxi)",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "013314ae",
+  "sentence": "乗車賃が払えそうにない。",
+  "parity": true,
+  "official_candidate": "(I can't pay the taxi fare. It shouldn't be too hard to get \\470, though.)",
+  "official_neighbors": [
+   "(I can't leave Kamurocho now. I should wait for word from Tachibana.)",
+   "The taxi fare starts at \\470. Where would you like to go?",
+   "(I need to get to Dojima Family HQ.)"
+  ]
+ },
+ {
+  "order": 14,
+  "word": "初乗り",
+  "reading": "はつのり",
+  "meaning": "first ride (in a new vehicle, in the new year, etc.)",
+  "pos": "verb",
+  "speaker": "タクシー",
+  "uid": "013314ae",
+  "sentence": "初乗り料金４７０円になります。",
+  "parity": true,
+  "official_candidate": "The taxi fare starts at \\470. Where would you like to go?",
+  "official_neighbors": [
+   "(I can't pay the taxi fare. It shouldn't be too hard to get \\470, though.)",
+   "(I need to get to Dojima Family HQ.)",
+   "Sorry, I changed my mind."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "急用",
+  "reading": "きゅうよう",
+  "meaning": "urgent business",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "013314ae",
+  "sentence": "すまないが、急用を思い出した。",
+  "parity": true,
+  "official_candidate": "Sorry, I changed my mind.",
+  "official_neighbors": [
+   "The taxi fare starts at \\470. Where would you like to go?",
+   "(I need to get to Dojima Family HQ.)",
+   "No problem, sir.",
+   "Take me to the Dojima Family headquarters."
+  ]
+ },
+ {
+  "order": 16,
+  "word": "都市",
+  "reading": "とし",
+  "meaning": "town; city; municipal; urban",
+  "pos": "noun",
+  "speaker": "タクシー",
+  "uid": "013314ae",
+  "sentence": "他の都市ですと１０万円掛かりますが、",
+  "parity": true,
+  "official_candidate": "If we're going to another city, the fare will be \\100,000. Is that okay?",
+  "official_neighbors": [
+   "Very well, sir.",
+   "(I don't have enough. I guess I'll have to get that \\100,000 first.)"
+  ]
+ },
+ {
+  "order": 18,
+  "word": "どかん",
+  "reading": "どかん",
+  "meaning": "earthen pipe",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013314b0",
+  "sentence": "さっさとどかんかい、ボケがあ!!",
+  "parity": true,
+  "official_candidate": "I said step aside, assholes!",
+  "official_neighbors": []
+ },
+ {
+  "order": 19,
+  "word": "細身",
+  "reading": "ほそみ",
+  "meaning": "narrow (blade)",
+  "pos": "adj-no",
+  "speaker": "",
+  "uid": "013314b0",
+  "sentence": "細身の堂島組組員",
+  "parity": false,
+  "official_candidate": "Portly Dojima Family Thug",
+  "official_neighbors": [
+   "I'm done talkin', dumbass.",
+   "Don't got the time to waste on trash. Clear a path or bleed. Your call.",
+   "I said step aside, assholes!",
+   "\u0013pSlim Dojima Family Thug",
+   "kaiwabgm_kinpaku_02",
+   "Talk_Kamae",
+   "Talk_Surp",
+   "Majima",
+   "P_MJM_TLK_stand_kamae"
+  ]
+ },
+ {
+  "order": 20,
+  "word": "太め",
+  "reading": "ふとめ",
+  "meaning": "plump; somewhat large",
+  "pos": "na-adjective",
+  "speaker": "",
+  "uid": "013314b0",
+  "sentence": "太めの堂島組組員",
+  "parity": false,
+  "official_candidate": "Majima",
+  "official_neighbors": [
+   "\u0013pSlim Dojima Family Thug",
+   "kaiwabgm_kinpaku_02",
+   "Portly Dojima Family Thug",
+   "Talk_Kamae",
+   "Talk_Surp",
+   "P_MJM_TLK_stand_kamae"
+  ]
+ },
+ {
+  "order": 21,
+  "word": "毎度",
+  "reading": "まいど",
+  "meaning": "each time; every time; always; often",
+  "pos": "adverb",
+  "speaker": "おばちゃん",
+  "uid": "00331498",
+  "sentence": "毎度あり！",
+  "parity": true,
+  "official_candidate": "Any time, dear!",
+  "official_neighbors": [
+   "Is that so? Aren't you the sweetest? You take just as many as you'd like, honey. On the house!",
+   "For real? All the same, just one right now, and you bet I'll be back to buy more another day. Thanks, lady.",
+   "You got Piping Hot Takoyaki."
+  ]
+ },
+ {
+  "order": 22,
+  "word": "有り",
+  "reading": "あり",
+  "meaning": "existing (at the present moment)",
+  "pos": "noun",
+  "speaker": "おばちゃん",
+  "uid": "00331498",
+  "sentence": "毎度あり！",
+  "parity": true,
+  "official_candidate": "Any time, dear!",
+  "official_neighbors": [
+   "Is that so? Aren't you the sweetest? You take just as many as you'd like, honey. On the house!",
+   "For real? All the same, just one right now, and you bet I'll be back to buy more another day. Thanks, lady.",
+   "You got Piping Hot Takoyaki."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "展望",
+  "reading": "てんぼう",
+  "meaning": "view; outlook; prospect",
+  "pos": "verb",
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "sentence": "展望テラスだ……",
+  "parity": true,
+  "official_candidate": "R-Roppongi... The Sebastian Building... rooftop terrace.",
+  "official_neighbors": [
+   "I said TALK!",
+   "......"
+  ]
+ },
+ {
+  "order": 24,
+  "word": "テラス",
+  "reading": "テラス",
+  "meaning": "terrace",
+  "pos": "noun",
+  "speaker": "渋澤組組員",
+  "uid": "01331488",
+  "sentence": "展望テラスだ……",
+  "parity": true,
+  "official_candidate": "R-Roppongi... The Sebastian Building... rooftop terrace.",
+  "official_neighbors": [
+   "I said TALK!",
+   "......"
+  ]
+ }
+]
