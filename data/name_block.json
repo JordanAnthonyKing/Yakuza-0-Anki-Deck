@@ -63,5 +63,15 @@
   "surface": "野兎",
   "reading": "",
   "note": "Kansai やと (copula や + と) mis-lemmatized as 野兎 'hare' (ch4, ch12); never real vocab here."
+ },
+ {
+  "surface": "一通り",
+  "reading": "",
+  "note": "Only ever appears inside the street name 天下一通り (Tenkaichi St.) in the story; mis-taught ch1, re-mined ch14."
+ },
+ {
+  "surface": "常",
+  "reading": "",
+  "note": "常に is lemmatized as 常 with the wrong reading ただ (ch5, ch10, ch14); never produces a correct card."
  }
 ]
