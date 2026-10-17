@@ -1,0 +1,1218 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺が捨てたもんを拾ったんや……　公園の<b>ゴミ箱</b>から。",
+  "word": "塵箱",
+  "reading": "ごみばこ",
+  "meaning": "trash can; garbage can; rubbish bin; dustbin",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) trash can; garbage can; rubbish bin; dustbin"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺があんたから取ったほぐし快館の<b>制服</b>……",
+  "word": "制服",
+  "reading": "せいふく",
+  "meaning": "uniform",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) uniform"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>身代わり</b>にするつもりやった女の写真。",
+  "word": "身代わり",
+  "reading": "みがわり",
+  "meaning": "substitution (for someone else); substitute; stand-in; scapegoat",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) substitution (for someone else); substitute; stand-in; scapegoat"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……電話の男は<b>別口</b>や。",
+  "word": "別口",
+  "reading": "べつくち",
+  "meaning": "different kind; another sort; separate item; another approach",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) different kind; another sort; separate item; another approach",
+   "(noun) separate account (e.g. bank account)"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "けど俺が……　マコトの殺し<b>命じ</b>られとんのは",
+  "word": "命ずる",
+  "reading": "めいずる",
+  "meaning": "to order; to command",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(verb) to order; to command",
+   "(verb) to appoint"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>方々</b>から狙われとるワケもわかるはずや。",
+  "word": "方々",
+  "reading": "かたがた",
+  "meaning": "people; (all) persons; everyone; ladies and gentlemen",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) people; (all) persons; everyone; ladies and gentlemen",
+   "(pn) you (usu. plural)"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そろそろ<b>ケリ</b>つけたる。",
+  "word": "けり",
+  "reading": "けり",
+  "meaning": "kick",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) kick"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "クソッ、<b>待ちぶせ</b>されとったか……",
+  "word": "待ち伏せ",
+  "reading": "まちぶせ",
+  "meaning": "ambush; lying in wait for an ambush",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "",
+  "uid": "013312c5",
+  "candidates": [
+   "(verb) ambush; lying in wait for an ambush"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "李さん、どこにいる!?　私、李さんに<b>急ぎ</b>の用ある！",
+  "word": "急ぎ",
+  "reading": "いそぎ",
+  "meaning": "haste; hurry; urgency; pressingness",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "中国人の闇医者",
+  "uid": "013312c5",
+  "candidates": [
+   "(noun) haste; hurry; urgency; pressingness",
+   "(adverb) in a hurry; quickly; with haste"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "薬届けたい。李さん、<b>痛み止め</b>の薬きれる。",
+  "word": "痛み止め",
+  "reading": "いたみどめ",
+  "meaning": "painkiller",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "中国人の闇医者",
+  "uid": "013312c5",
+  "candidates": [
+   "(noun) painkiller"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "その<b>節</b>はお世話になりました。",
+  "word": "節",
+  "reading": "せつ",
+  "meaning": "occasion; time",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "ヤクザ",
+  "uid": "013312c5",
+  "candidates": [
+   "(noun) occasion; time",
+   "(noun) section (of a literary work or piece of music); passage; paragraph; verse",
+   "(noun) clause",
+   "(noun) season; term",
+   "(noun) one's principles; integrity",
+   "(noun) node (of a plant stem)"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ええ。……さきほど組長からお電話<b>差し上げ</b>たかと。",
+  "word": "差し上げる",
+  "reading": "さしあげる",
+  "meaning": "to lift up; to hold up; to raise",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "ヤクザ",
+  "uid": "013312c5",
+  "candidates": [
+   "(verb) to lift up; to hold up; to raise",
+   "(verb) to give; to present; to offer",
+   "(verb) to do (for someone)"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "マキムラマコトの死体、お<b>受け取り</b>に",
+  "word": "受け取り",
+  "reading": "うけとり",
+  "meaning": "receiving; receipt",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "ヤクザ",
+  "uid": "013312c5",
+  "candidates": [
+   "(noun) receiving; receipt"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そのツラ、<b>拝ま</b>せてもらおうやないか……！",
+  "word": "拝む",
+  "reading": "おがむ",
+  "meaning": "to assume the posture of praying; to press the palms and fingers of both hands together; to do reverence (e.g. before a statue of the Buddha); to pay one's respects",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c5",
+  "candidates": [
+   "(verb) to assume the posture of praying; to press the palms and fingers of both hands together; to do reverence (e.g. before a statue of the Buddha); to pay one's respects",
+   "(verb) to beg; to make a supplication",
+   "(verb) to see (something or someone of high status)"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……にしても、ずいぶん<b>騒がしかっ</b>たなあ。え？",
+  "word": "騒がしい",
+  "reading": "さわがしい",
+  "meaning": "noisy; boisterous",
+  "pos": "i-adjective",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(i-adjective) noisy; boisterous",
+   "(i-adjective) turbulent (era, etc.); troubled"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "蒼天堀に<b>浮かべる</b>なんて、ずいぶん派手じゃないの。",
+  "word": "浮かべる",
+  "reading": "うかべる",
+  "meaning": "to float; to set afloat; to launch",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to float; to set afloat; to launch",
+   "(verb) to show on one's face (smile, sadness, etc.)",
+   "(verb) to recall; to call to mind; to imagine; to think of"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>うっかり</b>してたんや。これから連絡するとこやった。",
+  "word": "うっかり",
+  "reading": "うっかり",
+  "meaning": "carelessly; thoughtlessly; inadvertently",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) carelessly; thoughtlessly; inadvertently"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺ぁ、なんか<b>腑</b>に落ちねんだよ。",
+  "word": "腑",
+  "reading": "ふ",
+  "meaning": "internal organ; viscera; gut",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) internal organ; viscera; gut"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お前さ……　なんでわざわざ死体の顔<b>潰し</b>たの？",
+  "word": "潰す",
+  "reading": "つぶす",
+  "meaning": "to smash; to crush; to flatten",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to smash; to crush; to flatten",
+   "(verb) to shut down; to put out of business; to force (a company) to close up shop",
+   "(verb) to wreck; to break; to block; to thwart",
+   "(verb) to butcher; to slaughter; to kill (livestock, for food)",
+   "(verb) to kill (time); to while away (the time); to use up (one's time)",
+   "(verb) to waste (e.g. talents)"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "死体の<b>身元</b>隠してえのか、隠したくねえのか",
+  "word": "身元",
+  "reading": "みもと",
+  "meaning": "(one's) identity; background; upbringing; birth (and parentage)",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) (one's) identity; background; upbringing; birth (and parentage)",
+   "(noun) (one's) character"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "気が<b>動転</b>してたって？",
+  "word": "動転",
+  "reading": "どうてん",
+  "meaning": "disturbance of mind; losing one's head; being upset; being astonished",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) disturbance of mind; losing one's head; being upset; being astonished",
+   "(verb) transition; changing; moving"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あれでも俺と同じ……　近江連合の<b>直参</b>だ。",
+  "word": "直参",
+  "reading": "じきさん",
+  "meaning": "immediate follower (of the shogun)",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) immediate follower (of the shogun)"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>鬼</b>仁会ってな。",
+  "word": "鬼",
+  "reading": "おに",
+  "meaning": "ogre; demon; oni",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) ogre; demon; oni",
+   "(noun) spirit of a deceased person",
+   "(noun) ogre-like person (i.e. fierce, relentless, merciless, etc.)",
+   "(noun) it (in a game of tag, hide-and-seek, etc.); seeker; chaser; tagger",
+   "(noun) Chinese \"ghost\" constellation (one of the 28 mansions)",
+   "(pref) very; extremely; super-"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どこの<b>縄張り</b>だろうと好き勝手やらかす。",
+  "word": "縄張り",
+  "reading": "なわばり",
+  "meaning": "stretching a rope around; roping off; cordoning off; demarcation",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) stretching a rope around; roping off; cordoning off; demarcation",
+   "(noun) one's turf; domain; territory; jurisdiction",
+   "(noun) territory (of an animal)"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "蒼天堀のトラブル<b>メーカー</b>ってやつだ。",
+  "word": "メーカー",
+  "reading": "メーカー",
+  "meaning": "manufacturer (esp. a major company); producer; maker",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) manufacturer (esp. a major company); producer; maker",
+   "(noun) maker (person or device that makes something)"
+  ]
+ },
+ {
+  "order": 25,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なんでお前にちょっ<b>かい出し</b>てきてんだ？",
+  "word": "掻い出す",
+  "reading": "かいだす",
+  "meaning": "to bail out (water); to scoop out",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to bail out (water); to scoop out"
+  ]
+ },
+ {
+  "order": 26,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ええ<b>酒飲み</b>慣れてなかったんとちゃうか？",
+  "word": "酒飲み",
+  "reading": "さけのみ",
+  "meaning": "(heavy) drinker; drunkard; tippler; boozer",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) (heavy) drinker; drunkard; tippler; boozer"
+  ]
+ },
+ {
+  "order": 27,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お前が俺に<b>隠し事</b>なんかできるわけがねえ。",
+  "word": "隠し事",
+  "reading": "かくしごと",
+  "meaning": "secret; secrecy",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) secret; secrecy"
+  ]
+ },
+ {
+  "order": 28,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どうなるか身に<b>染み</b>て分かってるはずだもんな。",
+  "word": "染みる",
+  "reading": "しみる",
+  "meaning": "to soak (into); to permeate; to seep (in); to penetrate",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to soak (into); to permeate; to seep (in); to penetrate",
+   "(verb) to sting (of a wound, sensitive area, etc.); to smart; to twinge; to bite (e.g. of the cold)",
+   "(verb) to be infected (e.g. with vice); to be steeped (e.g. with prejudice); to be influenced",
+   "(verb) to feel keenly; to make a deep impression; to sink into (e.g. one's mind); to be moved"
+  ]
+ },
+ {
+  "order": 29,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ああ……　<b>たまら</b>んでぇ……",
+  "word": "堪る",
+  "reading": "たまる",
+  "meaning": "to bear; to endure",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to bear; to endure"
+  ]
+ },
+ {
+  "order": 30,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>しぶとい</b>男やな。",
+  "word": "しぶとい",
+  "reading": "しぶとい",
+  "meaning": "tenacious; tough; enduring; dogged",
+  "pos": "i-adjective",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(i-adjective) tenacious; tough; enduring; dogged"
+  ]
+ },
+ {
+  "order": 31,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なんやぁ……　もう時間<b>切れ</b>かいな。",
+  "word": "切れ",
+  "reading": "きれ",
+  "meaning": "piece; slice; strip; scrap",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) piece; slice; strip; scrap",
+   "(noun) cloth",
+   "(noun) sharpness",
+   "(noun) agility",
+   "(ctr) counter for scraps, pieces, etc."
+  ]
+ },
+ {
+  "order": 32,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "サツの<b>旦那</b>方ぁ！",
+  "word": "旦那",
+  "reading": "だんな",
+  "meaning": "master (of a house, shop, etc.)",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) master (of a house, shop, etc.)",
+   "(noun) husband",
+   "(noun) sir; boss; master; governor",
+   "(noun) patron of a mistress, geisha, bar or nightclub hostess; sugar daddy",
+   "(noun) alms; almsgiving; almsgiver"
+  ]
+ },
+ {
+  "order": 33,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どっからの<b>命令</b>や……！",
+  "word": "命令",
+  "reading": "めいれい",
+  "meaning": "order; command; decree; directive",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) order; command; decree; directive",
+   "(verb) (software) instruction; statement"
+  ]
+ },
+ {
+  "order": 34,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>ヒヒ</b>……　それは次会うたときのお楽しみや。",
+  "word": "狒々",
+  "reading": "ひひ",
+  "meaning": "baboon",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) baboon",
+   "(noun) lecher; dirty old man; skirt-chaser"
+  ]
+ },
+ {
+  "order": 35,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>貸切</b>のお客様は……？",
+  "word": "貸し切り",
+  "reading": "かしきり",
+  "meaning": "reserving (for exclusive use); (full) booking; chartering; block reservation",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "店長",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) reserving (for exclusive use); (full) booking; chartering; block reservation"
+  ]
+ },
+ {
+  "order": 36,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……ええから、お前はサツの<b>応対</b>しとけ。",
+  "word": "応対",
+  "reading": "おうたい",
+  "meaning": "dealing with (people, customers, complaints, etc.); receiving (callers, visitors, etc.); attending to; handling",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) dealing with (people, customers, complaints, etc.); receiving (callers, visitors, etc.); attending to; handling"
+  ]
+ },
+ {
+  "order": 37,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "他のモンには開店準備させろ。今から<b>通常</b>営業や。",
+  "word": "通常",
+  "reading": "つうじょう",
+  "meaning": "usual; ordinary; normal; regular",
+  "pos": "adverb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(adverb) usual; ordinary; normal; regular"
+  ]
+ },
+ {
+  "order": 38,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "わ、わかりました。準備でき<b>次第</b>、店開けます。",
+  "word": "次第",
+  "reading": "しだい",
+  "meaning": "depending on",
+  "pos": "suf",
+  "chapter": 8,
+  "speaker": "店長",
+  "uid": "013312cd",
+  "candidates": [
+   "(suf) depending on",
+   "(suf) as soon as; immediately after; upon",
+   "(suf) as (e.g. \"as one is told\", \"as one wishes\"); whatever (e.g. \"whatever is at hand\")",
+   "(noun) order; program; programme; precedence",
+   "(noun) circumstances; course of events; state of things",
+   "(noun) reason"
+  ]
+ },
+ {
+  "order": 39,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せやけどあんたが手に<b>負えん</b>いうてなぁ……",
+  "word": "負う",
+  "reading": "おう",
+  "meaning": "to carry on one's back; to bear; to shoulder",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to carry on one's back; to bear; to shoulder",
+   "(verb) to take (responsibility); to assume; to accept; to bear (the blame, costs, etc.)",
+   "(verb) to suffer (an injury); to sustain (a wound); to receive; to incur (a loss, damage, etc.)",
+   "(verb) to owe (a debt of gratitude to); to be indebted to",
+   "(verb) to have (something) behind one; to be backed by"
+  ]
+ },
+ {
+  "order": 40,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お前があの<b>ぼんくら</b>どもの頭っちゅうわけか。",
+  "word": "ぼんくら",
+  "reading": "ぼんくら",
+  "meaning": "stupid; half-witted; dull-witted; thickheaded",
+  "pos": "na-adjective",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312cd",
+  "candidates": [
+   "(na-adjective) stupid; half-witted; dull-witted; thickheaded",
+   "(noun) blockhead; idiot; dimwit"
+  ]
+ },
+ {
+  "order": 41,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まあ<b>カリカリ</b>せんと聞いてぇ。",
+  "word": "かりかり",
+  "reading": "カリカリ",
+  "meaning": "crisp (e.g. potato chip, fried fish, etc.); crunchy",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) crisp (e.g. potato chip, fried fish, etc.); crunchy",
+   "(verb) grumpily; touchily; edgily; irritably",
+   "(verb) scratching",
+   "(noun) crunchies; dry (pet) food; kibble"
+  ]
+ },
+ {
+  "order": 42,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あのアホに死体が<b>別人</b>やなんてバレやせん。",
+  "word": "別人",
+  "reading": "べつじん",
+  "meaning": "different person; another person; someone else; changed man",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) different person; another person; someone else; changed man"
+  ]
+ },
+ {
+  "order": 43,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もう<b>おさまり</b>つかんで!?",
+  "word": "収まり",
+  "reading": "おさまり",
+  "meaning": "conclusion; end; settlement",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) conclusion; end; settlement",
+   "(noun) balance; harmony; fitting (in)"
+  ]
+ },
+ {
+  "order": 44,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "店で<b>ドス</b>抜いてますねん！",
+  "word": "どす",
+  "reading": "どす",
+  "meaning": "dagger; dirk; knife",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) dagger; dirk; knife",
+   "(noun) threatening quality (in a voice, etc.)",
+   "(pref) muddy; turbid; murky; unclear",
+   "(aux) be; is"
+  ]
+ },
+ {
+  "order": 45,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "サツも認める立派な<b>強盗</b>やでぇ？",
+  "word": "強盗",
+  "reading": "ごうとう",
+  "meaning": "robber; mugger",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) robber; mugger",
+   "(noun) robbery; burglary"
+  ]
+ },
+ {
+  "order": 46,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワシゃもう仕事<b>抜き</b>や。楽しませてもらうでぇ？",
+  "word": "抜き",
+  "reading": "ぬき",
+  "meaning": "leaving out; omitting; skipping; dispensing with",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) leaving out; omitting; skipping; dispensing with",
+   "(suf) (beating) in succession; in a row"
+  ]
+ },
+ {
+  "order": 47,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "がっかりさせん<b>なや</b>ぁ!!",
+  "word": "納屋",
+  "reading": "なや",
+  "meaning": "barn (for storage); shed; outbuilding",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) barn (for storage); shed; outbuilding"
+  ]
+ },
+ {
+  "order": 48,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……中国人同士の<b>絆</b>より、金か……",
+  "word": "絆",
+  "reading": "きずな",
+  "meaning": "bond (between people); (emotional) ties; bonds; relationship",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "李",
+  "uid": "013312dc",
+  "candidates": [
+   "(noun) bond (between people); (emotional) ties; bonds; relationship",
+   "(noun) tether; fetters"
+  ]
+ },
+ {
+  "order": 49,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そいつは<b>ほっ</b>とけ。あんたを裏切った男やぞ。",
+  "word": "放る",
+  "reading": "ほうる",
+  "meaning": "to throw; to fling; to hurl; to toss",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(verb) to throw; to fling; to hurl; to toss",
+   "(verb) to neglect; to abandon; to leave alone; to give up on"
+  ]
+ },
+ {
+  "order": 50,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ただずっとここに<b>篭もっ</b>て守られてるだけなんて、",
+  "word": "籠もる",
+  "reading": "こもる",
+  "meaning": "to shut oneself in (e.g. one's room); to be confined in; to seclude oneself; to hide away",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "マコト",
+  "uid": "013312dc",
+  "candidates": [
+   "(verb) to shut oneself in (e.g. one's room); to be confined in; to seclude oneself; to hide away",
+   "(verb) to fill with (emotion, enthusiasm, power, etc.); to imbue with; to infuse with",
+   "(verb) to fill a space (of a gas, smell, etc.); to be heavy with (e.g. smoke); to be stuffy; to be dense",
+   "(verb) to be muffled (e.g. of a voice)",
+   "(verb) to hold (a castle, fortress, etc.)",
+   "(verb) to confine oneself in a temple to pray"
+  ]
+ },
+ {
+  "order": 51,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "電話の男やいう<b>たん</b>は、そいつらの頭で",
+  "word": "痰",
+  "reading": "たん",
+  "meaning": "phlegm; sputum",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(noun) phlegm; sputum"
+  ]
+ },
+ {
+  "order": 52,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "西谷って男や。鬼仁会いう組<b>率い</b>とる。",
+  "word": "率いる",
+  "reading": "ひきいる",
+  "meaning": "to lead; to spearhead (a group); to command (troops)",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(verb) to lead; to spearhead (a group); to command (troops)"
+  ]
+ },
+ {
+  "order": 53,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あいつは多分……　俺が<b>みすみす</b>この娘",
+  "word": "見す見す",
+  "reading": "みすみす",
+  "meaning": "before one's own eyes; from under one's very nose; without doing anything; without resistance",
+  "pos": "adverb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(adverb) before one's own eyes; from under one's very nose; without doing anything; without resistance"
+  ]
+ },
+ {
+  "order": 54,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "この娘は、いつまで<b>ビクビク</b>せなあかんのや？",
+  "word": "びくびく",
+  "reading": "ビクビク",
+  "meaning": "being afraid of; being fearful; being timid; being nervous",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "李",
+  "uid": "013312dc",
+  "candidates": [
+   "(verb) being afraid of; being fearful; being timid; being nervous",
+   "(verb) trembling; shivering"
+  ]
+ },
+ {
+  "order": 55,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺は……　この街に<b>囚われ</b>の身や。",
+  "word": "囚われ",
+  "reading": "とらわれ",
+  "meaning": "captivity; imprisonment",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(noun) captivity; imprisonment"
+  ]
+ },
+ {
+  "order": 56,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワシがこの店<b>押し込ん</b>だ強盗ですわ！",
+  "word": "押し込む",
+  "reading": "おしこむ",
+  "meaning": "to push into; to cram into; to stuff into; to crowd into",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to push into; to cram into; to stuff into; to crowd into",
+   "(verb) to break in; to burgle; to burglarize"
+  ]
+ },
+ {
+  "order": 57,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "強盗ですわ！　早よ<b>助け</b>に来てください!!",
+  "word": "助け",
+  "reading": "たすけ",
+  "meaning": "assistance; help; aid; support",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) assistance; help; aid; support"
+  ]
+ },
+ {
+  "order": 58,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "それ使<b>こて</b>、マコトの死体を偽装したんやな？",
+  "word": "鏝",
+  "reading": "こて",
+  "meaning": "flat-iron",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "李",
+  "uid": "013312c2",
+  "candidates": [
+   "(noun) flat-iron",
+   "(noun) soldering iron",
+   "(noun) crimper; curling tongs",
+   "(noun) trowel"
+  ]
+ },
+ {
+  "order": 59,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "それ使こて、マコトの死体を<b>偽装</b>したんやな？",
+  "word": "擬装",
+  "reading": "ぎそう",
+  "meaning": "camouflage; disguise",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "李",
+  "uid": "013312c2",
+  "candidates": [
+   "(verb) camouflage; disguise",
+   "(verb) pretense; feigning; masquerade"
+  ]
+ },
+ {
+  "order": 60,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "……これ以上、<b>うろちょろ</b>されたら目障りやからな。",
+  "word": "うろちょろ",
+  "reading": "うろちょろ",
+  "meaning": "hanging around; wandering around (aimlessly); moving around (restlessly); running around",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(verb) hanging around; wandering around (aimlessly); moving around (restlessly); running around"
+  ]
+ },
+ {
+  "order": 61,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "……これ以上、うろちょろされたら<b>目障り</b>やからな。",
+  "word": "目障り",
+  "reading": "めざわり",
+  "meaning": "eyesore; offensive sight; offense to the eye",
+  "pos": "na-adjective",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312c2",
+  "candidates": [
+   "(na-adjective) eyesore; offensive sight; offense to the eye",
+   "(na-adjective) obstruction (to the view of something)"
+  ]
+ },
+ {
+  "order": 62,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そのくせ死体にゃ、女の<b>働き</b>先の服着せたままだ。",
+  "word": "働き",
+  "reading": "はたらき",
+  "meaning": "work; labor; labour",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) work; labor; labour",
+   "(noun) achievement; performance; ability; talent",
+   "(noun) salary; income; earnings",
+   "(noun) action; activity; workings; function",
+   "(noun) conjugation; inflection"
+  ]
+ },
+ {
+  "order": 63,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そのくせ死体にゃ、女の働き先の服<b>着せ</b>たままだ。",
+  "word": "着せる",
+  "reading": "きせる",
+  "meaning": "to put clothes on (someone); to dress; to clothe",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to put clothes on (someone); to dress; to clothe",
+   "(verb) to cover; to coat; to plate; to gild",
+   "(verb) to pin (e.g. a crime on someone); to lay (blame); to charge (with an offence); to give (a bad name)"
+  ]
+ },
+ {
+  "order": 64,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "鬼仁会は他の誰とも<b>つるま</b>ねえ跳ねっかえりだ。",
+  "word": "交尾む",
+  "reading": "つるむ",
+  "meaning": "to copulate (animals); to mate",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to copulate (animals); to mate"
+  ]
+ },
+ {
+  "order": 65,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "鬼仁会は他の誰ともつるまねえ<b>跳ね</b>っかえりだ。",
+  "word": "跳ね",
+  "reading": "はね",
+  "meaning": "(a) jump",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) (a) jump",
+   "(noun) splashes (usu. of mud)",
+   "(noun) upward turn at the bottom (e.g. of a vertical stroke of a kanji or of a hairdo)",
+   "(noun) close (e.g. of a theatrical performance); breakup",
+   "(noun) hane (move)"
+  ]
+ },
+ {
+  "order": 66,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "誰にも秘密は<b>明かさ</b>ん。墓まで持ってったるわ。",
+  "word": "明かす",
+  "reading": "あかす",
+  "meaning": "to pass (the night); to spend",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(verb) to pass (the night); to spend",
+   "(verb) to reveal; to divulge; to disclose; to expose",
+   "(verb) to prove; to verify"
+  ]
+ },
+ {
+  "order": 67,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "誰にも秘密は明かさん。<b>墓</b>まで持ってったるわ。",
+  "word": "墓",
+  "reading": "はか",
+  "meaning": "grave; gravesite; tomb",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "candidates": [
+   "(noun) grave; gravesite; tomb"
+  ]
+ },
+ {
+  "order": 68,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>元</b>をたどれば同じ近江連合や。",
+  "word": "元",
+  "reading": "もと",
+  "meaning": "origin; source; beginning",
+  "pos": "noun",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(noun) origin; source; beginning",
+   "(noun) basis; base; foundation; root",
+   "(noun) cause",
+   "(noun) (raw) material; ingredient; base; mix (e.g. for a cake)",
+   "(noun) (one's) side",
+   "(noun) capital; principal; cost price"
+  ]
+ },
+ {
+  "order": 69,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "元を<b>たどれ</b>ば同じ近江連合や。",
+  "word": "辿る",
+  "reading": "たどる",
+  "meaning": "to follow (a road, path, etc.); to trace",
+  "pos": "verb",
+  "chapter": 8,
+  "speaker": "真島",
+  "uid": "013312dc",
+  "candidates": [
+   "(verb) to follow (a road, path, etc.); to trace",
+   "(verb) to follow (a clue, scent, tracks, plot, etc.); to trace (a route, history, family tree, etc.); to retrace (e.g. one's memory); to search",
+   "(verb) to head towards (of a situation); to go in the direction of; to take (a course); to pursue (a path)"
+  ]
+ }
+]
