@@ -206,7 +206,7 @@ def steps(ch):
                                          for p in sorted(glob.glob(work(ch, f"polish_batch_{ch}_*.json")))]),
             ("polish-combine", "py", (["combine_polish.py", str(ch)], [f"data/gloss_polish_ch{ch}*.json"], False)),
             ("polish-review", "review",
-             f"Review data/gloss_polish_ch{ch}_flags.json and `name_leak_scan.py` output for ch{ch}; drop "
+             f"Review data/gloss_polish_ch{ch}_flags.json, `name_leak_scan.py` and `speaker_name_scan.py {ch}` output; drop "
              f"genuine mistags with `drop_cards.py {ch} <word>...`; fix bad glosses in gloss_polish_ch{ch}.json "
              f"— see scripts/review_rules.md."),
             ("merge-gloss", "py", (["merge_gloss.py", str(ch), str(ch)], [f"data/cards_ch{ch}_{ch}.json", f"data/decks/yakuza0_ch{ch}.apkg", f"data/pipeline/ch{ch}/"], True)),
