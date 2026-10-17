@@ -1,0 +1,14 @@
+{
+ "らん": "食うとらん = 食うて+おらん (Kansai negative progressive), not 欄 'column'",
+ "犯す": "おかしない = おかしい (strange) + negative, not 'to commit'",
+ "粉": "買うてこな = 来る+negative (こな), not 'flour'",
+ "割れ": "割れとる = 割れる 'be exposed/busted' conjugated form, not the noun 'broken piece'",
+ "早": "早よ = はよ 'quickly', clipped adverbial form",
+ "実質": "実質的に = 実質+的 (adjectival suffix), glossed as adverbial sense",
+ "己": "おんどれ = dialect 'you' (curse), reading mismatch; acceptable as 'you' but dialect form",
+ "笑い": "笑とんのや = 笑う+とんのや (verb 'laugh'), not the noun",
+ "振り": "フリ in ~フリして = 'pretending' (ok, not a misparse)",
+ "故": "ゆえ = 'therefore/because' (故), not 'ふる' used item",
+ "伺う": "お伺いします humble 'visit'; ok",
+ "一気": "一気に = 'in one go/all at once', adverbial phrase"
+}
