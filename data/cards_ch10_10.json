@@ -783,23 +783,6 @@
   ]
  },
  {
-  "order": 45,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "「<b>フロー</b>トリガード1」を習得した",
-  "word": "フロー",
-  "reading": "フロー",
-  "meaning": "flow",
-  "pos": "noun",
-  "chapter": 10,
-  "speaker": "",
-  "uid": "01261727",
-  "candidates": [
-   "(noun) flow",
-   "(noun) flow (period of time economic quantity)"
-  ]
- },
- {
   "order": 46,
   "kind": "i+1",
   "standalone": false,
@@ -931,24 +914,6 @@
   "uid": "01261727",
   "candidates": [
    "(verb) challenge; defiance; dare; attempt"
-  ]
- },
- {
-  "order": 54,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "へへ……　<b>スカッ</b>としたぜ。",
-  "word": "すか",
-  "reading": "すか",
-  "meaning": "disappointment; let-down",
-  "pos": "noun",
-  "chapter": 10,
-  "speaker": "酔っ払い",
-  "uid": "01261727",
-  "candidates": [
-   "(noun) disappointment; let-down",
-   "(noun) miss; failure; losing (lottery) ticket; blank",
-   "(noun) nonsense"
   ]
  },
  {
@@ -2725,25 +2690,6 @@
   ]
  },
  {
-  "order": 160,
-  "kind": "solo",
-  "standalone": true,
-  "sentence": "それでハジキまで持ちだして、意趣<b>返し</b>ってわけか？",
-  "word": "返し",
-  "reading": "かえし",
-  "meaning": "reversal; return",
-  "pos": "noun",
-  "chapter": 10,
-  "speaker": "桐生",
-  "uid": "01261727",
-  "candidates": [
-   "(noun) reversal; return",
-   "(noun) return gift; return favour",
-   "(noun) barb (on a fishing hook)",
-   "(noun) mixture of soy sauce, sugar and mirin"
-  ]
- },
- {
   "order": 161,
   "kind": "grp3",
   "standalone": false,
@@ -3122,26 +3068,6 @@
   ]
  },
  {
-  "order": 184,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "<b>常</b>に距離を取って正面に立たないようにすれば",
-  "word": "常",
-  "reading": "ただ",
-  "meaning": "ordinary; common; usual",
-  "pos": "noun",
-  "chapter": 10,
-  "speaker": "カモジ",
-  "uid": "01261727",
-  "candidates": [
-   "(noun) ordinary; common; usual",
-   "(noun) free of charge",
-   "(noun) unaffected; as is; safe",
-   "(adverb) only; merely; just; simply",
-   "(conj) but; however; nevertheless"
-  ]
- },
- {
   "order": 185,
   "kind": "grp2",
   "standalone": false,
@@ -3175,24 +3101,6 @@
    "(verb) to put back up; to stand back up",
    "(verb) to restore (to former strength); to revive (e.g. the economy); to reorganize; to rearrange",
    "(verb) to make again (a plan, policy, etc.); to reformulate; to revise"
-  ]
- },
- {
-  "order": 187,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "<b>置換</b>_Caution_ウィービングを駆使！",
-  "word": "置換",
-  "reading": "ちかん",
-  "meaning": "substitution; replacement",
-  "pos": "verb",
-  "chapter": 10,
-  "speaker": "",
-  "uid": "01261727",
-  "candidates": [
-   "(verb) substitution; replacement",
-   "(verb) permutation",
-   "(verb) substitution; displacement"
   ]
  },
  {
