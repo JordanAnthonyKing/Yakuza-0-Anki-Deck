@@ -1,0 +1,1143 @@
+[
+ {
+  "order": 0,
+  "word": "塵箱",
+  "reading": "ごみばこ",
+  "meaning": "trash can; garbage can; rubbish bin; dustbin",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "俺が捨てたもんを拾ったんや……　公園のゴミ箱から。",
+  "parity": true,
+  "official_candidate": "The guy on the phone... He musta picked it up after I threw it out. Pulled it from the park trash can.",
+  "official_neighbors": [
+   "Hey, I'm waitin' here, Majima!",
+   "Huh?",
+   "The Hogushi Kaikan uniform I got from you... and the photos of the girl."
+  ]
+ },
+ {
+  "order": 1,
+  "word": "制服",
+  "reading": "せいふく",
+  "meaning": "uniform",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "俺があんたから取ったほぐし快館の制服……",
+  "parity": true,
+  "official_candidate": "The Hogushi Kaikan uniform I got from you... and the photos of the girl.",
+  "official_neighbors": [
+   "The guy on the phone... He musta picked it up after I threw it out. Pulled it from the park trash can.",
+   "Huh?",
+   "I threw 'em out. And he musta been watching me.",
+   "Guess that makes sense. So then he takes that, whacks the girl, and plays Makoto dress-up with the body?"
+  ]
+ },
+ {
+  "order": 2,
+  "word": "身代わり",
+  "reading": "みがわり",
+  "meaning": "substitution (for someone else); substitute; stand-in; scapegoat",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "身代わりにするつもりやった女の写真。",
+  "parity": true,
+  "official_candidate": "The Hogushi Kaikan uniform I got from you... and the photos of the girl.",
+  "official_neighbors": [
+   "The guy on the phone... He musta picked it up after I threw it out. Pulled it from the park trash can.",
+   "Huh?",
+   "I threw 'em out. And he musta been watching me.",
+   "Guess that makes sense. So then he takes that, whacks the girl, and plays Makoto dress-up with the body?"
+  ]
+ },
+ {
+  "order": 3,
+  "word": "別口",
+  "reading": "べつくち",
+  "meaning": "different kind; another sort; separate item; another approach",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "……電話の男は別口や。",
+  "parity": true,
+  "official_candidate": "Nah. If it were him, he'd call me himself. This guy was someone else.",
+  "official_neighbors": [
+   "Guess that makes sense. So then he takes that, whacks the girl, and plays Makoto dress-up with the body?",
+   "Why, though? Who is he? ...You don't think it's your boss, do ya?",
+   "Though from the way he talked, he knew I'd been ordered to kill Makoto.",
+   "Which narrows it down to... what, the yakuza who came here?"
+  ]
+ },
+ {
+  "order": 4,
+  "word": "命ずる",
+  "reading": "めいずる",
+  "meaning": "to order; to command",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "けど俺が……　マコトの殺し命じられとんのは",
+  "parity": true,
+  "official_candidate": "Though from the way he talked, he knew I'd been ordered to kill Makoto.",
+  "official_neighbors": [
+   "Why, though? Who is he? ...You don't think it's your boss, do ya?",
+   "Nah. If it were him, he'd call me himself. This guy was someone else.",
+   "Which narrows it down to... what, the yakuza who came here?"
+  ]
+ },
+ {
+  "order": 5,
+  "word": "方々",
+  "reading": "かたがた",
+  "meaning": "people; (all) persons; everyone; ladies and gentlemen",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "方々から狙われとるワケもわかるはずや。",
+  "parity": true,
+  "official_candidate": "Besides, he's gotta know the reason why everybody's after her. I'm way past ready to get that nailed down.",
+  "official_neighbors": [
+   "Fine with me, but you're really just gonna waltz in there alone? You said yerself he's waitin' for you.",
+   "Better than having him sneakin' around me."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "けり",
+  "reading": "けり",
+  "meaning": "kick",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "そろそろケリつけたる。",
+  "parity": true,
+  "official_candidate": "Besides, he's gotta know the reason why everybody's after her. I'm way past ready to get that nailed down.",
+  "official_neighbors": [
+   "Fine with me, but you're really just gonna waltz in there alone? You said yerself he's waitin' for you.",
+   "Better than having him sneakin' around me."
+  ]
+ },
+ {
+  "order": 7,
+  "word": "待ち伏せ",
+  "reading": "まちぶせ",
+  "meaning": "ambush; lying in wait for an ambush",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "013312c5",
+  "sentence": "クソッ、待ちぶせされとったか……",
+  "parity": true,
+  "official_candidate": "(Shit, an ambush... Guess that means I gotta take 'em all out!)",
+  "official_neighbors": []
+ },
+ {
+  "order": 8,
+  "word": "急ぎ",
+  "reading": "いそぎ",
+  "meaning": "haste; hurry; urgency; pressingness",
+  "pos": "noun",
+  "speaker": "中国人の闇医者",
+  "uid": "013312c5",
+  "sentence": "李さん、どこにいる!?　私、李さんに急ぎの用ある！",
+  "parity": true,
+  "official_candidate": "Where Lee-san now!? I must see Lee-san right away!",
+  "official_neighbors": [
+   "Ah, Manager-san, wait! Good I find you!",
+   "You're the underground doc from the mahjong parlor.",
+   "What's the hurry?",
+   "He need drugs. Lee-san run out of painkiller soon. He say he come get more, but never show up!"
+  ]
+ },
+ {
+  "order": 9,
+  "word": "痛み止め",
+  "reading": "いたみどめ",
+  "meaning": "painkiller",
+  "pos": "noun",
+  "speaker": "中国人の闇医者",
+  "uid": "013312c5",
+  "sentence": "薬届けたい。李さん、痛み止めの薬きれる。",
+  "parity": true,
+  "official_candidate": "He need drugs. Lee-san run out of painkiller soon. He say he come get more, but never show up!",
+  "official_neighbors": [
+   "Where Lee-san now!? I must see Lee-san right away!",
+   "What's the hurry?",
+   "Lee was supposed to come see you?",
+   "Did something happen to him? I so worried! Where Lee-san?"
+  ]
+ },
+ {
+  "order": 10,
+  "word": "節",
+  "reading": "せつ",
+  "meaning": "occasion; time",
+  "pos": "noun",
+  "speaker": "ヤクザ",
+  "uid": "013312c5",
+  "sentence": "その節はお世話になりました。",
+  "parity": true,
+  "official_candidate": "The last couple times have been a real pleasure... The patriarch is inside, making himself at home.",
+  "official_neighbors": [
+   "Patriarch?",
+   "Yes. I believe you received a phone call from him? And the gift of Makoto Makimura's dead body."
+  ]
+ },
+ {
+  "order": 11,
+  "word": "差し上げる",
+  "reading": "さしあげる",
+  "meaning": "to lift up; to hold up; to raise",
+  "pos": "verb",
+  "speaker": "ヤクザ",
+  "uid": "013312c5",
+  "sentence": "ええ。……さきほど組長からお電話差し上げたかと。",
+  "parity": true,
+  "official_candidate": "Yes. I believe you received a phone call from him? And the gift of Makoto Makimura's dead body.",
+  "official_neighbors": [
+   "The last couple times have been a real pleasure... The patriarch is inside, making himself at home.",
+   "Patriarch?",
+   "Please. The boss is waiting for you."
+  ]
+ },
+ {
+  "order": 12,
+  "word": "受け取り",
+  "reading": "うけとり",
+  "meaning": "receiving; receipt",
+  "pos": "noun",
+  "speaker": "ヤクザ",
+  "uid": "013312c5",
+  "sentence": "マキムラマコトの死体、お受け取りに",
+  "parity": true,
+  "official_candidate": "Yes. I believe you received a phone call from him? And the gift of Makoto Makimura's dead body.",
+  "official_neighbors": [
+   "The last couple times have been a real pleasure... The patriarch is inside, making himself at home.",
+   "Patriarch?",
+   "Please. The boss is waiting for you."
+  ]
+ },
+ {
+  "order": 13,
+  "word": "拝む",
+  "reading": "おがむ",
+  "meaning": "to assume the posture of praying; to press the palms and fingers of both hands together; to do reverence (e.g. before a statue of the Buddha); to pay one's respects",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312c5",
+  "sentence": "そのツラ、拝ませてもらおうやないか……！",
+  "parity": true,
+  "official_candidate": "(Guy who called me said he's waitin' at the Grand. Let's go meet my newest customer!)",
+  "official_neighbors": []
+ },
+ {
+  "order": 14,
+  "word": "騒がしい",
+  "reading": "さわがしい",
+  "meaning": "noisy; boisterous",
+  "pos": "i-adjective",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "……にしても、ずいぶん騒がしかったなあ。え？",
+  "parity": true,
+  "official_candidate": "Since just after the cops busted in. Pretty wild scene down there on the floor, eh?",
+  "official_neighbors": [
+   "Yo. Made myself at home.",
+   "How long you been in here?",
+   "But what's got me even MORE curious, Majima-chan... I thought I told you to call me when the job was done."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "浮かべる",
+  "reading": "うかべる",
+  "meaning": "to float; to set afloat; to launch",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "蒼天堀に浮かべるなんて、ずいぶん派手じゃないの。",
+  "parity": true,
+  "official_candidate": "Makoto Makimura. You offed her? I saw the news. Leaving her floating down Sotenbori, now that was a bold move.",
+  "official_neighbors": [
+   "But what's got me even MORE curious, Majima-chan... I thought I told you to call me when the job was done.",
+   "The job?",
+   "So why didn't you call me as soon as you were done? What happened to ABC, buddy?"
+  ]
+ },
+ {
+  "order": 16,
+  "word": "うっかり",
+  "reading": "うっかり",
+  "meaning": "carelessly; thoughtlessly; inadvertently",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "うっかりしてたんや。これから連絡するとこやった。",
+  "parity": true,
+  "official_candidate": "Look, I forgot. Till just now--I came up here to call you.",
+  "official_neighbors": [
+   "So why didn't you call me as soon as you were done? What happened to ABC, buddy?",
+   "Right... You forgot."
+  ]
+ },
+ {
+  "order": 17,
+  "word": "腑",
+  "reading": "ふ",
+  "meaning": "internal organ; viscera; gut",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "俺ぁ、なんか腑に落ちねんだよ。",
+  "parity": true,
+  "official_candidate": "Still, lots of sticky little details on this one. Like the girl's body. I just can't figure it out.",
+  "official_neighbors": [
+   "Right... You forgot.",
+   "Huh?",
+   "Like... Why go through the trouble of smashing her face in? And then you turn around and leave her in her uniform?"
+  ]
+ },
+ {
+  "order": 18,
+  "word": "潰す",
+  "reading": "つぶす",
+  "meaning": "to smash; to crush; to flatten",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "お前さ……　なんでわざわざ死体の顔潰したの？",
+  "parity": true,
+  "official_candidate": "Like... Why go through the trouble of smashing her face in? And then you turn around and leave her in her uniform?",
+  "official_neighbors": [
+   "Still, lots of sticky little details on this one. Like the girl's body. I just can't figure it out.",
+   "Huh?",
+   "Can't tell if you're trying to hide who she is or broadcast it."
+  ]
+ },
+ {
+  "order": 19,
+  "word": "身元",
+  "reading": "みもと",
+  "meaning": "(one's) identity; background; upbringing; birth (and parentage)",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "死体の身元隠してえのか、隠したくねえのか",
+  "parity": true,
+  "official_candidate": "Can't tell if you're trying to hide who she is or broadcast it.",
+  "official_neighbors": [
+   "Huh?",
+   "Like... Why go through the trouble of smashing her face in? And then you turn around and leave her in her uniform?",
+   "Kinda funny, isn't it?"
+  ]
+ },
+ {
+  "order": 20,
+  "word": "動転",
+  "reading": "どうてん",
+  "meaning": "disturbance of mind; losing one's head; being upset; being astonished",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "気が動転してたって？",
+  "parity": true,
+  "official_candidate": "Still in shock? ...Huh. Well, guess that's not impossible.",
+  "official_neighbors": [
+   "Kinda funny, isn't it?",
+   "...That was my first time killin' somebody. I can barely even remember what I did.",
+   "What's it matter anyway?"
+  ]
+ },
+ {
+  "order": 21,
+  "word": "直参",
+  "reading": "じきさん",
+  "meaning": "immediate follower (of the shogun)",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "あれでも俺と同じ……　近江連合の直参だ。",
+  "parity": true,
+  "official_candidate": "His name's Nishitani. You wouldn't know it to look at him, but he's Omi Alliance brass, same as me. Heads a group called the Kijin Clan.",
+  "official_neighbors": [
+   "One more question before I do. The guy making a scene downstairs... What were you two fighting about?",
+   "He's Omi Alliance?",
+   "Yup. Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "縄張り",
+  "reading": "なわばり",
+  "meaning": "stretching a rope around; roping off; cordoning off; demarcation",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "どこの縄張りだろうと好き勝手やらかす。",
+  "parity": true,
+  "official_candidate": "They'll roll in on anybody's turf and do whatever they like. Sotenbori's little band of troublemakers... I'm not saying I'm not a fan, though.",
+  "official_neighbors": [
+   "He's Omi Alliance?",
+   "Yup. Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.",
+   "Anyway, out of curiosity... Why's the Kijin Clan throwing down in your club? You get into something with them?"
+  ]
+ },
+ {
+  "order": 24,
+  "word": "メーカー",
+  "reading": "メーカー",
+  "meaning": "manufacturer (esp. a major company); producer; maker",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "蒼天堀のトラブルメーカーってやつだ。",
+  "parity": true,
+  "official_candidate": "They'll roll in on anybody's turf and do whatever they like. Sotenbori's little band of troublemakers... I'm not saying I'm not a fan, though.",
+  "official_neighbors": [
+   "He's Omi Alliance?",
+   "Yup. Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.",
+   "Anyway, out of curiosity... Why's the Kijin Clan throwing down in your club? You get into something with them?"
+  ]
+ },
+ {
+  "order": 25,
+  "word": "掻い出す",
+  "reading": "かいだす",
+  "meaning": "to bail out (water); to scoop out",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "なんでお前にちょっかい出してきてんだ？",
+  "parity": true,
+  "official_candidate": "Anyway, out of curiosity... Why's the Kijin Clan throwing down in your club? You get into something with them?",
+  "official_neighbors": [
+   "They'll roll in on anybody's turf and do whatever they like. Sotenbori's little band of troublemakers... I'm not saying I'm not a fan, though.",
+   "...Just yer average drunken brawl. Maybe the guy wasn't used to drinkin' the good stuff.",
+   "Gotcha... Well, can't say that Nishitani getting smashed and picking a fight's anything new. All right, fair enough."
+  ]
+ },
+ {
+  "order": 26,
+  "word": "酒飲み",
+  "reading": "さけのみ",
+  "meaning": "(heavy) drinker; drunkard; tippler; boozer",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "ええ酒飲み慣れてなかったんとちゃうか？",
+  "parity": true,
+  "official_candidate": "...Just yer average drunken brawl. Maybe the guy wasn't used to drinkin' the good stuff.",
+  "official_neighbors": [
+   "Anyway, out of curiosity... Why's the Kijin Clan throwing down in your club? You get into something with them?",
+   "Gotcha... Well, can't say that Nishitani getting smashed and picking a fight's anything new. All right, fair enough.",
+   "It's just... you've been acting funny for a while now. Couldn't help but wonder if you were keeping secrets."
+  ]
+ },
+ {
+  "order": 27,
+  "word": "隠し事",
+  "reading": "かくしごと",
+  "meaning": "secret; secrecy",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "お前が俺に隠し事なんかできるわけがねえ。",
+  "parity": true,
+  "official_candidate": "Haha, don't take it personally. But you're right, there's no way you could keep something from me.",
+  "official_neighbors": [
+   "It's just... you've been acting funny for a while now. Couldn't help but wonder if you were keeping secrets.",
+   "The hell am I gonna lie about?",
+   "...Because you've still got the scars to remind you what would happen to you if you did."
+  ]
+ },
+ {
+  "order": 28,
+  "word": "染みる",
+  "reading": "しみる",
+  "meaning": "to soak (into); to permeate; to seep (in); to penetrate",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "どうなるか身に染みて分かってるはずだもんな。",
+  "parity": true,
+  "official_candidate": "...Because you've still got the scars to remind you what would happen to you if you did.",
+  "official_neighbors": [
+   "The hell am I gonna lie about?",
+   "Haha, don't take it personally. But you're right, there's no way you could keep something from me."
+  ]
+ },
+ {
+  "order": 29,
+  "word": "堪る",
+  "reading": "たまる",
+  "meaning": "to bear; to endure",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "ああ……　たまらんでぇ……",
+  "parity": true,
+  "official_candidate": "Ahh... That was fuckin' amazing... Never felt this way in all my life...",
+  "official_neighbors": [
+   "(Guess I'll wait in the office till opening.)",
+   "How are you even still talkin'?"
+  ]
+ },
+ {
+  "order": 30,
+  "word": "しぶとい",
+  "reading": "しぶとい",
+  "meaning": "tenacious; tough; enduring; dogged",
+  "pos": "i-adjective",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "……しぶとい男やな。",
+  "parity": true,
+  "official_candidate": "How are you even still talkin'?",
+  "official_neighbors": [
+   "Ahh... That was fuckin' amazing... Never felt this way in all my life...",
+   "Police! Don't move!"
+  ]
+ },
+ {
+  "order": 31,
+  "word": "切れ",
+  "reading": "きれ",
+  "meaning": "piece; slice; strip; scrap",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "なんやぁ……　もう時間切れかいな。",
+  "parity": true,
+  "official_candidate": "Aww, man... Time's up already?",
+  "official_neighbors": [
+   "Police! Don't move!",
+   "Alright, copper! I'm the big, bad robber who busted in on this place! Sorry to say it, but I caused a goddamn scene!",
+   "What? Is this some kinda joke!?"
+  ]
+ },
+ {
+  "order": 32,
+  "word": "旦那",
+  "reading": "だんな",
+  "meaning": "master (of a house, shop, etc.)",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "サツの旦那方ぁ！",
+  "parity": true,
+  "official_candidate": "Alright, copper! I'm the big, bad robber who busted in on this place! Sorry to say it, but I caused a goddamn scene!",
+  "official_neighbors": [
+   "Police! Don't move!",
+   "Aww, man... Time's up already?",
+   "What? Is this some kinda joke!?",
+   "Hold it, Nishitani. Let's hear that reason why you're after the girl. Who's givin' the order!?"
+  ]
+ },
+ {
+  "order": 33,
+  "word": "命令",
+  "reading": "めいれい",
+  "meaning": "order; command; decree; directive",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "どっからの命令や……！",
+  "parity": true,
+  "official_candidate": "Hold it, Nishitani. Let's hear that reason why you're after the girl. Who's givin' the order!?",
+  "official_neighbors": [
+   "Alright, copper! I'm the big, bad robber who busted in on this place! Sorry to say it, but I caused a goddamn scene!",
+   "What? Is this some kinda joke!?",
+   "Heh heh... Gotta save a little fun for next time, big boy. I've decided you're my favorite new toy... Majima-kun."
+  ]
+ },
+ {
+  "order": 35,
+  "word": "貸し切り",
+  "reading": "かしきり",
+  "meaning": "reserving (for exclusive use); (full) booking; chartering; block reservation",
+  "pos": "noun",
+  "speaker": "店長",
+  "uid": "013312cd",
+  "sentence": "貸切のお客様は……？",
+  "parity": true,
+  "official_candidate": "Ah, er... sir? What happened? That was the customer who rented the club out, is he...?",
+  "official_neighbors": [
+   "His rental's up.",
+   "Huh? He paid that much, and he's already done?"
+  ]
+ },
+ {
+  "order": 36,
+  "word": "応対",
+  "reading": "おうたい",
+  "meaning": "dealing with (people, customers, complaints, etc.); receiving (callers, visitors, etc.); attending to; handling",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "……ええから、お前はサツの応対しとけ。",
+  "parity": true,
+  "official_candidate": "...You just deal with the police, would ya? And tell the others to get ready to open. We're back to regular business.",
+  "official_neighbors": [
+   "His rental's up.",
+   "Huh? He paid that much, and he's already done?",
+   "U-Understood, sir. We'll have the doors open as soon as we're ready. What will you do until then, sir?",
+   "Well... I'll be in the office till we're rolling. Hit me if anything comes up."
+  ]
+ },
+ {
+  "order": 37,
+  "word": "通常",
+  "reading": "つうじょう",
+  "meaning": "usual; ordinary; normal; regular",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "他のモンには開店準備させろ。今から通常営業や。",
+  "parity": true,
+  "official_candidate": "...You just deal with the police, would ya? And tell the others to get ready to open. We're back to regular business.",
+  "official_neighbors": [
+   "His rental's up.",
+   "Huh? He paid that much, and he's already done?",
+   "U-Understood, sir. We'll have the doors open as soon as we're ready. What will you do until then, sir?",
+   "Well... I'll be in the office till we're rolling. Hit me if anything comes up."
+  ]
+ },
+ {
+  "order": 38,
+  "word": "次第",
+  "reading": "しだい",
+  "meaning": "depending on",
+  "pos": "suf",
+  "speaker": "店長",
+  "uid": "013312cd",
+  "sentence": "わ、わかりました。準備でき次第、店開けます。",
+  "parity": true,
+  "official_candidate": "U-Understood, sir. We'll have the doors open as soon as we're ready. What will you do until then, sir?",
+  "official_neighbors": [
+   "Huh? He paid that much, and he's already done?",
+   "...You just deal with the police, would ya? And tell the others to get ready to open. We're back to regular business.",
+   "Well... I'll be in the office till we're rolling. Hit me if anything comes up.",
+   "Yes, sir."
+  ]
+ },
+ {
+  "order": 39,
+  "word": "負う",
+  "reading": "おう",
+  "meaning": "to carry on one's back; to bear; to shoulder",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "せやけどあんたが手に負えんいうてなぁ……",
+  "parity": true,
+  "official_candidate": "So I had some guys pay the acupuncturist's place a little visit to grab Makoto-chan, right? But they came back sayin' you were too hot to handle.",
+  "official_neighbors": [
+   "So here I am handlin' things myself.",
+   "You're the one leadin' that idiot parade?"
+  ]
+ },
+ {
+  "order": 40,
+  "word": "ぼんくら",
+  "reading": "ぼんくら",
+  "meaning": "stupid; half-witted; dull-witted; thickheaded",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "013312cd",
+  "sentence": "お前があのぼんくらどもの頭っちゅうわけか。",
+  "parity": true,
+  "official_candidate": "You're the one leadin' that idiot parade?",
+  "official_neighbors": [
+   "So I had some guys pay the acupuncturist's place a little visit to grab Makoto-chan, right? But they came back sayin' you were too hot to handle.",
+   "So here I am handlin' things myself.",
+   "Way I hear it, you're pretty strong, eh? I do looove me the strong types...",
+   "But then I hear my new favorite guy's in a real fix 'cause he can't whack a lady. My heart just bled for ya. It's almost cute, y'know?"
+  ]
+ },
+ {
+  "order": 41,
+  "word": "かりかり",
+  "reading": "カリカリ",
+  "meaning": "crisp (e.g. potato chip, fried fish, etc.); crunchy",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "まあカリカリせんと聞いてぇ。",
+  "parity": true,
+  "official_candidate": "No call for gettin' snotty, now. Hear me out. We ain't after Makoto-chan's life. All's we want with her's to have a nice, friendly conversation.",
+  "official_neighbors": [
+   "But then I hear my new favorite guy's in a real fix 'cause he can't whack a lady. My heart just bled for ya. It's almost cute, y'know?",
+   "...You got all your marbles?",
+   "So, any chance I can get you to hand her over?"
+  ]
+ },
+ {
+  "order": 42,
+  "word": "別人",
+  "reading": "べつじん",
+  "meaning": "different person; another person; someone else; changed man",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "あのアホに死体が別人やなんてバレやせん。",
+  "parity": true,
+  "official_candidate": "That braindead chimpanzee ain't gonna figure out the body's a fake. And my lips are sealed.",
+  "official_neighbors": [
+   "What's the harm in that? You got the stiff they pulled from the river. Tell yer client that's Makoto-chan, you're set.",
+   "It's Sagawa, right? Big mister owner of the Cabaret Grand.",
+   "Long as I get Makoto-chan in my hands... that secret stays with me. I'll carry it to the grave.",
+   "Talk. Why is it you're after the girl?"
+  ]
+ },
+ {
+  "order": 43,
+  "word": "収まり",
+  "reading": "おさまり",
+  "meaning": "conclusion; end; settlement",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "もうおさまりつかんで!?",
+  "parity": true,
+  "official_candidate": "But isn't this a predicament!? Gotta respect your policy, Majima-kun. But I also gotta fight you. I've got a real blood chub comin' on!",
+  "official_neighbors": [
+   "Call it my policy as manager.",
+   "Hehheheheh... Oh man, oh man, you are just the precious little gift that keeps on givin'!",
+   "Sweet! I got just the thing. Gimme a sec."
+  ]
+ },
+ {
+  "order": 44,
+  "word": "どす",
+  "reading": "どす",
+  "meaning": "dagger; dirk; knife",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "店でドス抜いてますねん！",
+  "parity": true,
+  "official_candidate": "I got this whack job of a yakuza in here right now wavin' a big ol' knife around!",
+  "official_neighbors": [
+   "Oh... Yello? Coppers? Great. This is the manager of the Grand Cabaret.",
+   "What?",
+   "No siree, he's definitely not a customer! He's a robber! Get down here quick, okay!?"
+  ]
+ },
+ {
+  "order": 45,
+  "word": "強盗",
+  "reading": "ごうとう",
+  "meaning": "robber; mugger",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "サツも認める立派な強盗やでぇ？",
+  "parity": true,
+  "official_candidate": "Hehehe... Guess who's not a customer anymore? I'm a bona fide robber! Just ask the cops...",
+  "official_neighbors": [
+   "You're outta yer damn mind...",
+   "Don't tell me that manager policy of yours extends to robbers, too. Gotta protect yer own club, don't ya?"
+  ]
+ },
+ {
+  "order": 46,
+  "word": "抜き",
+  "reading": "ぬき",
+  "meaning": "leaving out; omitting; skipping; dispensing with",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "ワシゃもう仕事抜きや。楽しませてもらうでぇ？",
+  "parity": true,
+  "official_candidate": "So quit playin' the tease and lemme have it, Majima-kun. This ain't even about work anymore. Let's have some fun!",
+  "official_neighbors": [
+   "Don't tell me that manager policy of yours extends to robbers, too. Gotta protect yer own club, don't ya?",
+   "Hmph. If you're that bent on it, I'll play along. Be nice to take a little break from work myself...",
+   "You ready, Majima-kun? Don't go lettin' me down, now!"
+  ]
+ },
+ {
+  "order": 47,
+  "word": "納屋",
+  "reading": "なや",
+  "meaning": "barn (for storage); shed; outbuilding",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "がっかりさせんなやぁ!!",
+  "parity": true,
+  "official_candidate": "You ready, Majima-kun? Don't go lettin' me down, now!",
+  "official_neighbors": [
+   "So quit playin' the tease and lemme have it, Majima-kun. This ain't even about work anymore. Let's have some fun!",
+   "Hmph. If you're that bent on it, I'll play along. Be nice to take a little break from work myself..."
+  ]
+ },
+ {
+  "order": 48,
+  "word": "絆",
+  "reading": "きずな",
+  "meaning": "bond (between people); (emotional) ties; bonds; relationship",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "013312dc",
+  "sentence": "……中国人同士の絆より、金か……",
+  "parity": true,
+  "official_candidate": "Take money over your countrymen... Shit, I guess I did say that.",
+  "official_neighbors": [
+   "Nh... Nngh...",
+   "Ha... Ha...",
+   "But if you go and die, you can't even use the damn money you got... Idiot."
+  ]
+ },
+ {
+  "order": 49,
+  "word": "放る",
+  "reading": "ほうる",
+  "meaning": "to throw; to fling; to hurl; to toss",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "そいつはほっとけ。あんたを裏切った男やぞ。",
+  "parity": true,
+  "official_candidate": "Lee. We ain't done yet. You know Sagawa didn't call up these four and call it a day. Leave him already. He betrayed you.",
+  "official_neighbors": [
+   "But if you go and die, you can't even use the damn money you got... Idiot.",
+   "Lee... Lee-san?",
+   "......",
+   "C'mon, what's the holdup, Lee!?"
+  ]
+ },
+ {
+  "order": 50,
+  "word": "籠もる",
+  "reading": "こもる",
+  "meaning": "to shut oneself in (e.g. one's room); to be confined in; to seclude oneself; to hide away",
+  "pos": "verb",
+  "speaker": "マコト",
+  "uid": "013312dc",
+  "sentence": "ただずっとここに篭もって守られてるだけなんて、",
+  "parity": true,
+  "official_candidate": "Then... let me help too. With anything. Staying shut in here while you two put yourselves in danger for me is... I can't.",
+  "official_neighbors": [
+   "Whaddya mean? ...Where's this comin' from?",
+   "This is all happening because people are after me, right? And you two are working to fix it?"
+  ]
+ },
+ {
+  "order": 51,
+  "word": "痰",
+  "reading": "たん",
+  "meaning": "phlegm; sputum",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "電話の男やいうたんは、そいつらの頭で",
+  "parity": true,
+  "official_candidate": "The guy on the phone was their boss. Went by Nishitani. He runs an outfit called the Kijin Clan. He asked me to hand you over.",
+  "official_neighbors": [
+   "Remember the guys who came to get ya at Hogushi Kaikan?",
+   "What?",
+   "And then?",
+   "Went and met with him. Figured maybe I could get the reason why everybody's after you outta him... Cops picked him up before I got an answer, though."
+  ]
+ },
+ {
+  "order": 52,
+  "word": "率いる",
+  "reading": "ひきいる",
+  "meaning": "to lead; to spearhead (a group); to command (troops)",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "西谷って男や。鬼仁会いう組率いとる。",
+  "parity": true,
+  "official_candidate": "The guy on the phone was their boss. Went by Nishitani. He runs an outfit called the Kijin Clan. He asked me to hand you over.",
+  "official_neighbors": [
+   "Remember the guys who came to get ya at Hogushi Kaikan?",
+   "What?",
+   "And then?",
+   "Went and met with him. Figured maybe I could get the reason why everybody's after you outta him... Cops picked him up before I got an answer, though."
+  ]
+ },
+ {
+  "order": 53,
+  "word": "見す見す",
+  "reading": "みすみす",
+  "meaning": "before one's own eyes; from under one's very nose; without doing anything; without resistance",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "あいつは多分……　俺がみすみすこの娘",
+  "parity": true,
+  "official_candidate": "Yeah. Right now, Sagawa's our biggest problem. I'm pretty sure he's wise to the fact I didn't kill his girl.",
+  "official_neighbors": [
+   "Seems even within the Omi, they can't figure out if they wanna nab ya or just send ya down river.",
+   "So Nishitani's the nabber, and Sagawa's the killer?",
+   "What? You serious!?",
+   "You two should get outta Sotenbori soon as possible. Only a matter of time till Sagawa finds you in here. Lee, you know someplace you can hide out with her?"
+  ]
+ },
+ {
+  "order": 54,
+  "word": "びくびく",
+  "reading": "ビクビク",
+  "meaning": "being afraid of; being fearful; being timid; being nervous",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "013312dc",
+  "sentence": "この娘は、いつまでビクビクせなあかんのや？",
+  "parity": true,
+  "official_candidate": "Yeah... Got a few ideas, anyway. But the yakuza ain't gonna stop lookin' just because we skipped town. She gonna have to live the rest of her life waitin' for a bullet?",
+  "official_neighbors": [
+   "What? You serious!?",
+   "You two should get outta Sotenbori soon as possible. Only a matter of time till Sagawa finds you in here. Lee, you know someplace you can hide out with her?",
+   "I'll figure somethin' out. You just get her out for now.",
+   "What about you, though? You can't come with us?"
+  ]
+ },
+ {
+  "order": 55,
+  "word": "囚われ",
+  "reading": "とらわれ",
+  "meaning": "captivity; imprisonment",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "俺は……　この街に囚われの身や。",
+  "parity": true,
+  "official_candidate": "This town's my prison. Havin' me with you'd make it damn impossible for you to get out clean.",
+  "official_neighbors": [
+   "I'll figure somethin' out. You just get her out for now.",
+   "What about you, though? You can't come with us?",
+   "......"
+  ]
+ },
+ {
+  "order": 56,
+  "word": "押し込む",
+  "reading": "おしこむ",
+  "meaning": "to push into; to cram into; to stuff into; to crowd into",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "ワシがこの店押し込んだ強盗ですわ！",
+  "parity": true,
+  "official_candidate": "Alright, copper! I'm the big, bad robber who busted in on this place! Sorry to say it, but I caused a goddamn scene!",
+  "official_neighbors": [
+   "Police! Don't move!",
+   "Aww, man... Time's up already?",
+   "What? Is this some kinda joke!?",
+   "Hold it, Nishitani. Let's hear that reason why you're after the girl. Who's givin' the order!?"
+  ]
+ },
+ {
+  "order": 57,
+  "word": "助け",
+  "reading": "たすけ",
+  "meaning": "assistance; help; aid; support",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "強盗ですわ！　早よ助けに来てください!!",
+  "parity": true,
+  "official_candidate": "No siree, he's definitely not a customer! He's a robber! Get down here quick, okay!?",
+  "official_neighbors": [
+   "What?",
+   "I got this whack job of a yakuza in here right now wavin' a big ol' knife around!",
+   "You're outta yer damn mind..."
+  ]
+ },
+ {
+  "order": 59,
+  "word": "擬装",
+  "reading": "ぎそう",
+  "meaning": "camouflage; disguise",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "013312c2",
+  "sentence": "それ使こて、マコトの死体を偽装したんやな？",
+  "parity": true,
+  "official_candidate": "Guess that makes sense. So then he takes that, whacks the girl, and plays Makoto dress-up with the body?",
+  "official_neighbors": [
+   "The Hogushi Kaikan uniform I got from you... and the photos of the girl.",
+   "I threw 'em out. And he musta been watching me.",
+   "Why, though? Who is he? ...You don't think it's your boss, do ya?",
+   "Nah. If it were him, he'd call me himself. This guy was someone else."
+  ]
+ },
+ {
+  "order": 60,
+  "word": "うろちょろ",
+  "reading": "うろちょろ",
+  "meaning": "hanging around; wandering around (aimlessly); moving around (restlessly); running around",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "……これ以上、うろちょろされたら目障りやからな。",
+  "parity": true,
+  "official_candidate": "Better than having him sneakin' around me.",
+  "official_neighbors": [
+   "He's waitin' for me at the Grand. You stay with the girl.",
+   "Fine with me, but you're really just gonna waltz in there alone? You said yerself he's waitin' for you.",
+   "Besides, he's gotta know the reason why everybody's after her. I'm way past ready to get that nailed down."
+  ]
+ },
+ {
+  "order": 61,
+  "word": "目障り",
+  "reading": "めざわり",
+  "meaning": "eyesore; offensive sight; offense to the eye",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "013312c2",
+  "sentence": "……これ以上、うろちょろされたら目障りやからな。",
+  "parity": true,
+  "official_candidate": "Better than having him sneakin' around me.",
+  "official_neighbors": [
+   "He's waitin' for me at the Grand. You stay with the girl.",
+   "Fine with me, but you're really just gonna waltz in there alone? You said yerself he's waitin' for you.",
+   "Besides, he's gotta know the reason why everybody's after her. I'm way past ready to get that nailed down."
+  ]
+ },
+ {
+  "order": 62,
+  "word": "働き",
+  "reading": "はたらき",
+  "meaning": "work; labor; labour",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "そのくせ死体にゃ、女の働き先の服着せたままだ。",
+  "parity": true,
+  "official_candidate": "Like... Why go through the trouble of smashing her face in? And then you turn around and leave her in her uniform?",
+  "official_neighbors": [
+   "Still, lots of sticky little details on this one. Like the girl's body. I just can't figure it out.",
+   "Huh?",
+   "Can't tell if you're trying to hide who she is or broadcast it."
+  ]
+ },
+ {
+  "order": 63,
+  "word": "着せる",
+  "reading": "きせる",
+  "meaning": "to put clothes on (someone); to dress; to clothe",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "そのくせ死体にゃ、女の働き先の服着せたままだ。",
+  "parity": true,
+  "official_candidate": "Like... Why go through the trouble of smashing her face in? And then you turn around and leave her in her uniform?",
+  "official_neighbors": [
+   "Still, lots of sticky little details on this one. Like the girl's body. I just can't figure it out.",
+   "Huh?",
+   "Can't tell if you're trying to hide who she is or broadcast it."
+  ]
+ },
+ {
+  "order": 64,
+  "word": "交尾む",
+  "reading": "つるむ",
+  "meaning": "to copulate (animals); to mate",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "鬼仁会は他の誰ともつるまねえ跳ねっかえりだ。",
+  "parity": true,
+  "official_candidate": "Yup. Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.",
+  "official_neighbors": [
+   "His name's Nishitani. You wouldn't know it to look at him, but he's Omi Alliance brass, same as me. Heads a group called the Kijin Clan.",
+   "He's Omi Alliance?",
+   "They'll roll in on anybody's turf and do whatever they like. Sotenbori's little band of troublemakers... I'm not saying I'm not a fan, though."
+  ]
+ },
+ {
+  "order": 65,
+  "word": "跳ね",
+  "reading": "はね",
+  "meaning": "(a) jump",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013312cd",
+  "sentence": "鬼仁会は他の誰ともつるまねえ跳ねっかえりだ。",
+  "parity": true,
+  "official_candidate": "Yup. Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.",
+  "official_neighbors": [
+   "His name's Nishitani. You wouldn't know it to look at him, but he's Omi Alliance brass, same as me. Heads a group called the Kijin Clan.",
+   "He's Omi Alliance?",
+   "They'll roll in on anybody's turf and do whatever they like. Sotenbori's little band of troublemakers... I'm not saying I'm not a fan, though."
+  ]
+ },
+ {
+  "order": 66,
+  "word": "明かす",
+  "reading": "あかす",
+  "meaning": "to pass (the night); to spend",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "誰にも秘密は明かさん。墓まで持ってったるわ。",
+  "parity": true,
+  "official_candidate": "Long as I get Makoto-chan in my hands... that secret stays with me. I'll carry it to the grave.",
+  "official_neighbors": [
+   "It's Sagawa, right? Big mister owner of the Cabaret Grand.",
+   "That braindead chimpanzee ain't gonna figure out the body's a fake. And my lips are sealed.",
+   "Talk. Why is it you're after the girl?",
+   "Ahh! Can't help you with that one! I got a client I'm workin' for here, too. Though, it ain't like I don't get why you'd be curious."
+  ]
+ },
+ {
+  "order": 67,
+  "word": "墓",
+  "reading": "はか",
+  "meaning": "grave; gravesite; tomb",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013312cd",
+  "sentence": "誰にも秘密は明かさん。墓まで持ってったるわ。",
+  "parity": true,
+  "official_candidate": "Long as I get Makoto-chan in my hands... that secret stays with me. I'll carry it to the grave.",
+  "official_neighbors": [
+   "It's Sagawa, right? Big mister owner of the Cabaret Grand.",
+   "That braindead chimpanzee ain't gonna figure out the body's a fake. And my lips are sealed.",
+   "Talk. Why is it you're after the girl?",
+   "Ahh! Can't help you with that one! I got a client I'm workin' for here, too. Though, it ain't like I don't get why you'd be curious."
+  ]
+ },
+ {
+  "order": 68,
+  "word": "元",
+  "reading": "もと",
+  "meaning": "origin; source; beginning",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "元をたどれば同じ近江連合や。",
+  "parity": true,
+  "official_candidate": "Nishitani's part of the same group as the guy who hired me, Sagawa. The Omi Alliance.",
+  "official_neighbors": [
+   "Went and met with him. Figured maybe I could get the reason why everybody's after you outta him... Cops picked him up before I got an answer, though.",
+   "The police?",
+   "Seems even within the Omi, they can't figure out if they wanna nab ya or just send ya down river.",
+   "So Nishitani's the nabber, and Sagawa's the killer?"
+  ]
+ },
+ {
+  "order": 69,
+  "word": "辿る",
+  "reading": "たどる",
+  "meaning": "to follow (a road, path, etc.); to trace",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312dc",
+  "sentence": "元をたどれば同じ近江連合や。",
+  "parity": true,
+  "official_candidate": "Nishitani's part of the same group as the guy who hired me, Sagawa. The Omi Alliance.",
+  "official_neighbors": [
+   "Went and met with him. Figured maybe I could get the reason why everybody's after you outta him... Cops picked him up before I got an answer, though.",
+   "The police?",
+   "Seems even within the Omi, they can't figure out if they wanna nab ya or just send ya down river.",
+   "So Nishitani's the nabber, and Sagawa's the killer?"
+  ]
+ }
+]
