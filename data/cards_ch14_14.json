@@ -207,25 +207,6 @@
   ]
  },
  {
-  "order": 12,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "最初に買うなら、天下<b>一通り</b>の",
-  "word": "一通り",
-  "reading": "ひととおり",
-  "meaning": "generally; in the main; briefly (look over, explain, etc.); roughly",
-  "pos": "adverb",
-  "chapter": 14,
-  "speaker": "山野井",
-  "uid": "0033164e",
-  "candidates": [
-   "(adverb) generally; in the main; briefly (look over, explain, etc.); roughly",
-   "(noun) (more or less) everything; all parts; bit of everything; whole process",
-   "(adj-no) ordinary; usual; average; common",
-   "(noun) one method"
-  ]
- },
- {
   "order": 13,
   "kind": "i+1",
   "standalone": false,
@@ -1286,24 +1267,6 @@
   ]
  },
  {
-  "order": 76,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "中国で“日本<b>鬼子</b>”（リーベンクゥイズ）と",
-  "word": "鬼子",
-  "reading": "おにご",
-  "meaning": "child born with teeth",
-  "pos": "noun",
-  "chapter": 14,
-  "speaker": "立華",
-  "uid": "0133142d",
-  "candidates": [
-   "(noun) child born with teeth",
-   "(noun) child which does not resemble its parents; changeling",
-   "(noun) wild child; badly-behaved child"
-  ]
- },
- {
   "order": 77,
   "kind": "i+1",
   "standalone": false,
@@ -2297,26 +2260,6 @@
   ]
  },
  {
-  "order": 136,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "<b>おし</b>！　俺らが見届け人になってやる。",
-  "word": "押し",
-  "reading": "おし",
-  "meaning": "push; pushing",
-  "pos": "noun",
-  "chapter": 14,
-  "speaker": "堂島組組員",
-  "uid": "01331429",
-  "candidates": [
-   "(noun) push; pushing",
-   "(noun) weight; pressure",
-   "(noun) authority; forcefulness; boldness; audacity",
-   "(pref) to forcibly ...; to strongly ...",
-   "(noun) push; pushing; extending your stones forward by pushing against opponent's stones"
-  ]
- },
- {
   "order": 137,
   "kind": "grp2",
   "standalone": false,
@@ -2414,26 +2357,6 @@
   "candidates": [
    "(noun) surroundings; environs",
    "(noun) circumference"
-  ]
- },
- {
-  "order": 143,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "私は……　周囲の人々に<b>常</b>に怯え、",
-  "word": "常",
-  "reading": "ただ",
-  "meaning": "ordinary; common; usual",
-  "pos": "noun",
-  "chapter": 14,
-  "speaker": "立華",
-  "uid": "0133142d",
-  "candidates": [
-   "(noun) ordinary; common; usual",
-   "(noun) free of charge",
-   "(noun) unaffected; as is; safe",
-   "(adverb) only; merely; just; simply",
-   "(conj) but; however; nevertheless"
   ]
  },
  {
