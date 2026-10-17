@@ -15,6 +15,11 @@ line costs little; a wrong one teaches the wrong thing.
   - compound fragments (プレイボーイ → プレー)
   - set phrases with no matching candidate (その分 → 分, 名実ともに → 共)
 - Keep a word divergent only if a learner who knows its taught gloss would be genuinely misled.
+- Before keeping a word, check its FULL ledger glosses (`taught_words.json`), not just the batch's
+  truncated `taught_gloss`. A sense taught by an earlier reteach is already covered (e.g.
+  突き込む "delve into" covers 首を突っ込む). And if earlier reteaches ended up with the same
+  gloss again (加減: いい加減 / 手加減 always polish back to "degree", because JMdict lacks the
+  set-phrase sense), don't reteach it a third time.
 
 ## polish-review — `gloss_polish_ch{N}_flags.json` + `name_leak_scan.py`
 - Drop genuine mistags with `drop_cards.py N word…`, BEFORE update_taught. 餡 recurs (dropped
