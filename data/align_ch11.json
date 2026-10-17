@@ -1,0 +1,2086 @@
+[
+ {
+  "order": 0,
+  "word": "リング",
+  "reading": "リング",
+  "meaning": "ring",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "003313cc",
+  "sentence": "ほんなら、お前がリングに上がるよう",
+  "parity": true,
+  "official_candidate": "Alright, I'll have 'em work you into the next match. You ready to fight?",
+  "official_neighbors": [
+   "Hold on a sec. Still need a minute to get ready.",
+   "What, having doubts? Well, I'm in no rush. Come talk to me once ya grow a pair."
+  ]
+ },
+ {
+  "order": 1,
+  "word": "手続き",
+  "reading": "てつづき",
+  "meaning": "procedure; process; proceedings; formalities",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "003313cc",
+  "sentence": "手続きしてきたる。準備はええか？",
+  "parity": true,
+  "official_candidate": "Alright, I'll have 'em work you into the next match. You ready to fight?",
+  "official_neighbors": [
+   "Hold on a sec. Still need a minute to get ready.",
+   "What, having doubts? Well, I'm in no rush. Come talk to me once ya grow a pair."
+  ]
+ },
+ {
+  "order": 4,
+  "word": "手口",
+  "reading": "てぐち",
+  "meaning": "modus operandi; criminal technique; trick",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313ba",
+  "sentence": "ってわけか。確かに西谷らしい手口だな……",
+  "parity": true,
+  "official_candidate": "So Nishitani picks up a random stray and makes him look like a new challenger... Feels like a Nishitani special.",
+  "official_neighbors": [
+   "Decent odds they're in it together.",
+   "Could be.",
+   "I'd love to go drop the hammer on Nishitani and get him to spill the girl's location, but since he got picked up by the cops, he's still cooling in the tank...",
+   "Sure, but even if we can't get at Nishitani, it sounded like his boys knew somethin' too."
+  ]
+ },
+ {
+  "order": 5,
+  "word": "叩く",
+  "reading": "たたく",
+  "meaning": "to strike; to hit; to beat; to knock",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013313ba",
+  "sentence": "そうなりゃ西谷を叩いて、女の居所を",
+  "parity": true,
+  "official_candidate": "I'd love to go drop the hammer on Nishitani and get him to spill the girl's location, but since he got picked up by the cops, he's still cooling in the tank...",
+  "official_neighbors": [
+   "Could be.",
+   "So Nishitani picks up a random stray and makes him look like a new challenger... Feels like a Nishitani special.",
+   "Sure, but even if we can't get at Nishitani, it sounded like his boys knew somethin' too."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "並木",
+  "reading": "なみき",
+  "meaning": "roadside trees; row of trees",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313ba",
+  "sentence": "鬼仁会の事務所は蒼天堀通り東の第三並木ビル",
+  "parity": true,
+  "official_candidate": "Hmmm... Then start with them. The Kijin Clan offices are on Sotenbori Street East, in a place called the Third Namiki Building. Third floor, if I remember.",
+  "official_neighbors": [
+   "You don't know anythin'... Got no clue what she's worth.",
+   "Alright...",
+   "And Majima-chan? There's nothing you're hiding from me past that bit about Nishitani... is there?"
+  ]
+ },
+ {
+  "order": 8,
+  "word": "水底",
+  "reading": "すいてい",
+  "meaning": "bottom of the water; bottom of the sea; river bottom",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "水底なんか見えへん方がええ……",
+  "parity": true,
+  "official_candidate": "Dirty water serves a function when it hides things. Sometimes it's best when ya can't see the bottom...",
+  "official_neighbors": [
+   "Crazy. I never imagined somethin' like that was hidin' at the the bottom of this filthy trough.",
+   "Huh?",
+   "A little dirt can hide away the real ugly truths. The stuff nobody wants to see."
+  ]
+ },
+ {
+  "order": 9,
+  "word": "滅多",
+  "reading": "めった",
+  "meaning": "thoughtless; reckless; careless; rash",
+  "pos": "na-adjective",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "体はナイフで滅多刺しや……",
+  "parity": true,
+  "official_candidate": "Years back, the body of a high school gal came floatin' up to the surface. Poor thing's face was beat unrecognizable. Body stabbed a few dozen times...",
+  "official_neighbors": [
+   "A little dirt can hide away the real ugly truths. The stuff nobody wants to see.",
+   "Hm?",
+   "Victim came from a single-parent home. A dad raisin' his little princess as best he could...",
+   "But our investigation went nowhere. Couldn't pin down a perp."
+  ]
+ },
+ {
+  "order": 10,
+  "word": "片親",
+  "reading": "かたおや",
+  "meaning": "one parent",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "ガイシャは片親でなぁ。",
+  "parity": true,
+  "official_candidate": "Victim came from a single-parent home. A dad raisin' his little princess as best he could...",
+  "official_neighbors": [
+   "Hm?",
+   "Years back, the body of a high school gal came floatin' up to the surface. Poor thing's face was beat unrecognizable. Body stabbed a few dozen times...",
+   "But our investigation went nowhere. Couldn't pin down a perp.",
+   "Talk about a kick in the dick..."
+  ]
+ },
+ {
+  "order": 11,
+  "word": "空しい",
+  "reading": "むなしい",
+  "meaning": "empty; void; vacant",
+  "pos": "i-adjective",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "せやけど必死の捜査も空しく、",
+  "parity": true,
+  "official_candidate": "But our investigation went nowhere. Couldn't pin down a perp.",
+  "official_neighbors": [
+   "Years back, the body of a high school gal came floatin' up to the surface. Poor thing's face was beat unrecognizable. Body stabbed a few dozen times...",
+   "Victim came from a single-parent home. A dad raisin' his little princess as best he could...",
+   "Talk about a kick in the dick...",
+   "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower."
+  ]
+ },
+ {
+  "order": 12,
+  "word": "惨い",
+  "reading": "むごい",
+  "meaning": "cruel; merciless; pitiless; brutal",
+  "pos": "i-adjective",
+  "speaker": "真島",
+  "uid": "013313bd",
+  "sentence": "むごい話やな……",
+  "parity": true,
+  "official_candidate": "Talk about a kick in the dick...",
+  "official_neighbors": [
+   "Victim came from a single-parent home. A dad raisin' his little princess as best he could...",
+   "But our investigation went nowhere. Couldn't pin down a perp.",
+   "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower.",
+   "What happened?"
+  ]
+ },
+ {
+  "order": 13,
+  "word": "堂々",
+  "reading": "どうどう",
+  "meaning": "magnificent; grand; impressive; dignified",
+  "pos": "adj-t",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "堂々と街を歩きよる。事件なんて知らん顔でな。",
+  "parity": true,
+  "official_candidate": "Perp was a street punk minor. No court, no hard time. He got outta juvie and was back on the streets like he never did a thing.",
+  "official_neighbors": [
+   "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower.",
+   "What happened?",
+   "You got any idea what that does to a guy? To a father?",
+   "Musta been unbearable... I'd want to kill that kid."
+  ]
+ },
+ {
+  "order": 14,
+  "word": "物心",
+  "reading": "ものごころ",
+  "meaning": "awareness of things around one; ability to understand what is going on around oneself; judgment; judgement",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "西谷は物心ついた頃から、",
+  "parity": true,
+  "official_candidate": "Nishitani had been in the care of the victim's old man ever since he was just an ankle biter.",
+  "official_neighbors": [
+   "Nope. Guy who did it was a high school kid named Nishitani.",
+   "Nishitani!?",
+   "Gotta figure Nishitani was able to sense it. How bad the old man was hurtin'.",
+   "Some people're born to be monsters. Some jobs, only a monster can do."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "度々",
+  "reading": "たびたび",
+  "meaning": "often; again and again; over and over again; repeatedly",
+  "pos": "adverb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "たびたび親父さんの世話になっててな。",
+  "parity": true,
+  "official_candidate": "Nishitani had been in the care of the victim's old man ever since he was just an ankle biter.",
+  "official_neighbors": [
+   "Nope. Guy who did it was a high school kid named Nishitani.",
+   "Nishitani!?",
+   "Gotta figure Nishitani was able to sense it. How bad the old man was hurtin'.",
+   "Some people're born to be monsters. Some jobs, only a monster can do."
+  ]
+ },
+ {
+  "order": 16,
+  "word": "外道",
+  "reading": "げどう",
+  "meaning": "tirthika; non-Buddhist teachings; non-Buddhist",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "外道にしかできん役割があんのや。",
+  "parity": true,
+  "official_candidate": "Some people're born to be monsters. Some jobs, only a monster can do.",
+  "official_neighbors": [
+   "Nishitani had been in the care of the victim's old man ever since he was just an ankle biter.",
+   "Gotta figure Nishitani was able to sense it. How bad the old man was hurtin'.",
+   "Ain't the sorta jobs that earn any proper thanks, but it makes those of us livin' on the right side better off.",
+   "After he realized why Nishitani did what he did, the old dad went and built the Bed of Styx. Now I hear he's Nishitani's liaison with the force..."
+  ]
+ },
+ {
+  "order": 17,
+  "word": "川底",
+  "reading": "かわぞこ",
+  "meaning": "riverbed",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "それから“三途の川底”を作り、",
+  "parity": true,
+  "official_candidate": "After he realized why Nishitani did what he did, the old dad went and built the Bed of Styx. Now I hear he's Nishitani's liaison with the force...",
+  "official_neighbors": [
+   "Some people're born to be monsters. Some jobs, only a monster can do.",
+   "Ain't the sorta jobs that earn any proper thanks, but it makes those of us livin' on the right side better off.",
+   "What!? So the girl was your...",
+   "Let's get goin'."
+  ]
+ },
+ {
+  "order": 18,
+  "word": "窓口",
+  "reading": "まどぐち",
+  "meaning": "counter; window; teller window; ticket window",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "今じゃあ西谷の窓口になっとるっちゅう話や……",
+  "parity": true,
+  "official_candidate": "After he realized why Nishitani did what he did, the old dad went and built the Bed of Styx. Now I hear he's Nishitani's liaison with the force...",
+  "official_neighbors": [
+   "Some people're born to be monsters. Some jobs, only a monster can do.",
+   "Ain't the sorta jobs that earn any proper thanks, but it makes those of us livin' on the right side better off.",
+   "What!? So the girl was your...",
+   "Let's get goin'."
+  ]
+ },
+ {
+  "order": 19,
+  "word": "だち",
+  "reading": "ダチ",
+  "meaning": "friend; pal; buddy; mate",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "オメエは西谷の何や？　ダチか？",
+  "parity": true,
+  "official_candidate": "And you're Nishitani's what, now? Buddy of his?",
+  "official_neighbors": [
+   "Hmmmmm.",
+   "There's somethin' I gotta get in there and ask him about, whatever it takes.",
+   "I ain't his friend. Nishitani's an enemy. And an asshole.",
+   "And you think I'm bringin' somebody who says they're his enemy in to see him?"
+  ]
+ },
+ {
+  "order": 20,
+  "word": "ばりばり",
+  "reading": "バリバリ",
+  "meaning": "vigorously (ripping, tearing, scratching, etc.); roughly; with a rip",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "013313bd",
+  "sentence": "俺はダチやあらへん。西谷の敵や。バリバリの敵や。",
+  "parity": true,
+  "official_candidate": "I ain't his friend. Nishitani's an enemy. And an asshole.",
+  "official_neighbors": [
+   "There's somethin' I gotta get in there and ask him about, whatever it takes.",
+   "And you're Nishitani's what, now? Buddy of his?",
+   "And you think I'm bringin' somebody who says they're his enemy in to see him?",
+   "You prefer I say we're best friends when you know I'm lyin'? Nishitani's a cautious guy. He wouldn't pick a cop who can't sniff out a lie to be his man."
+  ]
+ },
+ {
+  "order": 21,
+  "word": "見破る",
+  "reading": "みやぶる",
+  "meaning": "to see through (a plot, lie, etc.); to penetrate into; to discover; to find out",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313bd",
+  "sentence": "ダチって嘘ついたとこで、アンタは見破るやろ？",
+  "parity": true,
+  "official_candidate": "You prefer I say we're best friends when you know I'm lyin'? Nishitani's a cautious guy. He wouldn't pick a cop who can't sniff out a lie to be his man.",
+  "official_neighbors": [
+   "I ain't his friend. Nishitani's an enemy. And an asshole.",
+   "And you think I'm bringin' somebody who says they're his enemy in to see him?",
+   "Figured bein' honest about it saves us both the time.",
+   "Huh. Ain't that considerate? Still ain't gettin' me to say, \"Sure thing, right this way.\""
+  ]
+ },
+ {
+  "order": 22,
+  "word": "一手間",
+  "reading": "ひとてま",
+  "meaning": "extra effort; one small touch; small twist",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313bd",
+  "sentence": "正直に言うたら、アンタもひと手間",
+  "parity": true,
+  "official_candidate": "Figured bein' honest about it saves us both the time.",
+  "official_neighbors": [
+   "And you think I'm bringin' somebody who says they're his enemy in to see him?",
+   "You prefer I say we're best friends when you know I'm lyin'? Nishitani's a cautious guy. He wouldn't pick a cop who can't sniff out a lie to be his man.",
+   "Huh. Ain't that considerate? Still ain't gettin' me to say, \"Sure thing, right this way.\"",
+   "Didn't think it would. What's your price?"
+  ]
+ },
+ {
+  "order": 23,
+  "word": "潔い",
+  "reading": "いさぎよい",
+  "meaning": "gracious (defeat, apology, etc.); graceful; honourable (e.g. death); noble",
+  "pos": "i-adjective",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "ふうん……　潔えんやなぁ。せやけど、",
+  "parity": true,
+  "official_candidate": "Hmmmmm.",
+  "official_neighbors": [
+   "Hmmm? Who're you, slim?",
+   "Name's Goro Majima. Word on the street is that if I ask nice, you'll let me in to see Nishitani in the can.",
+   "There's somethin' I gotta get in there and ask him about, whatever it takes.",
+   "And you're Nishitani's what, now? Buddy of his?"
+  ]
+ },
+ {
+  "order": 24,
+  "word": "何ぼ",
+  "reading": "なんぼ",
+  "meaning": "how much; how many; how; to what extent",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "013313bd",
+  "sentence": "分かっとる。なんぼ渡せばええんや？",
+  "parity": true,
+  "official_candidate": "Didn't think it would. What's your price?",
+  "official_neighbors": [
+   "Figured bein' honest about it saves us both the time.",
+   "Huh. Ain't that considerate? Still ain't gettin' me to say, \"Sure thing, right this way.\"",
+   "Have some class... Shit, these days everybody tries to handle everything with money.",
+   "Whaddya want, then?"
+  ]
+ },
+ {
+  "order": 25,
+  "word": "年寄る",
+  "reading": "としよる",
+  "meaning": "to grow old",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "今の時代は皆、金で収めようとしよる……",
+  "parity": true,
+  "official_candidate": "Have some class... Shit, these days everybody tries to handle everything with money.",
+  "official_neighbors": [
+   "Huh. Ain't that considerate? Still ain't gettin' me to say, \"Sure thing, right this way.\"",
+   "Didn't think it would. What's your price?",
+   "Whaddya want, then?"
+  ]
+ },
+ {
+  "order": 26,
+  "word": "座敷",
+  "reading": "ざしき",
+  "meaning": "tatami room; tatami mat room; formal Japanese room",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313bd",
+  "sentence": "屋形船……？　お座敷遊びでもするんか？",
+  "parity": true,
+  "official_candidate": "A pleasure barge? We drinkin' on some historical tour?",
+  "official_neighbors": [
+   "Just shut up and get on the damn boat. You want in to see Nishitani, right?"
+  ]
+ },
+ {
+  "order": 27,
+  "word": "繋ぐ",
+  "reading": "つなぐ",
+  "meaning": "to connect; to link together",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "西谷に繋いで欲しいんやろ？",
+  "parity": true,
+  "official_candidate": "Just shut up and get on the damn boat. You want in to see Nishitani, right?",
+  "official_neighbors": [
+   "A pleasure barge? We drinkin' on some historical tour?",
+   "(This Billiken guy's a detective who can get me into the can to see Nishitani. Hangs out on Bishamon Bridge, the guy said... It's worth a look.)"
+  ]
+ },
+ {
+  "order": 28,
+  "word": "しょっぴく",
+  "reading": "しょっぴく",
+  "meaning": "to drag along",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313c1",
+  "sentence": "西谷はサツにしょっ引かれて留置場やろが！",
+  "parity": true,
+  "official_candidate": "Nishitani is rotting in a jail cell at the moment!",
+  "official_neighbors": [
+   "The boss never tells us anything! About the girl, or why he wants her!",
+   "Honest... If you got questions, you gotta go ask the boss himself!",
+   "So why don't you get put in there with him?",
+   "You tryin' to be funny!?"
+  ]
+ },
+ {
+  "order": 29,
+  "word": "粗野",
+  "reading": "そや",
+  "meaning": "rustic; rude; vulgar; rough",
+  "pos": "na-adjective",
+  "speaker": "鬼仁会組員",
+  "uid": "013313c1",
+  "sentence": "そや……　ビリケンさんちゅう刑事や。",
+  "parity": true,
+  "official_candidate": "Yeah. Detective called Billiken-san. He's the boss's liaison with the police. Ask him, and he might sneak you in to see the boss!",
+  "official_neighbors": [
+   "W-Wait! It ain't a joke! You just gotta ask Billiken-san!",
+   "Billiken?",
+   "What, I give this guy a bribe?",
+   "That's his call, not mine. He won't let just anybody through, but he's your best chance. Go talk to him!"
+  ]
+ },
+ {
+  "order": 30,
+  "word": "こっそり",
+  "reading": "こっそり",
+  "meaning": "stealthily; secretly; in secret",
+  "pos": "adverb",
+  "speaker": "鬼仁会組員",
+  "uid": "013313c1",
+  "sentence": "こっそり会わせてくれるかもしれへん！",
+  "parity": true,
+  "official_candidate": "Yeah. Detective called Billiken-san. He's the boss's liaison with the police. Ask him, and he might sneak you in to see the boss!",
+  "official_neighbors": [
+   "W-Wait! It ain't a joke! You just gotta ask Billiken-san!",
+   "Billiken?",
+   "What, I give this guy a bribe?",
+   "That's his call, not mine. He won't let just anybody through, but he's your best chance. Go talk to him!"
+  ]
+ },
+ {
+  "order": 31,
+  "word": "賄賂",
+  "reading": "わいろ",
+  "meaning": "bribe; sweetener; douceur",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313c1",
+  "sentence": "賄賂でも渡すっちゅうことか？",
+  "parity": true,
+  "official_candidate": "What, I give this guy a bribe?",
+  "official_neighbors": [
+   "Billiken?",
+   "Yeah. Detective called Billiken-san. He's the boss's liaison with the police. Ask him, and he might sneak you in to see the boss!",
+   "That's his call, not mine. He won't let just anybody through, but he's your best chance. Go talk to him!",
+   "He hangs out on Bishamon Bridge!"
+  ]
+ },
+ {
+  "order": 32,
+  "word": "次第",
+  "reading": "しだい",
+  "meaning": "depending on",
+  "pos": "suf",
+  "speaker": "鬼仁会組員",
+  "uid": "013313c1",
+  "sentence": "それはビリケンさん次第や。",
+  "parity": true,
+  "official_candidate": "That's his call, not mine. He won't let just anybody through, but he's your best chance. Go talk to him!",
+  "official_neighbors": [
+   "Yeah. Detective called Billiken-san. He's the boss's liaison with the police. Ask him, and he might sneak you in to see the boss!",
+   "What, I give this guy a bribe?",
+   "He hangs out on Bishamon Bridge!"
+  ]
+ },
+ {
+  "order": 34,
+  "word": "拳",
+  "reading": "こぶし",
+  "meaning": "fist",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313c1",
+  "sentence": "そらあ拳で聞けちゅうことか？",
+  "parity": true,
+  "official_candidate": "So what, you tellin' me I should let my fists do the askin'? How many times you clowns already lost to me? I think we both know how this one ends.",
+  "official_neighbors": [
+   "I got no clue what you're on about. Even if I did, I wouldn't tell yer sorry ass a goddamn thing!",
+   "The hell do you think ya are, comin' up here all casual like you're askin' directions? This is a yakuza office, genius. Show some respect.",
+   "Now, do you know where the girl is, or don't ya? Let's have it.",
+   "Doesn't matter if we do or if we don't, you ain't walkin' out that door alive!"
+  ]
+ },
+ {
+  "order": 36,
+  "word": "誕生",
+  "reading": "たんじょう",
+  "meaning": "birth (of a person); nativity",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "013313cf",
+  "sentence": "今ここに、新たな伝説が誕生しました!!",
+  "parity": false,
+  "official_candidate": "\u00013\u0013IT'S OVERRRRRRR! Ladies and gents, we just witnessed the birth of a new legend, and its name is Majima! GORO MAJIMA!",
+  "official_neighbors": [
+   "You can fight. Been a while since we had matches that good. Whaddya say? Any interest in spicin' the ring up here and there in the future? There's money in it.",
+   "Not sure you could afford me.",
+   "Every time. It's always about the money...",
+   "Yeah, world's a bitch. I won my three rounds. Time for you to come through on your side of the bargain.",
+   "Fair's fair. Follow me..."
+  ]
+ },
+ {
+  "order": 37,
+  "word": "ちょいちょい",
+  "reading": "ちょいちょい",
+  "meaning": "often; frequently; now and then; occasionally",
+  "pos": "adverb",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "久しぶりや。どや、今度からちょいちょいリングを",
+  "parity": true,
+  "official_candidate": "You can fight. Been a while since we had matches that good. Whaddya say? Any interest in spicin' the ring up here and there in the future? There's money in it.",
+  "official_neighbors": [
+   "Not sure you could afford me.",
+   "Every time. It's always about the money..."
+  ]
+ },
+ {
+  "order": 38,
+  "word": "守る",
+  "reading": "まもる",
+  "meaning": "to protect; to guard; to defend",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "アンタにも約束は守ってもらうで。",
+  "parity": true,
+  "official_candidate": "Yeah, world's a bitch. I won my three rounds. Time for you to come through on your side of the bargain.",
+  "official_neighbors": [
+   "Not sure you could afford me.",
+   "Every time. It's always about the money...",
+   "Fair's fair. Follow me..."
+  ]
+ },
+ {
+  "order": 39,
+  "word": "連勝",
+  "reading": "れんしょう",
+  "meaning": "consecutive victories; series of victories; winning streak",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "この強さは本物だ！　真島吾朗、２連勝!!",
+  "parity": true,
+  "official_candidate": "The magic is real, people! Goro Majima wins again!",
+  "official_neighbors": [
+   "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+   "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!"
+  ]
+ },
+ {
+  "order": 41,
+  "word": "果たして",
+  "reading": "はたして",
+  "meaning": "as was expected; just as one thought; sure enough",
+  "pos": "adverb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "真島吾朗、果たして２連勝なるか!?",
+  "parity": true,
+  "official_candidate": "Can Goro Majima manage an encore victory!? No time limits, no rules!",
+  "official_neighbors": [
+   "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!"
+  ]
+ },
+ {
+  "order": 42,
+  "word": "跡形",
+  "reading": "あとかた",
+  "meaning": "trace; vestige; evidence",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "死体を跡形も無く食べて証拠を消した連続殺人鬼、",
+  "parity": true,
+  "official_candidate": "You all know our very own cannibal clown, the serial killer who ate all the evidence... Gingerrrrr Chapman!",
+  "official_neighbors": [
+   "Aaand now to unveil the next fight on today's card!",
+   "And in the challenger's corner, a new fallen star freshly landed in the Bed of Styx, the one-eyed monster whose crimes are literally unspeakable... Goroooo Majimaaaaaa!"
+  ]
+ },
+ {
+  "order": 43,
+  "word": "ジンジャー",
+  "reading": "ジンジャー",
+  "meaning": "ginger",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "ジンジャー・チャップマン!!",
+  "parity": true,
+  "official_candidate": "You all know our very own cannibal clown, the serial killer who ate all the evidence... Gingerrrrr Chapman!",
+  "official_neighbors": [
+   "Aaand now to unveil the next fight on today's card!",
+   "And in the challenger's corner, a new fallen star freshly landed in the Bed of Styx, the one-eyed monster whose crimes are literally unspeakable... Goroooo Majimaaaaaa!"
+  ]
+ },
+ {
+  "order": 44,
+  "word": "本日",
+  "reading": "ほんじつ",
+  "meaning": "today; this day",
+  "pos": "adverb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "対する挑戦者は、本日“三途の川底”に落とされて",
+  "parity": true,
+  "official_candidate": "And in the challenger's corner, a new fallen star freshly landed in the Bed of Styx, the one-eyed monster whose crimes are literally unspeakable... Goroooo Majimaaaaaa!",
+  "official_neighbors": [
+   "You all know our very own cannibal clown, the serial killer who ate all the evidence... Gingerrrrr Chapman!"
+  ]
+ },
+ {
+  "order": 45,
+  "word": "立件",
+  "reading": "りっけん",
+  "meaning": "assembling a criminal case",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "証拠が一個もなくて立件できんかった殺人鬼……",
+  "parity": true,
+  "official_candidate": "This world's fulla criminals the law can't touch. Killers without the evidence to nail 'em. Terrorists walkin' free 'cause they're friends with the right politician...",
+  "official_neighbors": [
+   "We take guys like that from around the world, and we throw 'em down here.",
+   "What're they fightin' for?"
+  ]
+ },
+ {
+  "order": 46,
+  "word": "殴り合う",
+  "reading": "なぐりあう",
+  "meaning": "to exchange blows; to hit each other; to punch each other; to fight",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "何で殴りあっとるんや……？",
+  "parity": true,
+  "official_candidate": "What're they fightin' for?",
+  "official_neighbors": [
+   "This world's fulla criminals the law can't touch. Killers without the evidence to nail 'em. Terrorists walkin' free 'cause they're friends with the right politician...",
+   "We take guys like that from around the world, and we throw 'em down here.",
+   "They make it through a year of fights down here, we let 'em go back topside.",
+   "No rules at all. Cheat all you can, kill the other guy, anything goes. Nothin' brings the animal out like a free-for-all for survival."
+  ]
+ },
+ {
+  "order": 47,
+  "word": "闘技",
+  "reading": "とうぎ",
+  "meaning": "competition; contest",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "この闘技場で１年間闘うたら、",
+  "parity": true,
+  "official_candidate": "They make it through a year of fights down here, we let 'em go back topside.",
+  "official_neighbors": [
+   "We take guys like that from around the world, and we throw 'em down here.",
+   "What're they fightin' for?",
+   "No rules at all. Cheat all you can, kill the other guy, anything goes. Nothin' brings the animal out like a free-for-all for survival.",
+   "But I don't care how tough you are, fight every day for a year, you ain't gonna last."
+  ]
+ },
+ {
+  "order": 48,
+  "word": "娑婆",
+  "reading": "しゃば",
+  "meaning": "this world; this life",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "シャバに戻したるっちゅうとる。",
+  "parity": true,
+  "official_candidate": "They make it through a year of fights down here, we let 'em go back topside.",
+  "official_neighbors": [
+   "We take guys like that from around the world, and we throw 'em down here.",
+   "What're they fightin' for?",
+   "No rules at all. Cheat all you can, kill the other guy, anything goes. Nothin' brings the animal out like a free-for-all for survival.",
+   "But I don't care how tough you are, fight every day for a year, you ain't gonna last."
+  ]
+ },
+ {
+  "order": 49,
+  "word": "無用",
+  "reading": "むよう",
+  "meaning": "useless; futile",
+  "pos": "na-adjective",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "ルールは一切無用や。",
+  "parity": true,
+  "official_candidate": "No rules at all. Cheat all you can, kill the other guy, anything goes. Nothin' brings the animal out like a free-for-all for survival.",
+  "official_neighbors": [
+   "What're they fightin' for?",
+   "They make it through a year of fights down here, we let 'em go back topside.",
+   "But I don't care how tough you are, fight every day for a year, you ain't gonna last.",
+   "So you're just lettin' convicts carry out each other's death sentences. Real classy."
+  ]
+ },
+ {
+  "order": 50,
+  "word": "下種",
+  "reading": "げす",
+  "meaning": "vulgar person; low-life; sleazebag; boor",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "ゲスいのう。",
+  "parity": true,
+  "official_candidate": "So you're just lettin' convicts carry out each other's death sentences. Real classy.",
+  "official_neighbors": [
+   "No rules at all. Cheat all you can, kill the other guy, anything goes. Nothin' brings the animal out like a free-for-all for survival.",
+   "But I don't care how tough you are, fight every day for a year, you ain't gonna last.",
+   "All in the name of atonement and world peace, kid.",
+   "And how does the audience factor into that?"
+  ]
+ },
+ {
+  "order": 51,
+  "word": "観客",
+  "reading": "かんきゃく",
+  "meaning": "spectator; audience",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "ほな、この観客はなんやねん？",
+  "parity": true,
+  "official_candidate": "And how does the audience factor into that?",
+  "official_neighbors": [
+   "So you're just lettin' convicts carry out each other's death sentences. Real classy.",
+   "All in the name of atonement and world peace, kid.",
+   "Heh heh... Not many places you can see guys fight for their lives. And whenever ya got somethin' rare to offer, people are gonna pay cash. Lots of it.",
+   "Atonement my ass. This is a racket."
+  ]
+ },
+ {
+  "order": 52,
+  "word": "殴り合い",
+  "reading": "なぐりあい",
+  "meaning": "fist fight",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "フフフ……　命かけた本物の殴り合いなんて、",
+  "parity": true,
+  "official_candidate": "Heh heh... Not many places you can see guys fight for their lives. And whenever ya got somethin' rare to offer, people are gonna pay cash. Lots of it.",
+  "official_neighbors": [
+   "All in the name of atonement and world peace, kid.",
+   "And how does the audience factor into that?",
+   "Atonement my ass. This is a racket.",
+   "Hey, don't knock it. This is just an underpaid cop's little thing on the side."
+  ]
+ },
+ {
+  "order": 53,
+  "word": "償い",
+  "reading": "つぐない",
+  "meaning": "recompense; indemnity; atonement",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "何が罪の償いや。金儲けやんか……",
+  "parity": true,
+  "official_candidate": "Atonement my ass. This is a racket.",
+  "official_neighbors": [
+   "And how does the audience factor into that?",
+   "Heh heh... Not many places you can see guys fight for their lives. And whenever ya got somethin' rare to offer, people are gonna pay cash. Lots of it.",
+   "Hey, don't knock it. This is just an underpaid cop's little thing on the side.",
+   "Alright, why'd ya bring me down here?"
+  ]
+ },
+ {
+  "order": 54,
+  "word": "マンネリ",
+  "reading": "マンネリ",
+  "meaning": "becoming stereotyped; becoming tedious; becoming repetitive; becoming routine",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "せんでなぁ……　勝負がマンネリ化しとる。",
+  "parity": true,
+  "official_candidate": "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored.",
+  "official_neighbors": [
+   "Hey, don't knock it. This is just an underpaid cop's little thing on the side.",
+   "Alright, why'd ya bring me down here?",
+   "Sooo, if you spiced up the ring a little, maybe it'd be the shot this place needs...",
+   "You tellin' me to fight?"
+  ]
+ },
+ {
+  "order": 55,
+  "word": "梃入れ",
+  "reading": "てこいれ",
+  "meaning": "shoring up (a company, industry, etc.); propping up; bolstering; support",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "ええテコ入れになるやろなぁ……",
+  "parity": true,
+  "official_candidate": "Sooo, if you spiced up the ring a little, maybe it'd be the shot this place needs...",
+  "official_neighbors": [
+   "Alright, why'd ya bring me down here?",
+   "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored.",
+   "You tellin' me to fight?",
+   "Nobody's askin' you to stay down here a year. Win against three or so guys and that'd be plenty. I'll take ya to meet Nishitani after."
+  ]
+ },
+ {
+  "order": 56,
+  "word": "出場",
+  "reading": "しゅつじょう",
+  "meaning": "participation (in a tournament, match, race, etc.); entry; taking part (in); competing (in)",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "俺に出場せえ言うんか？",
+  "parity": true,
+  "official_candidate": "You tellin' me to fight?",
+  "official_neighbors": [
+   "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored.",
+   "Sooo, if you spiced up the ring a little, maybe it'd be the shot this place needs...",
+   "Nobody's askin' you to stay down here a year. Win against three or so guys and that'd be plenty. I'll take ya to meet Nishitani after.",
+   "Cops as rotten as you are a rare breed, pal..."
+  ]
+ },
+ {
+  "order": 57,
+  "word": "胸糞",
+  "reading": "むなくそ",
+  "meaning": "feeling; mood",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "せやけど……　この胸糞の悪さを",
+  "parity": true,
+  "official_candidate": "But fine. I'll go take my disgust out on the guy in the ring.",
+  "official_neighbors": [
+   "Nobody's askin' you to stay down here a year. Win against three or so guys and that'd be plenty. I'll take ya to meet Nishitani after.",
+   "Cops as rotten as you are a rare breed, pal...",
+   "Hoped you'd say that.",
+   "Then you're takin' me to see Nishitani after the third guy, or you get to be number four."
+  ]
+ },
+ {
+  "order": 58,
+  "word": "益々",
+  "reading": "ますます",
+  "meaning": "increasingly; more and more",
+  "pos": "adverb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "ワシ、ますます真島君に惚れてもうた！",
+  "parity": true,
+  "official_candidate": "Huff... Ha... This fuckin' guy... You're makin' me fall in love all over again here, Majima-kun!",
+  "official_neighbors": [
+   "You're... pretty entertainin' yourself...",
+   "Yer pal Billiken was right. If we'd met better, we mighta been good friends."
+  ]
+ },
+ {
+  "order": 59,
+  "word": "出会い",
+  "reading": "であい",
+  "meaning": "meeting; rendezvous; encounter",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313da",
+  "sentence": "ビリケンのオッサンが言うとったように、出会いが",
+  "parity": true,
+  "official_candidate": "Yer pal Billiken was right. If we'd met better, we mighta been good friends.",
+  "official_neighbors": [
+   "Huff... Ha... This fuckin' guy... You're makin' me fall in love all over again here, Majima-kun!",
+   "You're... pretty entertainin' yourself...",
+   "We met with a reason to beat on each other. How you gonna go and improve on that?",
+   "Shit, now you're startin' to sound reasonable..."
+  ]
+ },
+ {
+  "order": 60,
+  "word": "言い寄る",
+  "reading": "いいよる",
+  "meaning": "to court; to woo; to approach defiantly",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313da",
+  "sentence": "なんや、急にまっとうなこと言いよって……",
+  "parity": true,
+  "official_candidate": "Shit, now you're startin' to sound reasonable...",
+  "official_neighbors": [
+   "Yer pal Billiken was right. If we'd met better, we mighta been good friends.",
+   "We met with a reason to beat on each other. How you gonna go and improve on that?",
+   "So, let's hear it. Who's this third party?",
+   "Hey, Majima-kun? Screw that raisin-dick Sagawa and come work with me."
+  ]
+ },
+ {
+  "order": 61,
+  "word": "集団",
+  "reading": "しゅうだん",
+  "meaning": "group; mass",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "日侠連っちゅう集団や。",
+  "parity": true,
+  "official_candidate": "Makoto-chan's third group of hunters is a pack of wolves who call themselves the Nikkyo Consortium.",
+  "official_neighbors": [
+   "Nikkyo Consortium?",
+   "They report to the Tojo Clan, directly."
+  ]
+ },
+ {
+  "order": 62,
+  "word": "総裁",
+  "reading": "そうさい",
+  "meaning": "president (of an organization); director general; governor (of a central bank); party leader (esp. LDP)",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "マコトちゃんをさらったんは、恐らく日侠連の総裁、",
+  "parity": true,
+  "official_candidate": "Makoto-chan's man is probably the Nikkyo group's president himself, Masaru Sera.",
+  "official_neighbors": [
+   "Tojo Clan? You're crazy. I ain't even heard of a group called the Nikkyo Consortium there.",
+   "'Course ya haven't. They ain't the sort of operation that's flashin' the Tojo crest. Whole thing's underground.",
+   "Masaru... Sera?",
+   "Few days back, I got word that Sera had his pack in the neighborhood."
+  ]
+ },
+ {
+  "order": 63,
+  "word": "引き連れる",
+  "reading": "ひきつれる",
+  "meaning": "to take (someone) along; to bring along; to be accompanied by",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "数日前に、世良が日侠連を引き連れて、",
+  "parity": true,
+  "official_candidate": "Few days back, I got word that Sera had his pack in the neighborhood.",
+  "official_neighbors": [
+   "Makoto-chan's man is probably the Nikkyo group's president himself, Masaru Sera.",
+   "Masaru... Sera?",
+   "I figured it probably had somethin' to do with our girl, Makoto-chan.",
+   "Why're two groups from the Tojo Clan after the same girl?"
+  ]
+ },
+ {
+  "order": 64,
+  "word": "潜り込む",
+  "reading": "もぐりこむ",
+  "meaning": "to slip into; to crawl into (under); to conceal oneself (under)",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "こっちに潜り込んだっちゅう情報が入ってな。",
+  "parity": true,
+  "official_candidate": "Few days back, I got word that Sera had his pack in the neighborhood.",
+  "official_neighbors": [
+   "Makoto-chan's man is probably the Nikkyo group's president himself, Masaru Sera.",
+   "Masaru... Sera?",
+   "I figured it probably had somethin' to do with our girl, Makoto-chan.",
+   "Why're two groups from the Tojo Clan after the same girl?"
+  ]
+ },
+ {
+  "order": 65,
+  "word": "勘繰る",
+  "reading": "かんぐる",
+  "meaning": "to be suspicious of (someone's motives); to suspect (that)",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "勘ぐってたとこやった。",
+  "parity": true,
+  "official_candidate": "I figured it probably had somethin' to do with our girl, Makoto-chan.",
+  "official_neighbors": [
+   "Masaru... Sera?",
+   "Few days back, I got word that Sera had his pack in the neighborhood.",
+   "Why're two groups from the Tojo Clan after the same girl?",
+   "Two?"
+  ]
+ },
+ {
+  "order": 66,
+  "word": "揉め",
+  "reading": "もめ",
+  "meaning": "quarrel; trouble; dispute",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "何でやろなぁ。ま、東城会の内輪揉めなんか",
+  "parity": true,
+  "official_candidate": "Pretty real, huh? I mean, not like Tojo Clan infightin's anything I give two shits about, but hey.",
+  "official_neighbors": [
+   "Yeah, another direct Tojo Clan family. So we got Sera's Nikkyo Consortium, the Shimano Family givin' you orders, and the Dojima Family... All three of 'em Tojo Clan.",
+   "Shit... The hell's goin' on here!?",
+   "You know where this Nikkyo bunch is hidin'?",
+   "I do my homework."
+  ]
+ },
+ {
+  "order": 67,
+  "word": "調べ上げる",
+  "reading": "しらべあげる",
+  "meaning": "to check through; to thoroughly investigate",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "ちゃんと調べ上げとるで。",
+  "parity": true,
+  "official_candidate": "I do my homework.",
+  "official_neighbors": [
+   "Pretty real, huh? I mean, not like Tojo Clan infightin's anything I give two shits about, but hey.",
+   "You know where this Nikkyo bunch is hidin'?",
+   "Where is it?",
+   "Whaddya plannin' to do when you hear?"
+  ]
+ },
+ {
+  "order": 68,
+  "word": "取り返し",
+  "reading": "とりかえし",
+  "meaning": "recovery; undoing; recall",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313da",
+  "sentence": "マコト取り返しに行くに決まっとるやろ？",
+  "parity": true,
+  "official_candidate": "Go get Makoto back, obviously.",
+  "official_neighbors": [
+   "Where is it?",
+   "Whaddya plannin' to do when you hear?",
+   "Nope.",
+   "Huh?"
+  ]
+ },
+ {
+  "order": 69,
+  "word": "掲げる",
+  "reading": "かかげる",
+  "meaning": "to put up (a notice, sign, etc.); to hang out (e.g. a banner); to fly (e.g. a flag); to hoist",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "東城会の代紋掲げては出来へん汚い仕事をこなしとる",
+  "parity": true,
+  "official_candidate": "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+  "official_neighbors": [
+   "Majima-kun, you've shown me how strong ya are, but... those Nikkyo fucks aren't the kinda guys ya take on alone.",
+   "And why's that?",
+   "That said... You and me team up, and things start to get more stimulatin'."
+  ]
+ },
+ {
+  "order": 70,
+  "word": "ＫＧＢ",
+  "reading": "カー・ゲー・ベー",
+  "meaning": "KGB (Soviet Union intelligence agency)",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "ソ連のＫＧＢ、言うたところやな。",
+  "parity": true,
+  "official_candidate": "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+  "official_neighbors": [
+   "Majima-kun, you've shown me how strong ya are, but... those Nikkyo fucks aren't the kinda guys ya take on alone.",
+   "And why's that?",
+   "That said... You and me team up, and things start to get more stimulatin'."
+  ]
+ },
+ {
+  "order": 71,
+  "word": "勝ち目",
+  "reading": "かちめ",
+  "meaning": "chance (of success); odds",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "勝ち目が無いわけやない……",
+  "parity": true,
+  "official_candidate": "That said... You and me team up, and things start to get more stimulatin'.",
+  "official_neighbors": [
+   "And why's that?",
+   "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+   "Besides, that ain't the only perk of signin' on with me."
+  ]
+ },
+ {
+  "order": 72,
+  "word": "がら",
+  "reading": "がら",
+  "meaning": "pattern; design",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "でもワシは、殺しやなくて、ガラ押さえて",
+  "parity": true,
+  "official_candidate": "But nobody's askin' me to kill her. All my guy wants is for me to bundle her up and ship her over.",
+  "official_neighbors": [
+   "Go on.",
+   "Sagawa's orders are to kill Makoto-chan, right? Long as you're workin' for him, your fairy tale ends with a bullet in the girl.",
+   "You ditch Sagawa and come with me, you never have to worry about havin' to hurt Makoto-chan.",
+   "Sorry, but I'll pass."
+  ]
+ },
+ {
+  "order": 74,
+  "word": "両目",
+  "reading": "りょうめ",
+  "meaning": "both eyes",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313da",
+  "sentence": "両目まで見えへんようになってな……",
+  "parity": true,
+  "official_candidate": "But the underworld's already fed off that girl more than enough. Took her goddamn sight away...",
+  "official_neighbors": [
+   "That Nikkyo guy, Sera, didn't look like he was gonna kill Makoto, either.",
+   "If all I wanted was to keep her alive, I'd just sit tight and let the Nikkyo bunch hold on to her.",
+   "I couldn't kill Makoto... That means I got a responsibility for her bein' alive."
+  ]
+ },
+ {
+  "order": 75,
+  "word": "料亭",
+  "reading": "りょうてい",
+  "meaning": "ryotei; traditional Japanese restaurant (esp. a luxurious one)",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313da",
+  "sentence": "料亭街……？",
+  "parity": true,
+  "official_candidate": "Some inn?",
+  "official_neighbors": [
+   "Me and Sotenbori got a complicated relationship... So? The hell is the Camellia Grove?",
+   "Nickname for an old dining and lodging district. Real traditional and historic. The Consortium's set up in the Benten Inn. Makoto-chan's gotta be in there.",
+   "The Grove ain't the sorta place that turns up in guidebooks. ...You'll get it when you see the place. I'll take ya. Throw down on some Nikkyo guys with ya too, while I'm at it.",
+   "You sure? I ain't lettin' you have Makoto, even if it kills me."
+  ]
+ },
+ {
+  "order": 76,
+  "word": "大暴れ",
+  "reading": "おおあばれ",
+  "meaning": "rampaging; raging violently; going berserk",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "さぁ、真島君と一緒に大暴れや！　楽しなるでぇ！",
+  "parity": true,
+  "official_candidate": "Shit, I get to beat some ass with Majima-kun! How fuckin' exciting is that!",
+  "official_neighbors": [
+   "You sure? I ain't lettin' you have Makoto, even if it kills me.",
+   "Ah, we can work all that out after gettin' Makoto-chan back from the Nikkyo."
+  ]
+ },
+ {
+  "order": 77,
+  "word": "御上",
+  "reading": "おかみ",
+  "meaning": "the Emperor; His Majesty",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "せやけど、ここは御上に守られた",
+  "parity": true,
+  "official_candidate": "Well, you're lookin' at the safest safehouse in Japan. Best security the taxpayers can buy.",
+  "official_neighbors": [
+   "In our line of work, safe hideaways are in short supply. You got the same problems, don't ya?",
+   "Huh?",
+   "You think you're safe with these guys around?",
+   "Ain't nobody dumb enough to come at me with just their fists. It's always knives, guns, some other bullshit."
+  ]
+ },
+ {
+  "order": 78,
+  "word": "持ち込む",
+  "reading": "もちこむ",
+  "meaning": "to bring in; to take in; to carry in",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "ここやったらそないなモン持ち込めへんからな。",
+  "parity": true,
+  "official_candidate": "Can't get behind bars with those toys though. I sleep like a baby in here. Home, sweet home.",
+  "official_neighbors": [
+   "You think you're safe with these guys around?",
+   "Ain't nobody dumb enough to come at me with just their fists. It's always knives, guns, some other bullshit.",
+   "Nishitani... Who's this third party that swiped Makoto?",
+   "Ahh, right. I'm sure you're curious, Majima-kun, and they ain't the sorta guys yer pal Sagawa could pin down in a million years."
+  ]
+ },
+ {
+  "order": 79,
+  "word": "到底",
+  "reading": "とうてい",
+  "meaning": "(cannot) possibly; (not) by any means; (not) at all; utterly",
+  "pos": "adverb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "到底調べ上げれん相手やもんな……",
+  "parity": true,
+  "official_candidate": "Ahh, right. I'm sure you're curious, Majima-kun, and they ain't the sorta guys yer pal Sagawa could pin down in a million years.",
+  "official_neighbors": [
+   "Can't get behind bars with those toys though. I sleep like a baby in here. Home, sweet home.",
+   "Nishitani... Who's this third party that swiped Makoto?",
+   "I should be a pal and tell ya, but maybe I won't. What to do...",
+   "You best clue me in, or I'll make sure the next beat down ain't half as fun for ya as the last one."
+  ]
+ },
+ {
+  "order": 80,
+  "word": "しばく",
+  "reading": "しばく",
+  "meaning": "to strike (with a stick, whip, etc.)",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313da",
+  "sentence": "お望み通り、とことんしばき倒したるわ!!",
+  "parity": true,
+  "official_candidate": "Guess you're in luck. I'll smack you down till you stay there!",
+  "official_neighbors": [
+   "I can't wait! Just lookin' at somebody strong gets my juices flowin'. I'm rock hard, buddy ol' pal. Can't hold this back!",
+   "You just get weirder and weirder..."
+  ]
+ },
+ {
+  "order": 81,
+  "word": "小娘",
+  "reading": "こむすめ",
+  "meaning": "young girl; lass; adolescent female",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013313ba",
+  "sentence": "あないな小娘に一体何の価値があんのや!?",
+  "parity": true,
+  "official_candidate": "Why's everybody and their mother out for this girl anyway!? She ain't running any prostitution ring or whatever you said. What value's one lady got to these guys?",
+  "official_neighbors": [
+   "Never seen the guy.",
+   "Uh-huh...",
+   "You want to know? Well, I couldn't tell you if I wanted to. I don't got a damn clue myself.",
+   "What!?"
+  ]
+ },
+ {
+  "order": 82,
+  "word": "従兄弟",
+  "reading": "いとこ",
+  "meaning": "cousin (male)",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313ba",
+  "sentence": "吐かせたいとこだが……　サツにしょっ引かれて、",
+  "parity": true,
+  "official_candidate": "I'd love to go drop the hammer on Nishitani and get him to spill the girl's location, but since he got picked up by the cops, he's still cooling in the tank...",
+  "official_neighbors": [
+   "Could be.",
+   "So Nishitani picks up a random stray and makes him look like a new challenger... Feels like a Nishitani special.",
+   "Sure, but even if we can't get at Nishitani, it sounded like his boys knew somethin' too."
+  ]
+ },
+ {
+  "order": 83,
+  "word": "生まれ付く",
+  "reading": "うまれつく",
+  "meaning": "to be born (with); to be born (to be); to be destined",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "外道に生まれついた人間には、",
+  "parity": true,
+  "official_candidate": "Some people're born to be monsters. Some jobs, only a monster can do.",
+  "official_neighbors": [
+   "Nishitani had been in the care of the victim's old man ever since he was just an ankle biter.",
+   "Gotta figure Nishitani was able to sense it. How bad the old man was hurtin'.",
+   "Ain't the sorta jobs that earn any proper thanks, but it makes those of us livin' on the right side better off.",
+   "After he realized why Nishitani did what he did, the old dad went and built the Bed of Styx. Now I hear he's Nishitani's liaison with the force..."
+  ]
+ },
+ {
+  "order": 84,
+  "word": "世",
+  "reading": "よ",
+  "meaning": "world; society; public",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "罪の償いと、世の平和の為や。",
+  "parity": true,
+  "official_candidate": "All in the name of atonement and world peace, kid.",
+  "official_neighbors": [
+   "But I don't care how tough you are, fight every day for a year, you ain't gonna last.",
+   "So you're just lettin' convicts carry out each other's death sentences. Real classy.",
+   "And how does the audience factor into that?",
+   "Heh heh... Not many places you can see guys fight for their lives. And whenever ya got somethin' rare to offer, people are gonna pay cash. Lots of it."
+  ]
+ },
+ {
+  "order": 86,
+  "word": "歴史",
+  "reading": "れきし",
+  "meaning": "history",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "椿園はなぁ、それはそれは歴史ある料亭街の通称や。",
+  "parity": true,
+  "official_candidate": "Nickname for an old dining and lodging district. Real traditional and historic. The Consortium's set up in the Benten Inn. Makoto-chan's gotta be in there.",
+  "official_neighbors": [
+   "Wait, you been down here how long and never been there?",
+   "Me and Sotenbori got a complicated relationship... So? The hell is the Camellia Grove?",
+   "Some inn?",
+   "The Grove ain't the sorta place that turns up in guidebooks. ...You'll get it when you see the place. I'll take ya. Throw down on some Nikkyo guys with ya too, while I'm at it."
+  ]
+ },
+ {
+  "order": 87,
+  "word": "野良",
+  "reading": "のら",
+  "meaning": "field; farm",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "013313ba",
+  "sentence": "どっかで拾ってきた野良を泥棒猫に仕立てた",
+  "parity": true,
+  "official_candidate": "So Nishitani picks up a random stray and makes him look like a new challenger... Feels like a Nishitani special.",
+  "official_neighbors": [
+   "Decent odds they're in it together.",
+   "Could be.",
+   "I'd love to go drop the hammer on Nishitani and get him to spill the girl's location, but since he got picked up by the cops, he's still cooling in the tank...",
+   "Sure, but even if we can't get at Nishitani, it sounded like his boys knew somethin' too."
+  ]
+ },
+ {
+  "order": 88,
+  "word": "仕立てる",
+  "reading": "したてる",
+  "meaning": "to tailor; to make (clothing)",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "013313ba",
+  "sentence": "どっかで拾ってきた野良を泥棒猫に仕立てた",
+  "parity": true,
+  "official_candidate": "So Nishitani picks up a random stray and makes him look like a new challenger... Feels like a Nishitani special.",
+  "official_neighbors": [
+   "Decent odds they're in it together.",
+   "Could be.",
+   "I'd love to go drop the hammer on Nishitani and get him to spill the girl's location, but since he got picked up by the cops, he's still cooling in the tank...",
+   "Sure, but even if we can't get at Nishitani, it sounded like his boys knew somethin' too."
+  ]
+ },
+ {
+  "order": 89,
+  "word": "男手",
+  "reading": "おとこで",
+  "meaning": "male help; male labor; male labour",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "親父さんが男手一つで育てた大切な一人娘やった……",
+  "parity": true,
+  "official_candidate": "Victim came from a single-parent home. A dad raisin' his little princess as best he could...",
+  "official_neighbors": [
+   "Hm?",
+   "Years back, the body of a high school gal came floatin' up to the surface. Poor thing's face was beat unrecognizable. Body stabbed a few dozen times...",
+   "But our investigation went nowhere. Couldn't pin down a perp.",
+   "Talk about a kick in the dick..."
+  ]
+ },
+ {
+  "order": 90,
+  "word": "一人娘",
+  "reading": "ひとりむすめ",
+  "meaning": "only daughter",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "親父さんが男手一つで育てた大切な一人娘やった……",
+  "parity": true,
+  "official_candidate": "Victim came from a single-parent home. A dad raisin' his little princess as best he could...",
+  "official_neighbors": [
+   "Hm?",
+   "Years back, the body of a high school gal came floatin' up to the surface. Poor thing's face was beat unrecognizable. Body stabbed a few dozen times...",
+   "But our investigation went nowhere. Couldn't pin down a perp.",
+   "Talk about a kick in the dick..."
+  ]
+ },
+ {
+  "order": 91,
+  "word": "一層",
+  "reading": "いっそう",
+  "meaning": "even more; still more; all the more; more than ever",
+  "pos": "adverb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "親父さんは一層どん底に落ちた。",
+  "parity": true,
+  "official_candidate": "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower.",
+  "official_neighbors": [
+   "But our investigation went nowhere. Couldn't pin down a perp.",
+   "Talk about a kick in the dick...",
+   "What happened?",
+   "Perp was a street punk minor. No court, no hard time. He got outta juvie and was back on the streets like he never did a thing."
+  ]
+ },
+ {
+  "order": 92,
+  "word": "どん底",
+  "reading": "どんぞこ",
+  "meaning": "very bottom; rock bottom",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "親父さんは一層どん底に落ちた。",
+  "parity": true,
+  "official_candidate": "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower.",
+  "official_neighbors": [
+   "But our investigation went nowhere. Couldn't pin down a perp.",
+   "Talk about a kick in the dick...",
+   "What happened?",
+   "Perp was a street punk minor. No court, no hard time. He got outta juvie and was back on the streets like he never did a thing."
+  ]
+ },
+ {
+  "order": 93,
+  "word": "法",
+  "reading": "ほう",
+  "meaning": "law; act; principle",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "法で裁かれることなく、少年院を出たガキは、",
+  "parity": true,
+  "official_candidate": "Perp was a street punk minor. No court, no hard time. He got outta juvie and was back on the streets like he never did a thing.",
+  "official_neighbors": [
+   "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower.",
+   "What happened?",
+   "You got any idea what that does to a guy? To a father?",
+   "Musta been unbearable... I'd want to kill that kid."
+  ]
+ },
+ {
+  "order": 94,
+  "word": "裁く",
+  "reading": "さばく",
+  "meaning": "to judge; to try; to sit in judgement (on); to decide (on)",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "法で裁かれることなく、少年院を出たガキは、",
+  "parity": true,
+  "official_candidate": "Perp was a street punk minor. No court, no hard time. He got outta juvie and was back on the streets like he never did a thing.",
+  "official_neighbors": [
+   "Took a year before we finally tracked the guy down, but... it only wound up bringin' the girl's dad lower.",
+   "What happened?",
+   "You got any idea what that does to a guy? To a father?",
+   "Musta been unbearable... I'd want to kill that kid."
+  ]
+ },
+ {
+  "order": 95,
+  "word": "名乗る",
+  "reading": "なのる",
+  "meaning": "to give one's name (as); to introduce oneself (as)",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "sentence": "敵と名乗る奴をワザワザ引き合わせると思うかぁ？",
+  "parity": true,
+  "official_candidate": "And you think I'm bringin' somebody who says they're his enemy in to see him?",
+  "official_neighbors": [
+   "And you're Nishitani's what, now? Buddy of his?",
+   "I ain't his friend. Nishitani's an enemy. And an asshole.",
+   "You prefer I say we're best friends when you know I'm lyin'? Nishitani's a cautious guy. He wouldn't pick a cop who can't sniff out a lie to be his man.",
+   "Figured bein' honest about it saves us both the time."
+  ]
+ },
+ {
+  "order": 97,
+  "word": "まさか",
+  "reading": "まさか",
+  "meaning": "by no means; never!; well, I never!; you don't say!",
+  "pos": "int",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "まさかの展開に、会場は興奮のるつぼと",
+  "parity": true,
+  "official_candidate": "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+  "official_neighbors": [
+   "The magic is real, people! Goro Majima wins again!",
+   "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!",
+   "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!"
+  ]
+ },
+ {
+  "order": 98,
+  "word": "興奮",
+  "reading": "こうふん",
+  "meaning": "excitement; stimulation; agitation; arousal",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "まさかの展開に、会場は興奮のるつぼと",
+  "parity": true,
+  "official_candidate": "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+  "official_neighbors": [
+   "The magic is real, people! Goro Majima wins again!",
+   "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!",
+   "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!"
+  ]
+ },
+ {
+  "order": 99,
+  "word": "坩堝",
+  "reading": "るつぼ",
+  "meaning": "crucible; melting pot",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "まさかの展開に、会場は興奮のるつぼと",
+  "parity": true,
+  "official_candidate": "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+  "official_neighbors": [
+   "The magic is real, people! Goro Majima wins again!",
+   "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!",
+   "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!"
+  ]
+ },
+ {
+  "order": 100,
+  "word": "ルーキー",
+  "reading": "ルーキー",
+  "meaning": "rookie",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "……しかし、謎のルーキーの快進撃も、",
+  "parity": true,
+  "official_candidate": "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!",
+  "official_neighbors": [
+   "The magic is real, people! Goro Majima wins again!",
+   "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+   "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!"
+  ]
+ },
+ {
+  "order": 101,
+  "word": "進撃",
+  "reading": "しんげき",
+  "meaning": "advance; charge",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "……しかし、謎のルーキーの快進撃も、",
+  "parity": true,
+  "official_candidate": "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!",
+  "official_neighbors": [
+   "The magic is real, people! Goro Majima wins again!",
+   "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+   "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!"
+  ]
+ },
+ {
+  "order": 102,
+  "word": "撲殺",
+  "reading": "ぼくさつ",
+  "meaning": "beat to death",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "リング上の撲殺数世界一、法では裁けない悪魔の拳！",
+  "parity": true,
+  "official_candidate": "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!",
+  "official_neighbors": [
+   "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+   "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!"
+  ]
+ },
+ {
+  "order": 103,
+  "word": "悪魔",
+  "reading": "あくま",
+  "meaning": "devil; demon; fiend",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "リング上の撲殺数世界一、法では裁けない悪魔の拳！",
+  "parity": true,
+  "official_candidate": "He's the world champion of \"accidental\" in-fight deaths, the reaper of the ring, immune from the law... Dead Puncher!",
+  "official_neighbors": [
+   "I don't think anybody saw this coming, and the crowd is throbbing with excitement!",
+   "...But I'm afraid our mysterious rookie rumbler's streak may be at its end. That's right, in his next fight, he'll face the legend himself!"
+  ]
+ },
+ {
+  "order": 104,
+  "word": "突然",
+  "reading": "とつぜん",
+  "meaning": "abrupt; sudden; unexpected",
+  "pos": "na-adjective",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "突然現れた隻眼の罪人・真島吾朗が",
+  "parity": true,
+  "official_candidate": "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+  "official_neighbors": [
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!"
+  ]
+ },
+ {
+  "order": 105,
+  "word": "隻眼",
+  "reading": "せきがん",
+  "meaning": "one eye",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "突然現れた隻眼の罪人・真島吾朗が",
+  "parity": true,
+  "official_candidate": "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+  "official_neighbors": [
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!"
+  ]
+ },
+ {
+  "order": 106,
+  "word": "罪人",
+  "reading": "ざいにん",
+  "meaning": "criminal; lawbreaker; wrongdoer; offender",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "突然現れた隻眼の罪人・真島吾朗が",
+  "parity": true,
+  "official_candidate": "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+  "official_neighbors": [
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!"
+  ]
+ },
+ {
+  "order": 107,
+  "word": "デビュー",
+  "reading": "デビュー",
+  "meaning": "debut; doing something for the first time",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "デビュー戦でまさかの大勝利だぁ!!",
+  "parity": true,
+  "official_candidate": "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+  "official_neighbors": [
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!"
+  ]
+ },
+ {
+  "order": 108,
+  "word": "死",
+  "reading": "し",
+  "meaning": "death",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "患者を自然死に見せかけ殺していった快楽殺人医、",
+  "parity": true,
+  "official_candidate": "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!",
+  "official_neighbors": [
+   "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "Can Goro Majima manage an encore victory!? No time limits, no rules!"
+  ]
+ },
+ {
+  "order": 109,
+  "word": "見せ掛ける",
+  "reading": "みせかける",
+  "meaning": "to pretend; to feign",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "患者を自然死に見せかけ殺していった快楽殺人医、",
+  "parity": true,
+  "official_candidate": "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!",
+  "official_neighbors": [
+   "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "Can Goro Majima manage an encore victory!? No time limits, no rules!"
+  ]
+ },
+ {
+  "order": 110,
+  "word": "快楽",
+  "reading": "かいらく",
+  "meaning": "pleasure",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "患者を自然死に見せかけ殺していった快楽殺人医、",
+  "parity": true,
+  "official_candidate": "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!",
+  "official_neighbors": [
+   "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+   "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+   "Can Goro Majima manage an encore victory!? No time limits, no rules!"
+  ]
+ },
+ {
+  "order": 111,
+  "word": "新星",
+  "reading": "しんせい",
+  "meaning": "nova",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "きたばかりの新星、罪状は謎に包まれた隻眼の男……",
+  "parity": true,
+  "official_candidate": "And in the challenger's corner, a new fallen star freshly landed in the Bed of Styx, the one-eyed monster whose crimes are literally unspeakable... Goroooo Majimaaaaaa!",
+  "official_neighbors": [
+   "You all know our very own cannibal clown, the serial killer who ate all the evidence... Gingerrrrr Chapman!"
+  ]
+ },
+ {
+  "order": 112,
+  "word": "罪状",
+  "reading": "ざいじょう",
+  "meaning": "(nature of a) crime; (criminal) charge",
+  "pos": "noun",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "きたばかりの新星、罪状は謎に包まれた隻眼の男……",
+  "parity": true,
+  "official_candidate": "And in the challenger's corner, a new fallen star freshly landed in the Bed of Styx, the one-eyed monster whose crimes are literally unspeakable... Goroooo Majimaaaaaa!",
+  "official_neighbors": [
+   "You all know our very own cannibal clown, the serial killer who ate all the evidence... Gingerrrrr Chapman!"
+  ]
+ },
+ {
+  "order": 113,
+  "word": "ごまんと",
+  "reading": "ごまんと",
+  "meaning": "in a great quantity; plentifully; greatly",
+  "pos": "adverb",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "世の中には法で裁かれへん罪人がごまんとおる。",
+  "parity": true,
+  "official_candidate": "This world's fulla criminals the law can't touch. Killers without the evidence to nail 'em. Terrorists walkin' free 'cause they're friends with the right politician...",
+  "official_neighbors": [
+   "We take guys like that from around the world, and we throw 'em down here.",
+   "What're they fightin' for?"
+  ]
+ },
+ {
+  "order": 115,
+  "word": "テロリスト",
+  "reading": "テロリスト",
+  "meaning": "terrorist",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "政治の都合で公にできんテロリスト……",
+  "parity": true,
+  "official_candidate": "This world's fulla criminals the law can't touch. Killers without the evidence to nail 'em. Terrorists walkin' free 'cause they're friends with the right politician...",
+  "official_neighbors": [
+   "We take guys like that from around the world, and we throw 'em down here.",
+   "What're they fightin' for?"
+  ]
+ },
+ {
+  "order": 116,
+  "word": "執行",
+  "reading": "しっこう",
+  "meaning": "execution; carrying out; performance; enforcement",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013313cf",
+  "sentence": "罪人同士で死刑を執行させ合うてるわけか……",
+  "parity": true,
+  "official_candidate": "So you're just lettin' convicts carry out each other's death sentences. Real classy.",
+  "official_neighbors": [
+   "No rules at all. Cheat all you can, kill the other guy, anything goes. Nothin' brings the animal out like a free-for-all for survival.",
+   "But I don't care how tough you are, fight every day for a year, you ain't gonna last.",
+   "All in the name of atonement and world peace, kid.",
+   "And how does the audience factor into that?"
+  ]
+ },
+ {
+  "order": 117,
+  "word": "しがない",
+  "reading": "しがない",
+  "meaning": "worthless; insignificant; unimportant; trivial",
+  "pos": "i-adjective",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "しがない刑事のささやかな副業や。",
+  "parity": true,
+  "official_candidate": "Hey, don't knock it. This is just an underpaid cop's little thing on the side.",
+  "official_neighbors": [
+   "Heh heh... Not many places you can see guys fight for their lives. And whenever ya got somethin' rare to offer, people are gonna pay cash. Lots of it.",
+   "Atonement my ass. This is a racket.",
+   "Alright, why'd ya bring me down here?",
+   "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored."
+  ]
+ },
+ {
+  "order": 118,
+  "word": "副業",
+  "reading": "ふくぎょう",
+  "meaning": "side job; sideline; subsidiary business",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "しがない刑事のささやかな副業や。",
+  "parity": true,
+  "official_candidate": "Hey, don't knock it. This is just an underpaid cop's little thing on the side.",
+  "official_neighbors": [
+   "Heh heh... Not many places you can see guys fight for their lives. And whenever ya got somethin' rare to offer, people are gonna pay cash. Lots of it.",
+   "Atonement my ass. This is a racket.",
+   "Alright, why'd ya bring me down here?",
+   "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored."
+  ]
+ },
+ {
+  "order": 119,
+  "word": "顔触れ",
+  "reading": "かおぶれ",
+  "meaning": "personnel; members; lineup (of a team); roster",
+  "pos": "noun",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "実はここんとこ罪人の顔ぶれが代わり映え",
+  "parity": true,
+  "official_candidate": "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored.",
+  "official_neighbors": [
+   "Hey, don't knock it. This is just an underpaid cop's little thing on the side.",
+   "Alright, why'd ya bring me down here?",
+   "Sooo, if you spiced up the ring a little, maybe it'd be the shot this place needs...",
+   "You tellin' me to fight?"
+  ]
+ },
+ {
+  "order": 120,
+  "word": "代わり映え",
+  "reading": "かわりばえ",
+  "meaning": "change for the better; improvement; looking better (than before)",
+  "pos": "verb",
+  "speaker": "ビリケン",
+  "uid": "013313cf",
+  "sentence": "実はここんとこ罪人の顔ぶれが代わり映え",
+  "parity": true,
+  "official_candidate": "Truth be told, the convict lineup here ain't changed in a while. Matches are gettin' stale. People's wallets got a way of closin' up when they get bored.",
+  "official_neighbors": [
+   "Hey, don't knock it. This is just an underpaid cop's little thing on the side.",
+   "Alright, why'd ya bring me down here?",
+   "Sooo, if you spiced up the ring a little, maybe it'd be the shot this place needs...",
+   "You tellin' me to fight?"
+  ]
+ },
+ {
+  "order": 121,
+  "word": "部隊",
+  "reading": "ぶたい",
+  "meaning": "force; unit; corps; squad",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "特殊部隊や。さながらアメリカのＣＩＡ",
+  "parity": true,
+  "official_candidate": "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+  "official_neighbors": [
+   "Majima-kun, you've shown me how strong ya are, but... those Nikkyo fucks aren't the kinda guys ya take on alone.",
+   "And why's that?",
+   "That said... You and me team up, and things start to get more stimulatin'."
+  ]
+ },
+ {
+  "order": 122,
+  "word": "宛ら",
+  "reading": "さながら",
+  "meaning": "just like; exactly like; as if; as though",
+  "pos": "adverb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "特殊部隊や。さながらアメリカのＣＩＡ",
+  "parity": true,
+  "official_candidate": "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+  "official_neighbors": [
+   "Majima-kun, you've shown me how strong ya are, but... those Nikkyo fucks aren't the kinda guys ya take on alone.",
+   "And why's that?",
+   "That said... You and me team up, and things start to get more stimulatin'."
+  ]
+ },
+ {
+  "order": 123,
+  "word": "ＣＩＡ",
+  "reading": "シー・アイ・エー",
+  "meaning": "Central Intelligence Agency (US); CIA",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "特殊部隊や。さながらアメリカのＣＩＡ",
+  "parity": true,
+  "official_candidate": "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+  "official_neighbors": [
+   "Majima-kun, you've shown me how strong ya are, but... those Nikkyo fucks aren't the kinda guys ya take on alone.",
+   "And why's that?",
+   "That said... You and me team up, and things start to get more stimulatin'."
+  ]
+ },
+ {
+  "order": 124,
+  "word": "局面",
+  "reading": "きょくめん",
+  "meaning": "position in a game; state of the game",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "マコトちゃんを殺さなアカン局面にぶち当たんで？",
+  "parity": true,
+  "official_candidate": "Sagawa's orders are to kill Makoto-chan, right? Long as you're workin' for him, your fairy tale ends with a bullet in the girl.",
+  "official_neighbors": [
+   "Besides, that ain't the only perk of signin' on with me.",
+   "Go on.",
+   "But nobody's askin' me to kill her. All my guy wants is for me to bundle her up and ship her over.",
+   "You ditch Sagawa and come with me, you never have to worry about havin' to hurt Makoto-chan."
+  ]
+ },
+ {
+  "order": 125,
+  "word": "打ち当たる",
+  "reading": "ぶちあたる",
+  "meaning": "to slam into; to crash into; to run into; to hit (against)",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "マコトちゃんを殺さなアカン局面にぶち当たんで？",
+  "parity": true,
+  "official_candidate": "Sagawa's orders are to kill Makoto-chan, right? Long as you're workin' for him, your fairy tale ends with a bullet in the girl.",
+  "official_neighbors": [
+   "Besides, that ain't the only perk of signin' on with me.",
+   "Go on.",
+   "But nobody's askin' me to kill her. All my guy wants is for me to bundle her up and ship her over.",
+   "You ditch Sagawa and come with me, you never have to worry about havin' to hurt Makoto-chan."
+  ]
+ },
+ {
+  "order": 126,
+  "word": "百聞",
+  "reading": "ひゃくぶん",
+  "meaning": "hearing many times",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "百聞は一見にしかずや……　案内したる。",
+  "parity": true,
+  "official_candidate": "The Grove ain't the sorta place that turns up in guidebooks. ...You'll get it when you see the place. I'll take ya. Throw down on some Nikkyo guys with ya too, while I'm at it.",
+  "official_neighbors": [
+   "Nickname for an old dining and lodging district. Real traditional and historic. The Consortium's set up in the Benten Inn. Makoto-chan's gotta be in there.",
+   "Some inn?",
+   "You sure? I ain't lettin' you have Makoto, even if it kills me.",
+   "Ah, we can work all that out after gettin' Makoto-chan back from the Nikkyo."
+  ]
+ },
+ {
+  "order": 127,
+  "word": "一見",
+  "reading": "いっけん",
+  "meaning": "look; glimpse; glance",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "百聞は一見にしかずや……　案内したる。",
+  "parity": true,
+  "official_candidate": "The Grove ain't the sorta place that turns up in guidebooks. ...You'll get it when you see the place. I'll take ya. Throw down on some Nikkyo guys with ya too, while I'm at it.",
+  "official_neighbors": [
+   "Nickname for an old dining and lodging district. Real traditional and historic. The Consortium's set up in the Benten Inn. Makoto-chan's gotta be in there.",
+   "Some inn?",
+   "You sure? I ain't lettin' you have Makoto, even if it kills me.",
+   "Ah, we can work all that out after gettin' Makoto-chan back from the Nikkyo."
+  ]
+ },
+ {
+  "order": 128,
+  "word": "熟睡",
+  "reading": "じゅくすい",
+  "meaning": "deep sleep; sound sleep; profound sleep",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "ここはホンマに熟睡できる我が家やぁ。",
+  "parity": true,
+  "official_candidate": "Can't get behind bars with those toys though. I sleep like a baby in here. Home, sweet home.",
+  "official_neighbors": [
+   "You think you're safe with these guys around?",
+   "Ain't nobody dumb enough to come at me with just their fists. It's always knives, guns, some other bullshit.",
+   "Nishitani... Who's this third party that swiped Makoto?",
+   "Ahh, right. I'm sure you're curious, Majima-kun, and they ain't the sorta guys yer pal Sagawa could pin down in a million years."
+  ]
+ },
+ {
+  "order": 129,
+  "word": "我が家",
+  "reading": "わがや",
+  "meaning": "one's house; one's home; one's family",
+  "pos": "noun",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "ここはホンマに熟睡できる我が家やぁ。",
+  "parity": true,
+  "official_candidate": "Can't get behind bars with those toys though. I sleep like a baby in here. Home, sweet home.",
+  "official_neighbors": [
+   "You think you're safe with these guys around?",
+   "Ain't nobody dumb enough to come at me with just their fists. It's always knives, guns, some other bullshit.",
+   "Nishitani... Who's this third party that swiped Makoto?",
+   "Ahh, right. I'm sure you're curious, Majima-kun, and they ain't the sorta guys yer pal Sagawa could pin down in a million years."
+  ]
+ }
+]
