@@ -1,0 +1,4400 @@
+[
+ {
+  "order": 0,
+  "word": "申す",
+  "reading": "もうす",
+  "meaning": "to say; to be called",
+  "pos": "verb",
+  "speaker": "店長らしき男",
+  "uid": "00331304",
+  "sentence": "私、この店の店長の陽田と申します。",
+  "parity": true,
+  "official_candidate": "My name is Youda, and I'm the manager here. Come in now, and I can pair you with our number one girl! What do you say?",
+  "official_neighbors": [
+   "Hm?",
+   "(Sunshine, huh? Didn't know there was a spot like this tucked back in this part of town.)",
+   "You guys a cabaret?"
+  ]
+ },
+ {
+  "order": 1,
+  "word": "サンシャイン",
+  "reading": "サンシャイン",
+  "meaning": "sunshine",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "00331304",
+  "sentence": "サンシャイン、か……",
+  "parity": true,
+  "official_candidate": "(Sunshine, huh? Didn't know there was a spot like this tucked back in this part of town.)",
+  "official_neighbors": [
+   "Hm?",
+   "My name is Youda, and I'm the manager here. Come in now, and I can pair you with our number one girl! What do you say?",
+   "You guys a cabaret?",
+   "No, sir. We're a cabaret club."
+  ]
+ },
+ {
+  "order": 2,
+  "word": "ちょい",
+  "reading": "ちょい",
+  "meaning": "heirship",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "00331308",
+  "sentence": "いいや。もうちょい待ってくれ。",
+  "parity": true,
+  "official_candidate": "Sorry, no. Can you gimme just a minute?",
+  "official_neighbors": [
+   "Ah, Majima-san. I was thinking this might be a good time to run you through the basics of cabaret club management. Do you have a moment?",
+   "Of course. Whenever it's convenient for you, just let me know.",
+   "Yeah. Lay it on me."
+  ]
+ },
+ {
+  "order": 3,
+  "word": "地域",
+  "reading": "ちいき",
+  "meaning": "area; region; district; locality",
+  "pos": "noun",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "地域ナンバーワン店舗にすることが目的となります。",
+  "parity": true,
+  "official_candidate": "As Cabaret Club Czar, you need to operate your club, earn money and grow your clientele, and ultimately crush your competition. Your final goal: to establish Sunshine as the undisputed top club in Sotenbori!",
+  "official_neighbors": [
+   "Yeah. Lay it on me.",
+   "Right! Then let's get to it.",
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!"
+  ]
+ },
+ {
+  "order": 4,
+  "word": "話し掛ける",
+  "reading": "はなしかける",
+  "meaning": "to address (someone); to accost a person; to talk (to someone)",
+  "pos": "verb",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "店内の陽田に話しかけることで",
+  "parity": true,
+  "official_candidate": "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+  "official_neighbors": [
+   "Right! Then let's get to it.",
+   "As Cabaret Club Czar, you need to operate your club, earn money and grow your clientele, and ultimately crush your competition. Your final goal: to establish Sunshine as the undisputed top club in Sotenbori!",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!"
+  ]
+ },
+ {
+  "order": 5,
+  "word": "展開",
+  "reading": "てんかい",
+  "meaning": "development; evolution; progression; unfolding",
+  "pos": "verb",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "ライバル店との勝負やドラマが次々に展開されていきます。",
+  "parity": true,
+  "official_candidate": "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+  "official_neighbors": [
+   "As Cabaret Club Czar, you need to operate your club, earn money and grow your clientele, and ultimately crush your competition. Your final goal: to establish Sunshine as the undisputed top club in Sotenbori!",
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?"
+  ]
+ },
+ {
+  "order": 6,
+  "word": "習得",
+  "reading": "しゅうとく",
+  "meaning": "learning; acquisition (of a skill, knowledge, etc.)",
+  "pos": "verb",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "バトルで使える新しい技を習得できるようになり、",
+  "parity": true,
+  "official_candidate": "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+  "official_neighbors": [
+   "As Cabaret Club Czar, you need to operate your club, earn money and grow your clientele, and ultimately crush your competition. Your final goal: to establish Sunshine as the undisputed top club in Sotenbori!",
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?"
+  ]
+ },
+ {
+  "order": 7,
+  "word": "効率",
+  "reading": "こうりつ",
+  "meaning": "efficiency",
+  "pos": "noun",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "お金を効率的に稼げるようになります。",
+  "parity": true,
+  "official_candidate": "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+  "official_neighbors": [
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?",
+   "Nah, I got it, thanks."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "最強",
+  "reading": "さいきょう",
+  "meaning": "strongest",
+  "pos": "noun",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "最強の経営者、そして億万長者を目指しましょう！",
+  "parity": true,
+  "official_candidate": "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+  "official_neighbors": [
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?",
+   "Nah, I got it, thanks."
+  ]
+ },
+ {
+  "order": 9,
+  "word": "概要",
+  "reading": "がいよう",
+  "meaning": "outline; summary; overview; synopsis",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "00331308",
+  "sentence": "……とまぁ、概要はこんなところですかね。",
+  "parity": true,
+  "official_candidate": "...I'd say that about covers the basics, anyway. Need me to run back through that again?",
+  "official_neighbors": [
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+   "Nah, I got it, thanks.",
+   "Sure thing. In that case, the next step is... Hm, let's have you actually open the place up and do a round of prep."
+  ]
+ },
+ {
+  "order": 10,
+  "word": "フォロー",
+  "reading": "フォロー",
+  "meaning": "follow",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "00331308",
+  "sentence": "細かいフォローは入れさせていただきますんで！",
+  "parity": true,
+  "official_candidate": "This is the sort of thing where the quickest way to learn is to actually just do it. Let's give it a try! I'll chime in with advice as we go.",
+  "official_neighbors": [
+   "Nah, I got it, thanks.",
+   "Sure thing. In that case, the next step is... Hm, let's have you actually open the place up and do a round of prep.",
+   "Alright. Let's do this thing!"
+  ]
+ },
+ {
+  "order": 11,
+  "word": "手下",
+  "reading": "てした",
+  "meaning": "subordinate; underling; henchman; minion",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "アレも佐川の手下やな……",
+  "parity": true,
+  "official_candidate": "(Looks like more of Sagawa's clowns. Guess the bastards got everywhere I might wanna go on lockdown.)",
+  "official_neighbors": [
+   "Oof, another exhaustin' day. I'm ready for a nice massage to beat my busted-up body back into some kinda shape!",
+   "(Hopefully that'll keep 'em thinkin' I'm still inside a while. Long enough to find this door and get gone, anyway.)"
+  ]
+ },
+ {
+  "order": 12,
+  "word": "マッサージ",
+  "reading": "マッサージ",
+  "meaning": "massage",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "早いとこマッサージしてもろて、",
+  "parity": true,
+  "official_candidate": "Oof, another exhaustin' day. I'm ready for a nice massage to beat my busted-up body back into some kinda shape!",
+  "official_neighbors": [
+   "(Looks like more of Sagawa's clowns. Guess the bastards got everywhere I might wanna go on lockdown.)",
+   "(Hopefully that'll keep 'em thinkin' I'm still inside a while. Long enough to find this door and get gone, anyway.)"
+  ]
+ },
+ {
+  "order": 13,
+  "word": "ばきばき",
+  "reading": "バキバキ",
+  "meaning": "with a crack (e.g. branches, knuckles)",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "バキバキになった身体をほぐしてもらいたいわ～！",
+  "parity": true,
+  "official_candidate": "Oof, another exhaustin' day. I'm ready for a nice massage to beat my busted-up body back into some kinda shape!",
+  "official_neighbors": [
+   "(Looks like more of Sagawa's clowns. Guess the bastards got everywhere I might wanna go on lockdown.)",
+   "(Hopefully that'll keep 'em thinkin' I'm still inside a while. Long enough to find this door and get gone, anyway.)"
+  ]
+ },
+ {
+  "order": 14,
+  "word": "隠し戸",
+  "reading": "かくしど",
+  "meaning": "hidden door; secret door; trapdoor",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "その間に隠し戸を探さんと……！",
+  "parity": true,
+  "official_candidate": "(Hopefully that'll keep 'em thinkin' I'm still inside a while. Long enough to find this door and get gone, anyway.)",
+  "official_neighbors": [
+   "(Looks like more of Sagawa's clowns. Guess the bastards got everywhere I might wanna go on lockdown.)",
+   "Oof, another exhaustin' day. I'm ready for a nice massage to beat my busted-up body back into some kinda shape!",
+   "(Got no reason to be here right now...)"
+  ]
+ },
+ {
+  "order": 15,
+  "word": "躊躇う",
+  "reading": "ためらう",
+  "meaning": "to hesitate; to waver",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "ためらう必要はない。この日のために",
+  "parity": true,
+  "official_candidate": "(You got this... No reason to hesitate. I been playin' lap dog this whole time for a chance like this.)",
+  "official_neighbors": [
+   "(Hogushi Kaikan... Here it is. Makoto Makimura's in here. Whack him, and I'm back in the family.)",
+   "(I ain't goin' through that humiliation again. This time, I'm gonna do it!)",
+   "(Ready to bust in?)"
+  ]
+ },
+ {
+  "order": 16,
+  "word": "堪え忍ぶ",
+  "reading": "たえしのぶ",
+  "meaning": "to put up with; to endure; to bear patiently",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "今まで耐え忍んできたんやないか",
+  "parity": true,
+  "official_candidate": "(You got this... No reason to hesitate. I been playin' lap dog this whole time for a chance like this.)",
+  "official_neighbors": [
+   "(Hogushi Kaikan... Here it is. Makoto Makimura's in here. Whack him, and I'm back in the family.)",
+   "(I ain't goin' through that humiliation again. This time, I'm gonna do it!)",
+   "(Ready to bust in?)"
+  ]
+ },
+ {
+  "order": 17,
+  "word": "至当",
+  "reading": "しとう",
+  "meaning": "just; fair; proper; reasonable",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "あん時のような惨めな思いはもうしとうない。",
+  "parity": true,
+  "official_candidate": "(I ain't goin' through that humiliation again. This time, I'm gonna do it!)",
+  "official_neighbors": [
+   "(Hogushi Kaikan... Here it is. Makoto Makimura's in here. Whack him, and I'm back in the family.)",
+   "(You got this... No reason to hesitate. I been playin' lap dog this whole time for a chance like this.)",
+   "(Ready to bust in?)",
+   "(Shit, I'm gettin' jumpy. Stay calm. I screw this up, and it's all over. I get one shot... Gotta make sure I'm prepared.)"
+  ]
+ },
+ {
+  "order": 18,
+  "word": "突き込む",
+  "reading": "つきこむ",
+  "meaning": "to thrust (something) into (something); to cram; to stuff; to shove",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "（このまま突っ込むか？）",
+  "parity": true,
+  "official_candidate": "(Ready to bust in?)",
+  "official_neighbors": [
+   "(You got this... No reason to hesitate. I been playin' lap dog this whole time for a chance like this.)",
+   "(I ain't goin' through that humiliation again. This time, I'm gonna do it!)",
+   "(Shit, I'm gettin' jumpy. Stay calm. I screw this up, and it's all over. I get one shot... Gotta make sure I'm prepared.)",
+   "(Alright... Here we go!)"
+  ]
+ },
+ {
+  "order": 19,
+  "word": "雇い主",
+  "reading": "やといぬし",
+  "meaning": "employer",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "お前も俺も、俺の雇い主に消される。",
+  "parity": true,
+  "official_candidate": "Doesn't matter. Soon as the guy who hired me to do it finds out I'm keepin' you alive, he's gonna kill us both.",
+  "official_neighbors": [
+   "What?",
+   "But if I knew WHY everybody wants you dead, I might actually be able to do somethin' here."
+  ]
+ },
+ {
+  "order": 20,
+  "word": "方便",
+  "reading": "ほうべん",
+  "meaning": "means; expedient; instrument",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "嘘も方便っちゅうやつや！",
+  "parity": true,
+  "official_candidate": "Sometimes ya gotta tell a white lie!",
+  "official_neighbors": [
+   "He may not a' gotten plugged in any organs, but the guy's still shot up! What if he bleeds out and dies on me!?",
+   "But you just... You said he'd be all right!",
+   "Listen up. If you don't wanna die, DO NOT leave this room. For any reason!",
+   "A-All right!"
+  ]
+ },
+ {
+  "order": 21,
+  "word": "片方",
+  "reading": "かたほう",
+  "meaning": "one side; one party; the other side; the other party",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "俺は……　片っぽだけやが目が見えん。",
+  "parity": true,
+  "official_candidate": "I'm... It's just one eye, but I was blinded, too. And I got locked up, for a long time, in a place where any day coulda been my last.",
+  "official_neighbors": [
+   "It's hardly the same, but I went through some similar shit.",
+   "Huh?"
+  ]
+ },
+ {
+  "order": 22,
+  "word": "監禁",
+  "reading": "かんきん",
+  "meaning": "confinement; imprisonment; incarceration",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "俺も、長いこと監禁されとった……",
+  "parity": true,
+  "official_candidate": "I'm... It's just one eye, but I was blinded, too. And I got locked up, for a long time, in a place where any day coulda been my last.",
+  "official_neighbors": [
+   "It's hardly the same, but I went through some similar shit.",
+   "Huh?"
+  ]
+ },
+ {
+  "order": 23,
+  "word": "天国",
+  "reading": "てんごく",
+  "meaning": "paradise; heaven; Kingdom of Heaven",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "お前に比べたら天国みたいなもんやろけどな。",
+  "parity": true,
+  "official_candidate": "Was probably heaven compared to what you went through. I still got one good eye, too. Next to you, I'm a lucky guy.",
+  "official_neighbors": []
+ },
+ {
+  "order": 24,
+  "word": "片目",
+  "reading": "かため",
+  "meaning": "one eye; one of one's eyes",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "俺には片目残っとった。お前よりだいぶマシや。",
+  "parity": true,
+  "official_candidate": "Was probably heaven compared to what you went through. I still got one good eye, too. Next to you, I'm a lucky guy.",
+  "official_neighbors": []
+ },
+ {
+  "order": 25,
+  "word": "慰め",
+  "reading": "なぐさめ",
+  "meaning": "comfort; consolation; diversion",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "こんなん言うても、慰めにならんか。",
+  "parity": true,
+  "official_candidate": "Sorry, not doin' a very good job at cheerin' you up here.",
+  "official_neighbors": [
+   "Ahh... Look, sorry. I went and made ya feel worse."
+  ]
+ },
+ {
+  "order": 26,
+  "word": "却って",
+  "reading": "かえって",
+  "meaning": "on the contrary; rather; instead; all the more",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "かえって余計なこと言うたなぁ。",
+  "parity": true,
+  "official_candidate": "Ahh... Look, sorry. I went and made ya feel worse.",
+  "official_neighbors": [
+   "Sorry, not doin' a very good job at cheerin' you up here.",
+   "Ooh, I know! You hungry? Eh? Haven't eaten anything since last night, right?"
+  ]
+ },
+ {
+  "order": 27,
+  "word": "腹",
+  "reading": "はら",
+  "meaning": "abdomen; belly; stomach",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "……お、せや！　腹減ったんとちゃうか？　なあ？",
+  "parity": true,
+  "official_candidate": "Ooh, I know! You hungry? Eh? Haven't eaten anything since last night, right?",
+  "official_neighbors": [
+   "Ahh... Look, sorry. I went and made ya feel worse.",
+   "...I'm fine."
+  ]
+ },
+ {
+  "order": 29,
+  "word": "蛸焼き",
+  "reading": "たこやき",
+  "meaning": "takoyaki; octopus dumplings",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "……それなら、たこ焼き。",
+  "parity": true,
+  "official_candidate": "...Some takoyaki, then.",
+  "official_neighbors": [
+   "I'll have you a snack in no time. Anything special you want?",
+   "There, see? I knew you were hungry. You got it! Sit tight for just a minute, okay?"
+  ]
+ },
+ {
+  "order": 30,
+  "word": "物入れ",
+  "reading": "ものいれ",
+  "meaning": "place for storing things; container; compartment; closet",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "人間、腹に物入れんと力が出ん。",
+  "parity": true,
+  "official_candidate": "Heh, that's a good sign. People're machines and food's fuel. Gimme half a shake, I'll have a plate ready for ya.",
+  "official_neighbors": [
+   "Feel yourself calmin' down now?",
+   "Yeah. But... now I'm hungry."
+  ]
+ },
+ {
+  "order": 31,
+  "word": "食わす",
+  "reading": "くわす",
+  "meaning": "to feed (e.g. an animal on oats); to let eat; to serve (e.g. in a restaurant); to force to eat",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "……待っとけ。今食わしたるわ。",
+  "parity": true,
+  "official_candidate": "Heh, that's a good sign. People're machines and food's fuel. Gimme half a shake, I'll have a plate ready for ya.",
+  "official_neighbors": [
+   "Feel yourself calmin' down now?",
+   "Yeah. But... now I'm hungry."
+  ]
+ },
+ {
+  "order": 32,
+  "word": "潰れる",
+  "reading": "つぶれる",
+  "meaning": "to be crushed; to be squashed; to be smashed; to be destroyed",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "事故みたいなもんで、もう完全に潰れてもうた。",
+  "parity": true,
+  "official_candidate": "Oh, right. Yeah, in my case it was an injury. Almost more of an accident. Totally destroyed.",
+  "official_neighbors": [
+   "Mm?",
+   "Well... you said you lost vision in one of your eyes. I was curious how it happened.",
+   "That's terrible.",
+   "Nah, I still got one. And hey, it does the job."
+  ]
+ },
+ {
+  "order": 33,
+  "word": "心因",
+  "reading": "しんいん",
+  "meaning": "psychogenesis",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "私の目は、心因性だからいつか治るかもって。",
+  "parity": true,
+  "official_candidate": "But mine is caused by emotional trauma, so there's a chance I'll recover. That's what Lee-san said...",
+  "official_neighbors": [
+   "You daft? I'm a lot better off'n you, ain't I?",
+   "That true? ...So you still got hope then. That's great.",
+   "But yours is..."
+  ]
+ },
+ {
+  "order": 34,
+  "word": "台無し",
+  "reading": "だいなし",
+  "meaning": "spoiled; spoilt; ruined; wasted (chance, etc.)",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "せいぜい男前が台無しになっただけや。",
+  "parity": true,
+  "official_candidate": "I'm used to it now. Doesn't slow me down any. My only complaint's that it ruined such a handsome face.",
+  "official_neighbors": [
+   "That true? ...So you still got hope then. That's great.",
+   "But yours is...",
+   "So you're handsome?",
+   "I was with a matchin' pair of eyes, anyway. Cryin' shame I can't show ya."
+  ]
+ },
+ {
+  "order": 35,
+  "word": "揃う",
+  "reading": "そろう",
+  "meaning": "to be complete; to be all present; to make a full set; to be satisfied (of conditions)",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "目が揃っとったらな。",
+  "parity": true,
+  "official_candidate": "I was with a matchin' pair of eyes, anyway. Cryin' shame I can't show ya.",
+  "official_neighbors": [
+   "I'm used to it now. Doesn't slow me down any. My only complaint's that it ruined such a handsome face.",
+   "So you're handsome?",
+   "Haha... That IS a shame."
+  ]
+ },
+ {
+  "order": 36,
+  "word": "けったい",
+  "reading": "けったい",
+  "meaning": "arrhythmia; intermittent pulse",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "見えへんのに、けったいなやっちゃ。",
+  "parity": true,
+  "official_candidate": "Ain't that a little odd for a blind girl?",
+  "official_neighbors": [
+   "Hm? Wait, you wear a wrist watch?",
+   "Huh? Oh, yes.",
+   "I suppose... But it's cute, isn't it?",
+   "That's my whole point, how would ya even know? Yeesh..."
+  ]
+ },
+ {
+  "order": 37,
+  "word": "オルゴール",
+  "reading": "オルゴール",
+  "meaning": "music box; musical box",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "でもね、これオルゴールの曲が鳴るの。",
+  "parity": true,
+  "official_candidate": "I know it's strange. But this one plays a little music box chime. It sounds so cute, it always makes me smile.",
+  "official_neighbors": [
+   "I suppose... But it's cute, isn't it?",
+   "That's my whole point, how would ya even know? Yeesh...",
+   "Huh. What's it sound like?",
+   "...It doesn't play anymore. The watch is broken."
+  ]
+ },
+ {
+  "order": 38,
+  "word": "癒す",
+  "reading": "いやす",
+  "meaning": "to heal; to cure; to satisfy (e.g. hunger, thirst); to alleviate (e.g. sorrow, fatigue)",
+  "pos": "verb",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "それがまた可愛くって、癒されるんだ。",
+  "parity": true,
+  "official_candidate": "I know it's strange. But this one plays a little music box chime. It sounds so cute, it always makes me smile.",
+  "official_neighbors": [
+   "I suppose... But it's cute, isn't it?",
+   "That's my whole point, how would ya even know? Yeesh...",
+   "Huh. What's it sound like?",
+   "...It doesn't play anymore. The watch is broken."
+  ]
+ },
+ {
+  "order": 39,
+  "word": "証し",
+  "reading": "しるし",
+  "meaning": "mark; sign",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "でも私がまだ元気だった頃の証なの。",
+  "parity": true,
+  "official_candidate": "I know. I have no need for it now. But it's a memento of back when my life was still normal.",
+  "official_neighbors": [
+   "I lost my sight, lost all track of time, the watch broke, the chime stopped playing...",
+   "If I got rid of it, I feel like... I'd never...",
+   "Hey now."
+  ]
+ },
+ {
+  "order": 40,
+  "word": "こだわる",
+  "reading": "こだわる",
+  "meaning": "to be obsessive (about); to be overly concerned (with); to fuss (over); to worry too much (about)",
+  "pos": "verb",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "そんなものにこだわってるから、",
+  "parity": true,
+  "official_candidate": "You're right, it's silly. It's because I keep clinging on to stuff like this that I still can't face reality.",
+  "official_neighbors": [
+   "Hm? What's wrong?",
+   "Hey...",
+   "It's fine. Thank you. You're very kind. I appreciate that."
+  ]
+ },
+ {
+  "order": 41,
+  "word": "現実",
+  "reading": "げんじつ",
+  "meaning": "reality; actuality; hard fact",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "いつまで経っても私には現実が見えてないんだ。",
+  "parity": true,
+  "official_candidate": "You're right, it's silly. It's because I keep clinging on to stuff like this that I still can't face reality.",
+  "official_neighbors": [
+   "Hm? What's wrong?",
+   "Hey...",
+   "It's fine. Thank you. You're very kind. I appreciate that."
+  ]
+ },
+ {
+  "order": 42,
+  "word": "辛抱",
+  "reading": "しんぼう",
+  "meaning": "patience; endurance; perseverance",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "それまでもう少しの辛抱や。",
+  "parity": true,
+  "official_candidate": "I'll have him come straight here to get ya once he's done. Just sit tight till then, yeah?",
+  "official_neighbors": [
+   "Oh, and I got some news. Yer boy Lee says he's got somethin' he's gotta look into on his end.",
+   "Okay..."
+  ]
+ },
+ {
+  "order": 43,
+  "word": "聞き覚え",
+  "reading": "ききおぼえ",
+  "meaning": "learning by ear",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "……佐川って名前に聞き覚えあるか？",
+  "parity": true,
+  "official_candidate": "You ever heard the name Sagawa before? A yakuza with the Omi Alliance.",
+  "official_neighbors": []
+ },
+ {
+  "order": 44,
+  "word": "脅す",
+  "reading": "おどす",
+  "meaning": "to threaten; to menace; to frighten (into doing)",
+  "pos": "verb",
+  "speaker": "マコト",
+  "uid": "01331278",
+  "sentence": "あなたは……　その佐川って人に脅されてるの？",
+  "parity": true,
+  "official_candidate": "So is this Sagawa person blackmailing you into this?",
+  "official_neighbors": [
+   "Gotcha... Could be Sagawa's only doin' it because somebody else told him to.",
+   "Still, why's a girl like you got yakuza after her?",
+   "Close enough. But I ain't innocent here. Killing you was the price of him doin' me a favor. He was gonna get me back in the Tojo Clan.",
+   "Tojo Clan?"
+  ]
+ },
+ {
+  "order": 45,
+  "word": "褒美",
+  "reading": "ほうび",
+  "meaning": "reward; prize",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "けど、俺はお前を殺すことで褒美をもらえることに",
+  "parity": true,
+  "official_candidate": "Close enough. But I ain't innocent here. Killing you was the price of him doin' me a favor. He was gonna get me back in the Tojo Clan.",
+  "official_neighbors": [
+   "Still, why's a girl like you got yakuza after her?",
+   "So is this Sagawa person blackmailing you into this?",
+   "Tojo Clan?",
+   "Nothin' you need to worry about."
+  ]
+ },
+ {
+  "order": 46,
+  "word": "大陸",
+  "reading": "たいりく",
+  "meaning": "continent",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "大陸系の組織に雇われとった。",
+  "parity": true,
+  "official_candidate": "Did contract work for a mainland organization. My last job was about six months back.",
+  "official_neighbors": [
+   "...Used to be the same as you. A hitman.",
+   "What?",
+   "Six months... Wait, that's around when you said you took in the girl.",
+   "Good memory. Heh, but try thinkin' that one through."
+  ]
+ },
+ {
+  "order": 47,
+  "word": "道端",
+  "reading": "みちばた",
+  "meaning": "roadside; wayside",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "道端にでも落ちとるか？",
+  "parity": true,
+  "official_candidate": "The girl was organization property, locked away. How was I gonna get her? You think she was just lyin' on the side of the road?",
+  "official_neighbors": [
+   "Six months... Wait, that's around when you said you took in the girl.",
+   "Good memory. Heh, but try thinkin' that one through.",
+   "Six months back I took a job runnin' a raid on some Korean mafia. Turf war over the slave trade. They'd already killed a bunch of our men."
+  ]
+ },
+ {
+  "order": 48,
+  "word": "ごたつく",
+  "reading": "ごたつく",
+  "meaning": "to be confused; to be in disorder; to be chaotic; to be crowded",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "した……　女のシノギめぐってごたついとったんや。",
+  "parity": true,
+  "official_candidate": "Six months back I took a job runnin' a raid on some Korean mafia. Turf war over the slave trade. They'd already killed a bunch of our men.",
+  "official_neighbors": [
+   "The girl was organization property, locked away. How was I gonna get her? You think she was just lyin' on the side of the road?",
+   "There was two of 'em in that storehouse. After killin' them, I'm left with a room fulla half-naked girls in cages. Soon as I unlocked the doors, they all bolted..."
+  ]
+ },
+ {
+  "order": 49,
+  "word": "倉庫",
+  "reading": "そうこ",
+  "meaning": "storehouse; warehouse; godown",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "倉庫におったんは２人。そいつら始末してみると",
+  "parity": true,
+  "official_candidate": "There was two of 'em in that storehouse. After killin' them, I'm left with a room fulla half-naked girls in cages. Soon as I unlocked the doors, they all bolted...",
+  "official_neighbors": [
+   "Six months back I took a job runnin' a raid on some Korean mafia. Turf war over the slave trade. They'd already killed a bunch of our men.",
+   "All except one. One of 'em couldn't move an inch.",
+   "And that's..."
+  ]
+ },
+ {
+  "order": 50,
+  "word": "半裸",
+  "reading": "はんら",
+  "meaning": "half-nakedness",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "そこに半裸の女がぎょうさん監禁されとってな……",
+  "parity": true,
+  "official_candidate": "There was two of 'em in that storehouse. After killin' them, I'm left with a room fulla half-naked girls in cages. Soon as I unlocked the doors, they all bolted...",
+  "official_neighbors": [
+   "Six months back I took a job runnin' a raid on some Korean mafia. Turf war over the slave trade. They'd already killed a bunch of our men.",
+   "All except one. One of 'em couldn't move an inch.",
+   "And that's..."
+  ]
+ },
+ {
+  "order": 51,
+  "word": "途端",
+  "reading": "とたん",
+  "meaning": "just (now, at the moment, etc.); just as; in the act of; as soon as",
+  "pos": "adverb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "鍵あけた途端、みんな我先に逃げよった。",
+  "parity": true,
+  "official_candidate": "There was two of 'em in that storehouse. After killin' them, I'm left with a room fulla half-naked girls in cages. Soon as I unlocked the doors, they all bolted...",
+  "official_neighbors": [
+   "Six months back I took a job runnin' a raid on some Korean mafia. Turf war over the slave trade. They'd already killed a bunch of our men.",
+   "All except one. One of 'em couldn't move an inch.",
+   "And that's..."
+  ]
+ },
+ {
+  "order": 52,
+  "word": "身動き",
+  "reading": "みうごき",
+  "meaning": "movement (of one's body); moving about; stirring",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "ひとりだけ身動きできん娘がおった。",
+  "parity": true,
+  "official_candidate": "All except one. One of 'em couldn't move an inch.",
+  "official_neighbors": [
+   "There was two of 'em in that storehouse. After killin' them, I'm left with a room fulla half-naked girls in cages. Soon as I unlocked the doors, they all bolted...",
+   "And that's...",
+   "Yeah, that was Makoto. She starts reachin' out in the dark for my hand, totally blind..."
+  ]
+ },
+ {
+  "order": 53,
+  "word": "離す",
+  "reading": "はなす",
+  "meaning": "to separate; to part; to divide; to keep apart",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "ぎゅっと握って離さんかった。",
+  "parity": true,
+  "official_candidate": "Once she found it, she latched on and wouldn't let go. Just knelt there cryin' and saying \"thank you\" over and over.",
+  "official_neighbors": [
+   "Yeah, that was Makoto. She starts reachin' out in the dark for my hand, totally blind...",
+   "Her hand was so tiny, man... I couldn't bear to let go."
+  ]
+ },
+ {
+  "order": 54,
+  "word": "繰り返す",
+  "reading": "くりかえす",
+  "meaning": "to repeat; to do over again",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "泣きながら“ありがとう”繰り返して……",
+  "parity": true,
+  "official_candidate": "Once she found it, she latched on and wouldn't let go. Just knelt there cryin' and saying \"thank you\" over and over.",
+  "official_neighbors": [
+   "Yeah, that was Makoto. She starts reachin' out in the dark for my hand, totally blind...",
+   "Her hand was so tiny, man... I couldn't bear to let go."
+  ]
+ },
+ {
+  "order": 55,
+  "word": "親代わり",
+  "reading": "おやがわり",
+  "meaning": "acting as a foster parent; caring for another's child",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "あんたは……　それ以来の親がわりっちゅうわけか。",
+  "parity": true,
+  "official_candidate": "So you've been playin' big daddy to her ever since.",
+  "official_neighbors": [
+   "Her hand was so tiny, man... I couldn't bear to let go.",
+   "Yeah. See, way back in the day... I really was a father.",
+   "Yeah?"
+  ]
+ },
+ {
+  "order": 56,
+  "word": "作用",
+  "reading": "さよう",
+  "meaning": "action; operation; process; agency",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "小っさいときから病気がちでな。薬の副作用で",
+  "parity": true,
+  "official_candidate": "She was always real sick, even as a baby. The side effects of the drugs she needed were rough... By the end, she could barely see.",
+  "official_neighbors": [
+   "Yeah. See, way back in the day... I really was a father.",
+   "Yeah?",
+   "That grip on my hand... It was just like the one I remembered."
+  ]
+ },
+ {
+  "order": 57,
+  "word": "仕草",
+  "reading": "しぐさ",
+  "meaning": "gesture; movement; action; behavior",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "そのしぐさが……　あんときのマコトと",
+  "parity": true,
+  "official_candidate": "That grip on my hand... It was just like the one I remembered.",
+  "official_neighbors": [
+   "Yeah?",
+   "She was always real sick, even as a baby. The side effects of the drugs she needed were rough... By the end, she could barely see.",
+   "Majima... I ain't about to let a daughter die before my eyes again."
+  ]
+ },
+ {
+  "order": 58,
+  "word": "重なり合う",
+  "reading": "かさなりあう",
+  "meaning": "to lie on top of each other; to overlap; to pile up",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "重なり合うてもうたんや。",
+  "parity": true,
+  "official_candidate": "That grip on my hand... It was just like the one I remembered.",
+  "official_neighbors": [
+   "Yeah?",
+   "She was always real sick, even as a baby. The side effects of the drugs she needed were rough... By the end, she could barely see.",
+   "Majima... I ain't about to let a daughter die before my eyes again."
+  ]
+ },
+ {
+  "order": 59,
+  "word": "赤",
+  "reading": "あか",
+  "meaning": "red; crimson; scarlet",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "赤の他人なんぞいくらでもぶっ殺したる。",
+  "parity": true,
+  "official_candidate": "If it's to protect my girl, I'll kill any stranger you put in front of me.",
+  "official_neighbors": [
+   "Majima... I ain't about to let a daughter die before my eyes again.",
+   "I know it ain't right, but... I got no other options left!"
+  ]
+ },
+ {
+  "order": 60,
+  "word": "細工",
+  "reading": "さいく",
+  "meaning": "work; workmanship; craftsmanship; handiwork",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "極道ナメすぎや。……そない小細工すぐバレる。",
+  "parity": true,
+  "official_candidate": "You ain't givin' the yakuza near enough credit. He'll see through a trick like that in no time.",
+  "official_neighbors": [
+   "Tsk. Damn fool.",
+   "Huh?",
+   "Alright. So what other plan do we got here!? YOU got any bright ideas!?",
+   "We're done talkin' here. Count me outta this."
+  ]
+ },
+ {
+  "order": 62,
+  "word": "正当",
+  "reading": "せいとう",
+  "meaning": "just; justifiable; right; due",
+  "pos": "na-adjective",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "ずっと自分を正当化してきたんとちゃうか？",
+  "parity": true,
+  "official_candidate": "Sure, you got yer justifications, but I'll bet you came all this way without ever gettin' yer hands dirty, actin' like a damn choir boy.",
+  "official_neighbors": [
+   "Excuse me?",
+   "But you're yakuza, no better'n me. Once a man steps into the shadows like that, he's black as night till the day he dies.",
+   "In that case, sack up and meet hell halfway already!"
+  ]
+ },
+ {
+  "order": 63,
+  "word": "染まる",
+  "reading": "そまる",
+  "meaning": "to be dyed",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "一度“黒”に染まったモンは……",
+  "parity": true,
+  "official_candidate": "But you're yakuza, no better'n me. Once a man steps into the shadows like that, he's black as night till the day he dies.",
+  "official_neighbors": [
+   "Excuse me?",
+   "Sure, you got yer justifications, but I'll bet you came all this way without ever gettin' yer hands dirty, actin' like a damn choir boy.",
+   "In that case, sack up and meet hell halfway already!",
+   "You don't know a DAMN thing about me!"
+  ]
+ },
+ {
+  "order": 64,
+  "word": "地獄",
+  "reading": "じごく",
+  "meaning": "hell realm; Naraka",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "せやったら……　腹ぁ決めて地獄落ちたらんかい!!",
+  "parity": true,
+  "official_candidate": "In that case, sack up and meet hell halfway already!",
+  "official_neighbors": [
+   "Sure, you got yer justifications, but I'll bet you came all this way without ever gettin' yer hands dirty, actin' like a damn choir boy.",
+   "But you're yakuza, no better'n me. Once a man steps into the shadows like that, he's black as night till the day he dies.",
+   "You don't know a DAMN thing about me!",
+   "I'll ask just one more time... You're sure ya won't join me in handlin' this?"
+  ]
+ },
+ {
+  "order": 65,
+  "word": "一遍",
+  "reading": "いっぺん",
+  "meaning": "once; one time",
+  "pos": "adverb",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "……最後にもういっぺん聞いとく。",
+  "parity": true,
+  "official_candidate": "I'll ask just one more time... You're sure ya won't join me in handlin' this?",
+  "official_neighbors": [
+   "In that case, sack up and meet hell halfway already!",
+   "You don't know a DAMN thing about me!",
+   "No way in hell.",
+   "Alright. In that case... I'll show ya how we do things in the shadows."
+  ]
+ },
+ {
+  "order": 66,
+  "word": "流儀",
+  "reading": "りゅうぎ",
+  "meaning": "way (of doing things); method; style; fashion",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331278",
+  "sentence": "“黒”に染まったモンの流儀、教えたるわ……",
+  "parity": true,
+  "official_candidate": "Alright. In that case... I'll show ya how we do things in the shadows.",
+  "official_neighbors": [
+   "I'll ask just one more time... You're sure ya won't join me in handlin' this?",
+   "No way in hell.",
+   "Can't have anybody who knows about this little plan leavin' this room alive."
+  ]
+ },
+ {
+  "order": 67,
+  "word": "物置",
+  "reading": "ものおき",
+  "meaning": "storage room; storeroom; lumber room",
+  "pos": "noun",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "オデッセイでもほとんど使わん物置や。",
+  "parity": true,
+  "official_candidate": "Odyssey hardly uses that shed. If it can buy me a favor from you, I call that a bargain.",
+  "official_neighbors": [
+   "Yamagata. Sorry to drag ya out so early.",
+   "Still, askin' me to lend you space to keep a girl locked up? You're into some sick shit."
+  ]
+ },
+ {
+  "order": 68,
+  "word": "閉じ込める",
+  "reading": "とじこめる",
+  "meaning": "to lock up; to shut up; to imprison",
+  "pos": "verb",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "けど、女閉じ込めるために部屋貸せなんて、",
+  "parity": true,
+  "official_candidate": "Still, askin' me to lend you space to keep a girl locked up? You're into some sick shit.",
+  "official_neighbors": [
+   "Odyssey hardly uses that shed. If it can buy me a favor from you, I call that a bargain.",
+   "Don't breathe a word about her to anyone.",
+   "Heh, that takes balls. Is that really the sorta request you make to your biggest rival? What makes ya think I won't go spread this little secret around?"
+  ]
+ },
+ {
+  "order": 69,
+  "word": "大胆",
+  "reading": "だいたん",
+  "meaning": "bold; daring; audacious",
+  "pos": "na-adjective",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "フン、大胆な男やな……　そんなもん",
+  "parity": true,
+  "official_candidate": "Heh, that takes balls. Is that really the sorta request you make to your biggest rival? What makes ya think I won't go spread this little secret around?",
+  "official_neighbors": [
+   "Still, askin' me to lend you space to keep a girl locked up? You're into some sick shit.",
+   "Don't breathe a word about her to anyone.",
+   "If the wrong guys knew about this, I couldn't stick around. And a Sotenbori without me's a problem for you, too.",
+   "Oh?"
+  ]
+ },
+ {
+  "order": 70,
+  "word": "筋",
+  "reading": "すじ",
+  "meaning": "muscle; tendon; sinew",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "……このことがあるスジに知れたら、",
+  "parity": true,
+  "official_candidate": "If the wrong guys knew about this, I couldn't stick around. And a Sotenbori without me's a problem for you, too.",
+  "official_neighbors": [
+   "Don't breathe a word about her to anyone.",
+   "Heh, that takes balls. Is that really the sorta request you make to your biggest rival? What makes ya think I won't go spread this little secret around?",
+   "Oh?",
+   "Sotenbori is what it is because the Grand and Odyssey are lockin' horns. If it were just one or the other, you think half as many people'd visit this little dirt stain on a map?"
+  ]
+ },
+ {
+  "order": 71,
+  "word": "張り合う",
+  "reading": "はりあう",
+  "meaning": "to compete (with each other); to contend for; to vie for; to rival",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "グランドとオデッセイっちゅう店が張り合うて",
+  "parity": true,
+  "official_candidate": "Sotenbori is what it is because the Grand and Odyssey are lockin' horns. If it were just one or the other, you think half as many people'd visit this little dirt stain on a map?",
+  "official_neighbors": [
+   "If the wrong guys knew about this, I couldn't stick around. And a Sotenbori without me's a problem for you, too.",
+   "Oh?",
+   "Just like baseball. Nobody watches a series where one team steamrolls the rest. You think Odyssey has what it takes to keep a one-sided game interesting?"
+  ]
+ },
+ {
+  "order": 72,
+  "word": "リーグ",
+  "reading": "リーグ",
+  "meaning": "league",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "野球と一緒や。一強だけのリーグ戦で客は呼べん。",
+  "parity": true,
+  "official_candidate": "Just like baseball. Nobody watches a series where one team steamrolls the rest. You think Odyssey has what it takes to keep a one-sided game interesting?",
+  "official_neighbors": [
+   "Sotenbori is what it is because the Grand and Odyssey are lockin' horns. If it were just one or the other, you think half as many people'd visit this little dirt stain on a map?",
+   "Fair enough. So our \"lord of the night\" really can see the big picture.",
+   "Very well. I'll keep your private indulgences to myself for now. But a favor's a favor. Don't forget you owe me now."
+  ]
+ },
+ {
+  "order": 73,
+  "word": "盛り上がる",
+  "reading": "もりあがる",
+  "meaning": "to swell; to rise; to bulge; to be piled up",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "オデッセイだけで試合は盛り上がらんで？",
+  "parity": true,
+  "official_candidate": "Just like baseball. Nobody watches a series where one team steamrolls the rest. You think Odyssey has what it takes to keep a one-sided game interesting?",
+  "official_neighbors": [
+   "Sotenbori is what it is because the Grand and Odyssey are lockin' horns. If it were just one or the other, you think half as many people'd visit this little dirt stain on a map?",
+   "Fair enough. So our \"lord of the night\" really can see the big picture.",
+   "Very well. I'll keep your private indulgences to myself for now. But a favor's a favor. Don't forget you owe me now."
+  ]
+ },
+ {
+  "order": 74,
+  "word": "秘密",
+  "reading": "ひみつ",
+  "meaning": "secret; secrecy; confidentiality; privacy",
+  "pos": "na-adjective",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "わかった、あんたの秘密の趣味は",
+  "parity": true,
+  "official_candidate": "Very well. I'll keep your private indulgences to myself for now. But a favor's a favor. Don't forget you owe me now.",
+  "official_neighbors": [
+   "Just like baseball. Nobody watches a series where one team steamrolls the rest. You think Odyssey has what it takes to keep a one-sided game interesting?",
+   "Fair enough. So our \"lord of the night\" really can see the big picture.",
+   "Oh, and Majima-han?"
+  ]
+ },
+ {
+  "order": 75,
+  "word": "胸",
+  "reading": "むね",
+  "meaning": "chest; breast",
+  "pos": "noun",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "俺の胸にしまっとくわ。",
+  "parity": true,
+  "official_candidate": "Very well. I'll keep your private indulgences to myself for now. But a favor's a favor. Don't forget you owe me now.",
+  "official_neighbors": [
+   "Just like baseball. Nobody watches a series where one team steamrolls the rest. You think Odyssey has what it takes to keep a one-sided game interesting?",
+   "Fair enough. So our \"lord of the night\" really can see the big picture.",
+   "Oh, and Majima-han?"
+  ]
+ },
+ {
+  "order": 76,
+  "word": "会計",
+  "reading": "かいけい",
+  "meaning": "accounting; finance; account; reckoning",
+  "pos": "verb",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "せや。キャバレーのように時間制のお会計で、",
+  "parity": true,
+  "official_candidate": "Right. They charge by the hour like a cabaret, but offer the top-grade hospitality of a luxury club, hence the name.",
+  "official_neighbors": [
+   "You ever go to the cabaret clubs?",
+   "Cabaret clubs? Guess those are gettin' more common lately. They're a little different from full cabarets like the Grand or Odyssey, no?",
+   "Haven't been myself yet. Why?",
+   "Maybe you should, then. If folks found out Sotenbori's lord of the night ain't been to a cabaret club yet, they'd be laughin'."
+  ]
+ },
+ {
+  "order": 77,
+  "word": "苦しい",
+  "reading": "くるしい",
+  "meaning": "painful; difficult; tough; hard",
+  "pos": "i-adjective",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "台所苦しい言うても、そんくらいの金あるやろ？",
+  "parity": true,
+  "official_candidate": "Huh. If you're that big on 'em, why haven't you got into the cabaret club game yet? I know business ain't great over at Odyssey, but you gotta have that much lyin' around.",
+  "official_neighbors": [
+   "Oh? They that good?",
+   "They are. The dawn of the cabaret club is upon us, no doubt about it. Men and women both'll make the shift soon enough. Full cabarets got another few years, tops.",
+   "I already tried... Couldn't make it happen.",
+   "Whatchya mean?"
+  ]
+ },
+ {
+  "order": 78,
+  "word": "制する",
+  "reading": "せいする",
+  "meaning": "to hold back (e.g. emotions); to rein in (e.g. a horse, unruly people); to bridle",
+  "pos": "verb",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "“キャバクラを制す者、夜の街を制する……”",
+  "parity": true,
+  "official_candidate": "Whoever rules the cabaret clubs rules the night... I think you'll see why.",
+  "official_neighbors": [
+   "Whatchya mean?",
+   "Go and take a look for yourself sometime. You'll understand real quick.",
+   "......",
+   "I'm talkin' too much again. So long."
+  ]
+ },
+ {
+  "order": 79,
+  "word": "雀",
+  "reading": "すずめ",
+  "meaning": "tree sparrow (Passer montanus)",
+  "pos": "noun",
+  "speaker": "",
+  "uid": "0133127b",
+  "sentence": "……招福町西の「雀薔薇屋」やったか。",
+  "parity": true,
+  "official_candidate": "(Place was called Jambalaya, a mahjong parlor in Shofukucho West. The big guy with the bullet holes should be there.)",
+  "official_neighbors": [
+   "(Gotta track down that big guy. Lee. Wonder if he's still at Hogushi Kaikan...)",
+   "(Whoever that Lee guy is, he's a piece of work... Nothin' I can really do now but go check on the girl, I guess.)"
+  ]
+ },
+ {
+  "order": 80,
+  "word": "癖",
+  "reading": "くせ",
+  "meaning": "habit (usu. a bad one); tendency",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "……クセもんやったな、あの李とかいう男。",
+  "parity": true,
+  "official_candidate": "(Whoever that Lee guy is, he's a piece of work... Nothin' I can really do now but go check on the girl, I guess.)",
+  "official_neighbors": [
+   "(Place was called Jambalaya, a mahjong parlor in Shofukucho West. The big guy with the bullet holes should be there.)",
+   "(Oof... And I thought dealin' with professional women was rough.)"
+  ]
+ },
+ {
+  "order": 81,
+  "word": "食い物",
+  "reading": "くいもの",
+  "meaning": "food; foodstuff",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "ま、とりあえず食いもんやな。",
+  "parity": true,
+  "official_candidate": "(Well, let's get her some food for now. She said she wanted takoyaki...)",
+  "official_neighbors": [
+   "(Oof... And I thought dealin' with professional women was rough.)"
+  ]
+ },
+ {
+  "order": 82,
+  "word": "熱々",
+  "reading": "あつあつ",
+  "meaning": "piping hot; scalding",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "よっしゃ、アツアツのたこ焼きを買うたで。",
+  "parity": true,
+  "official_candidate": "(Okay, got the takoyaki, nice and hot. Let's get it back to her before it gets cold.)",
+  "official_neighbors": [
+   "(I got some on me, but I'd feel bad makin' her eat stuff that went cold a while ago. Least I can do is go get her a pack of hot, fresh takoyaki.)",
+   "(Hm, maybe I'll drop by a cabaret club like Yamagata-han suggested on my way to check in at the Grand.)",
+   "(I mighta seen one in the Hoganji Yokocho area, maybe? It's worth a check.)"
+  ]
+ },
+ {
+  "order": 83,
+  "word": "冷める",
+  "reading": "さめる",
+  "meaning": "to cool down; to get cold",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "ほな、冷めへんうちに急いで女んとこに戻らな",
+  "parity": true,
+  "official_candidate": "(Okay, got the takoyaki, nice and hot. Let's get it back to her before it gets cold.)",
+  "official_neighbors": [
+   "(I got some on me, but I'd feel bad makin' her eat stuff that went cold a while ago. Least I can do is go get her a pack of hot, fresh takoyaki.)",
+   "(Hm, maybe I'll drop by a cabaret club like Yamagata-han suggested on my way to check in at the Grand.)",
+   "(I mighta seen one in the Hoganji Yokocho area, maybe? It's worth a check.)"
+  ]
+ },
+ {
+  "order": 84,
+  "word": "横丁",
+  "reading": "よこちょう",
+  "meaning": "bystreet; side street; back street; alley",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "この近くやと……　法眼寺横丁の方にあるやろか。",
+  "parity": true,
+  "official_candidate": "(I mighta seen one in the Hoganji Yokocho area, maybe? It's worth a check.)",
+  "official_neighbors": [
+   "(Okay, got the takoyaki, nice and hot. Let's get it back to her before it gets cold.)",
+   "(Hm, maybe I'll drop by a cabaret club like Yamagata-han suggested on my way to check in at the Grand.)",
+   "Heh, Goro Majima... Things are about to get interesting."
+  ]
+ },
+ {
+  "order": 85,
+  "word": "油断",
+  "reading": "ゆだん",
+  "meaning": "negligence; carelessness; inattention; unpreparedness",
+  "pos": "verb",
+  "speaker": "ヤクザ",
+  "uid": "0133127b",
+  "sentence": "ナメとんのか？　……ゆうべは油断したけどな。",
+  "parity": true,
+  "official_candidate": "The fuck do you think you are? You got us by surprise last night. That ain't happenin' again, patches.",
+  "official_neighbors": [
+   "Smug bastard... You think this is funny? This amuse you?",
+   "Yeah, I'm really lookin' forward to figurin' out why this girl's in everyone's sights.",
+   "At this point, we're done fightin' fair. Time for you to see where screwin' with the yakuza gets ya!"
+  ]
+ },
+ {
+  "order": 86,
+  "word": "形振り",
+  "reading": "なりふり",
+  "meaning": "one's appearance; clothing; costume; dress",
+  "pos": "noun",
+  "speaker": "ヤクザ",
+  "uid": "0133127b",
+  "sentence": "もうワシらもなりふり構ってられんのや。",
+  "parity": true,
+  "official_candidate": "At this point, we're done fightin' fair. Time for you to see where screwin' with the yakuza gets ya!",
+  "official_neighbors": [
+   "The fuck do you think you are? You got us by surprise last night. That ain't happenin' again, patches."
+  ]
+ },
+ {
+  "order": 87,
+  "word": "ごつい",
+  "reading": "ごつい",
+  "meaning": "large and rough; big and tough; rugged (hands, features, etc.); hard",
+  "pos": "i-adjective",
+  "speaker": "ヤクザ",
+  "uid": "0133127b",
+  "sentence": "……ど、どんだけごついねん、なんなんや、お前!?",
+  "parity": true,
+  "official_candidate": "The... The hell's this guy made of? Who ARE you!?",
+  "official_neighbors": [
+   "Not so fast, buddy. I thought you had business with me?",
+   "Sh-Shit!"
+  ]
+ },
+ {
+  "order": 88,
+  "word": "トラブル",
+  "reading": "トラブル",
+  "meaning": "trouble; difficulty; problem; quarrel",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133127b",
+  "sentence": "なんかトラブルか？　らしくねえな。",
+  "parity": true,
+  "official_candidate": "Did you get mixed up in some kind of trouble? It's not like you to bust heads right on your own doorstep. Hmm?",
+  "official_neighbors": [
+   "It's nothin'. Forget it.",
+   "Then where are you going? Not work, apparently. ...Have you found Makoto Makimura yet?"
+  ]
+ },
+ {
+  "order": 89,
+  "word": "ほったらかす",
+  "reading": "ほったらかす",
+  "meaning": "to neglect; to leave undone; to lay aside",
+  "pos": "verb",
+  "speaker": "佐川",
+  "uid": "0133127b",
+  "sentence": "なら、店ほったらかしてどこ行く気だ？",
+  "parity": true,
+  "official_candidate": "Then where are you going? Not work, apparently. ...Have you found Makoto Makimura yet?",
+  "official_neighbors": [
+   "Did you get mixed up in some kind of trouble? It's not like you to bust heads right on your own doorstep. Hmm?",
+   "It's nothin'. Forget it.",
+   "Not yet.",
+   "Huh... And yet I hear you didn't go home last night. Here I figured that meant you'd tracked Makimura down."
+  ]
+ },
+ {
+  "order": 90,
+  "word": "塒",
+  "reading": "とぐろ",
+  "meaning": "coil",
+  "pos": "noun",
+  "speaker": "佐川",
+  "uid": "0133127b",
+  "sentence": "ねぐらに戻らなかったそうじゃねえか。",
+  "parity": true,
+  "official_candidate": "Huh... And yet I hear you didn't go home last night. Here I figured that meant you'd tracked Makimura down.",
+  "official_neighbors": [
+   "Then where are you going? Not work, apparently. ...Have you found Makoto Makimura yet?",
+   "Not yet.",
+   "I'm still lookin' right now. You just gave me the job. I still got time."
+  ]
+ },
+ {
+  "order": 91,
+  "word": "無駄話",
+  "reading": "むだばなし",
+  "meaning": "idle talk; chit-chat; gossip",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "無駄話しとるヒマないんで。",
+  "parity": true,
+  "official_candidate": "Then are we done here? I don't got time to waste on chit-chat.",
+  "official_neighbors": [
+   "I suppose you do. And once you find the target, killing 'em is the quick part. Still, sooner's better than later.",
+   "This isn't just chit-chat, tiger. You know what they say about \"ABC,\" don't ya?",
+   "Huh?"
+  ]
+ },
+ {
+  "order": 92,
+  "word": "電柱",
+  "reading": "でんちゅう",
+  "meaning": "utility pole; power pole; telephone pole; telegraph pole",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "電柱にでもしとくわ。",
+  "parity": true,
+  "official_candidate": "I'd sooner ask a telephone pole than come to you with my problems.",
+  "official_neighbors": [
+   "Alright... Oh look, we made contact. That's all I got.",
+   "No snags you want advice on?",
+   "Uh-huh..."
+  ]
+ },
+ {
+  "order": 93,
+  "word": "見取る",
+  "reading": "みとる",
+  "meaning": "to perceive; to understand",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "どっからか李が俺を見とるはずや",
+  "parity": true,
+  "official_candidate": "(Right, I was headed back home. Lee's gotta be watchin' from somewhere or other.)",
+  "official_neighbors": []
+ },
+ {
+  "order": 94,
+  "word": "どや",
+  "reading": "どや",
+  "meaning": "cheap lodging (especially in a skid row area or slum); flophouse",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "あれから怪我の具合はどや？",
+  "parity": true,
+  "official_candidate": "How you holdin' up, ya bear?",
+  "official_neighbors": [
+   "...Yeah.",
+   "Hmph. You know the trick to forgettin' your pain?",
+   "Huh?"
+  ]
+ },
+ {
+  "order": 95,
+  "word": "我武者羅",
+  "reading": "がむしゃら",
+  "meaning": "reckless; daredevil; frantic; foolhardy",
+  "pos": "na-adjective",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "がむしゃらにやらなあかん仕事やることや。",
+  "parity": true,
+  "official_candidate": "Havin' yer balls to the wall. We don't shake these yakuza now, they'll chase us to the grave. Ain't got time to be feelin' pain till this job's done.",
+  "official_neighbors": [
+   "Hmph. You know the trick to forgettin' your pain?",
+   "Huh?",
+   "Yeah, fair enough.",
+   "Forget me. The hell's up with this place?"
+  ]
+ },
+ {
+  "order": 96,
+  "word": "感じ取る",
+  "reading": "かんじとる",
+  "meaning": "to perceive; to sense; to take in; to grasp",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "追われるんやで。痛み感じとるヒマないわ。",
+  "parity": true,
+  "official_candidate": "Havin' yer balls to the wall. We don't shake these yakuza now, they'll chase us to the grave. Ain't got time to be feelin' pain till this job's done.",
+  "official_neighbors": [
+   "Hmph. You know the trick to forgettin' your pain?",
+   "Huh?",
+   "Yeah, fair enough.",
+   "Forget me. The hell's up with this place?"
+  ]
+ },
+ {
+  "order": 97,
+  "word": "箇所",
+  "reading": "かしょ",
+  "meaning": "place; point; part; spot",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "少なくとも４か所から。",
+  "parity": true,
+  "official_candidate": "This apartment's bein' watched from all over. Got at least four sets of eyes on it.",
+  "official_neighbors": [
+   "Forget me. The hell's up with this place?",
+   "Huh? How do ya mean?",
+   "I'm impressed you noticed.",
+   "Do they know you're hidin' Makoto?"
+  ]
+ },
+ {
+  "order": 98,
+  "word": "監視",
+  "reading": "かんし",
+  "meaning": "monitoring; watching; observation; surveillance",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "いや。ずっと前から監視されとるんや、ここは。",
+  "parity": true,
+  "official_candidate": "Nah. This place's been under watch for a long-ass time. My client's the guy behind the eyes.",
+  "official_neighbors": [
+   "I'm impressed you noticed.",
+   "Do they know you're hidin' Makoto?",
+   "And there's more around your club, too.",
+   "Oh, I know. And you can add more on every road leadin' out of Sotenbori to that list. I ain't allowed outta the city."
+  ]
+ },
+ {
+  "order": 99,
+  "word": "全体",
+  "reading": "ぜんたい",
+  "meaning": "whole; entirety",
+  "pos": "adverb",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "この街全体が、お前の檻っちゅうことか？",
+  "parity": true,
+  "official_candidate": "So what, this town's your prison cell?",
+  "official_neighbors": [
+   "Oh, I know. And you can add more on every road leadin' out of Sotenbori to that list. I ain't allowed outta the city.",
+   "That's why they're all watchin'. Keep me from skipping town.",
+   "You got it."
+  ]
+ },
+ {
+  "order": 101,
+  "word": "落ち合う",
+  "reading": "おちあう",
+  "meaning": "to meet up (as arranged); to rendezvous; to get together",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "場所変えよ。マコトのおるとこで落ち合うで。",
+  "parity": true,
+  "official_candidate": "But that means we can't just stand here chattin'. Let's take this someplace safer. Meet you where Makoto's hidin'.",
+  "official_neighbors": [
+   "Even now, just 'cause they got me on a leash in Osaka don't mean they won't kill me if I give 'em reason.",
+   "That's rough... Heh, we all got our baggage, I guess.",
+   "Here, I'll show you a route where nobody can follow you.",
+   "Yeah, how's that work?"
+  ]
+ },
+ {
+  "order": 102,
+  "word": "ルート",
+  "reading": "ルート",
+  "meaning": "route; path",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "ええルートを教えたる。",
+  "parity": true,
+  "official_candidate": "Here, I'll show you a route where nobody can follow you.",
+  "official_neighbors": [
+   "That's rough... Heh, we all got our baggage, I guess.",
+   "But that means we can't just stand here chattin'. Let's take this someplace safer. Meet you where Makoto's hidin'.",
+   "Yeah, how's that work?",
+   "See, I got a secret door in the back of the patient room at the clinic. Keep it hidden behind a bookshelf. That'll get you through to the building next door."
+  ]
+ },
+ {
+  "order": 103,
+  "word": "診察",
+  "reading": "しんさつ",
+  "meaning": "medical examination; checkup; consultation",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "ああ……　ほぐし快館の診察室の奥に、隠し戸が",
+  "parity": true,
+  "official_candidate": "See, I got a secret door in the back of the patient room at the clinic. Keep it hidden behind a bookshelf. That'll get you through to the building next door.",
+  "official_neighbors": [
+   "Here, I'll show you a route where nobody can follow you.",
+   "Yeah, how's that work?",
+   "Even if you're bein' tailed, that passage should be enough to throw most anybody off.",
+   "How come a massage clinic's got a secret escape route?"
+  ]
+ },
+ {
+  "order": 104,
+  "word": "尾行",
+  "reading": "びこう",
+  "meaning": "shadow; tail; following",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "もし尾行されたとしても、その隠し戸使えば",
+  "parity": true,
+  "official_candidate": "Even if you're bein' tailed, that passage should be enough to throw most anybody off.",
+  "official_neighbors": [
+   "Yeah, how's that work?",
+   "See, I got a secret door in the back of the patient room at the clinic. Keep it hidden behind a bookshelf. That'll get you through to the building next door.",
+   "How come a massage clinic's got a secret escape route?",
+   "Thought I just told you... We all got our baggage."
+  ]
+ },
+ {
+  "order": 105,
+  "word": "仕込む",
+  "reading": "しこむ",
+  "meaning": "to train; to teach; to educate",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127b",
+  "sentence": "なんで店に隠し戸なんて仕込んどるんや？",
+  "parity": true,
+  "official_candidate": "How come a massage clinic's got a secret escape route?",
+  "official_neighbors": [
+   "See, I got a secret door in the back of the patient room at the clinic. Keep it hidden behind a bookshelf. That'll get you through to the building next door.",
+   "Even if you're bein' tailed, that passage should be enough to throw most anybody off.",
+   "Thought I just told you... We all got our baggage.",
+   "Hmph."
+  ]
+ },
+ {
+  "order": 106,
+  "word": "割れ",
+  "reading": "われ",
+  "meaning": "broken piece",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "割れとる。どっから見られとるかわからんで。",
+  "parity": true,
+  "official_candidate": "You got into it outside the Grand before, didn't ya? The boys who came for Makoto last night know your face. No tellin' where they could be watchin' from.",
+  "official_neighbors": [
+   "Hmph.",
+   "Just be careful when you're goin' to where Makoto's at.",
+   "Right. So I'll use yer little backdoor at Hogushi Kaikan. Happy?",
+   "Thrilled. Once you're through that, head straight for Makoto. I'll meet ya there. Got it?"
+  ]
+ },
+ {
+  "order": 107,
+  "word": "合流",
+  "reading": "ごうりゅう",
+  "meaning": "confluence (of rivers); flowing together; joining",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "0133127b",
+  "sentence": "マコトんとこ行け。そこでワシと合流や。ええな？",
+  "parity": true,
+  "official_candidate": "Thrilled. Once you're through that, head straight for Makoto. I'll meet ya there. Got it?",
+  "official_neighbors": [
+   "You got into it outside the Grand before, didn't ya? The boys who came for Makoto last night know your face. No tellin' where they could be watchin' from.",
+   "Right. So I'll use yer little backdoor at Hogushi Kaikan. Happy?",
+   "I got it... Go on already."
+  ]
+ },
+ {
+  "order": 108,
+  "word": "通ずる",
+  "reading": "つうずる",
+  "meaning": "to be open (to traffic); to lead (to); to connect (to); to run (from, between; e.g. bus service)",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "0133127e",
+  "sentence": "~（隣のビルに通じとるっちゅうことやったが……",
+  "parity": false,
+  "official_candidate": "\u00013\u0012~(It's s'posed to connect to the building next door... Guess I'll see for myself.)",
+  "official_neighbors": [
+   "(Here it is! Sonuvabitch really had a secret passage.)",
+   "(He said there was a bookshelf blockin' the door...)",
+   "(He's gone... Where the hell'd he disappear to all full of holes?)",
+   "Who are you? Why're ya here?",
+   "A-Aaagh!"
+  ]
+ },
+ {
+  "order": 109,
+  "word": "塞がる",
+  "reading": "ふさがる",
+  "meaning": "to be closed; to be blocked; to be healed (e.g. wound); to be shut up",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127e",
+  "sentence": "確か、隠し戸は棚に塞がれとるとか",
+  "parity": true,
+  "official_candidate": "(He said there was a bookshelf blockin' the door...)",
+  "official_neighbors": [
+   "(Here it is! Sonuvabitch really had a secret passage.)"
+  ]
+ },
+ {
+  "order": 110,
+  "word": "着替える",
+  "reading": "きがえる",
+  "meaning": "to change (one's clothes)",
+  "pos": "verb",
+  "speaker": "小男",
+  "uid": "0133127e",
+  "sentence": "私、関係ない！　李さんの着替え取りに来ただけ！",
+  "parity": true,
+  "official_candidate": "I not involved! Just come to get clothes for Lee-san!",
+  "official_neighbors": [
+   "A-Aaagh!",
+   "Can't understand if ya don't use your words.",
+   "Clothes for Lee? So you know where the guy runnin' this place is at now?"
+  ]
+ },
+ {
+  "order": 111,
+  "word": "着替え",
+  "reading": "きがえ",
+  "meaning": "changing clothes; change of clothes",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127e",
+  "sentence": "李の着替え？",
+  "parity": true,
+  "official_candidate": "Clothes for Lee? So you know where the guy runnin' this place is at now?",
+  "official_neighbors": [
+   "Can't understand if ya don't use your words.",
+   "I not involved! Just come to get clothes for Lee-san!",
+   "Where is he? Is he alright!?"
+  ]
+ },
+ {
+  "order": 112,
+  "word": "患者",
+  "reading": "かんじゃ",
+  "meaning": "patient",
+  "pos": "noun",
+  "speaker": "中国人の医者",
+  "uid": "0133127e",
+  "sentence": "私、いつもそこで患者診てる。",
+  "parity": true,
+  "official_candidate": "My hospital in Mahjong Jambalaya, Shofukucho West. That is where I see all my patients.",
+  "official_neighbors": [
+   "Quick, before I make this hurt.",
+   "A-All right...",
+   "It's a mahjong parlor? So it's an underground thing..."
+  ]
+ },
+ {
+  "order": 113,
+  "word": "寝取る",
+  "reading": "ねとる",
+  "meaning": "to steal another's spouse; to steal another's lover",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133127e",
+  "sentence": "しばらく寝とれ。",
+  "parity": true,
+  "official_candidate": "Take a power nap.",
+  "official_neighbors": []
+ },
+ {
+  "order": 114,
+  "word": "言い切る",
+  "reading": "いいきる",
+  "meaning": "to declare; to assert; to state definitively",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331282",
+  "sentence": "なんでそないに言い切れる？",
+  "parity": true,
+  "official_candidate": "And how can you be sure of that?",
+  "official_neighbors": [
+   "I ain't here to mess with your turf. I really just want to know why the girl's a target.",
+   "If you were thinkin' the reason they're after her has anything to do with the guy with the bat tattoo, I'm tellin' ya you're wrong.",
+   "Makoto didn't tell you anything?",
+   "She said you knew. Told me to come ask you."
+  ]
+ },
+ {
+  "order": 115,
+  "word": "身寄り",
+  "reading": "みより",
+  "meaning": "relative; relation",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "身寄りも行くアテもない、",
+  "parity": true,
+  "official_candidate": "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+  "official_neighbors": [
+   "Her eyes... She's only blind because of the man with the bat tattoo.",
+   "What?",
+   "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+   "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd."
+  ]
+ },
+ {
+  "order": 116,
+  "word": "住み込み",
+  "reading": "すみこみ",
+  "meaning": "live-in (e.g. job)",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "住み込みのホステスやったり",
+  "parity": true,
+  "official_candidate": "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+  "official_neighbors": [
+   "What?",
+   "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+   "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd.",
+   "Prey, huh?"
+  ]
+ },
+ {
+  "order": 117,
+  "word": "売り飛ばす",
+  "reading": "うりとばす",
+  "meaning": "to sell off; to dispose of",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "売り飛ばしたんや。……ある韓国系の組織にな。",
+  "parity": true,
+  "official_candidate": "Money. It's always money, ain't it? That guy with the bat tattoo sold her off for cash. It was Korean mafia that bought her.",
+  "official_neighbors": [
+   "...Kept her locked up in a cage so she couldn't get away.",
+   "What the hell was he after?",
+   "After that, you can imagine the sorta thing she faced every day, morning till night... I won't get specific.",
+   "But that's why she can't see now. Post-traumatic psychogenic blindness was the official diagnosis..."
+  ]
+ },
+ {
+  "order": 118,
+  "word": "極限",
+  "reading": "きょくげん",
+  "meaning": "utmost limits; extremity",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "それが原因や。極限状態のストレスからくる、",
+  "parity": true,
+  "official_candidate": "But that's why she can't see now. Post-traumatic psychogenic blindness was the official diagnosis...",
+  "official_neighbors": [
+   "Money. It's always money, ain't it? That guy with the bat tattoo sold her off for cash. It was Korean mafia that bought her.",
+   "After that, you can imagine the sorta thing she faced every day, morning till night... I won't get specific.",
+   "And from that gloomy cage they kept her in, the last thing she ever saw was the tattoo of a bat on the arm of the scumbag that sold her."
+  ]
+ },
+ {
+  "order": 119,
+  "word": "暗がり",
+  "reading": "くらがり",
+  "meaning": "darkness",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "日も差さんような暗がりで……",
+  "parity": true,
+  "official_candidate": "And from that gloomy cage they kept her in, the last thing she ever saw was the tattoo of a bat on the arm of the scumbag that sold her.",
+  "official_neighbors": [
+   "But that's why she can't see now. Post-traumatic psychogenic blindness was the official diagnosis...",
+   "Well that story's a real kick in the dick."
+  ]
+ },
+ {
+  "order": 120,
+  "word": "陸でなし",
+  "reading": "ろくでなし",
+  "meaning": "bum; good-for-nothing; ne'er-do-well",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "そのろくでなしの腕にある“蝙蝠の刺青”や。",
+  "parity": true,
+  "official_candidate": "And from that gloomy cage they kept her in, the last thing she ever saw was the tattoo of a bat on the arm of the scumbag that sold her.",
+  "official_neighbors": [
+   "But that's why she can't see now. Post-traumatic psychogenic blindness was the official diagnosis...",
+   "Well that story's a real kick in the dick."
+  ]
+ },
+ {
+  "order": 121,
+  "word": "復讐",
+  "reading": "ふくしゅう",
+  "meaning": "revenge",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331282",
+  "sentence": "……あんたらはその復讐のために",
+  "parity": true,
+  "official_candidate": "And you been searching for this guy with the bat tattoo to get revenge for her?",
+  "official_neighbors": [
+   "Well that story's a real kick in the dick.",
+   "It was about six months ago I took Makoto in.",
+   "Makoto says she just wants to stop the same thing from happenin' to anybody else.",
+   "Me, though... I want to snap the fucker's neck in half. Peel the goddamn bat right off his arm."
+  ]
+ },
+ {
+  "order": 122,
+  "word": "捜し回る",
+  "reading": "さがしまわる",
+  "meaning": "to search about for; to hunt around for; to look high and low for; to look everywhere for",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331282",
+  "sentence": "蝙蝠の刺青を探しまわっとるちゅうわけか。",
+  "parity": true,
+  "official_candidate": "And you been searching for this guy with the bat tattoo to get revenge for her?",
+  "official_neighbors": [
+   "Well that story's a real kick in the dick.",
+   "It was about six months ago I took Makoto in.",
+   "Makoto says she just wants to stop the same thing from happenin' to anybody else.",
+   "Me, though... I want to snap the fucker's neck in half. Peel the goddamn bat right off his arm."
+  ]
+ },
+ {
+  "order": 123,
+  "word": "小物",
+  "reading": "こもの",
+  "meaning": "accessories; small articles",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "女さらう程度の小物や。",
+  "parity": true,
+  "official_candidate": "But there's yer answer, right? The bat piece'a shit is small time, goes around town picking off innocent girls where he finds 'em, probably all by himself.",
+  "official_neighbors": [
+   "Me, though... I want to snap the fucker's neck in half. Peel the goddamn bat right off his arm.",
+   "Can't imagine a man like that's behind what's happenin' to Makoto now. The yakuza hire street punks to do their dirty work, not the other way round.",
+   "Then what? You got any other ideas?"
+  ]
+ },
+ {
+  "order": 124,
+  "word": "劇薬",
+  "reading": "げきやく",
+  "meaning": "powerful medicine; strong poison",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "せやけどそれは……　劇薬じみた手や。",
+  "parity": true,
+  "official_candidate": "I'll warn you now, though... it ain't pretty. Keepin' what really matters safe means givin' up something equal in exchange.",
+  "official_neighbors": [
+   "There's just one way you, me, and the girl all get away clean from the yakuza.",
+   "You and I would need to work together.",
+   "You need me?"
+  ]
+ },
+ {
+  "order": 126,
+  "word": "目途",
+  "reading": "めど",
+  "meaning": "aim; goal",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "目途がついたら教える。それまでは秘密や。",
+  "parity": true,
+  "official_candidate": "I'll tell you once I got it worked out. Till then, it stays secret. How do I get in touch with you once I'm ready?",
+  "official_neighbors": [
+   "I got somethin' I need to get done in a hurry now.",
+   "Just what are you plannin' to do?",
+   "Cabaret Grand. I'm there from evening on. I run the place.",
+   "You serious? You're the guy in charge of the Grand?"
+  ]
+ },
+ {
+  "order": 127,
+  "word": "折角",
+  "reading": "せっかく",
+  "meaning": "with trouble; at great pains",
+  "pos": "adverb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "せっかくこないなとこまで来たんや。",
+  "parity": true,
+  "official_candidate": "You're in, right? Why else would anyone show up at a mahjong parlor?",
+  "official_neighbors": [
+   "Gah! You're killing me, Lee-san!",
+   "You just suck, buddy. Why don't ya give the newcomer there a turn?",
+   "See, I always wanted to play a round of mahjong with a hitman."
+  ]
+ },
+ {
+  "order": 128,
+  "word": "人種",
+  "reading": "じんしゅ",
+  "meaning": "race (of people)",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "殺し屋っちゅう人種と、麻雀打ってみたかったんや。",
+  "parity": true,
+  "official_candidate": "See, I always wanted to play a round of mahjong with a hitman.",
+  "official_neighbors": [
+   "You just suck, buddy. Why don't ya give the newcomer there a turn?",
+   "You're in, right? Why else would anyone show up at a mahjong parlor?"
+  ]
+ },
+ {
+  "order": 129,
+  "word": "踏ん張る",
+  "reading": "ふんばる",
+  "meaning": "to brace one's legs; to stand firm; to plant one's feet (firmly on the ground)",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "一線越えんで踏ん張っとるちゅうとこや。",
+  "parity": true,
+  "official_candidate": "You've never killed before, have ya? I can tell just lookin' at ya. You got the look of somebody strugglin' to cross that line.",
+  "official_neighbors": [
+   "You not gonna ask what happened to the girl?",
+   "If Makoto was dead, you got no reason to come lookin' for me. She's alive, right?",
+   "So riddle me this. What's a guy who can't kill doin' taking hit jobs?",
+   "You don't know shit about me."
+  ]
+ },
+ {
+  "order": 130,
+  "word": "ロン",
+  "reading": "ロン",
+  "meaning": "winning by picking up a discarded tile",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "それ、ロンや。……悪いな。",
+  "parity": true,
+  "official_candidate": "That's ron. Sorry, pal.",
+  "official_neighbors": [
+   "Chill out. Green kid like you can play tough all he wants, you ain't scarin' anybody. I can tell plenty about you. ...Everything, really.",
+   "Makoto ain't hurt, is she?"
+  ]
+ },
+ {
+  "order": 131,
+  "word": "穴",
+  "reading": "あな",
+  "meaning": "hole; opening; orifice; perforation",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331282",
+  "sentence": "……あんたの身体に銃で穴開けたヤクザどもや。",
+  "parity": true,
+  "official_candidate": "I'm not the only guy after her. Take the yakuza who put air holes in that body of yours, for instance.",
+  "official_neighbors": [
+   "Just so we're clear, I... I still ain't decided not to kill her.",
+   "What about 'em?",
+   "Why do they want her?"
+  ]
+ },
+ {
+  "order": 132,
+  "word": "確信",
+  "reading": "かくしん",
+  "meaning": "conviction; belief; confidence",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0133128b",
+  "sentence": "監視がついていないと確信できるまでは",
+  "parity": true,
+  "official_candidate": "(They find out I'm hidin' the girl and I'm screwed. I can't risk gettin' close till I'm damn sure nobody's followin' me.)",
+  "official_neighbors": [
+   "(Good, nobody's lookin'. If I'm goin' in, now's the time!)",
+   "(Screw it, I'll try that secret door in Hogushi Kaikan.)"
+  ]
+ },
+ {
+  "order": 133,
+  "word": "気の毒",
+  "reading": "きのどく",
+  "meaning": "pitiful; unfortunate; poor; miserable",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "0133128b",
+  "sentence": "こない冷めたの食わせたら気の毒や。",
+  "parity": true,
+  "official_candidate": "(I got some takoyaki on me, but I ain't about to make her eat my cold leftovers. I'll buy her some hot an' fresh.)",
+  "official_neighbors": [
+   "(I gotta get some takoyaki for the girl. They gotta be sellin' em around here someplace.)",
+   "(Alright, I got some smokin' hot takoyaki. Hopefully it'll help calm her down a little.)"
+  ]
+ },
+ {
+  "order": 135,
+  "word": "ホール",
+  "reading": "ホール",
+  "meaning": "hall (dance, concert, etc.)",
+  "pos": "noun",
+  "speaker": "ボーイ",
+  "uid": "01331293",
+  "sentence": "ホールのお客様が支配人とお話したい",
+  "parity": true,
+  "official_candidate": "A guest in the main hall has asked to speak with you, sir. It's just...",
+  "official_neighbors": [
+   "Sir... I'm sorry to interrupt, but do you have a moment?",
+   "Hm?",
+   "What's he look like?",
+   "Not Japanese, I don't think. I would guess Chinese. Rather short, and... There's no word for it but ragged."
+  ]
+ },
+ {
+  "order": 136,
+  "word": "草臥れる",
+  "reading": "くたびれる",
+  "meaning": "to get tired; to become exhausted; to grow weary",
+  "pos": "verb",
+  "speaker": "ボーイ",
+  "uid": "01331293",
+  "sentence": "背が低くて……　少しくたびれた感じの。",
+  "parity": true,
+  "official_candidate": "Not Japanese, I don't think. I would guess Chinese. Rather short, and... There's no word for it but ragged.",
+  "official_neighbors": [
+   "A guest in the main hall has asked to speak with you, sir. It's just...",
+   "What's he look like?",
+   "(Short and ragged? Can't be Lee, then. Who in the hell is it, then?)",
+   "What shall I tell him, sir?"
+  ]
+ },
+ {
+  "order": 137,
+  "word": "酔っ払う",
+  "reading": "よっぱらう",
+  "meaning": "to get drunk",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331293",
+  "sentence": "おい、酔っぱらう前に用件言えや。",
+  "parity": true,
+  "official_candidate": "Whoa, how about you state yer business before gettin' completely wasted?",
+  "official_neighbors": [
+   "Ah! That right! I came with message from Lee-san. Lee-san not like to show his face around places like this, so I come instead.",
+   "A message?"
+  ]
+ },
+ {
+  "order": 138,
+  "word": "使い",
+  "reading": "つかい",
+  "meaning": "errand; mission; going on an errand",
+  "pos": "noun",
+  "speaker": "中国人の闇医者",
+  "uid": "01331293",
+  "sentence": "ああ！　そうそう！　私、李さんのお使いで来たよ。",
+  "parity": true,
+  "official_candidate": "Ah! That right! I came with message from Lee-san. Lee-san not like to show his face around places like this, so I come instead.",
+  "official_neighbors": [
+   "Whoa, how about you state yer business before gettin' completely wasted?",
+   "A message?",
+   "Don't worry! I not drunk yet!"
+  ]
+ },
+ {
+  "order": 139,
+  "word": "伝言",
+  "reading": "でんごん",
+  "meaning": "(verbal) message; word (from someone)",
+  "pos": "verb",
+  "speaker": "中国人の闇医者",
+  "uid": "01331293",
+  "sentence": "だから私、伝言頼まれた。",
+  "parity": true,
+  "official_candidate": "Ah! That right! I came with message from Lee-san. Lee-san not like to show his face around places like this, so I come instead.",
+  "official_neighbors": [
+   "Whoa, how about you state yer business before gettin' completely wasted?",
+   "A message?",
+   "Don't worry! I not drunk yet!"
+  ]
+ },
+ {
+  "order": 140,
+  "word": "突き止める",
+  "reading": "つきとめる",
+  "meaning": "to determine (esp. a culprit or underlying cause); to pin down; to ascertain; to locate",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331293",
+  "sentence": "俺のねぐらを突き止めたいっちゅうわけか……？",
+  "parity": true,
+  "official_candidate": "What, he wants to get a bead on where I live?",
+  "official_neighbors": [
+   "No. Just along the river.",
+   "Good, good. Once you get home, Lee-san contact you. Lee-san will be watching from when you leave club.",
+   "I just bring message. No need to know why.",
+   "All right, I got your message. You drink as much as you like tonight."
+  ]
+ },
+ {
+  "order": 141,
+  "word": "太っ腹",
+  "reading": "ふとっぱら",
+  "meaning": "generous; magnanimous; big-hearted; broad-minded",
+  "pos": "na-adjective",
+  "speaker": "中国人の闇医者",
+  "uid": "01331293",
+  "sentence": "さすが太っ腹ね。支配人さん、私、あなた大好きよ！",
+  "parity": true,
+  "official_candidate": "Such big man! I love generous Manager-san!",
+  "official_neighbors": [
+   "All right, I got your message. You drink as much as you like tonight.",
+   "Really!? I can!?",
+   "(Lee's bein' awful roundabout here. ...Ah, well. Guess I'll dip out for a bit.)"
+  ]
+ },
+ {
+  "order": 142,
+  "word": "一方",
+  "reading": "いっぽう",
+  "meaning": "one (esp. of two); the other; one way; the other way",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "013312b6",
+  "sentence": "いや、むしろ状況は悪くなる一方や",
+  "parity": true,
+  "official_candidate": "(This makes three days... Didn't wind up changin' much. If anything, things're worse now than before.)",
+  "official_neighbors": [
+   "(......)",
+   "(......)",
+   "(Jig's up as soon as Sagawa finds out I'm keeping the girl alive. Can't risk headin' to the storehouse now. Better play it cool and head to the Grand like normal.)"
+  ]
+ },
+ {
+  "order": 143,
+  "word": "感付く",
+  "reading": "かんづく",
+  "meaning": "to sense; to suspect; to get an inkling (of something); to get wind of",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "013312b6",
+  "sentence": "女を助けたこと、佐川に勘付かれたらしまいや。",
+  "parity": true,
+  "official_candidate": "(Jig's up as soon as Sagawa finds out I'm keeping the girl alive. Can't risk headin' to the storehouse now. Better play it cool and head to the Grand like normal.)",
+  "official_neighbors": [
+   "(This makes three days... Didn't wind up changin' much. If anything, things're worse now than before.)",
+   "(......)"
+  ]
+ },
+ {
+  "order": 144,
+  "word": "所属",
+  "reading": "しょぞく",
+  "meaning": "belonging to (a group, organization, etc.); affiliation (with); being attached to; being under the control of",
+  "pos": "verb",
+  "speaker": "女の子の獲得",
+  "uid": "01331307",
+  "sentence": "店に所属する女の子は、街でスカウトしたり、",
+  "parity": true,
+  "official_candidate": "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+  "official_neighbors": [
+   "Phew! Not too shabby. Still, we're short on guests AND gals. Is there no way around that outside of the daily grind?",
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!"
+  ]
+ },
+ {
+  "order": 145,
+  "word": "困難",
+  "reading": "こんなん",
+  "meaning": "difficulty; hardship; trouble; distress",
+  "pos": "na-adjective",
+  "speaker": "女の子の獲得",
+  "uid": "01331307",
+  "sentence": "女の子が少ないと、ライバル店に勝てるような店舗にすることは困難です。",
+  "parity": true,
+  "official_candidate": "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+  "official_neighbors": [
+   "Phew! Not too shabby. Still, we're short on guests AND gals. Is there no way around that outside of the daily grind?",
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!"
+  ]
+ },
+ {
+  "order": 146,
+  "word": "こつこつ",
+  "reading": "コツコツ",
+  "meaning": "steadily; unflaggingly; untiringly; laboriously",
+  "pos": "adverb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "コツコツ営業するのもいいですが、",
+  "parity": true,
+  "official_candidate": "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+  "official_neighbors": [
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too."
+  ]
+ },
+ {
+  "order": 147,
+  "word": "提携",
+  "reading": "ていけい",
+  "meaning": "cooperation; tie-up; joint business; partnership",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "街のお店と提携するのも良い、と聞きますよ。",
+  "parity": true,
+  "official_candidate": "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+  "official_neighbors": [
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too."
+  ]
+ },
+ {
+  "order": 148,
+  "word": "存在",
+  "reading": "そんざい",
+  "meaning": "existence; being; presence",
+  "pos": "verb",
+  "speaker": "お店との提携",
+  "uid": "01331307",
+  "sentence": "蒼天堀には、お金を払うことで「提携関係」になってくれるお店が存在します。",
+  "parity": true,
+  "official_candidate": "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+  "official_neighbors": [
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!"
+  ]
+ },
+ {
+  "order": 149,
+  "word": "図る",
+  "reading": "はかる",
+  "meaning": "to plan; to attempt; to devise",
+  "pos": "verb",
+  "speaker": "お店との提携",
+  "uid": "01331307",
+  "sentence": "良いお店を見つけたら、積極的に提携を図りましょう。",
+  "parity": true,
+  "official_candidate": "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+  "official_neighbors": [
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!"
+  ]
+ },
+ {
+  "order": 150,
+  "word": "靄る",
+  "reading": "もやる",
+  "meaning": "to become misty; to become hazy",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "01331307",
+  "sentence": "営業以外にもやることは沢山あるんやな。",
+  "parity": true,
+  "official_candidate": "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+  "official_neighbors": [
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!",
+   "I'll take my best crack at it, anyway."
+  ]
+ },
+ {
+  "order": 151,
+  "word": "戦場",
+  "reading": "せんじょう",
+  "meaning": "battlefield; battleground",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "そうですね。店の外も中も戦場です！",
+  "parity": true,
+  "official_candidate": "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!",
+  "official_neighbors": [
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+   "I'll take my best crack at it, anyway.",
+   "(This place REALLY needs more girls. Hardly any point to openin' the doors, as it stands now. Hmmm...)"
+  ]
+ },
+ {
+  "order": 152,
+  "word": "キャスト",
+  "reading": "キャスト",
+  "meaning": "cast (of a film, play, etc.); cast member; role",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "しかしホンマにキャストが少ない店やな。",
+  "parity": true,
+  "official_candidate": "(This place REALLY needs more girls. Hardly any point to openin' the doors, as it stands now. Hmmm...)",
+  "official_neighbors": [
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!",
+   "I'll take my best crack at it, anyway.",
+   "(Ah! There's the girls over at the Grand I got from Odyssey in that trade!)",
+   "(Long as we got Nozomi, we're covered at the Grand. Should be fine if I bring the rest over here. I'll put in that call now.)"
+  ]
+ },
+ {
+  "order": 153,
+  "word": "引っ張る",
+  "reading": "ひっぱる",
+  "meaning": "to pull; to draw; to pull tight",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "他の子をこっちの店に引っ張ってきてもええやろ。",
+  "parity": true,
+  "official_candidate": "(Long as we got Nozomi, we're covered at the Grand. Should be fine if I bring the rest over here. I'll put in that call now.)",
+  "official_neighbors": [
+   "(This place REALLY needs more girls. Hardly any point to openin' the doors, as it stands now. Hmmm...)",
+   "(Ah! There's the girls over at the Grand I got from Odyssey in that trade!)"
+  ]
+ },
+ {
+  "order": 154,
+  "word": "結論",
+  "reading": "けつろん",
+  "meaning": "conclusion (of an argument, discussion, study, etc.)",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "早速だが、約束通り結論を聞きにきたよ。",
+  "parity": true,
+  "official_candidate": "I'm here for your answer, as promised. Well? Ready to sell this hovel to me yet?",
+  "official_neighbors": [
+   "And which bullies might those be, exactly?",
+   "Ugh, Hino!",
+   "I told you before, the answer's NO.",
+   "...I see. And I was so hoping to do this amicably. Shame."
+  ]
+ },
+ {
+  "order": 155,
+  "word": "穏便",
+  "reading": "おんびん",
+  "meaning": "gentle; peaceable; amicable; quiet",
+  "pos": "na-adjective",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "穏便に済ませたかったのに、残念だ。",
+  "parity": true,
+  "official_candidate": "...I see. And I was so hoping to do this amicably. Shame.",
+  "official_neighbors": [
+   "I'm here for your answer, as promised. Well? Ready to sell this hovel to me yet?",
+   "I told you before, the answer's NO.",
+   "All right, you lot."
+  ]
+ },
+ {
+  "order": 156,
+  "word": "卑怯",
+  "reading": "ひきょう",
+  "meaning": "cowardly; craven",
+  "pos": "na-adjective",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "この卑怯者……！",
+  "parity": true,
+  "official_candidate": "Rgh! So you resort to violence in the end? You're a coward, Hino!",
+  "official_neighbors": [
+   "What are you--!?",
+   "Teach this stubborn fool the reality of his situation.",
+   "Sticks and stones. We'll see which comes first--you give me what I want, or you die. Either way, I can't wait. ...Do it!",
+   "Hold up a second."
+  ]
+ },
+ {
+  "order": 157,
+  "word": "無能",
+  "reading": "むのう",
+  "meaning": "incompetence; inefficiency; inability; incapacity",
+  "pos": "na-adjective",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "確かに、無能な陽田が店を続けるより、",
+  "parity": true,
+  "official_candidate": "A new manager? Heh, I see. I'll grant you, it's a wiser choice than letting a dimwit like Youda keep running this dunghill into the ground.",
+  "official_neighbors": [
+   "Name's Majima. Youda-han's asked me to take over operations here.",
+   "And as long as I'm standin', nobody's making trouble in my shop.",
+   "And you seem like you know your way around a fight... So you're the boss AND the bouncer. Clever choice, for an idiot. I'm impressed. Truly.",
+   "What you want us to do? Take this guy out, too?"
+  ]
+ },
+ {
+  "order": 158,
+  "word": "慣れ",
+  "reading": "なれ",
+  "meaning": "practice; experience; habituation",
+  "pos": "noun",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "それに、なかなか喧嘩慣れしてそうな男だし……",
+  "parity": true,
+  "official_candidate": "And you seem like you know your way around a fight... So you're the boss AND the bouncer. Clever choice, for an idiot. I'm impressed. Truly.",
+  "official_neighbors": [
+   "And as long as I'm standin', nobody's making trouble in my shop.",
+   "A new manager? Heh, I see. I'll grant you, it's a wiser choice than letting a dimwit like Youda keep running this dunghill into the ground.",
+   "What you want us to do? Take this guy out, too?",
+   "No... I find myself curious to see how they plan to claw their way out of this hole. We can crush them anytime."
+  ]
+ },
+ {
+  "order": 159,
+  "word": "足掻く",
+  "reading": "あがく",
+  "meaning": "to paw (at) the ground",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "いや……　こいつらがどう足掻いていくのか、",
+  "parity": true,
+  "official_candidate": "No... I find myself curious to see how they plan to claw their way out of this hole. We can crush them anytime.",
+  "official_neighbors": [
+   "And you seem like you know your way around a fight... So you're the boss AND the bouncer. Clever choice, for an idiot. I'm impressed. Truly.",
+   "What you want us to do? Take this guy out, too?",
+   "I look forward to being entertained as I watch just how far you manage to crawl after making enemies of the Five Stars.",
+   "......"
+  ]
+ },
+ {
+  "order": 160,
+  "word": "スター",
+  "reading": "スター",
+  "meaning": "star (actor, athlete, etc.); celebrity",
+  "pos": "noun",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "ファイブスターを敵にまわして、",
+  "parity": true,
+  "official_candidate": "I look forward to being entertained as I watch just how far you manage to crawl after making enemies of the Five Stars.",
+  "official_neighbors": [
+   "What you want us to do? Take this guy out, too?",
+   "No... I find myself curious to see how they plan to claw their way out of this hole. We can crush them anytime.",
+   "......",
+   "You were lucky today, Youda-san. And Majima-san? Well... Why don't you try your best? If I get bored, I'll drop by and swat you down like the flies you are."
+  ]
+ },
+ {
+  "order": 161,
+  "word": "高み",
+  "reading": "たかみ",
+  "meaning": "height; elevated place",
+  "pos": "noun",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "高みの見物といこうじゃないか。",
+  "parity": true,
+  "official_candidate": "I look forward to being entertained as I watch just how far you manage to crawl after making enemies of the Five Stars.",
+  "official_neighbors": [
+   "What you want us to do? Take this guy out, too?",
+   "No... I find myself curious to see how they plan to claw their way out of this hole. We can crush them anytime.",
+   "......",
+   "You were lucky today, Youda-san. And Majima-san? Well... Why don't you try your best? If I get bored, I'll drop by and swat you down like the flies you are."
+  ]
+ },
+ {
+  "order": 162,
+  "word": "命拾い",
+  "reading": "いのちびろい",
+  "meaning": "narrow escape from death",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "命拾いしたね、陽田さん。そして真島さん。",
+  "parity": true,
+  "official_candidate": "You were lucky today, Youda-san. And Majima-san? Well... Why don't you try your best? If I get bored, I'll drop by and swat you down like the flies you are.",
+  "official_neighbors": [
+   "I look forward to being entertained as I watch just how far you manage to crawl after making enemies of the Five Stars.",
+   "......",
+   "Bring it, porky. Enjoy watchin' your wobbly little house of cards come crumbling down on top of ya. Hope yer ass is ready to get buried.",
+   "Hmph. We'll see how long that big talk lasts. I advise you not to take the Five Stars lightly."
+  ]
+ },
+ {
+  "order": 163,
+  "word": "捻り潰す",
+  "reading": "ひねりつぶす",
+  "meaning": "to pinch and crush; to pinch out",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "気が向いたら……　ひねり潰しに来ますから。",
+  "parity": true,
+  "official_candidate": "You were lucky today, Youda-san. And Majima-san? Well... Why don't you try your best? If I get bored, I'll drop by and swat you down like the flies you are.",
+  "official_neighbors": [
+   "I look forward to being entertained as I watch just how far you manage to crawl after making enemies of the Five Stars.",
+   "......",
+   "Bring it, porky. Enjoy watchin' your wobbly little house of cards come crumbling down on top of ya. Hope yer ass is ready to get buried.",
+   "Hmph. We'll see how long that big talk lasts. I advise you not to take the Five Stars lightly."
+  ]
+ },
+ {
+  "order": 164,
+  "word": "打ち壊す",
+  "reading": "ぶちこわす",
+  "meaning": "to destroy; to break (by striking); to smash; to knock down",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "01331307",
+  "sentence": "俺がぶち壊したるで。……そっちこそ、覚悟しいや。",
+  "parity": true,
+  "official_candidate": "Bring it, porky. Enjoy watchin' your wobbly little house of cards come crumbling down on top of ya. Hope yer ass is ready to get buried.",
+  "official_neighbors": [
+   "......",
+   "You were lucky today, Youda-san. And Majima-san? Well... Why don't you try your best? If I get bored, I'll drop by and swat you down like the flies you are.",
+   "Hmph. We'll see how long that big talk lasts. I advise you not to take the Five Stars lightly."
+  ]
+ },
+ {
+  "order": 165,
+  "word": "本業",
+  "reading": "ほんぎょう",
+  "meaning": "principal occupation; core business",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "本業の方もあるから、",
+  "parity": true,
+  "official_candidate": "I've got my hands full with my own place too, so I can't be here around the clock. I'll make a point to drop by whenever I get a minute, though.",
+  "official_neighbors": [
+   "We gotta whip this club into fighting shape fast if we want to take them on.",
+   "We will! I'll give it all I've got, Majima-san! Any time you want to open the club for business, just let me know. Any time at all!",
+   "(So that's one of Sotenbori's Five Stars... This might be tougher 'n I thought.)"
+  ]
+ },
+ {
+  "order": 166,
+  "word": "付きっ切り",
+  "reading": "つきっきり",
+  "meaning": "constant attendance; uninterrupted supervision; staying with someone all the time",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "つきっきりで面倒みれるわけやないけど、",
+  "parity": true,
+  "official_candidate": "I've got my hands full with my own place too, so I can't be here around the clock. I'll make a point to drop by whenever I get a minute, though.",
+  "official_neighbors": [
+   "We gotta whip this club into fighting shape fast if we want to take them on.",
+   "We will! I'll give it all I've got, Majima-san! Any time you want to open the club for business, just let me know. Any time at all!",
+   "(So that's one of Sotenbori's Five Stars... This might be tougher 'n I thought.)"
+  ]
+ },
+ {
+  "order": 167,
+  "word": "ちょくちょく",
+  "reading": "ちょくちょく",
+  "meaning": "often; frequently; now and then; occasionally",
+  "pos": "adverb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "暇があったらちょくちょく来るようにするわ。",
+  "parity": true,
+  "official_candidate": "I've got my hands full with my own place too, so I can't be here around the clock. I'll make a point to drop by whenever I get a minute, though.",
+  "official_neighbors": [
+   "We gotta whip this club into fighting shape fast if we want to take them on.",
+   "We will! I'll give it all I've got, Majima-san! Any time you want to open the club for business, just let me know. Any time at all!",
+   "(So that's one of Sotenbori's Five Stars... This might be tougher 'n I thought.)"
+  ]
+ },
+ {
+  "order": 168,
+  "word": "ヤード",
+  "reading": "ヤード",
+  "meaning": "yard (unit of distance)",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "ほう。ここがバックヤードかいな。",
+  "parity": true,
+  "official_candidate": "Huh. This the back office?",
+  "official_neighbors": [
+   "Yes. It mostly serves as a staging area for the staff. I organize things back here, manage the girls, that sort of thing.",
+   "Speaking of... What would you say to taking over as manager, Majima-san? Would you mind?"
+  ]
+ },
+ {
+  "order": 169,
+  "word": "彼是",
+  "reading": "あれこれ",
+  "meaning": "this and that; this or that; one thing or another; this way and that",
+  "pos": "adverb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "店に関するあれこれや、女の子の管理などは、",
+  "parity": true,
+  "official_candidate": "Yes. It mostly serves as a staging area for the staff. I organize things back here, manage the girls, that sort of thing.",
+  "official_neighbors": [
+   "Huh. This the back office?",
+   "Speaking of... What would you say to taking over as manager, Majima-san? Would you mind?",
+   "Say what? Manager, just like that?"
+  ]
+ },
+ {
+  "order": 170,
+  "word": "実績",
+  "reading": "じっせき",
+  "meaning": "achievements; actual results; accomplishments; past results",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "はい。実績もおありのようですし、",
+  "parity": true,
+  "official_candidate": "Yes, sir. You certainly have the experience, and I fear Sunshine can't reach its full potential under my direction. I'd give you total authority.",
+  "official_neighbors": [
+   "Speaking of... What would you say to taking over as manager, Majima-san? Would you mind?",
+   "Say what? Manager, just like that?",
+   "Of course, I'd still be here supporting you in any way I can as floor staff! Will you do it, sir?",
+   "...Yeah, alright. If you're that serious about this, I'll do my part, too. Leave it to me."
+  ]
+ },
+ {
+  "order": 171,
+  "word": "全権",
+  "reading": "ぜんけん",
+  "meaning": "plenipotentiary powers; full authority",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "思います。真島さんに、全権を託したいんです。",
+  "parity": true,
+  "official_candidate": "Yes, sir. You certainly have the experience, and I fear Sunshine can't reach its full potential under my direction. I'd give you total authority.",
+  "official_neighbors": [
+   "Speaking of... What would you say to taking over as manager, Majima-san? Would you mind?",
+   "Say what? Manager, just like that?",
+   "Of course, I'd still be here supporting you in any way I can as floor staff! Will you do it, sir?",
+   "...Yeah, alright. If you're that serious about this, I'll do my part, too. Leave it to me."
+  ]
+ },
+ {
+  "order": 172,
+  "word": "任す",
+  "reading": "まかす",
+  "meaning": "to entrust (to someone); to leave (in someone's hands)",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "俺も覚悟決めるわ。任しとき。",
+  "parity": true,
+  "official_candidate": "...Yeah, alright. If you're that serious about this, I'll do my part, too. Leave it to me.",
+  "official_neighbors": [
+   "Yes, sir. You certainly have the experience, and I fear Sunshine can't reach its full potential under my direction. I'd give you total authority.",
+   "Of course, I'd still be here supporting you in any way I can as floor staff! Will you do it, sir?",
+   "Thank you so much! I'm at your disposal, Manager Majima!",
+   "Heh... Feels a little weird hearin' that from you."
+  ]
+ },
+ {
+  "order": 173,
+  "word": "照れる",
+  "reading": "てれる",
+  "meaning": "to be shy; to be bashful; to feel awkward; to feel embarrassed",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "フ……　なんか照れくさいのぅ……",
+  "parity": true,
+  "official_candidate": "Heh... Feels a little weird hearin' that from you.",
+  "official_neighbors": [
+   "...Yeah, alright. If you're that serious about this, I'll do my part, too. Leave it to me.",
+   "Thank you so much! I'm at your disposal, Manager Majima!",
+   "Now, if it's all right with you, I'd like to jump right into an explanation of how a cabaret club is run.",
+   "That said, there's a lot to cover and I know you're a busy man. Let me know when it's a good time for you, sir."
+  ]
+ },
+ {
+  "order": 174,
+  "word": "含める",
+  "reading": "ふくめる",
+  "meaning": "to include (in a group or scope)",
+  "pos": "verb",
+  "speaker": "ユキ",
+  "uid": "01331307",
+  "sentence": "私を含めて３人しかいないんですけどね……",
+  "parity": true,
+  "official_candidate": "Er, yes. Technically. See... there's only three of us working here, including me.",
+  "official_neighbors": [
+   "Um, sorry... I know I'm not really... I'm sorry.",
+   "Huh? What, naw, that's-- You're fine. Just... Are you really the number one gal here?",
+   "Wha-- Three girls!? Ain't that a little low? Explains why the place is a ghost town, though.",
+   "Yeah... We were doing okay until a while ago, but since the Five Stars came around, every day's been like this."
+  ]
+ },
+ {
+  "order": 175,
+  "word": "寂れる",
+  "reading": "さびれる",
+  "meaning": "to decline (in prosperity); to become deserted; to become desolate",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "どうりで寂れてるわけやな……",
+  "parity": true,
+  "official_candidate": "Wha-- Three girls!? Ain't that a little low? Explains why the place is a ghost town, though.",
+  "official_neighbors": [
+   "Huh? What, naw, that's-- You're fine. Just... Are you really the number one gal here?",
+   "Er, yes. Technically. See... there's only three of us working here, including me.",
+   "Yeah... We were doing okay until a while ago, but since the Five Stars came around, every day's been like this.",
+   "Five Stars? What's that?"
+  ]
+ },
+ {
+  "order": 176,
+  "word": "牛耳る",
+  "reading": "ぎゅうじる",
+  "meaning": "to control; to take the lead in; to have under one's thumb",
+  "pos": "verb",
+  "speaker": "ユキ",
+  "uid": "01331307",
+  "sentence": "蒼天堀のキャバクラを牛耳っている人気",
+  "parity": true,
+  "official_candidate": "The Five Stars of Sotenbori. There are five cabaret clubs in town that have muscled out all the rest. The Five Stars are what people call the owners of those clubs.",
+  "official_neighbors": [
+   "Yeah... We were doing okay until a while ago, but since the Five Stars came around, every day's been like this.",
+   "Five Stars? What's that?",
+   "There used to be a ton of cabaret clubs in Sotenbori, but ever since those five set up shop here, all the other clubs have had to shut down.",
+   "Shut down? How come? Are the Five Stars' clubs that much better than the rest?"
+  ]
+ },
+ {
+  "order": 177,
+  "word": "出店",
+  "reading": "しゅってん",
+  "meaning": "opening a new store; opening a new branch",
+  "pos": "verb",
+  "speaker": "ユキ",
+  "uid": "01331307",
+  "sentence": "……彼らが蒼天堀に出店してから、",
+  "parity": true,
+  "official_candidate": "There used to be a ton of cabaret clubs in Sotenbori, but ever since those five set up shop here, all the other clubs have had to shut down.",
+  "official_neighbors": [
+   "Five Stars? What's that?",
+   "The Five Stars of Sotenbori. There are five cabaret clubs in town that have muscled out all the rest. The Five Stars are what people call the owners of those clubs.",
+   "Shut down? How come? Are the Five Stars' clubs that much better than the rest?",
+   "Well, their clubs are really popular, no one would argue that... But that's not the only reason the competition's all folded."
+  ]
+ },
+ {
+  "order": 178,
+  "word": "追い遣る",
+  "reading": "おいやる",
+  "meaning": "to drive away; to order off; to chase away",
+  "pos": "verb",
+  "speaker": "ユキ",
+  "uid": "01331307",
+  "sentence": "どんどん閉店においやられてしまって。",
+  "parity": true,
+  "official_candidate": "There used to be a ton of cabaret clubs in Sotenbori, but ever since those five set up shop here, all the other clubs have had to shut down.",
+  "official_neighbors": [
+   "Five Stars? What's that?",
+   "The Five Stars of Sotenbori. There are five cabaret clubs in town that have muscled out all the rest. The Five Stars are what people call the owners of those clubs.",
+   "Shut down? How come? Are the Five Stars' clubs that much better than the rest?",
+   "Well, their clubs are really popular, no one would argue that... But that's not the only reason the competition's all folded."
+  ]
+ },
+ {
+  "order": 179,
+  "word": "加減",
+  "reading": "かげん",
+  "meaning": "degree; extent; amount; balance",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "もう、嫌がらせするのもいい加減にしてくださいよ！",
+  "parity": true,
+  "official_candidate": "I've had all the harassment from you I can take!",
+  "official_neighbors": [
+   "Harassment?",
+   "Hmm?",
+   "Crank calling us day in and day out, causing a scene during business hours to chase off our guests... I won't stand for it anymore!"
+  ]
+ },
+ {
+  "order": 180,
+  "word": "悪戯",
+  "reading": "いたずら",
+  "meaning": "mischief; prank; trick; practical joke",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "毎日毎日、朝から晩までいたずら電話したり、",
+  "parity": true,
+  "official_candidate": "Crank calling us day in and day out, causing a scene during business hours to chase off our guests... I won't stand for it anymore!",
+  "official_neighbors": [
+   "I've had all the harassment from you I can take!",
+   "Hmm?",
+   "If you'd beat me in honest competition I could accept defeat gracefully, but this is just... dirty!",
+   "Heh heh heh. Mind your manners, now. Just where is your proof that I'm behind any of this alleged harassment? Oh right... You have none."
+  ]
+ },
+ {
+  "order": 181,
+  "word": "嫌がらせ",
+  "reading": "いやがらせ",
+  "meaning": "harassment; pestering",
+  "pos": "noun",
+  "speaker": "小太りの男",
+  "uid": "01331307",
+  "sentence": "その嫌がらせをやっているのが我々だという",
+  "parity": true,
+  "official_candidate": "Heh heh heh. Mind your manners, now. Just where is your proof that I'm behind any of this alleged harassment? Oh right... You have none.",
+  "official_neighbors": [
+   "Crank calling us day in and day out, causing a scene during business hours to chase off our guests... I won't stand for it anymore!",
+   "If you'd beat me in honest competition I could accept defeat gracefully, but this is just... dirty!",
+   "Who's the rotund ton of fun?",
+   "That's one of Sotenbori's Five Stars that I was just telling you about."
+  ]
+ },
+ {
+  "order": 182,
+  "word": "独占",
+  "reading": "どくせん",
+  "meaning": "monopoly; monopolization; exclusivity",
+  "pos": "verb",
+  "speaker": "ユキ",
+  "uid": "01331307",
+  "sentence": "独占しているお店で、近所にある",
+  "parity": true,
+  "official_candidate": "Mars basically has a monopoly on the customers in this part of town. We're some of his last local competition, so he's been leaning on us hard.",
+  "official_neighbors": [
+   "Huh. That guy?",
+   "Yes, believe it or not... He's one of the Stars. His name's Hino, owner of Club Mars.",
+   "Huh.",
+   "I may not have proof... but you guys are the only ones who would stoop this low!"
+  ]
+ },
+ {
+  "order": 183,
+  "word": "盾突く",
+  "reading": "たてつく",
+  "meaning": "to defy; to disobey; to rebel against; to oppose",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "……ただこれ以上楯突くようなら、話は別ですがね。",
+  "parity": true,
+  "official_candidate": "Accept now, and I'll pay you a reasonable amount for your troubles. But if you continue to defy us, the terms of this little reward are gonna be quite a bit different.",
+  "official_neighbors": [
+   "If we close shop, the only cabaret clubs left standing in Sotenbori will be the ones you Five Stars run. That's the plan, right? Getting the full monopoly?",
+   "Heh, I'm surprised you've pieced that much together. Good. That makes it simple. Close this roach motel and clear out.",
+   "Heh heh... Honestly, I'm offering to pay money for a trash pile like this. I would think you'd be thanking me.",
+   "Get out. How many hard working men and women have the five of you vultures put out of this line of work now?"
+  ]
+ },
+ {
+  "order": 184,
+  "word": "薄汚れる",
+  "reading": "うすよごれる",
+  "meaning": "to get slightly dirty (all over)",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "フフ……　こんな薄汚れた店に、",
+  "parity": true,
+  "official_candidate": "Heh heh... Honestly, I'm offering to pay money for a trash pile like this. I would think you'd be thanking me.",
+  "official_neighbors": [
+   "Heh, I'm surprised you've pieced that much together. Good. That makes it simple. Close this roach motel and clear out.",
+   "Accept now, and I'll pay you a reasonable amount for your troubles. But if you continue to defy us, the terms of this little reward are gonna be quite a bit different.",
+   "Get out. How many hard working men and women have the five of you vultures put out of this line of work now?",
+   "You're just a gang of low down dirty bullies, and I won't let you take over Sotenbori!"
+  ]
+ },
+ {
+  "order": 185,
+  "word": "苦しむ",
+  "reading": "くるしむ",
+  "meaning": "to suffer; to groan; to be worried",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "苦しんだと思ってるんだ。",
+  "parity": true,
+  "official_candidate": "Get out. How many hard working men and women have the five of you vultures put out of this line of work now?",
+  "official_neighbors": [
+   "Accept now, and I'll pay you a reasonable amount for your troubles. But if you continue to defy us, the terms of this little reward are gonna be quite a bit different.",
+   "Heh heh... Honestly, I'm offering to pay money for a trash pile like this. I would think you'd be thanking me.",
+   "You're just a gang of low down dirty bullies, and I won't let you take over Sotenbori!",
+   "Heh... I suppose that's the mark of a man running the once- popular Sunshine. You're a tougher nut to crack than the other club owners were."
+  ]
+ },
+ {
+  "order": 186,
+  "word": "嘗て",
+  "reading": "かつて",
+  "meaning": "once; before; formerly; ever",
+  "pos": "adverb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "フッ……　さすがはかつて人気店だった、",
+  "parity": true,
+  "official_candidate": "Heh... I suppose that's the mark of a man running the once- popular Sunshine. You're a tougher nut to crack than the other club owners were.",
+  "official_neighbors": [
+   "Get out. How many hard working men and women have the five of you vultures put out of this line of work now?",
+   "You're just a gang of low down dirty bullies, and I won't let you take over Sotenbori!",
+   "Very well. I'll leave it at that for today. But I expect an answer on my next visit.",
+   "Y-You've got my answer, and it's not changing. Don't bother coming back!"
+  ]
+ },
+ {
+  "order": 187,
+  "word": "引き上げる",
+  "reading": "ひきあげる",
+  "meaning": "to pull up; to drag up; to lift up",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "……まぁいい。今日は引き上げましょう。",
+  "parity": true,
+  "official_candidate": "Very well. I'll leave it at that for today. But I expect an answer on my next visit.",
+  "official_neighbors": [
+   "You're just a gang of low down dirty bullies, and I won't let you take over Sotenbori!",
+   "Heh... I suppose that's the mark of a man running the once- popular Sunshine. You're a tougher nut to crack than the other club owners were.",
+   "Y-You've got my answer, and it's not changing. Don't bother coming back!",
+   "So stubborn... But let's not be rude, hmm? I'll drop in again soon, neighbor."
+  ]
+ },
+ {
+  "order": 188,
+  "word": "びっくり",
+  "reading": "びっくり",
+  "meaning": "to be surprised; to be amazed; to be frightened; to be astonished",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "いや～、かわいくてびっくりしましたよ。",
+  "parity": true,
+  "official_candidate": "I meant to ask after your daughter. Living in Tokyo these days, isn't she? I must say, I was surprised at just how adorable she is.",
+  "official_neighbors": [
+   "Oh, that's right!",
+   "......",
+   "Being a parent, there must be no end to the worry. Such a darling little girl, the thought of someone hurting her must keep you up at night..."
+  ]
+ },
+ {
+  "order": 189,
+  "word": "万一",
+  "reading": "まんいち",
+  "meaning": "(unlikely event of) emergency; the worst(-case scenario); 10000 to 1",
+  "pos": "noun",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "あんなかわいい娘さんが、もし万一",
+  "parity": true,
+  "official_candidate": "Being a parent, there must be no end to the worry. Such a darling little girl, the thought of someone hurting her must keep you up at night...",
+  "official_neighbors": [
+   "I meant to ask after your daughter. Living in Tokyo these days, isn't she? I must say, I was surprised at just how adorable she is.",
+   "......",
+   "...! What do you plan to do to her!?",
+   "Hmmm? Me? Not a thing. But that doesn't mean that the sort of brute who would hurt a child isn't out there. These are frightening times we're living in."
+  ]
+ },
+ {
+  "order": 190,
+  "word": "輩",
+  "reading": "ともがら",
+  "meaning": "comrade; fellow",
+  "pos": "noun",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "ただ……　そういうことをする輩がいないとも",
+  "parity": true,
+  "official_candidate": "Hmmm? Me? Not a thing. But that doesn't mean that the sort of brute who would hurt a child isn't out there. These are frightening times we're living in.",
+  "official_neighbors": [
+   "Being a parent, there must be no end to the worry. Such a darling little girl, the thought of someone hurting her must keep you up at night...",
+   "...! What do you plan to do to her!?",
+   "Do be careful... I'll be seeing you soon."
+  ]
+ },
+ {
+  "order": 191,
+  "word": "時世",
+  "reading": "じせい",
+  "meaning": "the times; an age; a day and age",
+  "pos": "noun",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "限らないですよね。このご時世ですから。",
+  "parity": true,
+  "official_candidate": "Hmmm? Me? Not a thing. But that doesn't mean that the sort of brute who would hurt a child isn't out there. These are frightening times we're living in.",
+  "official_neighbors": [
+   "Being a parent, there must be no end to the worry. Such a darling little girl, the thought of someone hurting her must keep you up at night...",
+   "...! What do you plan to do to her!?",
+   "Do be careful... I'll be seeing you soon."
+  ]
+ },
+ {
+  "order": 192,
+  "word": "栄える",
+  "reading": "さかえる",
+  "meaning": "to prosper; to flourish; to thrive",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "出店していて、栄えていました。",
+  "parity": true,
+  "official_candidate": "Cabaret clubs are an up-and-coming industry with plenty of momentum behind it. At one point, Sotenbori was full of them, and it was a healthy, competitive market.",
+  "official_neighbors": [
+   "Don't sweat it. I mean, what's that guy's problem? Sotenbori's Five Stars, was it? Why're they gunnin' for your club so hard?",
+   "Sotenbori's Five Stars are colluding to form a monopoly on the city's cabaret clubs by forcing every club but their own out of business.",
+   "But then the Stars came in with their underhanded tactics, buying other clubs' girls, harassing their staff, hiring thugs to use violence... They've crushed the competition."
+  ]
+ },
+ {
+  "order": 193,
+  "word": "飲み込む",
+  "reading": "のみこむ",
+  "meaning": "to swallow; to gulp down",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "などで、次々と他の店を飲みこんでいきました。",
+  "parity": true,
+  "official_candidate": "But then the Stars came in with their underhanded tactics, buying other clubs' girls, harassing their staff, hiring thugs to use violence... They've crushed the competition.",
+  "official_neighbors": [
+   "Sotenbori's Five Stars are colluding to form a monopoly on the city's cabaret clubs by forcing every club but their own out of business.",
+   "Cabaret clubs are an up-and-coming industry with plenty of momentum behind it. At one point, Sotenbori was full of them, and it was a healthy, competitive market.",
+   "And now... the only cabaret clubs left in Sotenbori are the five they control and us."
+  ]
+ },
+ {
+  "order": 194,
+  "word": "乗り取る",
+  "reading": "のりとる",
+  "meaning": "to capture; to occupy; to usurp",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "あんたの店を乗っ取って、",
+  "parity": true,
+  "official_candidate": "Gotcha. Makes sense why they'd be chompin' at the bit to swallow you up and make that monopoly complete, then.",
+  "official_neighbors": [
+   "And now... the only cabaret clubs left in Sotenbori are the five they control and us.",
+   "What I don't get's why they're that desperate to get total control of Sotenbori.",
+   "I can't claim to know all of their plans, but from the rumors I've heard, they're planning to use their cabaret club monopoly as a cudgel to crush the full cabarets."
+  ]
+ },
+ {
+  "order": 195,
+  "word": "大型",
+  "reading": "おおがた",
+  "meaning": "large; large-sized; large-scale; big",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "大型店・キャバレーです。",
+  "parity": true,
+  "official_candidate": "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+  "official_neighbors": [
+   "I can't claim to know all of their plans, but from the rumors I've heard, they're planning to use their cabaret club monopoly as a cudgel to crush the full cabarets.",
+   "Crush the cabarets, now?",
+   "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets."
+  ]
+ },
+ {
+  "order": 196,
+  "word": "打ち破る",
+  "reading": "うちやぶる",
+  "meaning": "to break; to smash; to defeat; to destroy",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "彼らはそのキャバレーを打ち破り、支配することで、",
+  "parity": true,
+  "official_candidate": "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+  "official_neighbors": [
+   "Crush the cabarets, now?",
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves."
+  ]
+ },
+ {
+  "order": 197,
+  "word": "実質",
+  "reading": "じっしつ",
+  "meaning": "substance; essence",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "独占できれば、実質的に街全体を支配し",
+  "parity": true,
+  "official_candidate": "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+  "official_neighbors": [
+   "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them...",
+   "But... much as I hate to admit it, their constant pressure and harassment's taken a steep toll on our business. Just have a look around. Pathetic, isn't it?"
+  ]
+ },
+ {
+  "order": 198,
+  "word": "コントロール",
+  "reading": "コントロール",
+  "meaning": "control",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "コントロールすることも可能かもしれん……",
+  "parity": true,
+  "official_candidate": "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+  "official_neighbors": [
+   "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them...",
+   "But... much as I hate to admit it, their constant pressure and harassment's taken a steep toll on our business. Just have a look around. Pathetic, isn't it?"
+  ]
+ },
+ {
+  "order": 199,
+  "word": "野望",
+  "reading": "やぼう",
+  "meaning": "ambition; aspiration",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "ええ。でも、そんな野望のために我々が",
+  "parity": true,
+  "official_candidate": "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them...",
+  "official_neighbors": [
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+   "But... much as I hate to admit it, their constant pressure and harassment's taken a steep toll on our business. Just have a look around. Pathetic, isn't it?",
+   "Welp... I'd be lyin' if I said this was anything but grim."
+  ]
+ },
+ {
+  "order": 200,
+  "word": "屈する",
+  "reading": "くっする",
+  "meaning": "to yield; to give in; to be daunted; to shrink",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "あいつらに屈することだけは、したくない……",
+  "parity": true,
+  "official_candidate": "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them...",
+  "official_neighbors": [
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+   "But... much as I hate to admit it, their constant pressure and harassment's taken a steep toll on our business. Just have a look around. Pathetic, isn't it?",
+   "Welp... I'd be lyin' if I said this was anything but grim."
+  ]
+ },
+ {
+  "order": 201,
+  "word": "度重なる",
+  "reading": "たびかさなる",
+  "meaning": "to occur repeatedly; to repeat; to be repeated; to be frequent",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "でも……　度重なる嫌がらせと圧力で、",
+  "parity": true,
+  "official_candidate": "But... much as I hate to admit it, their constant pressure and harassment's taken a steep toll on our business. Just have a look around. Pathetic, isn't it?",
+  "official_neighbors": [
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+   "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them...",
+   "Welp... I'd be lyin' if I said this was anything but grim."
+  ]
+ },
+ {
+  "order": 202,
+  "word": "世辞",
+  "reading": "せじ",
+  "meaning": "flattery; compliment",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "……まぁ、お世辞にも良い状態とは言えんな。",
+  "parity": true,
+  "official_candidate": "Welp... I'd be lyin' if I said this was anything but grim.",
+  "official_neighbors": [
+   "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them...",
+   "But... much as I hate to admit it, their constant pressure and harassment's taken a steep toll on our business. Just have a look around. Pathetic, isn't it?",
+   "If you can believe it, we were leading the pack just a short time ago. First, maybe second most popular club in the area."
+  ]
+ },
+ {
+  "order": 203,
+  "word": "悪事",
+  "reading": "あくじ",
+  "meaning": "evil deed; wrongdoing; crime; vice",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "あんな奴らの悪事に屈してしまうのは、",
+  "parity": true,
+  "official_candidate": "Perhaps accepting their offer really is the only sensible course. It boils my blood to think of letting those bullies have their way, but maybe that's reality...",
+  "official_neighbors": [
+   "Then they started causing trouble here in the club. After a string of incidents, we'd lost our clientele, and most of our girls were poached.",
+   "At this rate, the club can't stay open long, no matter what I do.",
+   "(Don't much care what happens to this town, but the thought of dicks like that doin' whatever they want pisses me off.)",
+   "(Plus, if I let them go now, they'll be trouble for the Grand's bottom line down the road. Which means trouble for me if I'm still around.)"
+  ]
+ },
+ {
+  "order": 204,
+  "word": "悔しい",
+  "reading": "くやしい",
+  "meaning": "frustrated (over a failure, humiliation or injustice); annoyed; chagrined; (bitterly) disappointed",
+  "pos": "i-adjective",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "すごく悔しいんですが……",
+  "parity": true,
+  "official_candidate": "Perhaps accepting their offer really is the only sensible course. It boils my blood to think of letting those bullies have their way, but maybe that's reality...",
+  "official_neighbors": [
+   "Then they started causing trouble here in the club. After a string of incidents, we'd lost our clientele, and most of our girls were poached.",
+   "At this rate, the club can't stay open long, no matter what I do.",
+   "(Don't much care what happens to this town, but the thought of dicks like that doin' whatever they want pisses me off.)",
+   "(Plus, if I let them go now, they'll be trouble for the Grand's bottom line down the road. Which means trouble for me if I'm still around.)"
+  ]
+ },
+ {
+  "order": 205,
+  "word": "野放し",
+  "reading": "のばなし",
+  "meaning": "pasturing (e.g. cattle); letting (an animal) run loose",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "それに、このままそいつらを野放しにしとったら、",
+  "parity": true,
+  "official_candidate": "(Plus, if I let them go now, they'll be trouble for the Grand's bottom line down the road. Which means trouble for me if I'm still around.)",
+  "official_neighbors": [
+   "Perhaps accepting their offer really is the only sensible course. It boils my blood to think of letting those bullies have their way, but maybe that's reality...",
+   "(Don't much care what happens to this town, but the thought of dicks like that doin' whatever they want pisses me off.)",
+   "(I'm curious about the cabaret club business, too. Maybe I'll try to learn a bit more by helpin' out around here a bit.)",
+   "Alright, you twisted my arm, boss. I'll help ya out."
+  ]
+ },
+ {
+  "order": 206,
+  "word": "降り懸かる",
+  "reading": "ふりかかる",
+  "meaning": "to fall (on); to rain down; to shower down",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "面倒がふりかかるかもしれん",
+  "parity": true,
+  "official_candidate": "(Plus, if I let them go now, they'll be trouble for the Grand's bottom line down the road. Which means trouble for me if I'm still around.)",
+  "official_neighbors": [
+   "Perhaps accepting their offer really is the only sensible course. It boils my blood to think of letting those bullies have their way, but maybe that's reality...",
+   "(Don't much care what happens to this town, but the thought of dicks like that doin' whatever they want pisses me off.)",
+   "(I'm curious about the cabaret club business, too. Maybe I'll try to learn a bit more by helpin' out around here a bit.)",
+   "Alright, you twisted my arm, boss. I'll help ya out."
+  ]
+ },
+ {
+  "order": 207,
+  "word": "敏腕",
+  "reading": "びんわん",
+  "meaning": "ability; capability; competence; skill",
+  "pos": "na-adjective",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "グランドの支配人って、たしか敏腕と噂の……",
+  "parity": true,
+  "official_candidate": "Wh-Whaaaaaat!? Manager of the Grand, that's... You're the one everybody says is a genius! That's you!?",
+  "official_neighbors": [
+   "Sorry?",
+   "Yeah, that cabaret the Five Stars're goin' after, the Grand? I run the place.",
+   "Dunno about genius, but yeah. So it's in my own interest not to let those guys build up any more steam here. Not to mention they sound like a pack of flamin' assholes.",
+   "So, how's about you and me whip this place back into shape and take the fight to them instead?"
+  ]
+ },
+ {
+  "order": 208,
+  "word": "打っ潰す",
+  "reading": "ぶっつぶす",
+  "meaning": "to smash (violently); to crush",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "あいつらを逆にぶっつぶしたろうで。",
+  "parity": true,
+  "official_candidate": "So, how's about you and me whip this place back into shape and take the fight to them instead?",
+  "official_neighbors": [
+   "Wh-Whaaaaaat!? Manager of the Grand, that's... You're the one everybody says is a genius! That's you!?",
+   "Dunno about genius, but yeah. So it's in my own interest not to let those guys build up any more steam here. Not to mention they sound like a pack of flamin' assholes.",
+   "Y-You would really do that? I can't believe the manager of the Grand would waste his time on an empty little club like ours...",
+   "Hey, we all gotta help each other in tough times, right? 'Sides, I'm interested in learnin' more about the cabaret club business model. This'll be like a classroom for me."
+  ]
+ },
+ {
+  "order": 209,
+  "word": "業務",
+  "reading": "ぎょうむ",
+  "meaning": "business; work; operations; service",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "それに、俺もキャバクラっちゅう業務形態に",
+  "parity": true,
+  "official_candidate": "Hey, we all gotta help each other in tough times, right? 'Sides, I'm interested in learnin' more about the cabaret club business model. This'll be like a classroom for me.",
+  "official_neighbors": [
+   "So, how's about you and me whip this place back into shape and take the fight to them instead?",
+   "Y-You would really do that? I can't believe the manager of the Grand would waste his time on an empty little club like ours...",
+   "Th-Thank you so much, sir!",
+   "Whoops, guess we still ain't been introduced. It's Majima. Let's stir up some shit."
+  ]
+ },
+ {
+  "order": 210,
+  "word": "何とぞ",
+  "reading": "なにとぞ",
+  "meaning": "please; kindly; I beg of you; if it pleases you",
+  "pos": "adverb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "何卒……　よろしくお願いします!!",
+  "parity": true,
+  "official_candidate": "Majima-san, got it. Well! I'm in your debt, sir!",
+  "official_neighbors": [
+   "Th-Thank you so much, sir!",
+   "Whoops, guess we still ain't been introduced. It's Majima. Let's stir up some shit."
+  ]
+ },
+ {
+  "order": 211,
+  "word": "ぼろい",
+  "reading": "ぼろい",
+  "meaning": "lucrative; easy-money; big-money; cushy",
+  "pos": "i-adjective",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "自分殺しにきた男とボロい倉庫に缶詰や。",
+  "parity": true,
+  "official_candidate": "Hell. Guess things ain't much better for ya now. Stuck in a dusty ol' warehouse with a guy sent here to kill ya.",
+  "official_neighbors": [
+   "You had it rough for a long time there."
+  ]
+ },
+ {
+  "order": 212,
+  "word": "触れ回る",
+  "reading": "ふれまわる",
+  "meaning": "to go around spreading (news, rumors, etc.); to cry about; to circulate; to broadcast",
+  "pos": "verb",
+  "speaker": "山形",
+  "uid": "0133127b",
+  "sentence": "俺がこの秘密触れ回るとは思わんのか？",
+  "parity": true,
+  "official_candidate": "Heh, that takes balls. Is that really the sorta request you make to your biggest rival? What makes ya think I won't go spread this little secret around?",
+  "official_neighbors": [
+   "Still, askin' me to lend you space to keep a girl locked up? You're into some sick shit.",
+   "Don't breathe a word about her to anyone.",
+   "If the wrong guys knew about this, I couldn't stick around. And a Sotenbori without me's a problem for you, too.",
+   "Oh?"
+  ]
+ },
+ {
+  "order": 213,
+  "word": "重ねる",
+  "reading": "かさねる",
+  "meaning": "to pile up; to heap up; to stack up; to put on top of another",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331307",
+  "sentence": "コツコツ営業を重ねて増やすしかないんかな？",
+  "parity": true,
+  "official_candidate": "Phew! Not too shabby. Still, we're short on guests AND gals. Is there no way around that outside of the daily grind?",
+  "official_neighbors": [
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible."
+  ]
+ },
+ {
+  "order": 214,
+  "word": "向ける",
+  "reading": "むける",
+  "meaning": "to turn (towards); to face; to point; to aim",
+  "pos": "verb",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "お店の営業や、営業に向けての出勤する女の子の編成などは、",
+  "parity": true,
+  "official_candidate": "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+  "official_neighbors": [
+   "Right! Then let's get to it.",
+   "As Cabaret Club Czar, you need to operate your club, earn money and grow your clientele, and ultimately crush your competition. Your final goal: to establish Sunshine as the undisputed top club in Sotenbori!",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!"
+  ]
+ },
+ {
+  "order": 215,
+  "word": "編成",
+  "reading": "へんせい",
+  "meaning": "composition; formation; organization; organisation",
+  "pos": "verb",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "お店の営業や、営業に向けての出勤する女の子の編成などは、",
+  "parity": true,
+  "official_candidate": "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+  "official_neighbors": [
+   "Right! Then let's get to it.",
+   "As Cabaret Club Czar, you need to operate your club, earn money and grow your clientele, and ultimately crush your competition. Your final goal: to establish Sunshine as the undisputed top club in Sotenbori!",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!"
+  ]
+ },
+ {
+  "order": 216,
+  "word": "育て上げる",
+  "reading": "そだてあげる",
+  "meaning": "to raise (to maturity); to bring up; to rear; to train",
+  "pos": "verb",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "お店を人気店に育て上げれば、非常に大きな額の",
+  "parity": true,
+  "official_candidate": "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+  "official_neighbors": [
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?",
+   "Nah, I got it, thanks."
+  ]
+ },
+ {
+  "order": 217,
+  "word": "非常",
+  "reading": "ひじょう",
+  "meaning": "emergency",
+  "pos": "noun",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "お店を人気店に育て上げれば、非常に大きな額の",
+  "parity": true,
+  "official_candidate": "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+  "official_neighbors": [
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?",
+   "Nah, I got it, thanks."
+  ]
+ },
+ {
+  "order": 218,
+  "word": "額",
+  "reading": "がく",
+  "meaning": "(picture) frame; framed picture",
+  "pos": "noun",
+  "speaker": "蒼天堀 水商売アイランド",
+  "uid": "00331308",
+  "sentence": "お店を人気店に育て上げれば、非常に大きな額の",
+  "parity": true,
+  "official_candidate": "By driving Sunshine's popularity up, you can transform it into a source of tremendous profit, and anything you earn with the club is yours to spend however you wish. Grow the club, smash the competition, and become the true Cabaret Club Czar (and get filthy rich in the process)!",
+  "official_neighbors": [
+   "You can open the club as well as manage the girls who will form your active lineup by talking to Youda inside Sunshine.",
+   "As Sunshine's popularity increases and the clash with your rivals' clubs heats up, the drama will unfold. Drive those rivals out of business and you'll unlock new combat techniques Majima can learn to become even stronger, so bring the fight to them as aggressively as you can!",
+   "...I'd say that about covers the basics, anyway. Need me to run back through that again?",
+   "Nah, I got it, thanks."
+  ]
+ },
+ {
+  "order": 219,
+  "word": "行動",
+  "reading": "こうどう",
+  "meaning": "action; conduct; behaviour; behavior",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "俺の行動範囲は全部マーク済みってことか",
+  "parity": true,
+  "official_candidate": "(Looks like more of Sagawa's clowns. Guess the bastards got everywhere I might wanna go on lockdown.)",
+  "official_neighbors": [
+   "Oof, another exhaustin' day. I'm ready for a nice massage to beat my busted-up body back into some kinda shape!",
+   "(Hopefully that'll keep 'em thinkin' I'm still inside a while. Long enough to find this door and get gone, anyway.)"
+  ]
+ },
+ {
+  "order": 220,
+  "word": "マーク",
+  "reading": "マーク",
+  "meaning": "mark; sign; symbol; emblem",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "俺の行動範囲は全部マーク済みってことか",
+  "parity": true,
+  "official_candidate": "(Looks like more of Sagawa's clowns. Guess the bastards got everywhere I might wanna go on lockdown.)",
+  "official_neighbors": [
+   "Oof, another exhaustin' day. I'm ready for a nice massage to beat my busted-up body back into some kinda shape!",
+   "(Hopefully that'll keep 'em thinkin' I'm still inside a while. Long enough to find this door and get gone, anyway.)"
+  ]
+ },
+ {
+  "order": 221,
+  "word": "しくじる",
+  "reading": "しくじる",
+  "meaning": "to fail; to blunder; to mess up; to screw up",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "ここでしくじったらすべてが水の泡や。",
+  "parity": true,
+  "official_candidate": "(Shit, I'm gettin' jumpy. Stay calm. I screw this up, and it's all over. I get one shot... Gotta make sure I'm prepared.)",
+  "official_neighbors": [
+   "(I ain't goin' through that humiliation again. This time, I'm gonna do it!)",
+   "(Ready to bust in?)",
+   "(Alright... Here we go!)"
+  ]
+ },
+ {
+  "order": 222,
+  "word": "水の泡",
+  "reading": "みずのあわ",
+  "meaning": "bubble on the surface of water",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "0102229e",
+  "sentence": "ここでしくじったらすべてが水の泡や。",
+  "parity": true,
+  "official_candidate": "(Shit, I'm gettin' jumpy. Stay calm. I screw this up, and it's all over. I get one shot... Gotta make sure I'm prepared.)",
+  "official_neighbors": [
+   "(I ain't goin' through that humiliation again. This time, I'm gonna do it!)",
+   "(Ready to bust in?)",
+   "(Alright... Here we go!)"
+  ]
+ },
+ {
+  "order": 223,
+  "word": "急所",
+  "reading": "きゅうしょ",
+  "meaning": "vital part (of the body); tender spot; weak point; vitals",
+  "pos": "noun",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "いくら急所外しとっても銃で撃たれたんや！",
+  "parity": true,
+  "official_candidate": "He may not a' gotten plugged in any organs, but the guy's still shot up! What if he bleeds out and dies on me!?",
+  "official_neighbors": [
+   "Then why the hell didn't ya say so sooner?",
+   "What?",
+   "But you just... You said he'd be all right!",
+   "Sometimes ya gotta tell a white lie!"
+  ]
+ },
+ {
+  "order": 224,
+  "word": "外す",
+  "reading": "はずす",
+  "meaning": "to remove; to take off; to detach; to unfasten",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "いくら急所外しとっても銃で撃たれたんや！",
+  "parity": true,
+  "official_candidate": "He may not a' gotten plugged in any organs, but the guy's still shot up! What if he bleeds out and dies on me!?",
+  "official_neighbors": [
+   "Then why the hell didn't ya say so sooner?",
+   "What?",
+   "But you just... You said he'd be all right!",
+   "Sometimes ya gotta tell a white lie!"
+  ]
+ },
+ {
+  "order": 225,
+  "word": "出血",
+  "reading": "しゅっけつ",
+  "meaning": "bleeding; haemorrhage; hemorrhage",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "出血多量で死んでしまうかもしれんやろ！",
+  "parity": true,
+  "official_candidate": "He may not a' gotten plugged in any organs, but the guy's still shot up! What if he bleeds out and dies on me!?",
+  "official_neighbors": [
+   "Then why the hell didn't ya say so sooner?",
+   "What?",
+   "But you just... You said he'd be all right!",
+   "Sometimes ya gotta tell a white lie!"
+  ]
+ },
+ {
+  "order": 226,
+  "word": "多量",
+  "reading": "たりょう",
+  "meaning": "large quantity; large amount",
+  "pos": "na-adjective",
+  "speaker": "真島",
+  "uid": "01331278",
+  "sentence": "出血多量で死んでしまうかもしれんやろ！",
+  "parity": true,
+  "official_candidate": "He may not a' gotten plugged in any organs, but the guy's still shot up! What if he bleeds out and dies on me!?",
+  "official_neighbors": [
+   "Then why the hell didn't ya say so sooner?",
+   "What?",
+   "But you just... You said he'd be all right!",
+   "Sometimes ya gotta tell a white lie!"
+  ]
+ },
+ {
+  "order": 227,
+  "word": "己",
+  "reading": "おのれ",
+  "meaning": "oneself (itself, etc.)",
+  "pos": "pn",
+  "speaker": "ヤクザ",
+  "uid": "0133127b",
+  "sentence": "おんどれ……　余裕かましよって。何笑とんのや？",
+  "parity": true,
+  "official_candidate": "Smug bastard... You think this is funny? This amuse you?",
+  "official_neighbors": [
+   "The wannabe kidnappers. Heh... Didn't expect you to save me the trouble of trackin' you clowns down.",
+   "Yeah, I'm really lookin' forward to figurin' out why this girl's in everyone's sights.",
+   "The fuck do you think you are? You got us by surprise last night. That ain't happenin' again, patches."
+  ]
+ },
+ {
+  "order": 228,
+  "word": "余裕",
+  "reading": "よゆう",
+  "meaning": "surplus; margin; leeway; room",
+  "pos": "noun",
+  "speaker": "ヤクザ",
+  "uid": "0133127b",
+  "sentence": "おんどれ……　余裕かましよって。何笑とんのや？",
+  "parity": true,
+  "official_candidate": "Smug bastard... You think this is funny? This amuse you?",
+  "official_neighbors": [
+   "The wannabe kidnappers. Heh... Didn't expect you to save me the trouble of trackin' you clowns down.",
+   "Yeah, I'm really lookin' forward to figurin' out why this girl's in everyone's sights.",
+   "The fuck do you think you are? You got us by surprise last night. That ain't happenin' again, patches."
+  ]
+ },
+ {
+  "order": 230,
+  "word": "適当",
+  "reading": "てきとう",
+  "meaning": "suitable; proper; appropriate; adequate",
+  "pos": "na-adjective",
+  "speaker": "",
+  "uid": "0133127b",
+  "sentence": "適当にぶらついとるフリして、",
+  "parity": true,
+  "official_candidate": "(Time to play it cool like I'm just strollin' around and try to suss out where they're watchin' from.)",
+  "official_neighbors": [
+   "(First off, I gotta try to figure out whether I'm bein' watched.)"
+  ]
+ },
+ {
+  "order": 231,
+  "word": "ぶらつく",
+  "reading": "ぶらつく",
+  "meaning": "to stroll about; to saunter; to wander; to ramble",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "0133127b",
+  "sentence": "適当にぶらついとるフリして、",
+  "parity": true,
+  "official_candidate": "(Time to play it cool like I'm just strollin' around and try to suss out where they're watchin' from.)",
+  "official_neighbors": [
+   "(First off, I gotta try to figure out whether I'm bein' watched.)"
+  ]
+ },
+ {
+  "order": 232,
+  "word": "振り",
+  "reading": "ふり",
+  "meaning": "swing; shake; sweep; wave",
+  "pos": "noun",
+  "speaker": "",
+  "uid": "0133127b",
+  "sentence": "適当にぶらついとるフリして、",
+  "parity": true,
+  "official_candidate": "(Time to play it cool like I'm just strollin' around and try to suss out where they're watchin' from.)",
+  "official_neighbors": [
+   "(First off, I gotta try to figure out whether I'm bein' watched.)"
+  ]
+ },
+ {
+  "order": 233,
+  "word": "職",
+  "reading": "しょく",
+  "meaning": "job; work; employment; occupation",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "いろんな職を転々としとったらしい。",
+  "parity": true,
+  "official_candidate": "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+  "official_neighbors": [
+   "What?",
+   "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+   "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd.",
+   "Prey, huh?"
+  ]
+ },
+ {
+  "order": 234,
+  "word": "転々",
+  "reading": "てんてん",
+  "meaning": "moving from place to place; being passed around repeatedly",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "いろんな職を転々としとったらしい。",
+  "parity": true,
+  "official_candidate": "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+  "official_neighbors": [
+   "What?",
+   "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+   "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd.",
+   "Prey, huh?"
+  ]
+ },
+ {
+  "order": 235,
+  "word": "年取る",
+  "reading": "としとる",
+  "meaning": "to grow old; to age",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "いろんな職を転々としとったらしい。",
+  "parity": true,
+  "official_candidate": "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+  "official_neighbors": [
+   "What?",
+   "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+   "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd.",
+   "Prey, huh?"
+  ]
+ },
+ {
+  "order": 236,
+  "word": "格好",
+  "reading": "かっこう",
+  "meaning": "shape; form; figure; posture",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "格好の餌食やった。",
+  "parity": true,
+  "official_candidate": "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd.",
+  "official_neighbors": [
+   "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+   "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+   "Prey, huh?",
+   "Easy mark. A guy approached her. Real scum. Chatted her up long enough to find out she was all alone here, then dropped the nice guy act in a hurry."
+  ]
+ },
+ {
+  "order": 237,
+  "word": "餌食",
+  "reading": "えじき",
+  "meaning": "prey (i.e. of a predator); kill",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "格好の餌食やった。",
+  "parity": true,
+  "official_candidate": "Problem is, that made her the perfect prey for Sotenbori's less-than-savory crowd.",
+  "official_neighbors": [
+   "About two years back, Makoto first came to Osaka. No people here, no place to go... Just an 18-year-old girl on her own.",
+   "She got gigs as a live-in hostess or whatever else. Bounced around a lot.",
+   "Prey, huh?",
+   "Easy mark. A guy approached her. Real scum. Chatted her up long enough to find out she was all alone here, then dropped the nice guy act in a hurry."
+  ]
+ },
+ {
+  "order": 238,
+  "word": "皮籠",
+  "reading": "かわご",
+  "meaning": "baskets wrapped in paper, bark or skin",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "蝙蝠の刺青、皮ごと剥ぎ取ったる。",
+  "parity": true,
+  "official_candidate": "Me, though... I want to snap the fucker's neck in half. Peel the goddamn bat right off his arm.",
+  "official_neighbors": [
+   "And you been searching for this guy with the bat tattoo to get revenge for her?",
+   "Makoto says she just wants to stop the same thing from happenin' to anybody else.",
+   "But there's yer answer, right? The bat piece'a shit is small time, goes around town picking off innocent girls where he finds 'em, probably all by himself."
+  ]
+ },
+ {
+  "order": 239,
+  "word": "剥ぎ取る",
+  "reading": "はぎとる",
+  "meaning": "to tear off; to strip off; to rip off; to scrape off",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "蝙蝠の刺青、皮ごと剥ぎ取ったる。",
+  "parity": true,
+  "official_candidate": "Me, though... I want to snap the fucker's neck in half. Peel the goddamn bat right off his arm.",
+  "official_neighbors": [
+   "And you been searching for this guy with the bat tattoo to get revenge for her?",
+   "Makoto says she just wants to stop the same thing from happenin' to anybody else.",
+   "But there's yer answer, right? The bat piece'a shit is small time, goes around town picking off innocent girls where he finds 'em, probably all by himself."
+  ]
+ },
+ {
+  "order": 240,
+  "word": "見合う",
+  "reading": "みあう",
+  "meaning": "to look at each other; to exchange looks",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "それに見合う犠牲が必要になる。",
+  "parity": true,
+  "official_candidate": "I'll warn you now, though... it ain't pretty. Keepin' what really matters safe means givin' up something equal in exchange.",
+  "official_neighbors": [
+   "There's just one way you, me, and the girl all get away clean from the yakuza.",
+   "You and I would need to work together.",
+   "You need me?"
+  ]
+ },
+ {
+  "order": 241,
+  "word": "犠牲",
+  "reading": "ぎせい",
+  "meaning": "sacrifice",
+  "pos": "noun",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "それに見合う犠牲が必要になる。",
+  "parity": true,
+  "official_candidate": "I'll warn you now, though... it ain't pretty. Keepin' what really matters safe means givin' up something equal in exchange.",
+  "official_neighbors": [
+   "There's just one way you, me, and the girl all get away clean from the yakuza.",
+   "You and I would need to work together.",
+   "You need me?"
+  ]
+ },
+ {
+  "order": 242,
+  "word": "熱る",
+  "reading": "ほてる",
+  "meaning": "to feel hot; to flush; to burn",
+  "pos": "verb",
+  "speaker": "李",
+  "uid": "01331282",
+  "sentence": "おんどれみたいな甘ちゃんがイキったとこで、",
+  "parity": true,
+  "official_candidate": "Chill out. Green kid like you can play tough all he wants, you ain't scarin' anybody. I can tell plenty about you. ...Everything, really.",
+  "official_neighbors": [
+   "So riddle me this. What's a guy who can't kill doin' taking hit jobs?",
+   "You don't know shit about me.",
+   "That's ron. Sorry, pal."
+  ]
+ },
+ {
+  "order": 243,
+  "word": "早め",
+  "reading": "はやめ",
+  "meaning": "early; a little earlier than usual",
+  "pos": "na-adjective",
+  "speaker": "女の子の獲得",
+  "uid": "01331307",
+  "sentence": "早めに女の子を確保できるように努めましょう。",
+  "parity": true,
+  "official_candidate": "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+  "official_neighbors": [
+   "Phew! Not too shabby. Still, we're short on guests AND gals. Is there no way around that outside of the daily grind?",
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!"
+  ]
+ },
+ {
+  "order": 244,
+  "word": "努める",
+  "reading": "つとめる",
+  "meaning": "to endeavor (to do); to endeavour; to try hard; to work hard",
+  "pos": "verb",
+  "speaker": "女の子の獲得",
+  "uid": "01331307",
+  "sentence": "早めに女の子を確保できるように努めましょう。",
+  "parity": true,
+  "official_candidate": "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+  "official_neighbors": [
+   "Phew! Not too shabby. Still, we're short on guests AND gals. Is there no way around that outside of the daily grind?",
+   "If we wanted to hire new girls... I suppose scouting them around town is the quickest way.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!"
+  ]
+ },
+ {
+  "order": 245,
+  "word": "一気",
+  "reading": "いっき",
+  "meaning": "one breath",
+  "pos": "noun",
+  "speaker": "お店との提携",
+  "uid": "01331307",
+  "sentence": "それにより、一気にサンシャインの「ファン」を増やしてくれます。",
+  "parity": true,
+  "official_candidate": "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+  "official_neighbors": [
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!"
+  ]
+ },
+ {
+  "order": 246,
+  "word": "ファン",
+  "reading": "ファン",
+  "meaning": "fan; enthusiast; lover (of)",
+  "pos": "noun",
+  "speaker": "お店との提携",
+  "uid": "01331307",
+  "sentence": "それにより、一気にサンシャインの「ファン」を増やしてくれます。",
+  "parity": true,
+  "official_candidate": "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+  "official_neighbors": [
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!"
+  ]
+ },
+ {
+  "order": 247,
+  "word": "来客",
+  "reading": "らいきゃく",
+  "meaning": "visitor; caller",
+  "pos": "noun",
+  "speaker": "お店との提携",
+  "uid": "01331307",
+  "sentence": "「ファン」が増えれば、来客が増え、売り上げが上がります。",
+  "parity": true,
+  "official_candidate": "Some of Sotenbori's shops will sign partnership deals with you, for a price. Partner businesses will send their clients your way, growing Sunshine's fanbase in a hurry. More fans means more customers, which in turn means more profits, so sign deals with any hot spots you find!",
+  "official_neighbors": [
+   "You can add new girls to the club roster by scouting talent around Sotenbori, or by trading in CP from the Completion List at the temple. It'll be hard to outperform the competition with an empty roster, so try to fill it out as soon as possible.",
+   "And word-of-mouth from everyday business is one way to bring in new customers, but I hear signing deals with other local businesses is also effective.",
+   "Makes sense. Scout for girls, partner up with local shops... Got it. Looks like I'm gonna be busy outside the club, too.",
+   "Absolutely. The whole city's our battleground! There's a lot to do, but good luck, sir!"
+  ]
+ },
+ {
+  "order": 248,
+  "word": "サポート",
+  "reading": "サポート",
+  "meaning": "support",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "店員として真島さんのサポートに徹しようと",
+  "parity": true,
+  "official_candidate": "Of course, I'd still be here supporting you in any way I can as floor staff! Will you do it, sir?",
+  "official_neighbors": [
+   "Say what? Manager, just like that?",
+   "Yes, sir. You certainly have the experience, and I fear Sunshine can't reach its full potential under my direction. I'd give you total authority.",
+   "...Yeah, alright. If you're that serious about this, I'll do my part, too. Leave it to me.",
+   "Thank you so much! I'm at your disposal, Manager Majima!"
+  ]
+ },
+ {
+  "order": 249,
+  "word": "徹する",
+  "reading": "てっする",
+  "meaning": "to penetrate; to sink in",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "店員として真島さんのサポートに徹しようと",
+  "parity": true,
+  "official_candidate": "Of course, I'd still be here supporting you in any way I can as floor staff! Will you do it, sir?",
+  "official_neighbors": [
+   "Say what? Manager, just like that?",
+   "Yes, sir. You certainly have the experience, and I fear Sunshine can't reach its full potential under my direction. I'd give you total authority.",
+   "...Yeah, alright. If you're that serious about this, I'll do my part, too. Leave it to me.",
+   "Thank you so much! I'm at your disposal, Manager Majima!"
+  ]
+ },
+ {
+  "order": 250,
+  "word": "伺う",
+  "reading": "うかがう",
+  "meaning": "to call on someone; to call at a place; to pay a visit; to wait on someone",
+  "pos": "verb",
+  "speaker": "火野",
+  "uid": "01331307",
+  "sentence": "……ではまた、お伺いしますゆえ。",
+  "parity": true,
+  "official_candidate": "Do be careful... I'll be seeing you soon.",
+  "official_neighbors": [
+   "...! What do you plan to do to her!?",
+   "Hmmm? Me? Not a thing. But that doesn't mean that the sort of brute who would hurt a child isn't out there. These are frightening times we're living in.",
+   "Dammit... What am I supposed to do?"
+  ]
+ },
+ {
+  "order": 252,
+  "word": "渦巻く",
+  "reading": "うずまく",
+  "meaning": "to whirl; to eddy; to swirl; to curl (of smoke)",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "そこに渦巻く金や利権、人脈などをごっそり",
+  "parity": true,
+  "official_candidate": "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+  "official_neighbors": [
+   "Crush the cabarets, now?",
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves."
+  ]
+ },
+ {
+  "order": 253,
+  "word": "利権",
+  "reading": "りけん",
+  "meaning": "interest; rights; concession",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "そこに渦巻く金や利権、人脈などをごっそり",
+  "parity": true,
+  "official_candidate": "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+  "official_neighbors": [
+   "Crush the cabarets, now?",
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves."
+  ]
+ },
+ {
+  "order": 254,
+  "word": "人脈",
+  "reading": "じんみゃく",
+  "meaning": "personal connections",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "そこに渦巻く金や利権、人脈などをごっそり",
+  "parity": true,
+  "official_candidate": "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+  "official_neighbors": [
+   "Crush the cabarets, now?",
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves."
+  ]
+ },
+ {
+  "order": 255,
+  "word": "ごっそり",
+  "reading": "ごっそり",
+  "meaning": "completely; entirely; all",
+  "pos": "adverb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "そこに渦巻く金や利権、人脈などをごっそり",
+  "parity": true,
+  "official_candidate": "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+  "official_neighbors": [
+   "Crush the cabarets, now?",
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves."
+  ]
+ },
+ {
+  "order": 256,
+  "word": "新興",
+  "reading": "しんこう",
+  "meaning": "rising; developing; emergent; burgeoning",
+  "pos": "adj-no",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "……だから、新興勢力であるキャバクラを完全独占",
+  "parity": true,
+  "official_candidate": "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+  "official_neighbors": [
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+   "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them..."
+  ]
+ },
+ {
+  "order": 257,
+  "word": "勢力",
+  "reading": "せいりょく",
+  "meaning": "influence; power; might; strength",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "……だから、新興勢力であるキャバクラを完全独占",
+  "parity": true,
+  "official_candidate": "And apparently securing an airtight monopoly on the newly- minted cabaret club industry is essential to them getting the leverage to tackle the cabarets.",
+  "official_neighbors": [
+   "Yes. Even with the rise of the cabaret clubs, the big-box cabarets like the Grand still control a great deal of money and power in the nightlife industry here.",
+   "Their aim is to take those cabarets down, and claim that cash, influence, and personnel network for themselves.",
+   "Now it makes sense. If they can get the cabaret clubs AND the cabarets, they could have control of the whole city all to themselves.",
+   "Exactly. But it isn't fair that clubs like ours should have to suffer such treatment for their ambitions. I'd sooner swallow glass than give in to them..."
+  ]
+ },
+ {
+  "order": 258,
+  "word": "行為",
+  "reading": "こうい",
+  "meaning": "act; deed; conduct",
+  "pos": "noun",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "でも、あいつらによる店内での迷惑行為の連続で、",
+  "parity": true,
+  "official_candidate": "Then they started causing trouble here in the club. After a string of incidents, we'd lost our clientele, and most of our girls were poached.",
+  "official_neighbors": [
+   "If you can believe it, we were leading the pack just a short time ago. First, maybe second most popular club in the area.",
+   "At this rate, the club can't stay open long, no matter what I do.",
+   "Perhaps accepting their offer really is the only sensible course. It boils my blood to think of letting those bullies have their way, but maybe that's reality..."
+  ]
+ },
+ {
+  "order": 259,
+  "word": "連続",
+  "reading": "れんぞく",
+  "meaning": "continuation; succession; series; sequence",
+  "pos": "verb",
+  "speaker": "陽田",
+  "uid": "01331307",
+  "sentence": "でも、あいつらによる店内での迷惑行為の連続で、",
+  "parity": true,
+  "official_candidate": "Then they started causing trouble here in the club. After a string of incidents, we'd lost our clientele, and most of our girls were poached.",
+  "official_neighbors": [
+   "If you can believe it, we were leading the pack just a short time ago. First, maybe second most popular club in the area.",
+   "At this rate, the club can't stay open long, no matter what I do.",
+   "Perhaps accepting their offer really is the only sensible course. It boils my blood to think of letting those bullies have their way, but maybe that's reality..."
+  ]
+ },
+ {
+  "order": 260,
+  "word": "謎",
+  "reading": "なぞ",
+  "meaning": "riddle; puzzle; enigma; mystery",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch7",
+  "sentence": "謎の女",
+  "parity": true,
+  "official_candidate": "Mysterious Woman",
+  "official_neighbors": []
+ },
+ {
+  "order": 261,
+  "word": "小男",
+  "reading": "こおとこ",
+  "meaning": "small man",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch7",
+  "sentence": "小男",
+  "parity": true,
+  "official_candidate": "Little Guy",
+  "official_neighbors": []
+ },
+ {
+  "order": 262,
+  "word": "小太り",
+  "reading": "こぶとり",
+  "meaning": "plump",
+  "pos": "na-adjective",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch7",
+  "sentence": "小太りの男",
+  "parity": true,
+  "official_candidate": "Pudgy Man",
+  "official_neighbors": []
+ }
+]
