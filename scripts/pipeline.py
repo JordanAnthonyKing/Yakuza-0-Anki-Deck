@@ -204,14 +204,8 @@ def steps(ch):
     S += [
         ("align", "py", (["build_align.py", str(ch)], [f"data/align_ch{ch}.json"], False)),
         ("translate", "agent", lambda: translate_jobs(ch)),
-        ("regate-prep", "py", (["regate.py", "prep", str(ch)], [f"data/translate/regate_ch{ch}/"], False)),
-        ("regate", "agent", lambda: [("gate", p, p.replace(os.sep + "in_", os.sep + "out_"))
-                                     for p in sorted(glob.glob(rg("in_part*.json")))]),
-        ("regate-review", "review",
-         f"Spot-check ~10 random accepts in data/translate/regate_ch{ch}/out_part*.json against their "
-         f"in_part sentence+literal (`pipeline.py sample {ch} part`). Reject wrong ones by setting "
-         f"official_ok false in the out file."),
-        ("regate-merge", "py", (["regate.py", "merge", str(ch)], [f"data/translate/ch{ch}/"], False)),
+        # (no ±5 re-gate: that fixed Ch1/Ch2, whose first pass saw a truncated window; from
+        # Ch3 on the translate pass already sees the full ±5, so re-gating it repeats itself)
         ("bracket-prep", "py", (["regate.py", "bracket", str(ch)], [f"data/translate/regate_ch{ch}/"], False)),
         ("bracket", "agent", lambda: [("gate", p, p.replace(os.sep + "in_", os.sep + "out_"))
                                       for p in sorted(glob.glob(rg("in_bracket*.json")))]),
@@ -230,7 +224,6 @@ def steps(ch):
 # reviews that have nothing to look at are marked automatically
 _rg = lambda ch, pat: glob.glob(os.path.join(DATA, "translate", f"regate_ch{ch}", pat))
 REVIEW_SKIP = {
-    "regate-review": lambda ch: not _rg(ch, "out_part*.json"),
     "bracket-review": lambda ch: not _rg(ch, "out_bracket*.json"),
 }
 
@@ -350,7 +343,7 @@ def status():
         name, _ = chapter_state(ch)
         state = "complete" if name is None else f"next: {name}"
         extra = ""
-        if name is None or marked(ch, "regate-merge"):
+        if name is None or marked(ch, "translate"):
             ok, n = official_rate(ch)
             extra = f"  ({n} cards, {ok} official)"
         vocab = "vocab ✓" if ch in ledger_chapters() else "vocab …"
