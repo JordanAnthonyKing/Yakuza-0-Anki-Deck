@@ -121,48 +121,48 @@
  },
  "88": {
   "literal": "Oh, keep what I just said a secret, okay?",
-  "official": "",
-  "official_ok": false
+  "official": "Ooh, keep that last one between us, yeah?",
+  "official_ok": true
  },
  "89": {
   "literal": "If the other girls found out I said something like that,",
-  "official": "",
-  "official_ok": false
+  "official": "If the other girls heard I said that, it'd cause drama...",
+  "official_ok": true
  },
  "90": {
   "literal": "Just like the rumors say, their hostess training seems flawless.",
-  "official": "",
-  "official_ok": false
+  "official": "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess.)",
+  "official_ok": true
  },
  "91": {
   "literal": "She'd be more than capable of handling them...",
-  "official": "",
-  "official_ok": false
+  "official": "She'll do just fine, even with the high rollers.",
+  "official_ok": true
  },
  "92": {
   "literal": "If you'd like, I can bring you a drink as well...?",
-  "official": "",
-  "official_ok": false
+  "official": "I'd be happy to bring you a drink while you wait...",
+  "official_ok": true
  },
  "93": {
   "literal": "I'll just wait at my leisure.",
-  "official": "",
-  "official_ok": false
+  "official": "I'm in no rush here.",
+  "official_ok": true
  },
  "94": {
   "literal": "Not turning customers away even when they're full... Impressive.",
-  "official": "",
-  "official_ok": false
+  "official": "(Full-up but still not turnin' customers away... Nice.)",
+  "official_ok": true
  },
  "95": {
   "literal": "Here, it'd be better not to go requesting Nozomi carelessly",
-  "official": "",
-  "official_ok": false
+  "official": "Still, I'll probably get in quicker if I don't put in a request for Nozomi.",
+  "official_ok": true
  },
  "96": {
   "literal": "Party of one, right this way. Please follow me.",
-  "official": "",
-  "official_ok": false
+  "official": "We're ready for you, sir. Please follow me.",
+  "official_ok": true
  },
  "97": {
   "literal": "At least inside the club, why not take off those sunglasses?",

@@ -136,23 +136,23 @@
  },
  "539": {
   "literal": "Your skill as a trainer really does seem to be the real deal.",
-  "official": "",
-  "official_ok": false
+  "official": "You've got skills as a trainer, that much I believe.",
+  "official_ok": true
  },
  "540": {
   "literal": "Your skill as a trainer really does seem to be the real deal.",
-  "official": "",
-  "official_ok": false
+  "official": "You've got skills as a trainer, that much I believe.",
+  "official_ok": true
  },
  "541": {
   "literal": "I don't have the luxury of worrying about anything unnecessary.",
-  "official": "",
-  "official_ok": false
+  "official": "But I'm really not in a position to be worrying about anybody but myself right now.",
+  "official_ok": true
  },
  "542": {
   "literal": "I don't have the luxury of worrying about anything unnecessary.",
-  "official": "",
-  "official_ok": false
+  "official": "But I'm really not in a position to be worrying about anybody but myself right now.",
+  "official_ok": true
  },
  "543": {
   "literal": "With this, Kazama-san's position becomes precarious too...",
@@ -281,13 +281,13 @@
  },
  "568": {
   "literal": "Yeah. I'm just about ready to blow my top over here...",
-  "official": "",
-  "official_ok": false
+  "official": "Yeah. I'm pretty close to blowing a fuse at this point...",
+  "official_ok": true
  },
  "569": {
   "literal": "Yeah. I'm just about ready to blow my top over here...",
-  "official": "",
-  "official_ok": false
+  "official": "Yeah. I'm pretty close to blowing a fuse at this point...",
+  "official_ok": true
  },
  "570": {
   "literal": "I can pretty much guess what happened from there on.",

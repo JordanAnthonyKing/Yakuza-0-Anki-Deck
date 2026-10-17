@@ -1,0 +1,733 @@
+[
+ {
+  "order": 0,
+  "speaker": "桐生",
+  "sentence": "劇場前の方にでも行ってみるか……）",
+  "literal": "(Maybe I should head over toward the front of the theater...)",
+  "official_candidate": "----請翻譯成中國----. ----請翻譯成中國----.",
+  "official_neighbors": []
+ },
+ {
+  "order": 42,
+  "speaker": "桐生",
+  "sentence": "聞いて呆れるな……）",
+  "literal": "(Now that's a laugh...)",
+  "official_candidate": "(724106, huh? That's code for \"Whatcha up to?\" ...I'm waiting for your slow ass to show up.)",
+  "official_neighbors": [
+   "(This is where Nishiki said he'd meet me. Guess I beat him here.)",
+   "(May as well have a look around and see if I can find him.)"
+  ]
+ },
+ {
+  "order": 71,
+  "speaker": "今時の青年",
+  "sentence": "話題になって……",
+  "literal": "the conversation turned to that, and...",
+  "official_candidate": "I remember watching music videos at that bar... Then we got to talking about which idols we liked...",
+  "official_neighbors": [
+   "Must be your delicate touch.",
+   "Yeah, then some smartass started making fun of poor, sweet Shoko-chan, and then... Rgh, my head's throbbing. I can't remember past that."
+  ]
+ },
+ {
+  "order": 77,
+  "speaker": "桐生",
+  "sentence": "最近の景気で金持った、",
+  "literal": "Guys who struck it rich in this recent boom—",
+  "official_candidate": "Ha. Isn't that part of the draw? This town's a perfect fit for the newly-minted rich playboys this economy's churned out.",
+  "official_neighbors": [
+   "Stay classy, Kamurocho...",
+   "They come thirsty for booze and women, and Kamurocho's got both in spades.",
+   "When did you start waxing poetic? Not that you're wrong."
+  ]
+ },
+ {
+  "order": 100,
+  "speaker": "桐生",
+  "sentence": "……まさか、その１００万、",
+  "literal": "...Don't tell me, that one million yen—",
+  "official_candidate": "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+  "official_neighbors": [
+   "I'm sorry, \"pupil\"?",
+   "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+   "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+   "Like hell they are! And since when are you my master, anyway?"
+  ]
+ },
+ {
+  "order": 140,
+  "speaker": "桐生",
+  "sentence": "……いかがわしい仕事みたいだな。",
+  "literal": "...Sounds like some shady line of work.",
+  "official_candidate": "Whoa... That's not really my scene.",
+  "official_neighbors": [
+   "At Kamoji's job? But he's homeless, right? What kind of work does he do?",
+   "He's a... whatchacallit. A fisting artist!",
+   "That ain't it! It's PUNCHOUT artist.",
+   "Yeah, that! A punchout artist. Heh, slip of the tongue."
+  ]
+ },
+ {
+  "order": 148,
+  "speaker": "バッカス",
+  "sentence": "……まぁ、会ったばかりの人間から、",
+  "literal": "...Well, coming from someone I've only just met,",
+  "official_candidate": "...Yeah, okay. We just met. You're not gonna change your life around because some old geezer asked you to. I get it. I'll give up... for now.",
+  "official_neighbors": [
+   "You belong in the light. The spotlight! And I can get you under all the brightest ones. What do you say? You and me versus the world!",
+   "......",
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "You've got skills as a trainer, that much I believe."
+  ]
+ },
+ {
+  "order": 149,
+  "speaker": "桐生",
+  "sentence": "だが、今の俺にはとにかく",
+  "literal": "But for me right now, above all else,",
+  "official_candidate": "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+  "official_neighbors": [
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "You've got skills as a trainer, that much I believe.",
+   "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!",
+   "Are you TRYING to jinx me? ...See you later, Bacchus."
+  ]
+ },
+ {
+  "order": 150,
+  "speaker": "バッカス",
+  "sentence": "ナイフに刺されて死なないようにネ！",
+  "literal": "Try not to get stabbed to death by a knife, eh!",
+  "official_candidate": "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!",
+  "official_neighbors": [
+   "You've got skills as a trainer, that much I believe.",
+   "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+   "Are you TRYING to jinx me? ...See you later, Bacchus."
+  ]
+ },
+ {
+  "order": 151,
+  "speaker": "バッカス",
+  "sentence": "あと、ガンで撃たれるのもアブナイよ！",
+  "literal": "Also, getting shot with a gun is dangerous too, y'know!",
+  "official_candidate": "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!",
+  "official_neighbors": [
+   "You've got skills as a trainer, that much I believe.",
+   "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+   "Are you TRYING to jinx me? ...See you later, Bacchus."
+  ]
+ },
+ {
+  "order": 152,
+  "speaker": "桐生",
+  "sentence": "縁起でもねぇこと言うんじゃねぇよ。",
+  "literal": "Don't go saying such ominous things.",
+  "official_candidate": "Are you TRYING to jinx me? ...See you later, Bacchus.",
+  "official_neighbors": [
+   "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+   "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!",
+   "(Apparently the Toko Credit President's in his office on Taihei Boulevard East. I'll start there.)"
+  ]
+ },
+ {
+  "order": 153,
+  "speaker": "桐生",
+  "sentence": "（この番号……　どこからだ？）",
+  "literal": "(This number... where's it from?)",
+  "official_candidate": "(...Don't recognize the number.)",
+  "official_neighbors": [
+   "(It's not his number, but that's got to be Nishiki calling. I'll find a phone and call him back.)"
+  ]
+ },
+ {
+  "order": 154,
+  "speaker": "桐生",
+  "sentence": "公衆電話を探してかけてみるか）",
+  "literal": "(Guess I'll go find a payphone and try calling back.)",
+  "official_candidate": "(It's not his number, but that's got to be Nishiki calling. I'll find a phone and call him back.)",
+  "official_neighbors": [
+   "(...Don't recognize the number.)",
+   "(Nishiki should be waiting with the car. I need to get to Showa Street.)"
+  ]
+ },
+ {
+  "order": 155,
+  "speaker": "",
+  "sentence": "（錦が車を回してくれているはずだ。",
+  "literal": "(Nishiki should be bringing the car around.)",
+  "official_candidate": "(Nishiki should be waiting with the car. I need to get to Showa Street.)",
+  "official_neighbors": [
+   "(It's not his number, but that's got to be Nishiki calling. I'll find a phone and call him back.)"
+  ]
+ },
+ {
+  "order": 157,
+  "speaker": "",
+  "sentence": "チンピラ風の男",
+  "literal": "A punk-looking man",
+  "official_candidate": "P_KRU_TLK_stand_kamae",
+  "official_neighbors": [
+   "Talk_Request",
+   "Talk_Surp",
+   "M_NML_TLK_btl_aft_05_en",
+   "kaiwabgm_sub_apathy_03",
+   "Bacchus",
+   "P_KRU_TLK_stand_PB_en",
+   "Player"
+  ]
+ },
+ {
+  "order": 159,
+  "speaker": "錦山",
+  "sentence": "やっぱり……",
+  "literal": "Just as I thought...",
+  "official_candidate": "You think... It's gotta be about what they were saying on the news, right?",
+  "official_neighbors": [
+   "I'm gonna go call in.",
+   "This is bad.",
+   "You're obviously screwed, but this also paints a giant target on Kazama-san's back."
+  ]
+ },
+ {
+  "order": 172,
+  "speaker": "錦山",
+  "sentence": "わかった、俺はとりあえず",
+  "literal": "All right. For now, I'll...",
+  "official_candidate": "All right, you go. I'll see if I can get some advice.",
+  "official_neighbors": [
+   "Either way, I've got no choice but to call them back... Right?",
+   "Yeah... I guess not.",
+   "Thanks."
+  ]
+ },
+ {
+  "order": 173,
+  "speaker": "錦山",
+  "sentence": "知恵貸してくれる人を探してみる。",
+  "literal": "I'll try to find someone who can lend me their wits.",
+  "official_candidate": "All right, you go. I'll see if I can get some advice.",
+  "official_neighbors": [
+   "Either way, I've got no choice but to call them back... Right?",
+   "Yeah... I guess not.",
+   "Thanks."
+  ]
+ },
+ {
+  "order": 210,
+  "speaker": "桐生",
+  "sentence": "お前ら半殺しにして、会う気にさせてやる。",
+  "literal": "I'll beat you lot half to death and make him willing to see me.",
+  "official_candidate": "Well... I guess I'll have to change his mind by beating you guys half to death.",
+  "official_neighbors": [
+   "I just dropped by to thank the president for trying to frame me.",
+   "The President has no interest in speaking with you, Kiryu-san.",
+   "You alone, against all of us?",
+   "Yeah. I'm pretty close to blowing a fuse at this point... So clear a path, you punk-ass trash!"
+  ]
+ },
+ {
+  "order": 211,
+  "speaker": "極道",
+  "sentence": "この人数相手に、あんたひとりでか？",
+  "literal": "Against this many guys, all by yourself?",
+  "official_candidate": "You alone, against all of us?",
+  "official_neighbors": [
+   "The President has no interest in speaking with you, Kiryu-san.",
+   "Well... I guess I'll have to change his mind by beating you guys half to death.",
+   "Yeah. I'm pretty close to blowing a fuse at this point... So clear a path, you punk-ass trash!"
+  ]
+ },
+ {
+  "order": 212,
+  "speaker": "桐生",
+  "sentence": "さっさと道空けねえか、チンピラぁ!!",
+  "literal": "Get out of the way already, you punk!!",
+  "official_candidate": "Yeah. I'm pretty close to blowing a fuse at this point... So clear a path, you punk-ass trash!",
+  "official_neighbors": [
+   "Well... I guess I'll have to change his mind by beating you guys half to death.",
+   "You alone, against all of us?"
+  ]
+ },
+ {
+  "order": 226,
+  "speaker": "柏木",
+  "sentence": "地上げをしている。",
+  "literal": "they're doing land-sharking.",
+  "official_candidate": "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+  "official_neighbors": [
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on."
+  ]
+ },
+ {
+  "order": 239,
+  "speaker": "柏木",
+  "sentence": "今は何も手が打てねえ。",
+  "literal": "Right now there's nothing we can do about it.",
+  "official_candidate": "They'd find a way. And with Kazama in prison now, he can't stop them.",
+  "official_neighbors": [
+   "Drive him out?",
+   "No way... You really think they could get him expelled!?",
+   "Kazama-san, expelled...?"
+  ]
+ },
+ {
+  "order": 249,
+  "speaker": "桐生",
+  "sentence": "俺は親っさんを守るために動きます。",
+  "literal": "I'll make my move to protect the boss.",
+  "official_candidate": "What matters most to me right now is protecting Kazama-san, and that's what I'm going to do.",
+  "official_neighbors": [
+   "Hm?",
+   "My innocence and the Empty Lot can both wait.",
+   "You have a plan?",
+   "Yes, sir... I let this happen. I'll take responsibility for it alone."
+  ]
+ },
+ {
+  "order": 250,
+  "speaker": "桐生",
+  "sentence": "俺の不始末は、俺ひとりでケジメつけます。",
+  "literal": "I'll answer for my own screwup by myself.",
+  "official_candidate": "Yes, sir... I let this happen. I'll take responsibility for it alone.",
+  "official_neighbors": [
+   "What matters most to me right now is protecting Kazama-san, and that's what I'm going to do.",
+   "You have a plan?",
+   "There's only one way to keep this from coming back around to Kazama-san."
+  ]
+ },
+ {
+  "order": 269,
+  "speaker": "錦山",
+  "sentence": "そういうのしあがり方もあるさ。",
+  "literal": "There's that way of turning out, too.",
+  "official_candidate": "You keep pulling your weight under Kazama-san, maybe he'll bring you with him when he makes it really big. That's just as legit an approach as mine.",
+  "official_neighbors": [
+   "You know, maybe you're fine just the way you are.",
+   "Hm?",
+   "Just remember, you're technically not one of Kazama-san's boys. You're in the Dojima Family."
+  ]
+ },
+ {
+  "order": 270,
+  "speaker": "錦山",
+  "sentence": "ただ、お前は風間の親っさんの子じゃない。",
+  "literal": "It's just that you're not Kazama's kid.",
+  "official_candidate": "Just remember, you're technically not one of Kazama-san's boys. You're in the Dojima Family.",
+  "official_neighbors": [
+   "Hm?",
+   "You keep pulling your weight under Kazama-san, maybe he'll bring you with him when he makes it really big. That's just as legit an approach as mine.",
+   "Why do you figure the old man didn't take us on as Kazama Family men? Sure, the Dojima Family's higher up the pecking order, but still..."
+  ]
+ },
+ {
+  "order": 271,
+  "speaker": "錦山",
+  "sentence": "堂島組の組員なんだ。",
+  "literal": "You're a member of the Dojima Family.",
+  "official_candidate": "Just remember, you're technically not one of Kazama-san's boys. You're in the Dojima Family.",
+  "official_neighbors": [
+   "Hm?",
+   "You keep pulling your weight under Kazama-san, maybe he'll bring you with him when he makes it really big. That's just as legit an approach as mine.",
+   "Why do you figure the old man didn't take us on as Kazama Family men? Sure, the Dojima Family's higher up the pecking order, but still..."
+  ]
+ },
+ {
+  "order": 272,
+  "speaker": "桐生",
+  "sentence": "よせよ……　親っさんに考えがあってのことだ。",
+  "literal": "Cut it out... The old man had his reasons for doing it.",
+  "official_candidate": "Doesn't matter. I'm sure he had his reasons.",
+  "official_neighbors": [
+   "Why do you figure the old man didn't take us on as Kazama Family men? Sure, the Dojima Family's higher up the pecking order, but still...",
+   "Yeah, you're probably right."
+  ]
+ },
+ {
+  "order": 273,
+  "speaker": "錦山",
+  "sentence": "よし！　真面目な話はもうやめだ！",
+  "literal": "All right! Enough with the serious talk!",
+  "official_candidate": "Anyway! That's enough serious talk for one night!",
+  "official_neighbors": [
+   "Yeah, you're probably right.",
+   "Let's get crazy on some karaoke! C'mon!"
+  ]
+ },
+ {
+  "order": 285,
+  "speaker": "阿波野",
+  "sentence": "このままじゃ“あっちの仕事”に支障がでちまう。",
+  "literal": "At this rate, it'll get in the way of 'that other job.'",
+  "official_candidate": "And in that lot, on top of it all. This is gonna have repercussions on that other project.",
+  "official_neighbors": [
+   "Then it sounds like we'll need to ask this loan shark a few questions.",
+   "Still, doesn't change the fact that one of our boys was involved in the killin'.",
+   "......",
+   "What do you think, Kuze?"
+  ]
+ },
+ {
+  "order": 321,
+  "speaker": "堂島",
+  "sentence": "極道は一度身ぃ引いたらしまいだ。",
+  "literal": "Once you've pulled out of the yakuza life even once, that's the end of it.",
+  "official_candidate": "There's no coming back once you're out of the yakuza. I suggest you find a nice little job and live a nice little life.",
+  "official_neighbors": [
+   "You were a yakuza till a minute ago. You understand the logic, right?",
+   "Sir!"
+  ]
+ },
+ {
+  "order": 329,
+  "speaker": "",
+  "sentence": "可能です。",
+  "literal": "It's possible.",
+  "official_candidate": "You can save the game and use the Item Box at pay phones.",
+  "official_neighbors": []
+ },
+ {
+  "order": 336,
+  "speaker": "",
+  "sentence": "とある組織の幹部組員",
+  "literal": "A senior member of a certain organization.",
+  "official_candidate": "Kiryu",
+  "official_neighbors": [
+   "I'm saying he's paid them all enough to keep quiet. If he's really the kind of guy they say he is, it's possible. Shit... Wonder if there's any way to outspend him.",
+   "Um, with what money, sir? We don't really have any...",
+   "Then get the hell out there and find me some information! Forget the informants. Go hit one of the businesses he's bought out or something!",
+   "Y-Yessir!",
+   "\bFYakuza Brass",
+   "Yakuza Underling",
+   "Talk_Ojigi",
+   "Talk_Angry",
+   "Talk_Sorry"
+  ]
+ },
+ {
+  "order": 360,
+  "speaker": "初老の外国人",
+  "sentence": "ノーノー、闘うのは１人ずつヨ。",
+  "literal": "No, no, you fight them one at a time.",
+  "official_candidate": "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+  "official_neighbors": [
+   "You have your tank back there fight us for it. He beats all three of us, the two million's yours! We win, and we don't owe you a thing.",
+   "Shit, you're not drunk, you're crazy! Bruno's famous around here for busting heads. All three of you could rush him at the same time and he'd snap you like twigs.",
+   "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+   "Well that's just lovely."
+  ]
+ },
+ {
+  "order": 361,
+  "speaker": "初老の外国人",
+  "sentence": "３人がかりで闘うのはフェアじゃナイネ。",
+  "literal": "Taking him on three-on-one wouldn't be fair.",
+  "official_candidate": "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+  "official_neighbors": [
+   "You have your tank back there fight us for it. He beats all three of us, the two million's yours! We win, and we don't owe you a thing.",
+   "Shit, you're not drunk, you're crazy! Bruno's famous around here for busting heads. All three of you could rush him at the same time and he'd snap you like twigs.",
+   "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+   "Well that's just lovely."
+  ]
+ },
+ {
+  "order": 362,
+  "speaker": "チンピラ風の男",
+  "sentence": "ハハハ！　ブル野を相手にタイマンだと!?",
+  "literal": "Hahaha! A one-on-one against Bruno?!",
+  "official_candidate": "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+  "official_neighbors": [
+   "Shit, you're not drunk, you're crazy! Bruno's famous around here for busting heads. All three of you could rush him at the same time and he'd snap you like twigs.",
+   "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+   "Well that's just lovely.",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now."
+  ]
+ },
+ {
+  "order": 363,
+  "speaker": "チンピラ風の男",
+  "sentence": "とんだ自殺志願者もいたもんだ！",
+  "literal": "What an outrageous death-wish volunteer we've got here!",
+  "official_candidate": "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+  "official_neighbors": [
+   "Shit, you're not drunk, you're crazy! Bruno's famous around here for busting heads. All three of you could rush him at the same time and he'd snap you like twigs.",
+   "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+   "Well that's just lovely.",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now."
+  ]
+ },
+ {
+  "order": 364,
+  "speaker": "初老の外国人",
+  "sentence": "レッツファイト！",
+  "literal": "Let's fight!",
+  "official_candidate": "Aaand, FIGHT!",
+  "official_neighbors": [
+   "He'll be fine. Just a little workout. You just focus on keeping an eye on the action, boy. Watch Kamoji's moves.",
+   "Seriously!?"
+  ]
+ },
+ {
+  "order": 365,
+  "speaker": "チンピラ風の男",
+  "sentence": "ブル野はまだピンピンしてるぞ？",
+  "literal": "Bruno's still full of energy, you know?",
+  "official_candidate": "Hey, you in the coat. Homeless dude! Bruno's barely got a scratch on him. You gonna try to finish the job with those weak-ass punches?",
+  "official_neighbors": [
+   "Kamoji, was it? What were those moves just now? Actually, forget it. Are you okay? You shouldn't push yourself like that.",
+   "Ha ha, he's fine! Told you, didn't I? Big guy didn't land a single punch on him.",
+   "Ah, no. Kamoji-kun, you sit this one out. I'm calling the round as your manager! Let the kid take it from here.",
+   "You know what to do, don't you, boy?"
+  ]
+ },
+ {
+  "order": 366,
+  "speaker": "カモジ",
+  "sentence": "七福パークっていう駐車場だぁ。",
+  "literal": "It's a parking lot called Shichifuku Park.",
+  "official_candidate": "Naw, nothing like that! Come on by and watch, if you got questions. I work in the Shichifuku Parking Lot.",
+  "official_neighbors": [
+   "The customer pays a fee, then they get to throw as many punches at me as they like.",
+   "I don't think I follow. This some new S&M thing?",
+   "Kamoji-kun here's got plenty to teach you about fighting, my boy. You'll kick yourself if you don't check it out.",
+   "All right, I get the picture. Shichifuku Parking Lot, right? I'll swing by if I can find the time."
+  ]
+ },
+ {
+  "order": 367,
+  "speaker": "バッカス",
+  "sentence": "カモジ君はボーイのファイトに役立つ",
+  "literal": "Kamoji-kun comes in handy for the boy's fights—",
+  "official_candidate": "Kamoji-kun here's got plenty to teach you about fighting, my boy. You'll kick yourself if you don't check it out.",
+  "official_neighbors": [
+   "I don't think I follow. This some new S&M thing?",
+   "Naw, nothing like that! Come on by and watch, if you got questions. I work in the Shichifuku Parking Lot.",
+   "All right, I get the picture. Shichifuku Parking Lot, right? I'll swing by if I can find the time.",
+   "It's Kiryu-san, from the Dojima Family, right? I'll be waiting! See you soon."
+  ]
+ },
+ {
+  "order": 369,
+  "speaker": "桐生",
+  "sentence": "（ん？　ポケベルの呼び出しか）",
+  "literal": "(Hm? A page from my pager?)",
+  "official_candidate": "(Hm? That's my beeper.)",
+  "official_neighbors": [
+   "(Apparently the Toko Credit President's in his office on Taihei Boulevard East. I'll start there.)"
+  ]
+ },
+ {
+  "order": 370,
+  "speaker": "桐生",
+  "sentence": "（見覚えのねえ番号だが……　どうせ錦からだろう。",
+  "literal": "(It's a number I don't recognize... but it's probably from Nishiki anyway.",
+  "official_candidate": "(It's not his number, but that's got to be Nishiki calling. I'll find a phone and call him back.)",
+  "official_neighbors": [
+   "(...Don't recognize the number.)",
+   "(Nishiki should be waiting with the car. I need to get to Showa Street.)"
+  ]
+ },
+ {
+  "order": 386,
+  "speaker": "桐生",
+  "sentence": "（錦のことだ。そこらをブラついてるかもしれない。",
+  "literal": "(Knowing Nishiki, he might be loafing around somewhere nearby.)",
+  "official_candidate": "----請翻譯成中國----. ----請翻譯成中國----.",
+  "official_neighbors": []
+ },
+ {
+  "order": 387,
+  "speaker": "桐生",
+  "sentence": "（錦のことだ。そこらをブラついてるかもしれない。",
+  "literal": "(Knowing Nishiki, he might be loafing around somewhere nearby.)",
+  "official_candidate": "----請翻譯成中國----. ----請翻譯成中國----.",
+  "official_neighbors": []
+ },
+ {
+  "order": 447,
+  "speaker": "錦山",
+  "sentence": "カタギのクセしてアコギな商売するヤツに",
+  "literal": "To a guy who, despite being a straight citizen, runs a ruthless racket...",
+  "official_candidate": "I do say so. Take your buddy today. These squeaky-clean idiots, borrowing money just to blow on tits and booze...",
+  "official_neighbors": [
+   "If you say so.",
+   "Nobody in this town gives a crap about substance. What you see is what you get.",
+   "Fine, I get it already. Are we going drinking tonight, or are you gonna keep ranting?"
+  ]
+ },
+ {
+  "order": 492,
+  "speaker": "初老の外国人",
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official_candidate": "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+  "official_neighbors": [
+   "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+   "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+   "Like hell they are! And since when are you my master, anyway?",
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient."
+  ]
+ },
+ {
+  "order": 493,
+  "speaker": "初老の外国人",
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official_candidate": "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+  "official_neighbors": [
+   "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+   "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+   "Like hell they are! And since when are you my master, anyway?",
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient."
+  ]
+ },
+ {
+  "order": 494,
+  "speaker": "初老の外国人",
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official_candidate": "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+  "official_neighbors": [
+   "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+   "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+   "Like hell they are! And since when are you my master, anyway?",
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient."
+  ]
+ },
+ {
+  "order": 501,
+  "speaker": "初老の外国人",
+  "sentence": "グッド！　交渉成立ネ！",
+  "literal": "Good! We've got a deal!",
+  "official_candidate": "Well that's just lovely.",
+  "official_neighbors": [
+   "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+   "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now.",
+   "Okay, I'll go first then!"
+  ]
+ },
+ {
+  "order": 502,
+  "speaker": "初老の外国人",
+  "sentence": "グッド！　交渉成立ネ！",
+  "literal": "Good! Negotiation's settled!",
+  "official_candidate": "Well that's just lovely.",
+  "official_neighbors": [
+   "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+   "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now.",
+   "Okay, I'll go first then!"
+  ]
+ },
+ {
+  "order": 503,
+  "speaker": "初老の外国人",
+  "sentence": "グッド！　交渉成立ネ！",
+  "literal": "Good! The deal is struck!",
+  "official_candidate": "Well that's just lovely.",
+  "official_neighbors": [
+   "Nah, nah! Fight's gotta be one-on-one. Rules and all. Three against one wouldn't be fair.",
+   "Ha! You want to take him on SOLO!? Well, hell. If you don't mind me taking the money off your corpse, I'm game. You got yourself a deal!",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now.",
+   "Okay, I'll go first then!"
+  ]
+ },
+ {
+  "order": 539,
+  "speaker": "桐生",
+  "sentence": "アンタのトレーナーとしての腕前は、本物らしい。",
+  "literal": "Your skill as a trainer really does seem to be the real deal.",
+  "official_candidate": "You've got skills as a trainer, that much I believe.",
+  "official_neighbors": [
+   "...Yeah, okay. We just met. You're not gonna change your life around because some old geezer asked you to. I get it. I'll give up... for now.",
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+   "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!"
+  ]
+ },
+ {
+  "order": 540,
+  "speaker": "桐生",
+  "sentence": "アンタのトレーナーとしての腕前は、本物らしい。",
+  "literal": "Your skill as a trainer really does seem to be the real deal.",
+  "official_candidate": "You've got skills as a trainer, that much I believe.",
+  "official_neighbors": [
+   "...Yeah, okay. We just met. You're not gonna change your life around because some old geezer asked you to. I get it. I'll give up... for now.",
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+   "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!"
+  ]
+ },
+ {
+  "order": 541,
+  "speaker": "桐生",
+  "sentence": "余計なことを考えている余裕がない。",
+  "literal": "I don't have the luxury of worrying about anything unnecessary.",
+  "official_candidate": "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+  "official_neighbors": [
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "You've got skills as a trainer, that much I believe.",
+   "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!",
+   "Are you TRYING to jinx me? ...See you later, Bacchus."
+  ]
+ },
+ {
+  "order": 542,
+  "speaker": "桐生",
+  "sentence": "余計なことを考えている余裕がない。",
+  "literal": "I don't have the luxury of worrying about anything unnecessary.",
+  "official_candidate": "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around.",
+  "official_neighbors": [
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "You've got skills as a trainer, that much I believe.",
+   "All right, my boy. Just steer clear of dark alleys till then, you hear? No knives in those ribs! Or bullets, for that matter!",
+   "Are you TRYING to jinx me? ...See you later, Bacchus."
+  ]
+ },
+ {
+  "order": 568,
+  "speaker": "桐生",
+  "sentence": "ああ。こっちはいい加減爆発しそうになってんだ……",
+  "literal": "Yeah. I'm just about ready to blow my top over here...",
+  "official_candidate": "Yeah. I'm pretty close to blowing a fuse at this point... So clear a path, you punk-ass trash!",
+  "official_neighbors": [
+   "Well... I guess I'll have to change his mind by beating you guys half to death.",
+   "You alone, against all of us?"
+  ]
+ },
+ {
+  "order": 569,
+  "speaker": "桐生",
+  "sentence": "ああ。こっちはいい加減爆発しそうになってんだ……",
+  "literal": "Yeah. I'm just about ready to blow my top over here...",
+  "official_candidate": "Yeah. I'm pretty close to blowing a fuse at this point... So clear a path, you punk-ass trash!",
+  "official_neighbors": [
+   "Well... I guess I'll have to change his mind by beating you guys half to death.",
+   "You alone, against all of us?"
+  ]
+ },
+ {
+  "order": 625,
+  "speaker": "桐生",
+  "sentence": "はい。少なくとも自分があの場所で追い込み",
+  "literal": "Yes. At the very least, if I hadn't put the squeeze on him at that spot—",
+  "official_candidate": "Yes, sir. At the very least, if I hadn't done it at that spot, all of this might have been avoided.",
+  "official_neighbors": [
+   "Make things right? You're a civilian, damn it. Get it through your head and stop whining.",
+   "You admit you screwed up this time, right?",
+   "So you asked to be expelled.",
+   "Yes, sir."
+  ]
+ },
+ {
+  "order": 636,
+  "speaker": "〔人物呼称〕",
+  "sentence": "ポン引きの男",
+  "literal": "a pimp / tout (unnamed character)",
+  "official_candidate": "Pimp",
+  "official_neighbors": []
+ }
+]

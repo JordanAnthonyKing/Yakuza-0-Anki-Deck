@@ -56,18 +56,18 @@
  },
  "75": {
   "literal": "...In order to survive.",
-  "official": "",
-  "official_ok": false
+  "official": "In this town, that's when you have to be careful, if you want to survive.",
+  "official_ok": true
  },
  "76": {
   "literal": "Could you at least take my card, then?",
-  "official": "",
-  "official_ok": false
+  "official": "For now, I would ask only that you accept my card.",
+  "official_ok": true
  },
  "77": {
   "literal": "I'll have your clothes brought over right away.",
-  "official": "",
-  "official_ok": false
+  "official": "I will have your clothes brought up immediately.",
+  "official_ok": true
  },
  "78": {
   "literal": "...I should let Nishiki know, at least, that I made it out safe.",

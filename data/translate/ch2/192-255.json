@@ -61,8 +61,8 @@
  },
  "204": {
   "literal": "They're a ragtag bunch of drifters thrown together.",
-  "official": "",
-  "official_ok": false
+  "official": "The tenants there all drifted into town looking to cash in.",
+  "official_ok": true
  },
  "205": {
   "literal": "They're specialists in real estate takeovers.",
@@ -96,13 +96,13 @@
  },
  "211": {
   "literal": "When a superior offers you a drink,",
-  "official": "",
-  "official_ok": false
+  "official": "When an elder offers you a drink, you drink it!",
+  "official_ok": true
  },
  "212": {
   "literal": "When a superior presses a drink on you,",
-  "official": "",
-  "official_ok": false
+  "official": "When an elder offers you a drink, you drink it!",
+  "official_ok": true
  },
  "213": {
   "literal": "In the scramble over the 'Empty Lot,' we—",
@@ -286,13 +286,13 @@
  },
  "249": {
   "literal": "\"Snack Namase\"...",
-  "official": "",
-  "official_ok": false
+  "official": "\"Namase Bar\"...",
+  "official_ok": true
  },
  "250": {
   "literal": "\"Snack Namase\"...",
-  "official": "",
-  "official_ok": false
+  "official": "\"Namase Bar\"...",
+  "official_ok": true
  },
  "251": {
   "literal": "—was pilfering the tribute money owed up to headquarters.",
@@ -306,12 +306,12 @@
  },
  "254": {
   "literal": "About all I've got for you is a warning to keep your hands off Tachibana.",
-  "official": "",
-  "official_ok": false
+  "official": "All's I can tell ya beyond that is this: Fer your own sake, steer clear of Tachibana.",
+  "official_ok": true
  },
  "255": {
   "literal": "Newcomers like us have no right to do whatever we please.",
-  "official": "",
-  "official_ok": false
+  "official": "He says newcomers like us have no right to meddle here.",
+  "official_ok": true
  }
 }

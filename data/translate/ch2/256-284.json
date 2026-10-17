@@ -1,43 +1,43 @@
 {
  "256": {
   "literal": "Newcomers like us have no right to just do as we please—",
-  "official": "",
-  "official_ok": false
+  "official": "He says newcomers like us have no right to meddle here.",
+  "official_ok": true
  },
  "257": {
   "literal": "Newcomers like us aren't in any position to throw our weight around and do whatever we want—",
-  "official": "",
-  "official_ok": false
+  "official": "He says newcomers like us have no right to meddle here.",
+  "official_ok": true
  },
  "258": {
   "literal": "He had the gall to put on a face like he was some innocent, straight-citizen victim, but—",
-  "official": "",
-  "official_ok": false
+  "official": "Sure, he played the \"I'm a poor civilian victim\" role,",
+  "official_ok": true
  },
  "259": {
   "literal": "He was acting all like he was some poor civilian victim, but—",
-  "official": "",
-  "official_ok": false
+  "official": "Sure, he played the \"I'm a poor civilian victim\" role,",
+  "official_ok": true
  },
  "260": {
   "literal": "It's a case of karma—cause and effect, what goes around comes around.",
-  "official": "",
-  "official_ok": false
+  "official": "I call it karma.",
+  "official_ok": true
  },
  "261": {
   "literal": "It's what you'd call divine retribution—they had it coming.",
-  "official": "",
-  "official_ok": false
+  "official": "I call it karma.",
+  "official_ok": true
  },
  "262": {
   "literal": "Well, I'm just following the boss's policy, that's all.",
-  "official": "",
-  "official_ok": false
+  "official": "I'm just following the boss's orders.",
+  "official_ok": true
  },
  "263": {
   "literal": "Well, I'm only doing what the president's policy tells me to.",
-  "official": "",
-  "official_ok": false
+  "official": "I'm just following the boss's orders.",
+  "official_ok": true
  },
  "264": {
   "literal": "He was wolfing down his cold noodles with crazy gusto. Up until then he'd been all sullen and—",

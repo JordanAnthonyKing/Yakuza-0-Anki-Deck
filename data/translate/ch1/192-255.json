@@ -91,18 +91,18 @@
  },
  "210": {
   "literal": "I'll beat you lot half to death and make him willing to see me.",
-  "official": "",
-  "official_ok": false
+  "official": "Well... I guess I'll have to change his mind by beating you guys half to death.",
+  "official_ok": true
  },
  "211": {
   "literal": "Against this many guys, all by yourself?",
-  "official": "",
-  "official_ok": false
+  "official": "You alone, against all of us?",
+  "official_ok": true
  },
  "212": {
   "literal": "Get out of the way already, you punk!!",
-  "official": "",
-  "official_ok": false
+  "official": "So clear a path, you punk-ass trash!",
+  "official_ok": true
  },
  "213": {
   "literal": "Hooguhgiwaffawa... (slurred, drunken gibberish)",
@@ -171,8 +171,8 @@
  },
  "226": {
   "literal": "they're doing land-sharking.",
-  "official": "",
-  "official_ok": false
+  "official": "to clear out all the tenants in the area so he can get at the land.",
+  "official_ok": true
  },
  "227": {
   "literal": "It's a plot they found when they were about 80 percent done.",
@@ -236,8 +236,8 @@
  },
  "239": {
   "literal": "Right now there's nothing we can do about it.",
-  "official": "",
-  "official_ok": false
+  "official": "And with Kazama in prison now, he can't stop them.",
+  "official_ok": true
  },
  "240": {
   "literal": "The fate awaiting an expelled yakuza is...",
@@ -286,13 +286,13 @@
  },
  "249": {
   "literal": "I'll make my move to protect the boss.",
-  "official": "",
-  "official_ok": false
+  "official": "What matters most to me right now is protecting Kazama-san, and that's what I'm going to do.",
+  "official_ok": true
  },
  "250": {
   "literal": "I'll answer for my own screwup by myself.",
-  "official": "",
-  "official_ok": false
+  "official": "I let this happen. I'll take responsibility for it alone.",
+  "official_ok": true
  },
  "251": {
   "literal": "I never knew you were that into karaoke.",

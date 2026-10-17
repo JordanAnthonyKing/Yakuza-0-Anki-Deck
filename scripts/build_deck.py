@@ -245,7 +245,8 @@ MODEL = genanki.Model(
 
 def build_apkg(cards, lo, hi):
     from keep_guids import old_guids, guid
-    name = f"Yakuza 0 · Chapter {lo}" + (f"-{hi}" if hi != lo else "")
+    from deck_names import chapter as chapter_deck
+    name = chapter_deck(lo) + (f"-{hi}" if hi != lo else "")
     out = os.path.join(DATA, "decks"); os.makedirs(out, exist_ok=True)
     path = os.path.join(out, f"yakuza0_ch{lo}" + (f"_{hi}" if hi != lo else "") + ".apkg")
     old = old_guids(path)                    # key (Sentence, Word) -> guid already in Anki

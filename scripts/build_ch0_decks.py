@@ -71,8 +71,9 @@ def build(cards, bucket, deck_id, name, fname):
     genanki.Package(deck).write_to_file(path)
     print("wrote", path, f"({len(cards)} cards, {n_en} examples with English)")
 
-build(buckets["CORE"], "CORE", 2059400100, "Yakuza 0 · Chapter 0 (Game Basics)", "yakuza0_ch0.apkg")
-build(buckets["MINIGAME"], "MINIGAME", 2059400200, "Yakuza 0 · Minigame Terms", "yakuza0_minigame.apkg")
+from deck_names import GAME_BASICS, MINIGAME as MINIGAME_DECK
+build(buckets["CORE"], "CORE", 2059400100, GAME_BASICS, "yakuza0_ch0.apkg")
+build(buckets["MINIGAME"], "MINIGAME", 2059400200, MINIGAME_DECK, "yakuza0_minigame.apkg")
 
 # suppression list for later story/substory mining (exclude sense-divergent so they recur)
 pre_words, pre_readings = [], []

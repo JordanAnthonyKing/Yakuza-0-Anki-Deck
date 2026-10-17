@@ -1,0 +1,477 @@
+[
+ {
+  "order": 6,
+  "speaker": "桐生",
+  "sentence": "フッ、色々言ってた割には、普通じゃないか。",
+  "literal": "Heh, for all your fussing, you're talking just fine, aren't you.",
+  "official_candidate": "Heh, after all that talk, I was expecting fancier.",
+  "official_neighbors": [
+   "Me, I'll stick with beer.",
+   "Yeah, well. There's just no beating a beer at the end of a job!",
+   "What job?"
+  ]
+ },
+ {
+  "order": 8,
+  "speaker": "髭のホームレス",
+  "sentence": "なんだ、他の人の分がまだじゃないか。",
+  "literal": "Hey, the others haven't gotten their share yet.",
+  "official_candidate": "Wait, the other guys don't have theirs yet. I can't do the toast alone! You mind hurrying?",
+  "official_neighbors": [
+   "Beer for me. And I've got a bottle opener, so can or bottle works fine.",
+   "(Okay, beer's easy. They sell that pretty much everywhere.)"
+  ]
+ },
+ {
+  "order": 75,
+  "speaker": "桐生",
+  "sentence": "……生き残るためにはな。",
+  "literal": "...In order to survive.",
+  "official_candidate": "It's too good. Too convenient. In this town, that's when you have to be careful, if you want to survive.",
+  "official_neighbors": [
+   "I'd like my clothes back, Tachibana-san.",
+   "So you are rejecting my offer?",
+   "I see. It would seem I was naive."
+  ]
+ },
+ {
+  "order": 76,
+  "speaker": "立華",
+  "sentence": "せめてこの名刺だけはお持ちいただけますか？",
+  "literal": "Could you at least take my card, then?",
+  "official_candidate": "Still, I have faith that you will reconsider in time. For now, I would ask only that you accept my card.",
+  "official_neighbors": [
+   "I see. It would seem I was naive.",
+   "Yeah... All right."
+  ]
+ },
+ {
+  "order": 77,
+  "speaker": "立華",
+  "sentence": "服はすぐに持ってこさせます。",
+  "literal": "I'll have your clothes brought over right away.",
+  "official_candidate": "I will have your clothes brought up immediately. If you'll excuse me...",
+  "official_neighbors": [
+   "Yeah... All right."
+  ]
+ },
+ {
+  "order": 138,
+  "speaker": "桐生",
+  "sentence": "喫茶「ブレンド」のマスターが言ってた通り、",
+  "literal": "Just like the master of the Cafe “Blend” said,",
+  "official_candidate": "(A real estate company willing to make an enemy of the Tojo Clan... The owner of Cafe Blend may have been right about them being worse than the yakuza.)",
+  "official_neighbors": [
+   "......",
+   "(I still want a bit more info. Hopefully I can track down those other homeless guys.)",
+   "(In this neighborhood... I usually see them hanging around Park Boulevard. Maybe I'll start there.)"
+  ]
+ },
+ {
+  "order": 139,
+  "speaker": "帽子のホームレス",
+  "sentence": "ああ。言われた場所に１日中居座っているだけ。",
+  "literal": "Yeah. I just camp out all day at whatever spot they tell me to.",
+  "official_candidate": "Sure. You just go wherever they tell you and camp out for the day. Make a nuisance of yourself. It's easy money.",
+  "official_neighbors": [
+   "I'm fine. I'm fine! ...Not that there's really all that much I can tell you, buddy.",
+   "Let's start with the work you've done for Tachibana's firm.",
+   "We just finished our shift at one spot today and got paid. Tomorrow it's on to the next place.",
+   "You were at the Hakua Building until a little while ago, right? I was there myself."
+  ]
+ },
+ {
+  "order": 140,
+  "speaker": "帽子のホームレス",
+  "sentence": "さっきも１件終わって日当もらったとこでさ、",
+  "literal": "I just wrapped up a job a bit ago and got my day's pay,",
+  "official_candidate": "We just finished our shift at one spot today and got paid. Tomorrow it's on to the next place.",
+  "official_neighbors": [
+   "Let's start with the work you've done for Tachibana's firm.",
+   "Sure. You just go wherever they tell you and camp out for the day. Make a nuisance of yourself. It's easy money.",
+   "You were at the Hakua Building until a little while ago, right? I was there myself.",
+   "What, you already knew that? Then what else did you wanna know?"
+  ]
+ },
+ {
+  "order": 141,
+  "speaker": "桐生",
+  "sentence": "声かけてくるのか？",
+  "literal": "Do they come and approach you about it?",
+  "official_candidate": "Is it Tachibana's company that reaches out to you for jobs like that, or do you go to them?",
+  "official_neighbors": [
+   "You were at the Hakua Building until a little while ago, right? I was there myself.",
+   "What, you already knew that? Then what else did you wanna know?",
+   "Yeah, they come to us, same as you did.",
+   "Sometimes yakuza from the Tojo Clan hire us to do the same thing. They're in the business of chasing people out, too."
+  ]
+ },
+ {
+  "order": 142,
+  "speaker": "髭のホームレス",
+  "sentence": "いまどきはホームレスも使いようなんだねえ。",
+  "literal": "These days even the homeless have their uses, huh.",
+  "official_candidate": "It's a bull market for us homeless folk these days.",
+  "official_neighbors": [
+   "Yeah, they come to us, same as you did.",
+   "Sometimes yakuza from the Tojo Clan hire us to do the same thing. They're in the business of chasing people out, too.",
+   "And we don't really care if it's for the yakuza or for Tachibana-san. Anybody wants to pay us, we're there.",
+   "Fair enough. One last question: you know where the Tachibana Real Estate guys hang out?"
+  ]
+ },
+ {
+  "order": 143,
+  "speaker": "髭のホームレス",
+  "sentence": "よく出入りしてんの見かけるよ。",
+  "literal": "I often see them going in and out of there.",
+  "official_candidate": "Yeah, that'd be the Champion District. I see 'em going in and outta there all the time.",
+  "official_neighbors": [
+   "And we don't really care if it's for the yakuza or for Tachibana-san. Anybody wants to pay us, we're there.",
+   "Fair enough. One last question: you know where the Tachibana Real Estate guys hang out?",
+   "That area's a gold mine for land speculators. It's nothin' but tiny bars, all packed tight.",
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing."
+  ]
+ },
+ {
+  "order": 144,
+  "speaker": "髭のホームレス",
+  "sentence": "そこの連中追い出して一手にまとめあげれば、",
+  "literal": "If you drove out the folks there and bundled it all into one holding,",
+  "official_candidate": "If you could chase 'em all out and bundle those properties together, you'd make a killing.",
+  "official_neighbors": [
+   "Yeah, that'd be the Champion District. I see 'em going in and outta there all the time.",
+   "That area's a gold mine for land speculators. It's nothin' but tiny bars, all packed tight.",
+   "All right. So you think their next target's the Champion District?",
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too."
+  ]
+ },
+ {
+  "order": 145,
+  "speaker": "帽子のホームレス",
+  "sentence": "東城会の連中も狙っているから。",
+  "literal": "Because the Tojo Clan guys are after it too.",
+  "official_candidate": "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+  "official_neighbors": [
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing.",
+   "All right. So you think their next target's the Champion District?",
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+   "I see. Thanks for the advice. I appreciate it."
+  ]
+ },
+ {
+  "order": 146,
+  "speaker": "帽子のホームレス",
+  "sentence": "あそこの住人たちに煙たがられるよ。",
+  "literal": "The residents there'll treat you as an unwelcome nuisance.",
+  "official_candidate": "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+  "official_neighbors": [
+   "All right. So you think their next target's the Champion District?",
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+   "I see. Thanks for the advice. I appreciate it.",
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)"
+  ]
+ },
+ {
+  "order": 147,
+  "speaker": "桐生",
+  "sentence": "……そうか。参考になったよ、ありがとう。",
+  "literal": "...I see. That was helpful. Thanks.",
+  "official_candidate": "I see. Thanks for the advice. I appreciate it.",
+  "official_neighbors": [
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+   "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)"
+  ]
+ },
+ {
+  "order": 148,
+  "speaker": "チャンピオン街の住人",
+  "sentence": "あんた、また東城会の若い衆か？",
+  "literal": "You another one of the Tojo Clan's young guns?",
+  "official_candidate": "What, you another Tojo boy?",
+  "official_neighbors": [
+   "You lost, friend? Why are you here? There's no place in this neighborhood that'll serve a yakuza like you.",
+   "I've heard men from Tachibana Real Estate have been coming around lately. Are they here now?",
+   "No, actually. And I'm not here to chase anybody out of town.",
+   "Sure. So why are you asking after Tachibana's guys, then?"
+  ]
+ },
+ {
+  "order": 149,
+  "speaker": "チャンピオン街の住人",
+  "sentence": "俺らはもうヤクザにウンザリなんだよ！　お前らは",
+  "literal": "We're sick to death of you yakuza! You bastards—",
+  "official_candidate": "We're sick and tired of you yakuza! You don't give a rat's ass about any of the businesses here.",
+  "official_neighbors": [
+   "Not the warmest welcome I've gotten.",
+   "But this place is all we've got left. If you want us out of here so bad, you'll just have to kill us!",
+   "I told you, I'm only here to talk to Tachibana's men."
+  ]
+ },
+ {
+  "order": 150,
+  "speaker": "チャンピオン街の住人",
+  "sentence": "東城会ん中でもよりによって……",
+  "literal": "Of all the guys in the Tojo Clan, it had to be...",
+  "official_candidate": "Shit, the Dojima Family? Of all the Tojo groups around, why did it have to be them?",
+  "official_neighbors": [
+   "Evenin'. Well, if it isn't the guy from Namase's bar. Thought you said you weren't yakuza.",
+   "Apparently it's hard for people to believe, but I'm not. Used to be in the Dojima Family, though.",
+   "I was expelled, though. Got nothing to do with them now.",
+   "So, what's got an ex-yakuza sniffing around after us?"
+  ]
+ },
+ {
+  "order": 152,
+  "speaker": "尾田",
+  "sentence": "ウチのことを深く知りたいなら、昨夜社長と",
+  "literal": "If you want to know more about us, last night with the boss—",
+  "official_candidate": "He said if you want to know more about us you should come by the place you met him last night. He'll meet with you himself.",
+  "official_neighbors": [
+   "What did he have to say?",
+   "Yeah? All right.",
+   "Just don't come back around here. The people in this place don't take kindly to yakuza."
+  ]
+ },
+ {
+  "order": 153,
+  "speaker": "尾田",
+  "sentence": "まあ、一応ね。……社長の方針があるからさ。",
+  "literal": "Well, more or less. ...It's because the boss has his policy.",
+  "official_candidate": "Some. The boss has his policies.",
+  "official_neighbors": [
+   "Just don't come back around here. The people in this place don't take kindly to yakuza.",
+   "I hear it's you guys protecting the district from the yakuza. There any truth to that?",
+   "Policies?",
+   "He says the people in this district have been here since before Kamurocho burned down in the war. That this place is the root the whole town's grown out of."
+  ]
+ },
+ {
+  "order": 154,
+  "speaker": "尾田",
+  "sentence": "ウチの社長が言うには、ここらは神室町の根っこだ。",
+  "literal": "The way our boss puts it, this area is the roots of Kamurocho.",
+  "official_candidate": "He says the people in this district have been here since before Kamurocho burned down in the war. That this place is the root the whole town's grown out of.",
+  "official_neighbors": [
+   "Some. The boss has his policies.",
+   "Policies?",
+   "He says newcomers like us have no right to meddle here.",
+   "That's quite a change from your attitude at the other place."
+  ]
+ },
+ {
+  "order": 155,
+  "speaker": "桐生",
+  "sentence": "さっきのビルん時とはずいぶん態度が違うんだな。",
+  "literal": "Your attitude's a lot different from back at that building earlier.",
+  "official_candidate": "That's quite a change from your attitude at the other place.",
+  "official_neighbors": [
+   "He says the people in this district have been here since before Kamurocho burned down in the war. That this place is the root the whole town's grown out of.",
+   "He says newcomers like us have no right to meddle here.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+   "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before."
+  ]
+ },
+ {
+  "order": 156,
+  "speaker": "尾田",
+  "sentence": "白亜ビル？　……ハッ、あそこの連中は所詮、",
+  "literal": "The Hakua Building? ...Hah, those guys there are, at the end of the day,",
+  "official_candidate": "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+  "official_neighbors": [
+   "He says newcomers like us have no right to meddle here.",
+   "That's quite a change from your attitude at the other place.",
+   "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+   "I call it karma."
+  ]
+ },
+ {
+  "order": 157,
+  "speaker": "尾田",
+  "sentence": "あいつらだってよそから流れてきたとき、",
+  "literal": "Even those guys, back when they drifted in from somewhere else,",
+  "official_candidate": "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+  "official_neighbors": [
+   "That's quite a change from your attitude at the other place.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+   "I call it karma."
+  ]
+ },
+ {
+  "order": 204,
+  "speaker": "尾田",
+  "sentence": "流れモンの寄せ集めだ。",
+  "literal": "They're a ragtag bunch of drifters thrown together.",
+  "official_candidate": "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+  "official_neighbors": [
+   "He says newcomers like us have no right to meddle here.",
+   "That's quite a change from your attitude at the other place.",
+   "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+   "I call it karma."
+  ]
+ },
+ {
+  "order": 211,
+  "speaker": "説教好きなホームレス",
+  "sentence": "目上の人に酒を勧められたら、",
+  "literal": "When a superior offers you a drink,",
+  "official_candidate": "Whaaat? You got the wrong attitude, kid! When an elder offers you a drink, you drink it! Doesn't matter if you're a featherweight, that's the rules if you want to get ahead!",
+  "official_neighbors": [
+   "Nice! Now let's induct you into the club of connoisseurs, kid!",
+   "Thanks, but I'm not drinking tonight.",
+   "Back when I was a businessman..."
+  ]
+ },
+ {
+  "order": 212,
+  "speaker": "説教好きなホームレス",
+  "sentence": "目上の人に酒を勧められたら、",
+  "literal": "When a superior presses a drink on you,",
+  "official_candidate": "Whaaat? You got the wrong attitude, kid! When an elder offers you a drink, you drink it! Doesn't matter if you're a featherweight, that's the rules if you want to get ahead!",
+  "official_neighbors": [
+   "Nice! Now let's induct you into the club of connoisseurs, kid!",
+   "Thanks, but I'm not drinking tonight.",
+   "Back when I was a businessman..."
+  ]
+ },
+ {
+  "order": 249,
+  "speaker": "桐生",
+  "sentence": "「スナック　なませ」……",
+  "literal": "\"Snack Namase\"...",
+  "official_candidate": "(\"Namase Bar\"... Guess they're the last holdout.)",
+  "official_neighbors": []
+ },
+ {
+  "order": 250,
+  "speaker": "桐生",
+  "sentence": "「スナック　なませ」……",
+  "literal": "\"Snack Namase\"...",
+  "official_candidate": "(\"Namase Bar\"... Guess they're the last holdout.)",
+  "official_neighbors": []
+ },
+ {
+  "order": 254,
+  "speaker": "ホームレス",
+  "sentence": "立華からは手ぇ引けって忠告くらいだね。",
+  "literal": "About all I've got for you is a warning to keep your hands off Tachibana.",
+  "official_candidate": "All's I can tell ya beyond that is this: Fer your own sake, steer clear of Tachibana.",
+  "official_neighbors": [
+   "Not that there's anybody else in this town who could dig up that kind of dirt on the yakuza.",
+   "......",
+   "......"
+  ]
+ },
+ {
+  "order": 255,
+  "speaker": "尾田",
+  "sentence": "俺たちみてえな新参者に好き勝手する資格は",
+  "literal": "Newcomers like us have no right to do whatever we please.",
+  "official_candidate": "He says newcomers like us have no right to meddle here.",
+  "official_neighbors": [
+   "Policies?",
+   "He says the people in this district have been here since before Kamurocho burned down in the war. That this place is the root the whole town's grown out of.",
+   "That's quite a change from your attitude at the other place.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?"
+  ]
+ },
+ {
+  "order": 256,
+  "speaker": "尾田",
+  "sentence": "俺たちみてえな新参者に好き勝手する資格は",
+  "literal": "Newcomers like us have no right to just do as we please—",
+  "official_candidate": "He says newcomers like us have no right to meddle here.",
+  "official_neighbors": [
+   "Policies?",
+   "He says the people in this district have been here since before Kamurocho burned down in the war. That this place is the root the whole town's grown out of.",
+   "That's quite a change from your attitude at the other place.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?"
+  ]
+ },
+ {
+  "order": 257,
+  "speaker": "尾田",
+  "sentence": "俺たちみてえな新参者に好き勝手する資格は",
+  "literal": "Newcomers like us aren't in any position to throw our weight around and do whatever we want—",
+  "official_candidate": "He says newcomers like us have no right to meddle here.",
+  "official_neighbors": [
+   "Policies?",
+   "He says the people in this district have been here since before Kamurocho burned down in the war. That this place is the root the whole town's grown out of.",
+   "That's quite a change from your attitude at the other place.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?"
+  ]
+ },
+ {
+  "order": 258,
+  "speaker": "尾田",
+  "sentence": "さもカタギの被害者ですってツラしてたがよ、",
+  "literal": "He had the gall to put on a face like he was some innocent, straight-citizen victim, but—",
+  "official_candidate": "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+  "official_neighbors": [
+   "That's quite a change from your attitude at the other place.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+   "I call it karma."
+  ]
+ },
+ {
+  "order": 259,
+  "speaker": "尾田",
+  "sentence": "さもカタギの被害者ですってツラしてたがよ、",
+  "literal": "He was acting all like he was some poor civilian victim, but—",
+  "official_candidate": "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+  "official_neighbors": [
+   "That's quite a change from your attitude at the other place.",
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+   "I call it karma."
+  ]
+ },
+ {
+  "order": 260,
+  "speaker": "尾田",
+  "sentence": "因果応報ってやつだよ。",
+  "literal": "It's a case of karma—cause and effect, what goes around comes around.",
+  "official_candidate": "I call it karma.",
+  "official_neighbors": [
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+   "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+   "Not that my philosophy really factors in. I'm just following the boss's orders."
+  ]
+ },
+ {
+  "order": 261,
+  "speaker": "尾田",
+  "sentence": "因果応報ってやつだよ。",
+  "literal": "It's what you'd call divine retribution—they had it coming.",
+  "official_candidate": "I call it karma.",
+  "official_neighbors": [
+   "The Hakua Building? Ha, please. The tenants there all drifted into town looking to cash in. You saw the guy at Namase Bar, didn't you?",
+   "Sure, he played the \"I'm a poor civilian victim\" role, but how do you think they got those locations? By chasing out the people who were there before.",
+   "Not that my philosophy really factors in. I'm just following the boss's orders."
+  ]
+ },
+ {
+  "order": 262,
+  "speaker": "尾田",
+  "sentence": "まあ俺は社長のポリシーに従ってるだけでね。",
+  "literal": "Well, I'm just following the boss's policy, that's all.",
+  "official_candidate": "Not that my philosophy really factors in. I'm just following the boss's orders.",
+  "official_neighbors": [
+   "I call it karma.",
+   "But you're saying you guys play by a set of rules.",
+   "My name's Oda. I've been with President Tachibana for a long time now. I run on-site acquisitions at most places."
+  ]
+ },
+ {
+  "order": 263,
+  "speaker": "尾田",
+  "sentence": "まあ俺は社長のポリシーに従ってるだけでね。",
+  "literal": "Well, I'm only doing what the president's policy tells me to.",
+  "official_candidate": "Not that my philosophy really factors in. I'm just following the boss's orders.",
+  "official_neighbors": [
+   "I call it karma.",
+   "But you're saying you guys play by a set of rules.",
+   "My name's Oda. I've been with President Tachibana for a long time now. I run on-site acquisitions at most places."
+  ]
+ }
+]

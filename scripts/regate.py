@@ -43,7 +43,7 @@ def write_batches(rows, tag):
         json.dump(part, open(ip, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"  {tag}{i + 1} ({len(part)} cards)\n    input : {ip}\n    output: {op}")
 
-if mode in ("prep", "bracket"):
+if mode in ("prep", "bracket", "exact"):
     align = json.load(open(os.path.join(DATA, f"align_ch{ch}.json"), encoding="utf-8"))
     rejected = lambda r: (str(r["order"]) in trans and not trans[str(r["order"])]["official_ok"]
                           and r["official_candidate"])
@@ -54,6 +54,11 @@ if mode in ("prep", "bracket"):
 
 if mode == "prep":
     write_batches([base(r) for r in align if rejected(r)], "part")
+
+elif mode == "exact":
+    # re-gate rejected cards against the EXACT record-parallel candidate (build_align after
+    # 2026-10-17), for chapters translated before exact matching existed (Ch1-3)
+    write_batches([base(r) for r in align if rejected(r)], "exact")
 
 elif mode == "bracket":
     sys.argv = [sys.argv[0], str(ch)]               # build_align runs on import

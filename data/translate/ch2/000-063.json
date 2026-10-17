@@ -31,8 +31,8 @@
  },
  "6": {
   "literal": "Heh, for all your fussing, you're talking just fine, aren't you.",
-  "official": "",
-  "official_ok": false
+  "official": "Heh, after all that talk, I was expecting fancier.",
+  "official_ok": true
  },
  "7": {
   "literal": "Beer, in any case. I've got a bottle opener too, so",
@@ -41,8 +41,8 @@
  },
  "8": {
   "literal": "Hey, the others haven't gotten their share yet.",
-  "official": "",
-  "official_ok": false
+  "official": "Wait, the other guys don't have theirs yet.",
+  "official_ok": true
  },
  "9": {
   "literal": "In winter, there's really nothing but sake, huh...!",

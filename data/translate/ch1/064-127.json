@@ -36,8 +36,8 @@
  },
  "71": {
   "literal": "the conversation turned to that, and...",
-  "official": "",
-  "official_ok": false
+  "official": "Then we got to talking about which idols we liked...",
+  "official_ok": true
  },
  "72": {
   "literal": "Right, right, and then, my Shoko-chan—",
@@ -66,8 +66,8 @@
  },
  "77": {
   "literal": "Guys who struck it rich in this recent boom—",
-  "official": "",
-  "official_ok": false
+  "official": "the newly-minted rich playboys this economy's churned out.",
+  "official_ok": true
  },
  "78": {
   "literal": "a bunch who're nothing but walking greed.",
@@ -181,8 +181,8 @@
  },
  "100": {
   "literal": "...Don't tell me, that one million yen—",
-  "official": "",
-  "official_ok": false
+  "official": "...Wait, you don't expect ME to pay, do you?",
+  "official_ok": true
  },
  "101": {
   "literal": "Don't screw with me.",

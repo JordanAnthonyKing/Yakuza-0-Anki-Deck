@@ -47,7 +47,8 @@ out = os.path.join(DATA, "decks"); os.makedirs(out, exist_ok=True)
 path = os.path.join(out, f"yakuza0_ch{lo}" + ("_pilot" if subset else "") + ".apkg")
 old = old_guids(path)                        # key (Sentence, Word) -> guid already in Anki
 
-deck = genanki.Deck(2059400110 + lo, f"Yakuza 0 · Chapter {lo}" + (" (pilot)" if subset else ""))
+from deck_names import chapter as chapter_deck
+deck = genanki.Deck(2059400110 + lo, chapter_deck(lo) + (" (pilot)" if subset else ""))
 n_eng = n_off = added = 0
 for c in cards:
     key = str(c["order"])

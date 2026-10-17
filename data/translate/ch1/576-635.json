@@ -246,8 +246,8 @@
  },
  "625": {
   "literal": "Yes. At the very least, if I hadn't put the squeeze on him at that spot—",
-  "official": "",
-  "official_ok": false
+  "official": "Yes, sir. At the very least, if I hadn't done it at that spot,",
+  "official_ok": true
  },
  "626": {
   "literal": "It's Sera, of the Nikkyo Consortium.",

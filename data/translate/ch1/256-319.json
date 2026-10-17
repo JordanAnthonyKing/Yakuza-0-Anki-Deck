@@ -66,28 +66,28 @@
  },
  "269": {
   "literal": "There's that way of turning out, too.",
-  "official": "",
-  "official_ok": false
+  "official": "That's just as legit an approach as mine.",
+  "official_ok": true
  },
  "270": {
   "literal": "It's just that you're not Kazama's kid.",
-  "official": "",
-  "official_ok": false
+  "official": "Just remember, you're technically not one of Kazama-san's boys.",
+  "official_ok": true
  },
  "271": {
   "literal": "You're a member of the Dojima Family.",
-  "official": "",
-  "official_ok": false
+  "official": "You're in the Dojima Family.",
+  "official_ok": true
  },
  "272": {
   "literal": "Cut it out... The old man had his reasons for doing it.",
-  "official": "",
-  "official_ok": false
+  "official": "Doesn't matter. I'm sure he had his reasons.",
+  "official_ok": true
  },
  "273": {
   "literal": "All right! Enough with the serious talk!",
-  "official": "",
-  "official_ok": false
+  "official": "Anyway! That's enough serious talk for one night!",
+  "official_ok": true
  },
  "274": {
   "literal": "Don't play dumb with me.",
@@ -146,8 +146,8 @@
  },
  "285": {
   "literal": "At this rate, it'll get in the way of 'that other job.'",
-  "official": "",
-  "official_ok": false
+  "official": "This is gonna have repercussions on that other project.",
+  "official_ok": true
  },
  "286": {
   "literal": "It looks awfully creepy today.",

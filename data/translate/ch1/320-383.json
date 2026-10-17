@@ -6,8 +6,8 @@
  },
  "321": {
   "literal": "Once you've pulled out of the yakuza life even once, that's the end of it.",
-  "official": "",
-  "official_ok": false
+  "official": "There's no coming back once you're out of the yakuza.",
+  "official_ok": true
  },
  "322": {
   "literal": "I heard about President Tachibana.",
@@ -46,8 +46,8 @@
  },
  "329": {
   "literal": "It's possible.",
-  "official": "",
-  "official_ok": false
+  "official": "You can save the game and use the Item Box at pay phones.",
+  "official_ok": true
  },
  "330": {
   "literal": "(...It's about time for my meetup with Nishiki.",
@@ -81,8 +81,8 @@
  },
  "336": {
   "literal": "A senior member of a certain organization.",
-  "official": "",
-  "official_ok": false
+  "official": "Yakuza Brass",
+  "official_ok": true
  },
  "337": {
   "literal": "A low-ranking member of a certain organization.",
@@ -201,18 +201,18 @@
  },
  "360": {
   "literal": "No, no, you fight them one at a time.",
-  "official": "",
-  "official_ok": false
+  "official": "Nah, nah! Fight's gotta be one-on-one. Rules and all.",
+  "official_ok": true
  },
  "361": {
   "literal": "Taking him on three-on-one wouldn't be fair.",
-  "official": "",
-  "official_ok": false
+  "official": "Three against one wouldn't be fair.",
+  "official_ok": true
  },
  "362": {
   "literal": "Hahaha! A one-on-one against Bruno?!",
-  "official": "",
-  "official_ok": false
+  "official": "Ha! You want to take him on SOLO!?",
+  "official_ok": true
  },
  "363": {
   "literal": "What an outrageous death-wish volunteer we've got here!",
@@ -221,23 +221,23 @@
  },
  "364": {
   "literal": "Let's fight!",
-  "official": "",
-  "official_ok": false
+  "official": "Aaand, FIGHT!",
+  "official_ok": true
  },
  "365": {
   "literal": "Bruno's still full of energy, you know?",
-  "official": "",
-  "official_ok": false
+  "official": "Bruno's barely got a scratch on him.",
+  "official_ok": true
  },
  "366": {
   "literal": "It's a parking lot called Shichifuku Park.",
-  "official": "",
-  "official_ok": false
+  "official": "I work in the Shichifuku Parking Lot.",
+  "official_ok": true
  },
  "367": {
   "literal": "Kamoji-kun comes in handy for the boy's fights—",
-  "official": "",
-  "official_ok": false
+  "official": "Kamoji-kun here's got plenty to teach you about fighting, my boy.",
+  "official_ok": true
  },
  "368": {
   "literal": "Boy, even if you keep doing nothing but street fights like this,",
@@ -246,13 +246,13 @@
  },
  "369": {
   "literal": "(Hm? A page from my pager?)",
-  "official": "",
-  "official_ok": false
+  "official": "(Hm? That's my beeper.)",
+  "official_ok": true
  },
  "370": {
   "literal": "(It's a number I don't recognize... but it's probably from Nishiki anyway.",
-  "official": "",
-  "official_ok": false
+  "official": "(It's not his number, but that's got to be Nishiki calling.",
+  "official_ok": true
  },
  "371": {
   "literal": "It means they'll take advantage of this screw-up.",

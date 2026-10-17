@@ -1,0 +1,410 @@
+[
+ {
+  "order": 22,
+  "speaker": "佐川",
+  "sentence": "しけたツラのお前を見てたらなんとなくな。",
+  "literal": "Just felt like it, seeing that gloomy mug of yours.",
+  "official_candidate": "Well, you're certainly not going to keep the conversation going. Still, I get it. Only natural you'd be unsatisfied.",
+  "official_neighbors": [
+   "Heh. Happiness is a real bitch that way.",
+   "You're awful chatty today.",
+   "After all, this is supposed to be your punishment."
+  ]
+ },
+ {
+  "order": 88,
+  "speaker": "タカコ",
+  "sentence": "あ、今の内緒にしてぇな？",
+  "literal": "Oh, keep what I just said a secret, okay?",
+  "official_candidate": "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+  "official_neighbors": [
+   "Sounds like she's on top here for good reason, then. Makes sense she'd be popular.",
+   "Yeah, but the other day, some younger guys came in and she was totally lost tryin' to talk to them. It was hilarious!",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side.",
+   "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess. She'll do just fine, even with the high rollers.)"
+  ]
+ },
+ {
+  "order": 89,
+  "speaker": "タカコ",
+  "sentence": "ウチがそないなこと言ってたのが他の子にバレたら",
+  "literal": "If the other girls found out I said something like that,",
+  "official_candidate": "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+  "official_neighbors": [
+   "Sounds like she's on top here for good reason, then. Makes sense she'd be popular.",
+   "Yeah, but the other day, some younger guys came in and she was totally lost tryin' to talk to them. It was hilarious!",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side.",
+   "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess. She'll do just fine, even with the high rollers.)"
+  ]
+ },
+ {
+  "order": 90,
+  "speaker": "真島",
+  "sentence": "噂通り、ホステスの教育は完璧なようやな。",
+  "literal": "Just like the rumors say, their hostess training seems flawless.",
+  "official_candidate": "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess. She'll do just fine, even with the high rollers.)",
+  "official_neighbors": [
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side."
+  ]
+ },
+ {
+  "order": 91,
+  "speaker": "真島",
+  "sentence": "十分に相手が務まるやろうな……",
+  "literal": "She'd be more than capable of handling them...",
+  "official_candidate": "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess. She'll do just fine, even with the high rollers.)",
+  "official_neighbors": [
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side."
+  ]
+ },
+ {
+  "order": 92,
+  "speaker": "オデッセイのボーイ",
+  "sentence": "よろしければお飲み物もお持ちしますが……？",
+  "literal": "If you'd like, I can bring you a drink as well...?",
+  "official_candidate": "Much appreciated! Please follow me, then. I'd be happy to bring you a drink while you wait...",
+  "official_neighbors": [
+   "Apologies, but we're full at the moment. May I ask you to wait to be seated?",
+   "Sure, no problem.",
+   "Nah, don't put yourself out. I'm in no rush here."
+  ]
+ },
+ {
+  "order": 93,
+  "speaker": "真島",
+  "sentence": "のんびり待ちますわ。",
+  "literal": "I'll just wait at my leisure.",
+  "official_candidate": "Nah, don't put yourself out. I'm in no rush here.",
+  "official_neighbors": [
+   "Sure, no problem.",
+   "Much appreciated! Please follow me, then. I'd be happy to bring you a drink while you wait...",
+   "(Full-up but still not turnin' customers away... Nice. Still, I'll probably get in quicker if I don't put in a request for Nozomi.)"
+  ]
+ },
+ {
+  "order": 94,
+  "speaker": "真島",
+  "sentence": "満席でも客を追い返さんのはさすがやな。",
+  "literal": "Not turning customers away even when they're full... Impressive.",
+  "official_candidate": "(Full-up but still not turnin' customers away... Nice. Still, I'll probably get in quicker if I don't put in a request for Nozomi.)",
+  "official_neighbors": [
+   "Nah, don't put yourself out. I'm in no rush here."
+  ]
+ },
+ {
+  "order": 95,
+  "speaker": "真島",
+  "sentence": "ここは下手にノゾミを指名せん方が",
+  "literal": "Here, it'd be better not to go requesting Nozomi carelessly",
+  "official_candidate": "(Full-up but still not turnin' customers away... Nice. Still, I'll probably get in quicker if I don't put in a request for Nozomi.)",
+  "official_neighbors": [
+   "Nah, don't put yourself out. I'm in no rush here."
+  ]
+ },
+ {
+  "order": 96,
+  "speaker": "オデッセイのボーイ",
+  "sentence": "１名様ご案内いたします。こちらへどうぞ。",
+  "literal": "Party of one, right this way. Please follow me.",
+  "official_candidate": "So sorry to keep you waiting. We're ready for you, sir. Please follow me.",
+  "official_neighbors": []
+ },
+ {
+  "order": 128,
+  "speaker": "真島",
+  "sentence": "お勘定たのむわ。",
+  "literal": "Check, please.",
+  "official_candidate": "And me... Well, I got some fine wine for my troubles. Bring me the check, will ya?",
+  "official_neighbors": [
+   "Starting tomorrow, Odyssey will do everything it can to win. ...Am I clear?",
+   "Heh, you do what you want.",
+   "Heh. Your visit was very educational. Let's call your tab my treat.",
+   "That's doin' me a solid. See ya 'round."
+  ]
+ },
+ {
+  "order": 129,
+  "speaker": "山形",
+  "sentence": "今日は私の奢りっちゅうことで。",
+  "literal": "Let's say today's on me.",
+  "official_candidate": "Heh. Your visit was very educational. Let's call your tab my treat.",
+  "official_neighbors": [
+   "Heh, you do what you want.",
+   "And me... Well, I got some fine wine for my troubles. Bring me the check, will ya?",
+   "That's doin' me a solid. See ya 'round."
+  ]
+ },
+ {
+  "order": 130,
+  "speaker": "真島",
+  "sentence": "そらごちそうさん。ほな。",
+  "literal": "Well then, thanks for the treat. See ya.",
+  "official_candidate": "That's doin' me a solid. See ya 'round.",
+  "official_neighbors": [
+   "And me... Well, I got some fine wine for my troubles. Bring me the check, will ya?",
+   "Heh. Your visit was very educational. Let's call your tab my treat."
+  ]
+ },
+ {
+  "order": 140,
+  "speaker": "真島",
+  "sentence": "ましてケンカ売りに来たチンピラなんぞに……",
+  "literal": "Let alone for some punk who came here looking for a fight...",
+  "official_candidate": "But if you ain't a customer, that's different. And if you're some sorry punk beggin' to get served, you're gonna find I'm more than willin' to accommodate.",
+  "official_neighbors": [
+   "Heh...",
+   "I'll bow to anybody who wants to drink at my shop. Lick their boots, too.",
+   "Grr! That smug talk's gonna sound funny comin' from a busted mouth. Do him, boys!"
+  ]
+ },
+ {
+  "order": 141,
+  "speaker": "チンピラ",
+  "sentence": "っ……！　大層な口聞けんのも今のうちや！",
+  "literal": "Tch...! You can only talk that big for now!",
+  "official_candidate": "Grr! That smug talk's gonna sound funny comin' from a busted mouth. Do him, boys!",
+  "official_neighbors": [
+   "I'll bow to anybody who wants to drink at my shop. Lick their boots, too.",
+   "But if you ain't a customer, that's different. And if you're some sorry punk beggin' to get served, you're gonna find I'm more than willin' to accommodate."
+  ]
+ },
+ {
+  "order": 153,
+  "speaker": "タカコ",
+  "sentence": "毎日開店と同時に目当てのお客さんが",
+  "literal": "Every day, the moment the club opens, the customers who come for her...",
+  "official_candidate": "Yeah, I s'pose. Our number one gal, Nozomi-san, has guys linin' up for her before the doors even open each night.",
+  "official_neighbors": [
+   "The hierarchy here's way scary. Any hot new girl comes in threatenin' to upset the pecking order, all the girls on top come down on her like a ton a' bricks.",
+   "Sounds like competition's tough. Any girl who makes it to the top in the middle of all that's gotta really be something though, eh?",
+   "(Bingo! I like where this is headed...)",
+   "That so? What's this Nozomi girl like?"
+  ]
+ },
+ {
+  "order": 163,
+  "speaker": "真島",
+  "sentence": "あの暴れてたドアホ、一応見張っとけや。",
+  "literal": "Keep an eye on that idiot who was acting up, just in case.",
+  "official_candidate": "Good. Otherwise, just tell 'em to keep an eye on captain grab-ass.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty.",
+   "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+   "Already done as well, sir."
+  ]
+ },
+ {
+  "order": 164,
+  "speaker": "真島",
+  "sentence": "あの暴れてたドアホ、一応見張っとけや。",
+  "literal": "Keep an eye on that idiot who was acting up, just in case.",
+  "official_candidate": "Good. Otherwise, just tell 'em to keep an eye on captain grab-ass.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty.",
+   "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+   "Already done as well, sir."
+  ]
+ },
+ {
+  "order": 165,
+  "speaker": "真島",
+  "sentence": "あの暴れてたドアホ、一応見張っとけや。",
+  "literal": "Keep an eye on that idiot who was acting up, just in case.",
+  "official_candidate": "Good. Otherwise, just tell 'em to keep an eye on captain grab-ass.",
+  "official_neighbors": [
+   "See that Maki-chan gets a bonus tonight. Nothing kills morale like gettin' felt up for nothing.",
+   "Of course. I'd already taken the liberty.",
+   "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+   "Already done as well, sir."
+  ]
+ },
+ {
+  "order": 166,
+  "speaker": "真島",
+  "sentence": "トンズラこかんとも限らんからな。",
+  "literal": "You never know, he might try to skip out.",
+  "official_candidate": "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+  "official_neighbors": [
+   "Of course. I'd already taken the liberty.",
+   "Good. Otherwise, just tell 'em to keep an eye on captain grab-ass.",
+   "Already done as well, sir.",
+   "Nice. And how's the staff lookin' these days?"
+  ]
+ },
+ {
+  "order": 167,
+  "speaker": "真島",
+  "sentence": "トンズラこかんとも限らんからな。",
+  "literal": "You never know, he might try to skip out.",
+  "official_candidate": "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+  "official_neighbors": [
+   "Of course. I'd already taken the liberty.",
+   "Good. Otherwise, just tell 'em to keep an eye on captain grab-ass.",
+   "Already done as well, sir.",
+   "Nice. And how's the staff lookin' these days?"
+  ]
+ },
+ {
+  "order": 170,
+  "speaker": "真島",
+  "sentence": "……スタッフは最近どんな塩梅や？",
+  "literal": "...How are the staff doing lately?",
+  "official_candidate": "Nice. And how's the staff lookin' these days?",
+  "official_neighbors": [
+   "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+   "Already done as well, sir.",
+   "No major concerns to speak of. Although...",
+   "Out with it."
+  ]
+ },
+ {
+  "order": 171,
+  "speaker": "真島",
+  "sentence": "……スタッフは最近どんな塩梅や？",
+  "literal": "...How are the staff doing lately?",
+  "official_candidate": "Nice. And how's the staff lookin' these days?",
+  "official_neighbors": [
+   "I got his card, but that don't mean he ain't stupid enough to try to run out on the tab he's about to rack up.",
+   "Already done as well, sir.",
+   "No major concerns to speak of. Although...",
+   "Out with it."
+  ]
+ },
+ {
+  "order": 196,
+  "speaker": "真島",
+  "sentence": "案外そないな方が安定してウケるもんや",
+  "literal": "Surprisingly, that kind of thing tends to be a reliable hit.",
+  "official_candidate": "(Guys their own age probably don't get anything from it, but I bet it makes the old boys club feel right at home.)",
+  "official_neighbors": [
+   "(The hostesses feel oddly old-fashioned. Like their clothes are screaming, \"Let's relive the college years!\" Maybe it's a classic look, but I say it's straight up dated.)",
+   "(The fact that all the girls got the same look means it's probably club policy, not their personal taste.)"
+  ]
+ },
+ {
+  "order": 197,
+  "speaker": "真島",
+  "sentence": "案外そないな方が安定してウケるもんや",
+  "literal": "Surprisingly, that kind of thing tends to be a reliable hit.",
+  "official_candidate": "(Guys their own age probably don't get anything from it, but I bet it makes the old boys club feel right at home.)",
+  "official_neighbors": [
+   "(The hostesses feel oddly old-fashioned. Like their clothes are screaming, \"Let's relive the college years!\" Maybe it's a classic look, but I say it's straight up dated.)",
+   "(The fact that all the girls got the same look means it's probably club policy, not their personal taste.)"
+  ]
+ },
+ {
+  "order": 204,
+  "speaker": "真島",
+  "sentence": "ぎょうさん揃っとるのう！",
+  "literal": "You've sure got a whole lot of 'em gathered here!",
+  "official_candidate": "I'm still reelin' at how many cuties there are here! About how many girls are on staff here in all?",
+  "official_neighbors": [
+   "(Looks like they're really desperate to beat the Grand here. Problem is, they're runnin' out of steam. I'll bet they'd kill for some fresh clients.)",
+   "Hmmm... Probably about a hundred, all told? I think only about 40 are workin' today, though.",
+   "Gotta be hard to keep track of 'em all, yeah?"
+  ]
+ },
+ {
+  "order": 205,
+  "speaker": "真島",
+  "sentence": "ぎょうさん揃っとるのう！",
+  "literal": "You've sure got a whole lot of 'em gathered here!",
+  "official_candidate": "I'm still reelin' at how many cuties there are here! About how many girls are on staff here in all?",
+  "official_neighbors": [
+   "(Looks like they're really desperate to beat the Grand here. Problem is, they're runnin' out of steam. I'll bet they'd kill for some fresh clients.)",
+   "Hmmm... Probably about a hundred, all told? I think only about 40 are workin' today, though.",
+   "Gotta be hard to keep track of 'em all, yeah?"
+  ]
+ },
+ {
+  "order": 206,
+  "speaker": "タカコ",
+  "sentence": "同じ席について初めて話したっちゅうケースも",
+  "literal": "There are even cases where we get seated at the same table and talk for the first time.",
+  "official_candidate": "You said it. And a bunch of girls only work maybe one shift a week. Seems like every other night I'm sitting in a booth with a girl I've never talked to before in my life.",
+  "official_neighbors": [
+   "Hmmm... Probably about a hundred, all told? I think only about 40 are workin' today, though.",
+   "Gotta be hard to keep track of 'em all, yeah?",
+   "Wow, you got new girls comin' here in droves, huh? Guess that's a top-tier cabaret for ya.",
+   "Naw, it's just 'cause so many girls up and quit."
+  ]
+ },
+ {
+  "order": 207,
+  "speaker": "タカコ",
+  "sentence": "同じ席について初めて話したっちゅうケースも",
+  "literal": "There are even cases where we get seated at the same table and talk for the first time.",
+  "official_candidate": "You said it. And a bunch of girls only work maybe one shift a week. Seems like every other night I'm sitting in a booth with a girl I've never talked to before in my life.",
+  "official_neighbors": [
+   "Hmmm... Probably about a hundred, all told? I think only about 40 are workin' today, though.",
+   "Gotta be hard to keep track of 'em all, yeah?",
+   "Wow, you got new girls comin' here in droves, huh? Guess that's a top-tier cabaret for ya.",
+   "Naw, it's just 'cause so many girls up and quit."
+  ]
+ },
+ {
+  "order": 208,
+  "speaker": "真島",
+  "sentence": "名実ともにトップレディっちゅうワケやな。",
+  "literal": "So she's the top lady in both name and reality, huh.",
+  "official_candidate": "Sounds like she's on top here for good reason, then. Makes sense she'd be popular.",
+  "official_neighbors": [
+   "So management's always on our case to read the paper and follow the news so we can keep up with their conversations.",
+   "Nozomi-san's super motivated with stuff like that, so she's always been popular with those types. Now a lot of them request her when they come in.",
+   "Yeah, but the other day, some younger guys came in and she was totally lost tryin' to talk to them. It was hilarious!",
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama..."
+  ]
+ },
+ {
+  "order": 210,
+  "speaker": "真島",
+  "sentence": "名実ともにトップレディっちゅうワケやな。",
+  "literal": "So she's the top lady in both name and reality, huh.",
+  "official_candidate": "Sounds like she's on top here for good reason, then. Makes sense she'd be popular.",
+  "official_neighbors": [
+   "So management's always on our case to read the paper and follow the news so we can keep up with their conversations.",
+   "Nozomi-san's super motivated with stuff like that, so she's always been popular with those types. Now a lot of them request her when they come in.",
+   "Yeah, but the other day, some younger guys came in and she was totally lost tryin' to talk to them. It was hilarious!",
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama..."
+  ]
+ },
+ {
+  "order": 211,
+  "speaker": "タカコ",
+  "sentence": "逆に全然話題についていかれへんくて、",
+  "literal": "On the contrary, I can't keep up with the conversation at all, and...",
+  "official_candidate": "Yeah, but the other day, some younger guys came in and she was totally lost tryin' to talk to them. It was hilarious!",
+  "official_neighbors": [
+   "Nozomi-san's super motivated with stuff like that, so she's always been popular with those types. Now a lot of them request her when they come in.",
+   "Sounds like she's on top here for good reason, then. Makes sense she'd be popular.",
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side."
+  ]
+ },
+ {
+  "order": 212,
+  "speaker": "真島",
+  "sentence": "これなら目の肥えた金持ち層でも、",
+  "literal": "With this, even the discerning wealthy crowd...",
+  "official_candidate": "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess. She'll do just fine, even with the high rollers.)",
+  "official_neighbors": [
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side."
+  ]
+ },
+ {
+  "order": 213,
+  "speaker": "真島",
+  "sentence": "これなら目の肥えた金持ち層でも、",
+  "literal": "With this, even the discerning wealthy crowd...",
+  "official_candidate": "(Nice, sounds like there's good reason why she's got a reputation for bein' the consummate hostess. She'll do just fine, even with the high rollers.)",
+  "official_neighbors": [
+   "Ooh, keep that last one between us, yeah? If the other girls heard I said that, it'd cause drama...",
+   "Ha ha, relax. It's our little secret. Still, sounds like even a pro like Nozomi-chan's got her cute side."
+  ]
+ }
+]

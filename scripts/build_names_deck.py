@@ -21,7 +21,8 @@ out = os.path.join(DATA, "decks"); os.makedirs(out, exist_ok=True)
 path = os.path.join(out, "yakuza0_names.apkg")
 old = old_guids(path)                        # key (Word, Reading) -> guid already in Anki
 
-deck = genanki.Deck(2059400050, "Yakuza 0 · Characters & Places (Ch 0.5)")
+from deck_names import NAMES
+deck = genanki.Deck(2059400050, NAMES)
 for c in cards:
     ex = f"first appears: Ch.{c['first_chapter']}" if c.get("first_chapter") else ""
     fields = [c["word"], c["reading"], c["meaning"], ex, c["kind"], "", ""]
