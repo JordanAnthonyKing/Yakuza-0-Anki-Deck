@@ -375,27 +375,6 @@
   ]
  },
  {
-  "order": 22,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>鬼</b>仁会ってな。",
-  "word": "鬼",
-  "reading": "おに",
-  "meaning": "ogre; demon; oni",
-  "pos": "noun",
-  "chapter": 8,
-  "speaker": "佐川",
-  "uid": "013312cd",
-  "candidates": [
-   "(noun) ogre; demon; oni",
-   "(noun) spirit of a deceased person",
-   "(noun) ogre-like person (i.e. fierce, relentless, merciless, etc.)",
-   "(noun) it (in a game of tag, hide-and-seek, etc.); seeker; chaser; tagger",
-   "(noun) Chinese \"ghost\" constellation (one of the 28 mansions)",
-   "(pref) very; extremely; super-"
-  ]
- },
- {
   "order": 23,
   "kind": "i+1",
   "standalone": false,
@@ -584,23 +563,6 @@
   "candidates": [
    "(verb) order; command; decree; directive",
    "(verb) (software) instruction; statement"
-  ]
- },
- {
-  "order": 34,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>ヒヒ</b>……　それは次会うたときのお楽しみや。",
-  "word": "狒々",
-  "reading": "ひひ",
-  "meaning": "baboon",
-  "pos": "noun",
-  "chapter": 8,
-  "speaker": "西谷",
-  "uid": "013312cd",
-  "candidates": [
-   "(noun) baboon",
-   "(noun) lecher; dirty old man; skirt-chaser"
   ]
  },
  {
@@ -997,25 +959,6 @@
   "uid": "013312cd",
   "candidates": [
    "(noun) assistance; help; aid; support"
-  ]
- },
- {
-  "order": 58,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "それ使<b>こて</b>、マコトの死体を偽装したんやな？",
-  "word": "鏝",
-  "reading": "こて",
-  "meaning": "flat-iron",
-  "pos": "noun",
-  "chapter": 8,
-  "speaker": "李",
-  "uid": "013312c2",
-  "candidates": [
-   "(noun) flat-iron",
-   "(noun) soldering iron",
-   "(noun) crimper; curling tongs",
-   "(noun) trowel"
   ]
  },
  {
