@@ -83,27 +83,6 @@
   ]
  },
  {
-  "order": 5,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "ウチの雇った<b>鬼</b>仁会……",
-  "word": "鬼",
-  "reading": "おに",
-  "meaning": "ogre; demon; oni",
-  "pos": "noun",
-  "chapter": 16,
-  "speaker": "渋澤組組員",
-  "uid": "01331488",
-  "candidates": [
-   "(noun) ogre; demon; oni",
-   "(noun) spirit of a deceased person",
-   "(noun) ogre-like person (i.e. fierce, relentless, merciless, etc.)",
-   "(noun) it (in a game of tag, hide-and-seek, etc.); seeker; chaser; tagger",
-   "(noun) Chinese \"ghost\" constellation (one of the 28 mansions)",
-   "(pref) very; extremely; super-"
-  ]
- },
- {
   "order": 6,
   "kind": "i+1",
   "standalone": false,
@@ -170,23 +149,6 @@
   "uid": "01331488",
   "candidates": [
    "(noun) the other world; the next world; the world beyond; world after death"
-  ]
- },
- {
-  "order": 10,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "あの娘は……　どこにおん<b>ねや</b>ぁ!!",
-  "word": "閨",
-  "reading": "ねや",
-  "meaning": "bedroom (esp. one used by a married couple); sleeping quarters",
-  "pos": "noun",
-  "chapter": 16,
-  "speaker": "真島",
-  "uid": "01331488",
-  "candidates": [
-   "(noun) bedroom (esp. one used by a married couple); sleeping quarters",
-   "(noun) inner room; room at the back of the house"
   ]
  },
  {
@@ -288,24 +250,6 @@
   "uid": "013314ae",
   "candidates": [
    "(noun) town; city; municipal; urban"
-  ]
- },
- {
-  "order": 17,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "道<b>あけ</b>な血ぃ見るだけやで。",
-  "word": "明け",
-  "reading": "あけ",
-  "meaning": "dawn; daybreak",
-  "pos": "adverb",
-  "chapter": 16,
-  "speaker": "真島",
-  "uid": "013314b0",
-  "candidates": [
-   "(adverb) dawn; daybreak",
-   "(noun) end; soon after something has ended",
-   "(noun) beginning (of a new year, month, etc.)"
   ]
  },
  {
