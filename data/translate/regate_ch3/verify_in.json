@@ -1,0 +1,38 @@
+[
+ {
+  "order": 5,
+  "sentence": "女っちゅうのはホンマ面倒くさいのう。",
+  "literal": "Women really are a damn pain, huh.",
+  "official": "Herdin' these women is gonna put me in the nut house."
+ },
+ {
+  "order": 6,
+  "sentence": "すみません、お手数ですがお願いします。",
+  "literal": "Sorry to trouble you, sir, but I'll leave it to you.",
+  "official": "Sorry to trouble you with it, sir."
+ },
+ {
+  "order": 62,
+  "sentence": "やっぱりそう簡単に一見の客にノゾミは来んか……",
+  "literal": "Figures Nozomi won't come to a first-time customer that easily...",
+  "official": "Figures they wouldn't waste Nozomi on a first-timer."
+ },
+ {
+  "order": 63,
+  "sentence": "おぉ～、こらえらいべっぴんさんが来たなぁ！",
+  "literal": "Whoa, what a real beauty they've sent over!",
+  "official": "Whoa, they sent me a ten and a half!"
+ },
+ {
+  "order": 200,
+  "sentence": "アカン、俺は何を普通に話し込んでるんや……！",
+  "literal": "Damn it, what am I doing just sitting here chatting away like normal...!",
+  "official": "Ugh, why am I chattin' this girl up like a tool?"
+ },
+ {
+  "order": 201,
+  "sentence": "アカン、俺は何を普通に話し込んでるんや……！",
+  "literal": "Damn it, what am I doing just sitting here chatting away like normal...!",
+  "official": "Ugh, why am I chattin' this girl up like a tool?"
+ }
+]
