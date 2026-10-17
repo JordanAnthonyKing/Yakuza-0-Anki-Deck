@@ -15,6 +15,13 @@ Be STRICT: default to false. Only mark true when a learner who knows `taught_glo
 genuinely confused or misled by this occurrence. Register is gangster/street dialogue -- slang
 extensions of the SAME core sense are still false.
 
+MISPARSES: the tokenizer sometimes mis-splits dialect/grammar into a fake "word" — e.g. Kansai
+negation へん/ひん (忘れへん) read as 辺/干る, copula やろ/やろう read as 野郎, ねん read as 餡, a
+fragment of a compound (プレー from プレイボーイ), or a set phrase (その分 "correspondingly" with
+no matching candidate). If the word in the context sentence is NOT really that word, mark it
+false AND list it under the special key "__flags__": {"word": "short reason"}.
+
 Read the input JSON at the path given. Output ONLY a JSON object mapping each word to a
-boolean, e.g. {"組": true, "様": false, ...}. Write it once, at the end, to the output path
-given. No prose.
+boolean (plus the optional "__flags__" object), e.g. {"組": true, "様": false, "辺": false,
+"__flags__": {"辺": "忘れへん = Kansai negation"}}. Write it once, at the end, to the output
+path given. No prose.

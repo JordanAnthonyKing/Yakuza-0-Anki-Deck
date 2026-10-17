@@ -14359,8 +14359,60 @@
   "speaker": "〔人物呼称〕",
   "uid": "label-ch1",
   "sentence": "ポン引きの男",
-  "parity": false,
-  "official_candidate": "",
+  "parity": true,
+  "official_candidate": "Pimp",
+  "official_neighbors": []
+ },
+ {
+  "order": 637,
+  "word": "部",
+  "reading": "ぶ",
+  "meaning": "department (in an organization, company, etc.); division; bureau; faculty",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch1",
+  "sentence": "営業部長",
+  "parity": true,
+  "official_candidate": "Sales Director",
+  "official_neighbors": []
+ },
+ {
+  "order": 638,
+  "word": "青年",
+  "reading": "せいねん",
+  "meaning": "youth; young man",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch1",
+  "sentence": "今時の青年",
+  "parity": true,
+  "official_candidate": "Trendy Youth",
+  "official_neighbors": []
+ },
+ {
+  "order": 639,
+  "word": "初老",
+  "reading": "しょろう",
+  "meaning": "past middle age; nearing old age; near-elderly",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch1",
+  "sentence": "初老の外国人",
+  "parity": true,
+  "official_candidate": "Aging Foreigner",
+  "official_neighbors": []
+ },
+ {
+  "order": 640,
+  "word": "守衛",
+  "reading": "しゅえい",
+  "meaning": "(security) guard; caretaker; janitor; doorkeeper",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch1",
+  "sentence": "守衛の組員",
+  "parity": true,
+  "official_candidate": "Dojima Guard",
   "official_neighbors": []
  }
 ]

@@ -4,7 +4,7 @@ Does NOT spawn anything. Usage: python translate_next.py [chapter] [N] [batchsiz
 """
 import os, json, glob, sys
 DATA = r"C:\Users\jordan\repos\yakuza\data"
-SCRATCH = r"C:\Users\jordan\AppData\Local\Temp\claude\C--Users-jordan-repos-yakuza\661dd7e3-534c-470c-9106-33c76f67f358\scratchpad"
+SCRATCH = os.path.join(DATA, "work", f"ch{int(sys.argv[1]) if len(sys.argv) > 1 else 1}")   # batch inputs live in the repo
 FIELDS = ("order", "word", "reading", "meaning", "speaker", "sentence",
           "official_candidate", "official_neighbors")
 ch = int(sys.argv[1]) if len(sys.argv) > 1 else 1
@@ -15,6 +15,7 @@ align = {r["order"]: r for r in json.load(open(os.path.join(DATA, f"align_ch{ch}
 orders = sorted(align)
 maxo = orders[-1]
 tdir = os.path.join(DATA, "translate", f"ch{ch}"); os.makedirs(tdir, exist_ok=True)
+os.makedirs(SCRATCH, exist_ok=True)
 def outp(s, e): return os.path.join(tdir, f"{s:03d}-{e:03d}.json")
 batches = [(s, min(s + B - 1, maxo)) for s in range(0, maxo + 1, B)]
 missing = [(s, e) for s, e in batches if not os.path.exists(outp(s, e))][:N]

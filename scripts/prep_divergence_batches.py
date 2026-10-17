@@ -13,7 +13,7 @@ import fugashi
 from build_deck import content_tokens, load_jmdict, strip_orphan_brackets
 from taught_ledger import DATA, load_ledger
 
-SCRATCH = r"C:\Users\jordan\AppData\Local\Temp\claude\C--Users-jordan-repos-yakuza\3fcb931d-b408-4464-b174-cae93e1a9d66\scratchpad"
+SCRATCH = os.path.join(DATA, "work", f"ch{int(sys.argv[1])}")   # batch inputs live in the repo
 
 ch = int(sys.argv[1]); nb = int(sys.argv[2]) if len(sys.argv) > 2 else 3
 

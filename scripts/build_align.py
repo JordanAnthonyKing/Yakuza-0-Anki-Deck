@@ -10,6 +10,10 @@ Output: data/align_ch1.json  (list per card, subset-agnostic)
 """
 import os, re, glob, json, sys
 CH = int(sys.argv[1]) if len(sys.argv) > 1 else 1
+try:
+    sys.stdout.reconfigure(encoding="utf-8")   # sample printout has JP; cp1252 console crashed
+except (AttributeError, ValueError):
+    pass
 
 BASE = r"C:\Users\jordan\repos\yakuza\source"   # wdrj/ (JA) + wdr/ (official EN) msg trees
 DATA = r"C:\Users\jordan\repos\yakuza\data"
@@ -111,11 +115,39 @@ def file_delta(ja, en):
     deltas.sort(); return deltas[len(deltas) // 2]
 _delta_cache = {}
 
+_dia = None
+def label_official(label):
+    """official English of a speaker label, via the index-parallel JA/EN name tables"""
+    global _dia
+    from msg_speakers import names
+    if _dia is None:
+        _dia = json.load(open(os.path.join(DATA, "dialogue_by_chapter.json"), encoding="utf-8"))
+    for r in _dia.get(str(CH), []):
+        if r.get("speaker") != label or r["uid"] not in uid2path:
+            continue
+        jp = uid2path[r["uid"]]
+        ja, en = names(jp), names(jp.replace(os.sep + "wdrj" + os.sep, os.sep + "wdr" + os.sep))
+        if label in ja and ja.index(label) < len(en):
+            return en[ja.index(label)]
+    return ""
+
 cards = json.load(open(os.path.join(DATA, f"cards_ch{CH}_{CH}.json"), encoding="utf-8"))
 rows = []
 have = 0
 for c in cards:
     sent = clean_txt(c["sentence"])           # strips the <b> emphasis too
+    if c.get("kind") == "label":
+        # speaker-descriptor card: its official English is the localized speaker name at
+        # the same index of the parallel wdr/ name table (exact, not positional)
+        cand = label_official(sent)
+        have += bool(cand)
+        rows.append({
+            "order": c["order"], "word": c["word"], "reading": c["reading"],
+            "meaning": c["meaning"], "pos": c["pos"], "speaker": c.get("speaker", ""),
+            "uid": c["uid"], "sentence": sent, "parity": True,
+            "official_candidate": cand, "official_neighbors": [],
+        })
+        continue
     ja, en, parity = get_msgs(c["uid"])
     cand, neigh, idx = "", [], None
     for i, a in enumerate(ja):

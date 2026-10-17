@@ -18,6 +18,14 @@ For each word:
 - If several senses could fit, prefer the one a learner most needs here; if none fit well, pick
   the closest/most general candidate (never leave a word out).
 
-Output ONLY a JSON object mapping each word to its chosen gloss string, e.g.
-{"粗方": "mostly; almost; nearly; for the most part", "子": "young woman"}. Write it once, at the
-end, to the output path given. No prose.
+MISPARSES: the tokenizer sometimes mis-splits dialect/grammar into a fake "word" — e.g. Kansai
+negation へん/ひん (忘れへん) read as 辺/干る, copula やろ/やろう read as 野郎, ねん read as 餡,
+おかしない read as 犯す, a fragment of a compound or name (プレー from プレイボーイ), or an
+adverbial set phrase (名実ともに -> 共). If the target word is NOT really a word used in this
+sentence, still give it a gloss, but ALSO list it under the special key "__flags__":
+{"word": "short reason"}. Omit "__flags__" if there are none.
+
+Output ONLY a JSON object mapping each word to its chosen gloss string (plus the optional
+"__flags__" object), e.g. {"粗方": "mostly; almost; nearly; for the most part", "子": "young
+woman", "__flags__": {"餡": "関係あんねん = ある+ねん, not 'bean paste'"}}. Write it once, at
+the end, to the output path given. No prose.

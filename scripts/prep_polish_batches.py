@@ -10,7 +10,7 @@ import os, json, sys, re
 
 REPO = r"C:\Users\jordan\repos\yakuza"
 DATA = os.path.join(REPO, "data")
-SCRATCH = r"C:\Users\jordan\AppData\Local\Temp\claude\C--Users-jordan-repos-yakuza\661dd7e3-534c-470c-9106-33c76f67f358\scratchpad"
+SCRATCH = os.path.join(DATA, "work", f"ch{int(sys.argv[1])}")   # batch inputs live in the repo
 
 lo = int(sys.argv[1]); hi = int(sys.argv[2]) if len(sys.argv) > 2 else lo
 nb = int(sys.argv[3]) if len(sys.argv) > 3 else 5

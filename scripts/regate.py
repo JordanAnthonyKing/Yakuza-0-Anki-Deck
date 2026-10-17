@@ -3,7 +3,10 @@ current align_ch{ch}.json (full ±5 window). Literal translations are never touc
 
   python regate.py prep    <ch> [nbatches]  # write batch inputs + print what to spawn
   python regate.py bracket <ch> [nbatches]  # same, but for drifted cards (see below)
+  python regate.py verify-prep  <ch>        # bracket accepts -> verify_in.json (strict 2nd check)
+  python regate.py verify-apply <ch>        # veto bracket accepts the verifier rejected
   python regate.py merge   <ch>             # fold accepted results into translate/ch{ch}/
+nbatches defaults to ~75 cards per batch. A pass with no qualifying cards writes no files.
 
 bracket: a still-rejected card sandwiched between two ACCEPTED cards of the same .msg file
 must find its official line between theirs. When that stretch is dense enough (<= MAX_BRACKET
@@ -18,7 +21,7 @@ flips official_ok false->true; range files are backed up once to *.pre_regate.
 import os, sys, io, json, glob, shutil, contextlib
 DATA = r"C:\Users\jordan\repos\yakuza\data"
 mode, ch = sys.argv[1], int(sys.argv[2])
-nb = int(sys.argv[3]) if len(sys.argv) > 3 else 2
+nb = int(sys.argv[3]) if len(sys.argv) > 3 else None     # None -> ~75 cards per batch
 tdir = os.path.join(DATA, "translate", f"ch{ch}")
 rdir = os.path.join(DATA, "translate", f"regate_ch{ch}"); os.makedirs(rdir, exist_ok=True)
 
@@ -27,10 +30,14 @@ trans = {k: v for d in ranges.values() for k, v in d.items()}
 MAX_BRACKET, LINES_PER_CARD = 24, 3
 
 def write_batches(rows, tag):
-    size = -(-len(rows) // nb)
+    if not rows:
+        print(f"0 cards qualify for '{tag}' — no batches written")
+        return
+    n = nb or -(-len(rows) // 75)
+    size = -(-len(rows) // n)
     prompt = os.path.join(os.path.dirname(os.path.abspath(__file__)), "gate_prompt.txt")
-    print(f"{len(rows)} cards -> {nb} batches. Spawn ONE opus subagent per batch following {prompt}:")
-    for i in range(nb):
+    print(f"{len(rows)} cards -> {n} batches. Spawn ONE opus subagent per batch following {prompt}:")
+    for i in range(n):
         part = rows[i * size:(i + 1) * size]
         ip, op = (os.path.join(rdir, f"{x}_{tag}{i + 1}.json") for x in ("in", "out"))
         json.dump(part, open(ip, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -73,6 +80,8 @@ elif mode == "bracket":
         if not rejected(r):
             continue
         en = B.get_msgs(r["uid"])[1]
+        if r["official_candidate"] not in en:       # label cards: no message file, nothing to widen
+            continue
         j = en.index(r["official_candidate"])
         prv = next((x for x in range(i - 1, -1, -1) if align[x]["uid"] == r["uid"] and pos[x] is not None), None)
         nxt = next((x for x in range(i + 1, len(align)) if align[x]["uid"] == r["uid"] and pos[x] is not None), None)
@@ -90,6 +99,35 @@ elif mode == "bracket":
         row["next_official"] = trans[str(align[nxt]["order"])]["official"]
         rows.append(row)
     write_batches(rows, "bracket")
+
+elif mode == "verify-prep":
+    # bracket framing makes the gate lenient (it tends to assign SOME line to every card), so
+    # every bracket accept gets a context-free strict check (verify_prompt.txt) before merge
+    inp = {str(r["order"]): r for p in glob.glob(os.path.join(rdir, "in_bracket*.json"))
+           for r in json.load(open(p, encoding="utf-8"))}
+    out = {}
+    for p in glob.glob(os.path.join(rdir, "out_bracket*.json")):
+        out.update(json.load(open(p, encoding="utf-8")))
+    rows = [{"order": int(k), "sentence": inp[k]["sentence"], "literal": inp[k]["literal"],
+             "official": v["official"]} for k, v in out.items() if v.get("official_ok")]
+    if not rows:
+        print("0 bracket accepts — nothing to verify")
+    else:
+        json.dump(rows, open(os.path.join(rdir, "verify_in.json"), "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=1)
+        print(f"{len(rows)} bracket accepts -> {os.path.join(rdir, 'verify_in.json')}; spawn ONE opus "
+              f"subagent following verify_prompt.txt with output {os.path.join(rdir, 'verify_out.json')}")
+
+elif mode == "verify-apply":
+    v = json.load(open(os.path.join(rdir, "verify_out.json"), encoding="utf-8"))
+    vetoed = []
+    for p in glob.glob(os.path.join(rdir, "out_bracket*.json")):
+        o = json.load(open(p, encoding="utf-8"))
+        for k in o:
+            if o[k].get("official_ok") and v.get(k) is False:
+                o[k] = {"official": "", "official_ok": False}; vetoed.append(k)
+        json.dump(o, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"Ch{ch}: verifier vetoed {len(vetoed)}/{len(v)}: {' '.join(sorted(vetoed, key=int))}")
 
 elif mode == "merge":
     res = {}                                        # an acceptance from ANY pass wins
