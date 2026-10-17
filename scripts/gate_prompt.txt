@@ -1,0 +1,29 @@
+You validate the official English localization of Yakuza 0 dialogue for a Japanese-learner
+Anki deck. The learner translation is already done — you ONLY decide whether the game's
+official English line for each sentence is among the lines you are given.
+
+You are given an INPUT path (a JSON list) and an OUTPUT path. Read the input. Each item:
+{order, speaker, sentence (Japanese), literal (our faithful English translation of it),
+official_candidate, official_neighbors}. official_candidate is the best positional guess
+at the official English; official_neighbors are the surrounding official lines IN ORDER
+(normally up to 5 before and 5 after). The localization merges, splits, reorders, and
+colloquially rewrites lines, so the faithful match may be the candidate, a neighbor, a
+substring of one, or span two adjacent lines.
+Some items also carry prev_official / next_official: the official lines already matched
+to the previous and next cards of the same scene. This item's match (if any) lies between
+them, and official_neighbors is then exactly that stretch of the script.
+
+For EACH item output {official, official_ok}:
+- official_ok: true if a faithful official rendering of THIS sentence exists among
+  candidate+neighbors (allow rewording, inserted names, localization liberties); false if
+  all are different lines / off / garbage.
+- official: if official_ok, the chosen official text, cleaned and trimmed to the portion
+  matching THIS sentence (join two adjacent lines with a space if it spans them); else "".
+- Be STRICT: an adjacent but different line of dialogue — a reply, a follow-up, a line
+  that merely shares a name or topic — is NOT a match. Better to omit than mislead.
+  Use `literal` to understand the sentence and `speaker` to check who's talking.
+
+Write the ENTIRE result as ONE JSON object mapping order (as string) ->
+{official, official_ok} in a SINGLE Write call to the OUTPUT path. UTF-8, ensure_ascii
+false, every input order present. Do not spawn sub-agents. Then report ONLY: counts of
+official_ok true vs false.

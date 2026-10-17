@@ -1,0 +1,8226 @@
+{
+ "CORE": [
+  {
+   "word": "アイコン",
+   "reading": "アイコン",
+   "meaning": "icon (on-screen)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "アイテム",
+   "reading": "アイテム",
+   "meaning": "item; inventory pick-up",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "アクション",
+   "reading": "アクション",
+   "meaning": "action (e.g. heat action)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "移動",
+   "reading": "いどう",
+   "meaning": "movement; moving; shifting (e.g. character, viewpoint)",
+   "example": "視点を移動することができます。",
+   "pos": "verb"
+  },
+  {
+   "word": "威力",
+   "reading": "いりょく",
+   "meaning": "power; might; destructive force (of a weapon)",
+   "example": "軽いので扱い易く、威力も十分。",
+   "pos": "noun"
+  },
+  {
+   "word": "イージー",
+   "reading": "イージー",
+   "meaning": "easy (difficulty level)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "ウインドー",
+   "reading": "ウィンドウ",
+   "meaning": "window (on-screen UI panel)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ウィー",
+   "reading": "ウィー",
+   "meaning": "weaving (defensive dodging motion)",
+   "example": "回避動作であるウィービングが出せる。",
+   "pos": "noun"
+  },
+  {
+   "word": "上下",
+   "reading": "うえした",
+   "meaning": "up and down; top and bottom; vertical",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "受け止める",
+   "reading": "うけとめる",
+   "meaning": "to block; to catch; to stop (a blow); to parry",
+   "example": "敵の刀攻撃を歯で受け止めて反撃や！",
+   "pos": "verb"
+  },
+  {
+   "word": "動き",
+   "reading": "うごき",
+   "meaning": "movement; motion (of enemies, etc.)",
+   "example": "敵の動きに注意しつつ戦い",
+   "pos": "noun"
+  },
+  {
+   "word": "押す",
+   "reading": "おす",
+   "meaning": "to push, press (a button)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "開始",
+   "reading": "かいし",
+   "meaning": "start; begin; commencement",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "回避",
+   "reading": "かいひ",
+   "meaning": "evasion; dodging; avoidance",
+   "example": "敵の攻撃を回避しましょう。",
+   "pos": "verb"
+  },
+  {
+   "word": "回復",
+   "reading": "かいふく",
+   "meaning": "recovery; healing; restoration (of HP)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "カウンター",
+   "reading": "カウンター",
+   "meaning": "counter; tally display; counterattack",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "火炎",
+   "reading": "かえん",
+   "meaning": "flame; fire (damage/element)",
+   "example": "防御力は低いが、火炎に対して耐性がある。",
+   "pos": "noun"
+  },
+  {
+   "word": "刀",
+   "reading": "かたな",
+   "meaning": "sword; katana",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "構える",
+   "reading": "かまえる",
+   "meaning": "to assume a stance; to ready one's guard; to hold at the ready",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "カリ",
+   "reading": "かり",
+   "meaning": "kali (dual stick weapon)",
+   "example": "武器技【カリスティック】を習得した！",
+   "pos": "noun"
+  },
+  {
+   "word": "完了",
+   "reading": "かんりょう",
+   "meaning": "completion; done; finished",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "カーソル",
+   "reading": "カーソル",
+   "meaning": "cursor",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "画面",
+   "reading": "がめん",
+   "meaning": "screen; display",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ガン",
+   "reading": "ガン",
+   "meaning": "gun",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ガード",
+   "reading": "ガード",
+   "meaning": "guard; block",
+   "example": "避けれねぇ時はガードも使うだぁよ？",
+   "pos": "verb"
+  },
+  {
+   "word": "強化",
+   "reading": "きょうか",
+   "meaning": "strengthening, upgrading, enhancement (of abilities)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "切り替える",
+   "reading": "きりかえる",
+   "meaning": "to switch; to change over; to toggle",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "切り替わる",
+   "reading": "きりかわる",
+   "meaning": "to switch (automatically); to change over; to be swapped",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "キー",
+   "reading": "キー",
+   "meaning": "key; button; directional key (d-pad)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "崩す",
+   "reading": "くずす",
+   "meaning": "to break down; to break (an opponent's guard); to disrupt",
+   "example": "防御を崩す必殺技は無いか？",
+   "pos": "verb"
+  },
+  {
+   "word": "クリア",
+   "reading": "クリア",
+   "meaning": "clearing; completing (a stage, mission)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "決定",
+   "reading": "けってい",
+   "meaning": "confirm; set; decide (UI action)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "撃破",
+   "reading": "げきは",
+   "meaning": "to defeat; to take down; to crush",
+   "example": "残り体力に注意して、素早く敵を撃破しましょう！",
+   "pos": "verb"
+  },
+  {
+   "word": "ゲージ",
+   "reading": "ゲージ",
+   "meaning": "gauge; meter (e.g. heat gauge)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "効果",
+   "reading": "こうか",
+   "meaning": "effect (of an item, skill); effectiveness",
+   "example": "アイテムの効果が切れたようだな。",
+   "pos": "noun"
+  },
+  {
+   "word": "攻撃",
+   "reading": "こうげき",
+   "meaning": "attack; assault",
+   "example": "敵の攻撃に合わせて入力します。",
+   "pos": "verb"
+  },
+  {
+   "word": "購入",
+   "reading": "こうにゅう",
+   "meaning": "purchase; buying",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "コントローラー",
+   "reading": "コントローラー",
+   "meaning": "controller",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "コンボ",
+   "reading": "コンボ",
+   "meaning": "combo (chain of attacks)",
+   "example": "コンボから更に強力な必殺技を打ち込めないか？",
+   "pos": "noun"
+  },
+  {
+   "word": "作成",
+   "reading": "さくせい",
+   "meaning": "creating; making; drawing up; crafting",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "避ける",
+   "reading": "さける",
+   "meaning": "to dodge; to avoid; to evade",
+   "example": "まずは相手の攻撃をキレイに避けるんだぁ！",
+   "pos": "verb"
+  },
+  {
+   "word": "左右",
+   "reading": "さゆう",
+   "meaning": "left and right",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "晒し",
+   "reading": "さらし",
+   "meaning": "sarashi; bleached cotton torso wrap worn as light armor",
+   "example": "サラシ。布を腹に巻きつける防具。",
+   "pos": "noun"
+  },
+  {
+   "word": "質屋",
+   "reading": "しちや",
+   "meaning": "pawnshop",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "視点",
+   "reading": "してん",
+   "meaning": "viewpoint; camera angle; perspective",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "支払い",
+   "reading": "しはらい",
+   "meaning": "payment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "支払う",
+   "reading": "しはらう",
+   "meaning": "to pay",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "修繕",
+   "reading": "しゅうぜん",
+   "meaning": "repair; mending; fixing",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "終了",
+   "reading": "しゅうりょう",
+   "meaning": "end; finish; conclusion; termination",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "詳細",
+   "reading": "しょうさい",
+   "meaning": "details; particulars; specifics",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "勝負",
+   "reading": "しょうぶ",
+   "meaning": "match; bout; contest; showdown",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "勝利",
+   "reading": "しょうり",
+   "meaning": "victory; win",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "所持",
+   "reading": "しょじ",
+   "meaning": "possession, having on hand (as in money carried)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ショップ",
+   "reading": "ショップ",
+   "meaning": "shop; store",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "使用",
+   "reading": "しよう",
+   "meaning": "use; usage; employment",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ジャケット",
+   "reading": "ジャケット",
+   "meaning": "jacket (as equippable armor)",
+   "example": "金属で強化したジャケットだ。",
+   "pos": "noun"
+  },
+  {
+   "word": "スウェー",
+   "reading": "スウェー",
+   "meaning": "sway; evasive dodge",
+   "example": "敵を正面に捉えつつスウェイが使えます。",
+   "pos": "noun"
+  },
+  {
+   "word": "スキル",
+   "reading": "スキル",
+   "meaning": "skill; ability",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スコア",
+   "reading": "スコア",
+   "meaning": "score; points",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スタイル",
+   "reading": "スタイル",
+   "meaning": "fighting style; stance",
+   "example": "壊し屋スタイルは素手状態で攻撃を行うと",
+   "pos": "noun"
+  },
+  {
+   "word": "スティック",
+   "reading": "スティック",
+   "meaning": "stick; analog stick",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ステージ",
+   "reading": "ステージ",
+   "meaning": "stage; level; round",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "素手",
+   "reading": "すで",
+   "meaning": "bare hands; unarmed (no weapon)",
+   "example": "武器を使わない素手の喧嘩",
+   "pos": "noun"
+  },
+  {
+   "word": "スラッガー",
+   "reading": "スラッガー",
+   "meaning": "slugger (fighting style name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "制限",
+   "reading": "せいげん",
+   "meaning": "limit; restriction (as in 制限時間, time limit)",
+   "example": "制限時間内に、チップをベットして下さい。",
+   "pos": "verb"
+  },
+  {
+   "word": "設定",
+   "reading": "せってい",
+   "meaning": "settings; configuration; setup",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "選択",
+   "reading": "せんたく",
+   "meaning": "choice; selection; option",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "セーブ",
+   "reading": "セーブ",
+   "meaning": "save (game data)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "装備",
+   "reading": "そうび",
+   "meaning": "equip; equipment; gear",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "素材",
+   "reading": "そざい",
+   "meaning": "material; ingredient; crafting resource",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "耐久",
+   "reading": "たいきゅう",
+   "meaning": "durability; endurance (weapon durability stat)",
+   "example": "耐久度は低いが当たればそれなりに痛い。",
+   "pos": "noun"
+  },
+  {
+   "word": "耐性",
+   "reading": "たいせい",
+   "meaning": "resistance; tolerance (e.g. to fire, electricity)",
+   "example": "防御力は低いが、火炎に対して耐性がある。",
+   "pos": "noun"
+  },
+  {
+   "word": "体勢",
+   "reading": "たいせい",
+   "meaning": "posture; stance; balance",
+   "example": "体勢が整った状態であればいつでも防御できるので、",
+   "pos": "noun"
+  },
+  {
+   "word": "対戦",
+   "reading": "たいせん",
+   "meaning": "match; bout; facing an opponent",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "体力",
+   "reading": "たいりょく",
+   "meaning": "stamina; physical strength; health (HP)",
+   "example": "ミラクルの体力がなくなると失敗となりますので、",
+   "pos": "noun"
+  },
+  {
+   "word": "倒す",
+   "reading": "たおす",
+   "meaning": "to defeat; knock down; topple; tilt (a stick)",
+   "example": "向かってくる敵を倒すのは、",
+   "pos": "verb"
+  },
+  {
+   "word": "堪る",
+   "reading": "たまる",
+   "meaning": "to accumulate; to build up; to fill up (e.g. Heat gauge)",
+   "example": "ヒートが大きくたまります。",
+   "pos": "verb"
+  },
+  {
+   "word": "溜まる",
+   "reading": "たまる",
+   "meaning": "to accumulate; to fill up (a gauge)",
+   "example": "ヒートゲージが溜まる。",
+   "pos": "verb"
+  },
+  {
+   "word": "ダウン",
+   "reading": "ダウン",
+   "meaning": "knockdown; being knocked down; downed",
+   "example": "敵をダウンさせた直後に、",
+   "pos": "verb"
+  },
+  {
+   "word": "ダメージ",
+   "reading": "ダメージ",
+   "meaning": "damage",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ダンサー",
+   "reading": "ダンサー",
+   "meaning": "dancer (fighting style name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "チュートリアル",
+   "reading": "チュートリアル",
+   "meaning": "tutorial",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "敵",
+   "reading": "てき",
+   "meaning": "enemy; opponent; foe",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "取り消す",
+   "reading": "とりけす",
+   "meaning": "to cancel; to undo; to retract",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "トンファー",
+   "reading": "トンファー",
+   "meaning": "tonfa (Okinawan weapon)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "動作",
+   "reading": "どうさ",
+   "meaning": "action; motion; move (of the body)",
+   "example": "回避動作であるウィービングが出せる。",
+   "pos": "noun"
+  },
+  {
+   "word": "長押",
+   "reading": "なげし",
+   "meaning": "long press; press and hold (a button)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "入手",
+   "reading": "にゅうしゅ",
+   "meaning": "obtaining; acquiring; getting (an item)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ヌンチャク",
+   "reading": "ぬんちゃく",
+   "meaning": "nunchaku; nunchucks (weapon)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "能力",
+   "reading": "のうりょく",
+   "meaning": "ability; capability (as in ability upgrade screen)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "刃物",
+   "reading": "はもの",
+   "meaning": "edged weapon; blade; knife",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "反撃",
+   "reading": "はんげき",
+   "meaning": "counterattack; counter",
+   "example": "敵の刀攻撃を歯で受け止めて反撃や！",
+   "pos": "verb"
+  },
+  {
+   "word": "バット",
+   "reading": "バット",
+   "meaning": "bat (baseball bat used as a weapon)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "バトル",
+   "reading": "バトル",
+   "meaning": "battle; fight",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "必殺",
+   "reading": "ひっさつ",
+   "meaning": "deadly; special (attack), finishing move",
+   "example": "コンボから更に強力な必殺技を打ち込めないか？",
+   "pos": "noun"
+  },
+  {
+   "word": "表示",
+   "reading": "ひょうじ",
+   "meaning": "display; show; indication",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "怯む",
+   "reading": "ひるむ",
+   "meaning": "to flinch, falter, stagger, recoil",
+   "example": "驚き怯んだ状態の敵にボタンを入力。",
+   "pos": "verb"
+  },
+  {
+   "word": "ヒート",
+   "reading": "ヒート",
+   "meaning": "Heat (special-power gauge/state; enables Heat Actions)",
+   "example": "ヒートアクションをうまく使え！",
+   "pos": "noun"
+  },
+  {
+   "word": "封印",
+   "reading": "ふういん",
+   "meaning": "seal; lock (on an ability/style, later unlocked)",
+   "example": "ダンサースタイルの封印が解除された！",
+   "pos": "noun"
+  },
+  {
+   "word": "防ぐ",
+   "reading": "ふせぐ",
+   "meaning": "to defend against; to block; to prevent",
+   "example": "ちょっとした攻撃ならば防げる。",
+   "pos": "verb"
+  },
+  {
+   "word": "武器",
+   "reading": "ぶき",
+   "meaning": "weapon; arms",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "武具",
+   "reading": "ぶぐ",
+   "meaning": "arms; weapons and armor; gear",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "変更",
+   "reading": "へんこう",
+   "meaning": "change; modification; alteration (e.g. of settings, camera)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ページ",
+   "reading": "ページ",
+   "meaning": "page (of a menu)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "方向",
+   "reading": "ほうこう",
+   "meaning": "direction (e.g. of the d-pad/stick)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "保存",
+   "reading": "ほぞん",
+   "meaning": "saving; storing; preservation",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "防御",
+   "reading": "ぼうぎょ",
+   "meaning": "defense; guard; blocking",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "防具",
+   "reading": "ぼうぐ",
+   "meaning": "armor; protective gear; defensive equipment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボタン",
+   "reading": "ボタン",
+   "meaning": "button (controller push-button)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボックス",
+   "reading": "ボックス",
+   "meaning": "box; item storage box",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ポーズ",
+   "reading": "ポーズ",
+   "meaning": "pause (pause menu)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "マップ",
+   "reading": "マップ",
+   "meaning": "map",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "モード",
+   "reading": "モード",
+   "meaning": "mode; setting",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "料金",
+   "reading": "りょうきん",
+   "meaning": "fee; charge; fare",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "レベル",
+   "reading": "レベル",
+   "meaning": "level; grade; standard",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "技",
+   "reading": "わざ",
+   "meaning": "move, technique, art",
+   "example": "そんなガードの堅い相手に有効な技がコレ！",
+   "pos": "noun"
+  }
+ ],
+ "MINIGAME": [
+  {
+   "word": "上がり",
+   "reading": "あがり",
+   "meaning": "winnings; takings; finishing hand (in a game)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "打つ",
+   "reading": "うつ",
+   "meaning": "to play (mahjong, shogi); to hit, strike",
+   "example": "麻雀ランキング戦、打っていきますか？",
+   "pos": "verb"
+  },
+  {
+   "word": "海釣り",
+   "reading": "うみづり",
+   "meaning": "sea fishing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "運営",
+   "reading": "うんえい",
+   "meaning": "management; operation; running (a club)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "永世",
+   "reading": "えいせい",
+   "meaning": "eternity; perpetuity; (shogi) lifetime title holder",
+   "example": "将棋の世界で“永世名人”になってたと思うわ。",
+   "pos": "noun"
+  },
+  {
+   "word": "エスコート",
+   "reading": "エスコート",
+   "meaning": "escort (cabaret escort battle)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "エディット",
+   "reading": "エディット",
+   "meaning": "edit (e.g. course edit)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "エントリー",
+   "reading": "エントリー",
+   "meaning": "entry; registering to compete",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "親",
+   "reading": "おや",
+   "meaning": "dealer; banker (cards/gambling); parent",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "回収",
+   "reading": "かいしゅう",
+   "meaning": "collection; retrieval; collecting (chips, profits)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "開拓",
+   "reading": "かいたく",
+   "meaning": "developing; opening up (property, area)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "回転",
+   "reading": "かいてん",
+   "meaning": "rotation; spin; revolutions (RPM)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "カウント",
+   "reading": "カウント",
+   "meaning": "count (of scores/hits)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "賭け",
+   "reading": "かけ",
+   "meaning": "bet; wager; stake",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "掛け金",
+   "reading": "かけきん",
+   "meaning": "stake; wager; bet",
+   "example": "賭け詰めビリヤードは賭け金５０万円からとなります。",
+   "pos": "noun"
+  },
+  {
+   "word": "カジノ",
+   "reading": "カジノ",
+   "meaning": "casino",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "カスタマイズ",
+   "reading": "カスタマイズ",
+   "meaning": "customization (of a machine/parts)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "川釣り",
+   "reading": "かわづり",
+   "meaning": "river fishing",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "カード",
+   "reading": "カード",
+   "meaning": "(playing) card",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "軌道",
+   "reading": "きどう",
+   "meaning": "trajectory; path (of the ball); orbit",
+   "example": "手球の軌道を表示しますか？",
+   "pos": "noun"
+  },
+  {
+   "word": "木札",
+   "reading": "きふだ",
+   "meaning": "wooden tag; wooden token (gambling stakes)",
+   "example": "木札・チップのどっちですか？",
+   "pos": "noun"
+  },
+  {
+   "word": "キャッチャー",
+   "reading": "キャッチャー",
+   "meaning": "catcher (UFO catcher crane game)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "キャバ",
+   "reading": "キャバ",
+   "meaning": "cabaret club; hostess bar (abbr.)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "キャバクラ",
+   "reading": "キャバクラ",
+   "meaning": "hostess bar; cabaret club",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "キャバ嬢",
+   "reading": "キャバじょう",
+   "meaning": "hostess (at a cabaret club)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "キャバレー",
+   "reading": "キャバレー",
+   "meaning": "cabaret",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ギヤ",
+   "reading": "ギア",
+   "meaning": "gear (pocket circuit part)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "クレーン",
+   "reading": "クレーン",
+   "meaning": "crane (UFO catcher arm)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "経営",
+   "reading": "けいえい",
+   "meaning": "management; running a business (cabaret/real-estate sim)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "景品",
+   "reading": "けいひん",
+   "meaning": "prize; giveaway; premium",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "減速",
+   "reading": "げんそく",
+   "meaning": "deceleration; slowing down (pocket circuit)",
+   "example": "コーナーでも減速しにくいですが、コースアウトに注意が必要となります。",
+   "pos": "verb"
+  },
+  {
+   "word": "こいこい",
+   "reading": "こいこい",
+   "meaning": "koi-koi (hanafuda card game)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "コスト",
+   "reading": "コスト",
+   "meaning": "cost (parts budget in pocket circuit)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "再生",
+   "reading": "さいせい",
+   "meaning": "playback; play (a song or video)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "サイド",
+   "reading": "サイド",
+   "meaning": "side",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "サーキット",
+   "reading": "サーキット",
+   "meaning": "circuit; racing track (Pocket Circuit)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "将棋",
+   "reading": "しょうぎ",
+   "meaning": "shogi; Japanese chess",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ショット",
+   "reading": "ショット",
+   "meaning": "shot; throw; stroke",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "雀荘",
+   "reading": "ジャンそう",
+   "meaning": "mahjong parlor",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "接客",
+   "reading": "せっきゃく",
+   "meaning": "serving customers; hospitality; reception",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "タイヤ",
+   "reading": "タイヤ",
+   "meaning": "tire (Pocket Circuit part)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ターキー",
+   "reading": "ターキー",
+   "meaning": "turkey; three strikes in a row (bowling)",
+   "example": "ボウリングでターキーをだしたら、",
+   "pos": "noun"
+  },
+  {
+   "word": "打球",
+   "reading": "だきゅう",
+   "meaning": "batted ball, a hit (of the ball)",
+   "example": "打球を的に当てることで、賞金を得ることができる",
+   "pos": "noun"
+  },
+  {
+   "word": "ダーツ",
+   "reading": "ダーツ",
+   "meaning": "darts",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "治安",
+   "reading": "ちあん",
+   "meaning": "public order; security (of an area)",
+   "example": "娯楽王エリアの治安が１ランク下がりました。",
+   "pos": "noun"
+  },
+  {
+   "word": "チップ",
+   "reading": "チップ",
+   "meaning": "chip (gambling token)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ちんちろりん",
+   "reading": "ちんちろりん",
+   "meaning": "cee-lo (dice gambling game)",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "釣り具",
+   "reading": "つりぐ",
+   "meaning": "fishing gear; fishing tackle",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "的",
+   "reading": "てき",
+   "meaning": "target (to hit)",
+   "example": "うまく的に当てて賞金を獲得すると、次の的へ挑戦するかを問う選択肢が表示されます。",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "手球",
+   "reading": "てだま",
+   "meaning": "cue ball (billiards)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "テレクラ",
+   "reading": "テレクラ",
+   "meaning": "telephone dating club",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ディスコ",
+   "reading": "ディスコ",
+   "meaning": "disco; discotheque",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ディーラー",
+   "reading": "ディーラー",
+   "meaning": "dealer (card/casino dealer)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "デッキ",
+   "reading": "デッキ",
+   "meaning": "deck (of cards)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "電圧",
+   "reading": "でんあつ",
+   "meaning": "voltage (motor stat in pocket circuit)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "電撃",
+   "reading": "でんげき",
+   "meaning": "electric shock; electric attribute (part stat)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "得点",
+   "reading": "とくてん",
+   "meaning": "score, points scored",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "賭博",
+   "reading": "とばく",
+   "meaning": "gambling",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "トルク",
+   "reading": "トルク",
+   "meaning": "torque (Pocket Circuit motor stat)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "同伴",
+   "reading": "どうはん",
+   "meaning": "dohan; accompanying a hostess out; going with",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "内装",
+   "reading": "ないそう",
+   "meaning": "interior; interior decoration; furnishings",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "派遣",
+   "reading": "はけん",
+   "meaning": "dispatch; deploy (agents/staff)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "バウンド",
+   "reading": "バウンド",
+   "meaning": "bounce; bound",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "バカラ",
+   "reading": "バカラ",
+   "meaning": "baccarat",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "バッティング",
+   "reading": "バッティング",
+   "meaning": "batting",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "バッテリー",
+   "reading": "バッテリー",
+   "meaning": "battery (Pocket Circuit part)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "バンク",
+   "reading": "バンク",
+   "meaning": "bank; banker (baccarat side)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "盤面",
+   "reading": "ばんめん",
+   "meaning": "board surface; state of the board (shogi, darts, etc.)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ぱちんこ",
+   "reading": "パチンコ",
+   "meaning": "pachinko (pinball-style gambling game)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パーツ",
+   "reading": "パーツ",
+   "meaning": "part; component (Pocket Circuit machine parts)",
+   "example": "いろんなパーツを試してマシンの特徴をつかんでくれよ！",
+   "pos": "noun"
+  },
+  {
+   "word": "引き替える",
+   "reading": "ひきかえる",
+   "meaning": "to exchange, redeem, convert (points)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ヒット",
+   "reading": "ヒット",
+   "meaning": "hit (draw another card in blackjack)",
+   "example": "ＨＩＴを選択すると、１枚カードを引きます。",
+   "pos": "verb"
+  },
+  {
+   "word": "ビリオネア",
+   "reading": "ビリオネア",
+   "meaning": "billionaire (real-estate rival, e.g. the Five Billionaires)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ビリヤード",
+   "reading": "ビリヤード",
+   "meaning": "billiards; pool",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ピルエット",
+   "reading": "ピルーエット",
+   "meaning": "pirouette (disco dance move)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "フレーム",
+   "reading": "フレーム",
+   "meaning": "frame (a round in bowling)",
+   "example": "プレイするフレーム数を選択して下さい。",
+   "pos": "noun"
+  },
+  {
+   "word": "物件",
+   "reading": "ぶっけん",
+   "meaning": "property; real estate",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "部門",
+   "reading": "ぶもん",
+   "meaning": "category; division; class (of a ranking)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "プレゼント",
+   "reading": "プレゼント",
+   "meaning": "present; gift (given to cabaret hostesses)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "閉店",
+   "reading": "へいてん",
+   "meaning": "closing a shop; shutting down (a rival store)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ベット",
+   "reading": "ベット",
+   "meaning": "bet; to wager chips",
+   "example": "制限時間内に、チップをベットして下さい。",
+   "pos": "noun"
+  },
+  {
+   "word": "ホステス",
+   "reading": "ホステス",
+   "meaning": "hostess (cabaret club)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボウリング",
+   "reading": "ボウリング",
+   "meaning": "bowling",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ポーカー",
+   "reading": "ポーカー",
+   "meaning": "poker",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "撒き餌",
+   "reading": "まきえ",
+   "meaning": "bait; chum; ground bait",
+   "example": "撒き餌を撒くと、魚の数が増えたり、",
+   "pos": "verb"
+  },
+  {
+   "word": "マシン",
+   "reading": "マシン",
+   "meaning": "machine; the racing car (Pocket Circuit)",
+   "example": "最高のマシンを作ってくれよ！",
+   "pos": "noun"
+  },
+  {
+   "word": "的球",
+   "reading": "まとだま",
+   "meaning": "object ball (cue sports)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "マネー",
+   "reading": "マネー",
+   "meaning": "money (real-estate Money Battle/Money Island)",
+   "example": "マネーバトルを挑まれることがあります。",
+   "pos": "noun"
+  },
+  {
+   "word": "マージャン",
+   "reading": "マージャン",
+   "meaning": "mahjong",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "メンテ",
+   "reading": "メンテ",
+   "meaning": "maintenance (of the Pocket Circuit machine)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "モーター",
+   "reading": "モーター",
+   "meaning": "motor (Pocket Circuit part)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "リア",
+   "reading": "リア",
+   "meaning": "rear (Pocket Circuit part)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "利益",
+   "reading": "りえき",
+   "meaning": "profit; earnings; returns",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ルーレット",
+   "reading": "ルーレット",
+   "meaning": "roulette",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "レース",
+   "reading": "レース",
+   "meaning": "race (Pocket Circuit)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "レート",
+   "reading": "レート",
+   "meaning": "rate; stakes (of a gambling game)",
+   "example": "お客様、高レートのポーカーを",
+   "pos": "noun"
+  }
+ ],
+ "GENERAL": [
+  {
+   "word": "愛好",
+   "reading": "あいこう",
+   "meaning": "love of, being fond of, enthusiasm for",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "アイランド",
+   "reading": "アイランド",
+   "meaning": "island",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "アウト",
+   "reading": "アウト",
+   "meaning": "out; outside the line",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "赤",
+   "reading": "あか",
+   "meaning": "red",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "悪徳",
+   "reading": "あくとく",
+   "meaning": "vice, corruption, unscrupulous",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "飽くまで",
+   "reading": "あくまで",
+   "meaning": "to the end; strictly; only; purely",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "憧れ",
+   "reading": "あこがれ",
+   "meaning": "yearning, longing, admiration",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "朝飯",
+   "reading": "あさめし",
+   "meaning": "breakfast (朝飯前 = a piece of cake)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "足元",
+   "reading": "あしもと",
+   "meaning": "at one's feet; underfoot; footing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "味付け",
+   "reading": "あじつけ",
+   "meaning": "seasoning; flavoring",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "味わい",
+   "reading": "あじわい",
+   "meaning": "flavor; taste; charm",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "預かる",
+   "reading": "あずかる",
+   "meaning": "to look after; to hold; to keep for someone",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "預ける",
+   "reading": "あずける",
+   "meaning": "to entrust; to deposit; to leave in someone's care",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "焦る",
+   "reading": "あせる",
+   "meaning": "to panic; to rush; to be flustered",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "遊び",
+   "reading": "あそび",
+   "meaning": "play; game; amusement; pastime",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "当たり前",
+   "reading": "あたりまえ",
+   "meaning": "obvious, natural, of course",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "当たる",
+   "reading": "あたる",
+   "meaning": "to hit, strike, land",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "アップ",
+   "reading": "アップ",
+   "meaning": "increase; rise; power-up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "扱い",
+   "reading": "あつかい",
+   "meaning": "handling, treatment, dealing with",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "扱う",
+   "reading": "あつかう",
+   "meaning": "to handle, deal with, operate",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "集まる",
+   "reading": "あつまる",
+   "meaning": "to gather; to assemble; to collect",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "厚み",
+   "reading": "あつみ",
+   "meaning": "thickness",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "当てる",
+   "reading": "あてる",
+   "meaning": "to hit (a target), land on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "アドバイス",
+   "reading": "アドバイス",
+   "meaning": "advice",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "アドベンチャー",
+   "reading": "アドベンチャー",
+   "meaning": "adventure (field/story mode)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "余る",
+   "reading": "あまる",
+   "meaning": "to be left over; remain; be in excess",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "アメリカン",
+   "reading": "アメリカン",
+   "meaning": "American; American-style",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "予め",
+   "reading": "あらかじめ",
+   "meaning": "beforehand; in advance; ahead of time",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "荒事",
+   "reading": "あらごと",
+   "meaning": "rough stuff; violence; strong-arm work",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "争う",
+   "reading": "あらそう",
+   "meaning": "to compete; contend; contest",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "新た",
+   "reading": "あらた",
+   "meaning": "new; fresh",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "改めて",
+   "reading": "あらためて",
+   "meaning": "again; anew; another time",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "有り触れる",
+   "reading": "ありふれる",
+   "meaning": "to be common; to be commonplace",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "粟",
+   "reading": "あわ",
+   "meaning": "millet (as in idiom 濡れ手で粟, easy money)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "合わせる",
+   "reading": "あわせる",
+   "meaning": "to match; to combine; to time (to)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "餡",
+   "reading": "あん",
+   "meaning": "sweet bean paste; filling",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "暗転",
+   "reading": "あんてん",
+   "meaning": "(screen) blackout; fade to black",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "庵",
+   "reading": "いおり",
+   "meaning": "hermitage, retreat",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "生かす",
+   "reading": "いかす",
+   "meaning": "to make use of; to leverage",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "如何に",
+   "reading": "いかに",
+   "meaning": "how; however much; to what extent",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "勢い",
+   "reading": "いきおい",
+   "meaning": "force; momentum; vigor",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "行き先",
+   "reading": "いきさき",
+   "meaning": "destination; whereabouts",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "移行",
+   "reading": "いこう",
+   "meaning": "transition; switch; shift over (to a screen/state)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "医者",
+   "reading": "いしゃ",
+   "meaning": "doctor; physician",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "威信",
+   "reading": "いしん",
+   "meaning": "prestige; dignity",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一応",
+   "reading": "いちおう",
+   "meaning": "more or less; for now; just in case",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "一倍",
+   "reading": "いちばい",
+   "meaning": "even more (esp. 人一倍, more than others)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一式",
+   "reading": "いっしき",
+   "meaning": "complete set; kit",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一種",
+   "reading": "いっしゅ",
+   "meaning": "a kind; a sort",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一緒",
+   "reading": "いっしょ",
+   "meaning": "together; the same",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一線",
+   "reading": "いっせん",
+   "meaning": "a line; boundary; distinction",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一層",
+   "reading": "いっそう",
+   "meaning": "even more; all the more",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "一体",
+   "reading": "いったい",
+   "meaning": "the heck; on earth (emphatic)",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "一帯",
+   "reading": "いったい",
+   "meaning": "whole area; whole region",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一般",
+   "reading": "いっぱん",
+   "meaning": "general; ordinary; common",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "営む",
+   "reading": "いとなむ",
+   "meaning": "to run (a business); to operate; to conduct",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "挑む",
+   "reading": "いどむ",
+   "meaning": "to challenge (to a fight/contest); to take on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "違反",
+   "reading": "いはん",
+   "meaning": "violation; breach; offense",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "今時",
+   "reading": "いまどき",
+   "meaning": "nowadays; these days; the present age",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "イメージ",
+   "reading": "イメージ",
+   "meaning": "image; impression; mental picture",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "嫌",
+   "reading": "いや",
+   "meaning": "unpleasant; disliking; reluctant",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "愈",
+   "reading": "いよいよ",
+   "meaning": "at last, finally; more and more",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "入り",
+   "reading": "いり",
+   "meaning": "amount contained; entering; included count",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "医療",
+   "reading": "いりょう",
+   "meaning": "medical care; medical treatment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "入れ替える",
+   "reading": "いれかえる",
+   "meaning": "to swap; replace; switch",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "色",
+   "reading": "いろ",
+   "meaning": "color; hue; shade",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "伊呂波",
+   "reading": "いろは",
+   "meaning": "the basics; the ABCs; fundamentals",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "言わば",
+   "reading": "いわば",
+   "meaning": "so to speak; as it were; in a sense",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "イン",
+   "reading": "イン",
+   "meaning": "in; inside the line",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "飲食",
+   "reading": "いんしょく",
+   "meaning": "food and drink; dining (飲食店 = restaurant)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "インストール",
+   "reading": "インストール",
+   "meaning": "install (software)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ＥＸ",
+   "reading": "イー・エックス",
+   "meaning": "EX (extra/label, as in EX course)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "受け取り",
+   "reading": "うけとり",
+   "meaning": "receipt; receiving",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "受け取る",
+   "reading": "うけとる",
+   "meaning": "to receive; to accept; to take",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "鬱金",
+   "reading": "うこん",
+   "meaning": "turmeric",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "失う",
+   "reading": "うしなう",
+   "meaning": "to lose; to be deprived of",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "裏",
+   "reading": "うち",
+   "meaning": "back; reverse; underground; hidden",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "打ち返す",
+   "reading": "うちかえす",
+   "meaning": "to hit back, return (a ball), strike back",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "打ち崩す",
+   "reading": "うちくずす",
+   "meaning": "to break down (a defense), crush",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "打ち込む",
+   "reading": "うちこむ",
+   "meaning": "to drive/land (a blow); to input; to devote oneself",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "打ち付ける",
+   "reading": "うちつける",
+   "meaning": "to nail on, drive in, bang against",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "打ち破る",
+   "reading": "うちやぶる",
+   "meaning": "to defeat, smash, break through",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "鰻",
+   "reading": "うなぎ",
+   "meaning": "eel",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "奪う",
+   "reading": "うばう",
+   "meaning": "to snatch; to take by force; to steal",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "旨い",
+   "reading": "うまい",
+   "meaning": "skillful; good; delicious (うまく = well)",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "売り",
+   "reading": "うり",
+   "meaning": "selling point; gimmick; sale",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "売り物",
+   "reading": "うりもの",
+   "meaning": "article for sale; selling point",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "噂",
+   "reading": "うわさ",
+   "meaning": "rumor; hearsay; gossip",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "柄",
+   "reading": "え",
+   "meaning": "handle; grip",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "影響",
+   "reading": "えいきょう",
+   "meaning": "influence, effect, impact",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "笑顔",
+   "reading": "えがお",
+   "meaning": "smile; smiling face",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "Ｓ",
+   "reading": "エス",
+   "meaning": "S (letter; top rank grade)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "エステ",
+   "reading": "エステ",
+   "meaning": "beauty salon; beauty treatment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ＳＭ",
+   "reading": "エス・エム",
+   "meaning": "S&M; sado-masochism (SM club)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "Ｘ",
+   "reading": "エックス",
+   "meaning": "X (letter; item suffix, e.g. スタミナンＸ)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "エリア",
+   "reading": "エリア",
+   "meaning": "area; zone",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "延期",
+   "reading": "えんき",
+   "meaning": "postponement, deferment",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "Ａ",
+   "reading": "エー",
+   "meaning": "A (letter; rank grade)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "エージェント",
+   "reading": "エージェント",
+   "meaning": "agent",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "追い詰める",
+   "reading": "おいつめる",
+   "meaning": "to corner; to drive to the wall; to track down",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "追い払う",
+   "reading": "おいはらう",
+   "meaning": "to drive away; to chase off",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "追い求める",
+   "reading": "おいもとめる",
+   "meaning": "to pursue; to chase after",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "王",
+   "reading": "おう",
+   "meaning": "king; champion; magnate",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "応ずる",
+   "reading": "おうずる",
+   "meaning": "to respond, comply, correspond to",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "横暴",
+   "reading": "おうぼう",
+   "meaning": "tyranny; high-handedness; oppression",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "大型",
+   "reading": "おおがた",
+   "meaning": "large; large-sized; large-scale",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "多く",
+   "reading": "おおく",
+   "meaning": "many; much; a lot; mostly",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "大台",
+   "reading": "おおだい",
+   "meaning": "(major) mark; milestone level",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "御陰",
+   "reading": "おかげ",
+   "meaning": "thanks to, owing to, grace",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "掟",
+   "reading": "おきて",
+   "meaning": "rule; code; law",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "押さえる",
+   "reading": "おさえる",
+   "meaning": "to hold down, press down, suppress",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "収める",
+   "reading": "おさめる",
+   "meaning": "to put away; to pay in; to obtain",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "惜しい",
+   "reading": "おしい",
+   "meaning": "regrettable; too good to waste; so close",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "押し売り",
+   "reading": "おしうり",
+   "meaning": "hard sell, aggressive peddling",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "襲う",
+   "reading": "おそう",
+   "meaning": "to attack; to assail; to strike",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "恐らく",
+   "reading": "おそらく",
+   "meaning": "probably, most likely",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "教わる",
+   "reading": "おそわる",
+   "meaning": "to be taught; to learn",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "男",
+   "reading": "おとこ",
+   "meaning": "man; male; fellow",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "踊る",
+   "reading": "おどる",
+   "meaning": "to dance",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "驚き",
+   "reading": "おどろき",
+   "meaning": "surprise; astonishment; amazement",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "同じ",
+   "reading": "おなじ",
+   "meaning": "same; identical; equal",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "自ら",
+   "reading": "おのずから",
+   "meaning": "oneself; personally; of one's own accord",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "オフ",
+   "reading": "オフ",
+   "meaning": "off; switched off",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "オフィス",
+   "reading": "オフィス",
+   "meaning": "office",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "思い知る",
+   "reading": "おもいしる",
+   "meaning": "to realize, come to know, learn the hard way",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "思い付く",
+   "reading": "おもいつく",
+   "meaning": "to think of, hit upon, come up with",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "面",
+   "reading": "おもて",
+   "meaning": "face; surface; a look/front (…面する)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "親父",
+   "reading": "おやじ",
+   "meaning": "one's father; old man; boss",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "オリジナル",
+   "reading": "オリジナル",
+   "meaning": "original",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "折り畳む",
+   "reading": "おりたたむ",
+   "meaning": "to fold up, fold away",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "女",
+   "reading": "おんな",
+   "meaning": "woman; female",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "女の子",
+   "reading": "おんなのこ",
+   "meaning": "girl; young woman",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "オーダー",
+   "reading": "オーダー",
+   "meaning": "order; custom-made (order-made)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "オート",
+   "reading": "オート",
+   "meaning": "auto; automatic",
+   "example": "",
+   "pos": "adj-f"
+  },
+  {
+   "word": "オーナー",
+   "reading": "オーナー",
+   "meaning": "owner (of a business)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "オーバー",
+   "reading": "オーバー",
+   "meaning": "over; game over",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "オープン",
+   "reading": "オープン",
+   "meaning": "open; opening up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "解決",
+   "reading": "かいけつ",
+   "meaning": "resolution; settlement; solution",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "解除",
+   "reading": "かいじょ",
+   "meaning": "release; lifting; cancellation; unlocking",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "会席",
+   "reading": "かいせき",
+   "meaning": "banquet; multi-course meal; dinner set",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "解説",
+   "reading": "かいせつ",
+   "meaning": "explanation; commentary; walkthrough",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "改造",
+   "reading": "かいぞう",
+   "meaning": "remodeling; modification; conversion",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "買い手",
+   "reading": "かいて",
+   "meaning": "buyer; purchaser",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "界隈",
+   "reading": "かいわい",
+   "meaning": "neighborhood; vicinity; scene",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "楓",
+   "reading": "かえで",
+   "meaning": "maple; maple tree",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "関わる",
+   "reading": "かかわる",
+   "meaning": "to be involved in; to concern; to affect",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "家業",
+   "reading": "かぎょう",
+   "meaning": "family business; family trade",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "限る",
+   "reading": "かぎる",
+   "meaning": "to limit; to restrict; to be limited to",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "覚悟",
+   "reading": "かくご",
+   "meaning": "readiness; resolve; determination",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "各種",
+   "reading": "かくしゅ",
+   "meaning": "all sorts; every kind",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "画する",
+   "reading": "かくする",
+   "meaning": "to mark off; to draw a line; to distinguish",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "各地",
+   "reading": "かくち",
+   "meaning": "various places; all over",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "格闘",
+   "reading": "かくとう",
+   "meaning": "hand-to-hand fighting; grappling",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "獲得",
+   "reading": "かくとく",
+   "meaning": "to acquire; to obtain; to earn",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "確率",
+   "reading": "かくりつ",
+   "meaning": "probability; likelihood; chances; odds",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "駆け込む",
+   "reading": "かけこむ",
+   "meaning": "to rush into; to run into; to seek refuge in",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "河口",
+   "reading": "かこう",
+   "meaning": "river mouth; (here) a person's surname",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "重ねる",
+   "reading": "かさねる",
+   "meaning": "to pile up; to accumulate; to repeat",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "箇所",
+   "reading": "かしょ",
+   "meaning": "place; spot; point; part",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "固い",
+   "reading": "かたい",
+   "meaning": "hard; firm; solid; stubborn",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "堅気",
+   "reading": "かたぎ",
+   "meaning": "respectable; honest; law-abiding (non-yakuza)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "傾く",
+   "reading": "かたむく",
+   "meaning": "to tilt; lean; incline",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "価値",
+   "reading": "かち",
+   "meaning": "value; worth; merit",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "勝ち組",
+   "reading": "かちぐみ",
+   "meaning": "winners; the successful",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "格好",
+   "reading": "かっこう",
+   "meaning": "appearance; shape; figure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "勝手",
+   "reading": "かって",
+   "meaning": "on its own; selfishly; as one pleases",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "活用",
+   "reading": "かつよう",
+   "meaning": "to make good use of; to utilize",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "敵う",
+   "reading": "かなう",
+   "meaning": "to be a match for; to rival; to equal",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "可能",
+   "reading": "かのう",
+   "meaning": "possible; feasible",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "カメラマン",
+   "reading": "カメラマン",
+   "meaning": "photographer; cameraman",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "髢",
+   "reading": "かもじ",
+   "meaning": "hairpiece; false hair; (here a name, Kamoji)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "空揚げ",
+   "reading": "からあげ",
+   "meaning": "deep-fried food (esp. chicken); karaage",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "辛い",
+   "reading": "からい",
+   "meaning": "spicy; hot; harsh; painful",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "絡み付く",
+   "reading": "からみつく",
+   "meaning": "to twine around; to coil around; to cling to",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "絡む",
+   "reading": "からむ",
+   "meaning": "to get tangled; to be involved; to pick a quarrel",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "仮",
+   "reading": "かり",
+   "meaning": "temporary; provisional; hypothetical",
+   "example": "",
+   "pos": "adj-no"
+  },
+  {
+   "word": "華麗",
+   "reading": "かれい",
+   "meaning": "splendid; magnificent; flashy; graceful",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "彼氏",
+   "reading": "かれし",
+   "meaning": "boyfriend",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "カレー",
+   "reading": "カレー",
+   "meaning": "curry",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "川底",
+   "reading": "かわぞこ",
+   "meaning": "riverbed",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "代わり",
+   "reading": "かわり",
+   "meaning": "substitute; replacement; instead",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "歓迎",
+   "reading": "かんげい",
+   "meaning": "welcome; warm reception",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "観察",
+   "reading": "かんさつ",
+   "meaning": "observation; watching; examining",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "鑑賞",
+   "reading": "かんしょう",
+   "meaning": "appreciation; enjoyment (of art, film)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "関する",
+   "reading": "かんする",
+   "meaning": "to concern; to relate to; regarding",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "完全",
+   "reading": "かんぜん",
+   "meaning": "perfect; complete; total",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "カントリー",
+   "reading": "カントリー",
+   "meaning": "country; countryside",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "看板",
+   "reading": "かんばん",
+   "meaning": "signboard; sign; (shop's) flagship or specialty",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "幹部",
+   "reading": "かんぶ",
+   "meaning": "executive, leadership, top brass",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "勧誘",
+   "reading": "かんゆう",
+   "meaning": "invitation; solicitation; canvassing",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "歓楽",
+   "reading": "かんらく",
+   "meaning": "pleasure; fun; enjoyment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "管理",
+   "reading": "かんり",
+   "meaning": "management; administration; upkeep",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "概要",
+   "reading": "がいよう",
+   "meaning": "overview; outline; summary",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "額",
+   "reading": "がく",
+   "meaning": "amount (of money); sum; picture frame",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "期間",
+   "reading": "きかん",
+   "meaning": "period; term; interval",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "気軽",
+   "reading": "きがる",
+   "meaning": "casual; lighthearted; without fuss",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "機嫌",
+   "reading": "きげん",
+   "meaning": "mood; temper; humor",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "絆",
+   "reading": "きずな",
+   "meaning": "bond; (emotional) ties; connection",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "期待",
+   "reading": "きたい",
+   "meaning": "expectation; anticipation; hope",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "鍛える",
+   "reading": "きたえる",
+   "meaning": "to train; to work out; to forge",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "貴重",
+   "reading": "きちょう",
+   "meaning": "precious; valuable",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "規定",
+   "reading": "きてい",
+   "meaning": "regulation; prescribed; stipulation",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "茸",
+   "reading": "きのこ",
+   "meaning": "mushroom",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "基本",
+   "reading": "きほん",
+   "meaning": "basics; fundamentals; basis",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "規模",
+   "reading": "きぼ",
+   "meaning": "scale; scope; size",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "気持ち",
+   "reading": "きもち",
+   "meaning": "feeling; mood; state of mind",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "客",
+   "reading": "きゃく",
+   "meaning": "guest; customer; client",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "客入り",
+   "reading": "きゃくいり",
+   "meaning": "attendance; number of customers",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "キャンペーン",
+   "reading": "キャンペーン",
+   "meaning": "campaign; promotion",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "凶器",
+   "reading": "きょうき",
+   "meaning": "deadly weapon; lethal weapon",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "競争",
+   "reading": "きょうそう",
+   "meaning": "competition; contest; race",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "共通",
+   "reading": "きょうつう",
+   "meaning": "common; shared; mutual",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "強敵",
+   "reading": "きょうてき",
+   "meaning": "formidable enemy, tough opponent",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "競売",
+   "reading": "きょうばい",
+   "meaning": "auction",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "協力",
+   "reading": "きょうりょく",
+   "meaning": "cooperation; collaboration",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "強力",
+   "reading": "きょうりょく",
+   "meaning": "powerful, strong",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "巨大",
+   "reading": "きょだい",
+   "meaning": "huge; gigantic; enormous",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "気楽",
+   "reading": "きらく",
+   "meaning": "carefree; at ease; easygoing",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "記録",
+   "reading": "きろく",
+   "meaning": "record; log; (sports) record",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "キング",
+   "reading": "キング",
+   "meaning": "king",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "金属",
+   "reading": "きんぞく",
+   "meaning": "metal",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "近代",
+   "reading": "きんだい",
+   "meaning": "modern times; recent era",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "金融",
+   "reading": "きんゆう",
+   "meaning": "finance; money-lending; credit",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "儀式",
+   "reading": "ぎしき",
+   "meaning": "ceremony; ritual; rite",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "牛耳る",
+   "reading": "ぎゅうじる",
+   "meaning": "to control; to dominate; to run",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "業態",
+   "reading": "ぎょうたい",
+   "meaning": "line of business; business category",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "クイーン",
+   "reading": "クイーン",
+   "meaning": "queen",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "食う",
+   "reading": "くう",
+   "meaning": "to eat; to consume (rough register)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "空前",
+   "reading": "くうぜん",
+   "meaning": "unprecedented; record-breaking",
+   "example": "",
+   "pos": "adj-no"
+  },
+  {
+   "word": "釘",
+   "reading": "くぎ",
+   "meaning": "nail; spike; tack",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "潜り抜ける",
+   "reading": "くぐりぬける",
+   "meaning": "to slip through; to get past",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "串揚げ",
+   "reading": "くしあげ",
+   "meaning": "kushiage; deep-fried skewers",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "癖",
+   "reading": "くせ",
+   "meaning": "habit; quirk; tendency",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "口出し",
+   "reading": "くちだし",
+   "meaning": "meddling; butting in; interference",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "くっく",
+   "reading": "くっく",
+   "meaning": "shoes",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "配る",
+   "reading": "くばる",
+   "meaning": "to distribute; to deal out; to hand out",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "組",
+   "reading": "くみ",
+   "meaning": "group; team; crime family (e.g. 堂島組)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "組み合わせる",
+   "reading": "くみあわせる",
+   "meaning": "to combine; to put together; to pair up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "組む",
+   "reading": "くむ",
+   "meaning": "to team up; to join forces; to assemble",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "食らう",
+   "reading": "くらう",
+   "meaning": "to take (a hit); to receive (a blow); to eat",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "クラブ",
+   "reading": "クラブ",
+   "meaning": "club; nightclub",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "クラン",
+   "reading": "クラン",
+   "meaning": "clan",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "繰り出す",
+   "reading": "くりだす",
+   "meaning": "to unleash (a punch/attack); to send out in numbers",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "繰り広げる",
+   "reading": "くりひろげる",
+   "meaning": "to unfold; to stage; to carry on (a battle)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "クローズド",
+   "reading": "クローズド",
+   "meaning": "closed",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "具",
+   "reading": "ぐ",
+   "meaning": "tool; implement; ingredients",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "グランド",
+   "reading": "グラウンド",
+   "meaning": "grand; ground (as in a venue name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "グラビア",
+   "reading": "グラビア",
+   "meaning": "gravure (glamour photo spread)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "経緯",
+   "reading": "けいい",
+   "meaning": "details; circumstances; sequence of events",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "契機",
+   "reading": "けいき",
+   "meaning": "opportunity; trigger; cause",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "景気",
+   "reading": "けいき",
+   "meaning": "business conditions; economy; boom",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "形状",
+   "reading": "けいじょう",
+   "meaning": "shape, form",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "契約",
+   "reading": "けいやく",
+   "meaning": "contract; agreement",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "化粧",
+   "reading": "けしょう",
+   "meaning": "makeup; cosmetics",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "結果",
+   "reading": "けっか",
+   "meaning": "result; outcome; consequence",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "結局",
+   "reading": "けっきょく",
+   "meaning": "after all; in the end; ultimately",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "決心",
+   "reading": "けっしん",
+   "meaning": "determination; resolve",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "権益",
+   "reading": "けんえき",
+   "meaning": "rights and interests; vested interests",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "剣道",
+   "reading": "けんどう",
+   "meaning": "kendo; Japanese swordsmanship",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "権利",
+   "reading": "けんり",
+   "meaning": "right; privilege; entitlement",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "芸能",
+   "reading": "げいのう",
+   "meaning": "entertainment; performing arts",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "劇場",
+   "reading": "げきじょう",
+   "meaning": "theater; playhouse",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ゲット",
+   "reading": "ゲット",
+   "meaning": "to get; to obtain",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "月曜",
+   "reading": "げつよう",
+   "meaning": "Monday",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "現在",
+   "reading": "げんざい",
+   "meaning": "the present; now; current",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "減少",
+   "reading": "げんしょう",
+   "meaning": "decrease; reduction; decline",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "現象",
+   "reading": "げんしょう",
+   "meaning": "phenomenon",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "限定",
+   "reading": "げんてい",
+   "meaning": "limited; exclusive; restricted",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "行為",
+   "reading": "こうい",
+   "meaning": "act; deed; conduct",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "高価",
+   "reading": "こうか",
+   "meaning": "expensive; costly; valuable",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "後悔",
+   "reading": "こうかい",
+   "meaning": "regret, remorse",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "交換",
+   "reading": "こうかん",
+   "meaning": "exchange; swap; trade",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "高額",
+   "reading": "こうがく",
+   "meaning": "large sum; high amount (of money)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "高級",
+   "reading": "こうきゅう",
+   "meaning": "high-class; high-grade; high-end",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "攻守",
+   "reading": "こうしゅ",
+   "meaning": "offense and defense",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "交渉",
+   "reading": "こうしょう",
+   "meaning": "negotiation; bargaining; talks",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "構成",
+   "reading": "こうせい",
+   "meaning": "composition; makeup; structure",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "高速",
+   "reading": "こうそく",
+   "meaning": "high-speed; fast; expressway",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "好物",
+   "reading": "こうぶつ",
+   "meaning": "favourite food; favourite dish",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "交流",
+   "reading": "こうりゅう",
+   "meaning": "interaction; exchange; mingling",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "声",
+   "reading": "こえ",
+   "meaning": "voice",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "越える",
+   "reading": "こえる",
+   "meaning": "to cross; to exceed; to surpass",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "小型",
+   "reading": "こがた",
+   "meaning": "small-sized; compact; miniature",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "試みる",
+   "reading": "こころみる",
+   "meaning": "to attempt; to try; to have a go at",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "凝らす",
+   "reading": "こごらす",
+   "meaning": "to concentrate; devote; elaborate on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "こそこそ",
+   "reading": "こそこそ",
+   "meaning": "sneakily; stealthily; on the sly",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "こだわる",
+   "reading": "こだわる",
+   "meaning": "to fixate on; to be particular about; to insist on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "こつ",
+   "reading": "こつ",
+   "meaning": "knack; skill; trick; the hang of it",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "小遣い",
+   "reading": "こづかい",
+   "meaning": "pocket money; allowance; spending money",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "異なる",
+   "reading": "ことなる",
+   "meaning": "to differ; to vary",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "こない",
+   "reading": "こない",
+   "meaning": "this kind of; such (Kansai dialect)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "独楽",
+   "reading": "こま",
+   "meaning": "spinning top; (fig.) pawn; piece",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "転がす",
+   "reading": "ころがす",
+   "meaning": "to roll; to flip (property); to trundle",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "壊す",
+   "reading": "こわす",
+   "meaning": "to break; to destroy; to demolish",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "今回",
+   "reading": "こんかい",
+   "meaning": "this time; now; on this occasion",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "今後",
+   "reading": "こんご",
+   "meaning": "from now on; hereafter",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "コンテンツ",
+   "reading": "コンテンツ",
+   "meaning": "content; contents (e.g. DLC)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "強引",
+   "reading": "ごういん",
+   "meaning": "pushy, overbearing, forcible",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "合計",
+   "reading": "ごうけい",
+   "meaning": "total; sum",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "強盗",
+   "reading": "ごうとう",
+   "meaning": "robber, robbery, mugging",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "護身",
+   "reading": "ごしん",
+   "meaning": "self-protection; self-defense",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ごっこ",
+   "reading": "ごっこ",
+   "meaning": "playing at (something); game of make-believe",
+   "example": "",
+   "pos": "suf"
+  },
+  {
+   "word": "ごつい",
+   "reading": "ごつい",
+   "meaning": "rugged; big and tough; burly",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "娯楽",
+   "reading": "ごらく",
+   "meaning": "amusement; entertainment; recreation",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ゴールド",
+   "reading": "ゴールド",
+   "meaning": "gold",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "差",
+   "reading": "さ",
+   "meaning": "difference; gap; margin",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "際",
+   "reading": "さい",
+   "meaning": "occasion; time; when; (in the) case of",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "才",
+   "reading": "さい",
+   "meaning": "years old (age counter)",
+   "example": "",
+   "pos": "ctr"
+  },
+  {
+   "word": "最強",
+   "reading": "さいきょう",
+   "meaning": "strongest",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "最高",
+   "reading": "さいこう",
+   "meaning": "best; highest; greatest",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "最新",
+   "reading": "さいしん",
+   "meaning": "latest; newest",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "最大",
+   "reading": "さいだい",
+   "meaning": "largest; greatest; maximum",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "最低",
+   "reading": "さいてい",
+   "meaning": "lowest; minimum; at least",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "再度",
+   "reading": "さいど",
+   "meaning": "again; once more; a second time",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "才能",
+   "reading": "さいのう",
+   "meaning": "talent, ability",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "採用",
+   "reading": "さいよう",
+   "meaning": "adoption; hiring; taking on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "サウナ",
+   "reading": "サウナ",
+   "meaning": "sauna",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "下がる",
+   "reading": "さがる",
+   "meaning": "to go down; drop; fall; decline",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "先程",
+   "reading": "さきほど",
+   "meaning": "a little while ago; just now",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "作戦",
+   "reading": "さくせん",
+   "meaning": "tactics; strategy; plan",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "差し上げる",
+   "reading": "さしあげる",
+   "meaning": "to give; to present (humble)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "流石",
+   "reading": "さすが",
+   "meaning": "as expected; just like (someone)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "先",
+   "reading": "さっき",
+   "meaning": "a moment ago; just now; a short while ago",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "サック",
+   "reading": "サック",
+   "meaning": "sheath; case; sack",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "さっさと",
+   "reading": "さっさと",
+   "meaning": "quickly; promptly; without delay",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "早速",
+   "reading": "さっそく",
+   "meaning": "at once; promptly; right away",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "撮影",
+   "reading": "さつえい",
+   "meaning": "filming; shooting; photography",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "捌き",
+   "reading": "さばき",
+   "meaning": "handling; deftness; -work (e.g. footwork)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "様々",
+   "reading": "さまざま",
+   "meaning": "various; diverse",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "サンシャイン",
+   "reading": "サンシャイン",
+   "meaning": "sunshine (here a cabaret club name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "座",
+   "reading": "ざ",
+   "meaning": "seat, position, title",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "座標",
+   "reading": "ざひょう",
+   "meaning": "coordinate, coordinates",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "斬新",
+   "reading": "ざんしん",
+   "meaning": "novel; original; innovative",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "視界",
+   "reading": "しかい",
+   "meaning": "field of vision; visibility; view",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "仕方無い",
+   "reading": "しかたない",
+   "meaning": "it can't be helped; unavoidable; no other way",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "志願",
+   "reading": "しがん",
+   "meaning": "volunteering, applying, aspiring",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "式",
+   "reading": "しき",
+   "meaning": "type, style, method",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "資金",
+   "reading": "しきん",
+   "meaning": "funds; capital",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "仕組み",
+   "reading": "しくみ",
+   "meaning": "structure; mechanism; how it works",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "試験",
+   "reading": "しけん",
+   "meaning": "exam; test; trial",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "視察",
+   "reading": "しさつ",
+   "meaning": "inspection; observation; scouting",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "獅子",
+   "reading": "しし",
+   "meaning": "lion",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "姿勢",
+   "reading": "しせい",
+   "meaning": "posture; stance; attitude",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "施設",
+   "reading": "しせつ",
+   "meaning": "facility; establishment; institution",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "自然",
+   "reading": "しぜん",
+   "meaning": "nature; natural; naturally",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "失格",
+   "reading": "しっかく",
+   "meaning": "disqualification; elimination",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "確り",
+   "reading": "しっかり",
+   "meaning": "firmly; securely; properly; solidly",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "失礼",
+   "reading": "しつれい",
+   "meaning": "excuse me; rudeness; impoliteness",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "品",
+   "reading": "しな",
+   "meaning": "article; item; goods; quality",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "老舗",
+   "reading": "しにせ",
+   "meaning": "long-established shop; old established business",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "死ぬ",
+   "reading": "しぬ",
+   "meaning": "to die; to pass away",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "忍び込む",
+   "reading": "しのびこむ",
+   "meaning": "to sneak in, steal in, creep in",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "支配",
+   "reading": "しはい",
+   "meaning": "rule; domination; control",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "市販",
+   "reading": "しはん",
+   "meaning": "commercially available; store-bought; off-the-shelf",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "数",
+   "reading": "しばしば",
+   "meaning": "number; count",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "仕舞い",
+   "reading": "しまい",
+   "meaning": "end; finish; close",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "借金",
+   "reading": "しゃっきん",
+   "meaning": "debt; loan; borrowing",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "洒落る",
+   "reading": "しゃれる",
+   "meaning": "to be stylish; to be witty",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "集団",
+   "reading": "しゅうだん",
+   "meaning": "group; crowd; mass",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "習得",
+   "reading": "しゅうとく",
+   "meaning": "learning; acquiring (a skill or move)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "趣向",
+   "reading": "しゅこう",
+   "meaning": "idea; design; twist; touch",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "出現",
+   "reading": "しゅつげん",
+   "meaning": "appearance; emergence; spawning",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "種類",
+   "reading": "しゅるい",
+   "meaning": "kind; type; variety; category",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "賞金",
+   "reading": "しょうきん",
+   "meaning": "prize money; monetary reward",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "商人",
+   "reading": "しょうにん",
+   "meaning": "merchant; trader; dealer",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "消費",
+   "reading": "しょうひ",
+   "meaning": "consumption; spending; using up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "招福",
+   "reading": "しょうふく",
+   "meaning": "inviting good fortune (also a place name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "正面",
+   "reading": "しょうめん",
+   "meaning": "front; the front; facing directly",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "消耗",
+   "reading": "しょうもう",
+   "meaning": "wear; consumption; exhaustion",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "初期",
+   "reading": "しょき",
+   "meaning": "initial stage; early period; default",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "食",
+   "reading": "しょく",
+   "meaning": "food; eating; meal",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "職業",
+   "reading": "しょくぎょう",
+   "meaning": "occupation; profession; job",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "職人",
+   "reading": "しょくにん",
+   "meaning": "craftsman; artisan; tradesman",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "書房",
+   "reading": "しょぼう",
+   "meaning": "publishing house; study",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "所有",
+   "reading": "しょゆう",
+   "meaning": "possession, ownership",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ショー",
+   "reading": "ショー",
+   "meaning": "show; performance",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ショート",
+   "reading": "ショート",
+   "meaning": "short",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "知り合い",
+   "reading": "しりあい",
+   "meaning": "acquaintance",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "証し",
+   "reading": "しるし",
+   "meaning": "proof; sign; token",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "知れる",
+   "reading": "しれる",
+   "meaning": "to become known; to be understood; to come to light",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "素人",
+   "reading": "しろうと",
+   "meaning": "amateur; layman; novice",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "真",
+   "reading": "しん",
+   "meaning": "truth; reality; genuine; true",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "真剣",
+   "reading": "しんけん",
+   "meaning": "serious; earnest; in earnest",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "進行",
+   "reading": "しんこう",
+   "meaning": "progress; progression; moving forward",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "新興",
+   "reading": "しんこう",
+   "meaning": "rising; emerging; up-and-coming",
+   "example": "",
+   "pos": "adj-no"
+  },
+  {
+   "word": "新鮮",
+   "reading": "しんせん",
+   "meaning": "fresh",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "Ｃ",
+   "reading": "シー",
+   "meaning": "C (letter; rank grade)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "シームレス",
+   "reading": "シームレス",
+   "meaning": "seamless",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "地上げ",
+   "reading": "じあげ",
+   "meaning": "buying up land; land sharking",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "次回",
+   "reading": "じかい",
+   "meaning": "next time; next occasion",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "事業",
+   "reading": "じぎょう",
+   "meaning": "business; enterprise; venture",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "自殺",
+   "reading": "じさつ",
+   "meaning": "suicide",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "爺",
+   "reading": "じじ",
+   "meaning": "old man; old geezer",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "持続",
+   "reading": "じぞく",
+   "meaning": "duration, lasting, sustaining",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "実際",
+   "reading": "じっさい",
+   "meaning": "reality; actually; in fact",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "実",
+   "reading": "じつ",
+   "meaning": "truth; reality; real (e.g. real brother)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "実現",
+   "reading": "じつげん",
+   "meaning": "realization; materialization",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "実力",
+   "reading": "じつりょく",
+   "meaning": "real ability; true strength; skill",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "自動",
+   "reading": "じどう",
+   "meaning": "automatic; automatically",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "自慢",
+   "reading": "じまん",
+   "meaning": "pride; boasting; showing off",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ジム",
+   "reading": "ジム",
+   "meaning": "gym; gymnasium",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "事務",
+   "reading": "じむ",
+   "meaning": "office work; clerical work; administration",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "地元",
+   "reading": "じもと",
+   "meaning": "home area; hometown; local",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "弱小",
+   "reading": "じゃくしょう",
+   "meaning": "weak and small, minor, feeble",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "ジャンプ",
+   "reading": "ジャンプ",
+   "meaning": "jump",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "充実",
+   "reading": "じゅうじつ",
+   "meaning": "fullness; completeness; enrichment",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "銃弾",
+   "reading": "じゅうだん",
+   "meaning": "bullet; gunshot",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "十分",
+   "reading": "じゅうぶん",
+   "meaning": "enough; sufficient; ample",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "重要",
+   "reading": "じゅうよう",
+   "meaning": "important; essential; significant",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "純粋",
+   "reading": "じゅんすい",
+   "meaning": "pure; genuine; unmixed",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "上位",
+   "reading": "じょうい",
+   "meaning": "high rank; top; superior position",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "状況",
+   "reading": "じょうきょう",
+   "meaning": "situation; circumstances",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "条件",
+   "reading": "じょうけん",
+   "meaning": "condition; requirement; term",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "常識",
+   "reading": "じょうしき",
+   "meaning": "common sense; common knowledge",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "饒舌",
+   "reading": "じょうぜつ",
+   "meaning": "talkative; garrulous; chatty",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "状態",
+   "reading": "じょうたい",
+   "meaning": "state; condition; situation",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "場裡",
+   "reading": "じょうり",
+   "meaning": "arena",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "女子",
+   "reading": "じょし",
+   "meaning": "woman; girl",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "腎臓",
+   "reading": "じんぞう",
+   "meaning": "kidney",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "吸い物",
+   "reading": "すいもの",
+   "meaning": "clear broth soup",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "優れる",
+   "reading": "すぐれる",
+   "meaning": "to excel; be superior; surpass",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "進める",
+   "reading": "すすめる",
+   "meaning": "to advance; to proceed with; to move forward",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "勧める",
+   "reading": "すすめる",
+   "meaning": "to recommend; to encourage; to offer",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "雀",
+   "reading": "すずめ",
+   "meaning": "sparrow",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スタジャン",
+   "reading": "スタジャン",
+   "meaning": "college jacket; varsity jacket",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スター",
+   "reading": "スター",
+   "meaning": "star (rating/celebrity)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "すっぽん",
+   "reading": "すっぽん",
+   "meaning": "soft-shelled turtle",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "既に",
+   "reading": "すでに",
+   "meaning": "already; previously",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "ストリート",
+   "reading": "ストリート",
+   "meaning": "street",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ストーリー",
+   "reading": "ストーリー",
+   "meaning": "story; plot",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スナック",
+   "reading": "スナック",
+   "meaning": "snack bar (drinking establishment)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "素早い",
+   "reading": "すばやい",
+   "meaning": "quick; swift; nimble; agile",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "スパイ",
+   "reading": "スパイ",
+   "meaning": "spy",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "全て",
+   "reading": "すべて",
+   "meaning": "all; everything; the whole",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スペシャリスト",
+   "reading": "スペシャリスト",
+   "meaning": "specialist",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "スマイル",
+   "reading": "スマイル",
+   "meaning": "smile",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "済む",
+   "reading": "すむ",
+   "meaning": "to finish; to be settled; to get by",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "スリー",
+   "reading": "スリー",
+   "meaning": "three",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "寸法",
+   "reading": "すんぽう",
+   "meaning": "measurement; size; plan",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "性",
+   "reading": "せい",
+   "meaning": "nature, disposition; sex, gender",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "所為",
+   "reading": "せい",
+   "meaning": "fault, because of, on account of",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "静止",
+   "reading": "せいし",
+   "meaning": "still; stationary; at rest (静止画 = still image)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "制する",
+   "reading": "せいする",
+   "meaning": "to control; to dominate; to master",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "成長",
+   "reading": "せいちょう",
+   "meaning": "growth, development, growing up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "性能",
+   "reading": "せいのう",
+   "meaning": "performance, capability, spec",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "成立",
+   "reading": "せいりつ",
+   "meaning": "coming into effect, being concluded, materializing",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "勢力",
+   "reading": "せいりょく",
+   "meaning": "influence; power; force",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "セカンド",
+   "reading": "セカンド",
+   "meaning": "second",
+   "example": "",
+   "pos": "adj-f"
+  },
+  {
+   "word": "世代",
+   "reading": "せだい",
+   "meaning": "generation",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "折角",
+   "reading": "せっかく",
+   "meaning": "taking the trouble to; long-awaited",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "積極",
+   "reading": "せっきょく",
+   "meaning": "active; positive; proactive (as 積極的)",
+   "example": "",
+   "pos": "adj-f"
+  },
+  {
+   "word": "切磋",
+   "reading": "せっさ",
+   "meaning": "applying oneself; working hard",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "セット",
+   "reading": "セット",
+   "meaning": "set; combo",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "折半",
+   "reading": "せっぱん",
+   "meaning": "splitting evenly, going halves",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "迫る",
+   "reading": "せまる",
+   "meaning": "to approach; to press (someone); to compel",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "攻める",
+   "reading": "せめる",
+   "meaning": "to attack; to assault; to press",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "専攻",
+   "reading": "せんこう",
+   "meaning": "major (of study); specialization",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "センター",
+   "reading": "センター",
+   "meaning": "center",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "専念",
+   "reading": "せんねん",
+   "meaning": "devoting oneself; focusing on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "前回",
+   "reading": "ぜんかい",
+   "meaning": "last time; previous round",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "全額",
+   "reading": "ぜんがく",
+   "meaning": "full amount; total sum",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "全体",
+   "reading": "ぜんたい",
+   "meaning": "whole; entirety; the whole thing",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "総称",
+   "reading": "そうしょう",
+   "meaning": "general term; collective name",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "壮絶",
+   "reading": "そうぜつ",
+   "meaning": "fierce; heroic; grand",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "蒼天",
+   "reading": "そうてん",
+   "meaning": "blue sky; (Sotenbori, as in 蒼天堀)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "相当",
+   "reading": "そうとう",
+   "meaning": "considerably; quite; equivalent to",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "添える",
+   "reading": "そえる",
+   "meaning": "to add to; to attach; to place alongside",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "速度",
+   "reading": "そくど",
+   "meaning": "speed; velocity; pace",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "そこそこ",
+   "reading": "そこそこ",
+   "meaning": "reasonably; fairly; moderately",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "組織",
+   "reading": "そしき",
+   "meaning": "organization; group; structure",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "育て上げる",
+   "reading": "そだてあげる",
+   "meaning": "to raise; to bring up; to train (to maturity)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "速攻",
+   "reading": "そっこう",
+   "meaning": "swift attack; right away; immediately",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "そない",
+   "reading": "そない",
+   "meaning": "that kind of; like that (Kansai dialect)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "側",
+   "reading": "そば",
+   "meaning": "side; the side (of)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "抑",
+   "reading": "そもそも",
+   "meaning": "in the first place, to begin with",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "増大",
+   "reading": "ぞうだい",
+   "meaning": "increase; enlargement; growth",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "存ずる",
+   "reading": "ぞんずる",
+   "meaning": "to know; to think (humble)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ゾンビ",
+   "reading": "ゾンビ",
+   "meaning": "zombie",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "存分",
+   "reading": "ぞんぶん",
+   "meaning": "to one's heart's content; freely",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "対",
+   "reading": "たい",
+   "meaning": "versus; against; to (score/ratio)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "大金",
+   "reading": "たいきん",
+   "meaning": "large amount of money; fortune",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "対決",
+   "reading": "たいけつ",
+   "meaning": "confrontation; showdown",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "対抗",
+   "reading": "たいこう",
+   "meaning": "opposition; rivalry; competition",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "貸借",
+   "reading": "たいしゃく",
+   "meaning": "lending and borrowing; loan; debit and credit",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "対する",
+   "reading": "たいする",
+   "meaning": "to face; to be against; toward",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "態勢",
+   "reading": "たいせい",
+   "meaning": "stance, posture, readiness",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "タイプ",
+   "reading": "タイプ",
+   "meaning": "type; kind; sort",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "タイミング",
+   "reading": "タイミング",
+   "meaning": "timing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "大量",
+   "reading": "たいりょう",
+   "meaning": "large quantity; mass; massive amount",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "高",
+   "reading": "たか",
+   "meaning": "amount; quantity; (高が/たかだか = at most)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "高まる",
+   "reading": "たかまる",
+   "meaning": "to rise; to increase; to intensify",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "宝",
+   "reading": "たから",
+   "meaning": "treasure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "互い",
+   "reading": "たがい",
+   "meaning": "each other; one another; mutual",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "多額",
+   "reading": "たがく",
+   "meaning": "large sum (of money); hefty",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "琢磨",
+   "reading": "たくま",
+   "meaning": "cultivation; polishing (oneself)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "竹",
+   "reading": "たけ",
+   "meaning": "bamboo; (Take, as in publisher name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "他社",
+   "reading": "たしゃ",
+   "meaning": "another company; other firms",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "戦い",
+   "reading": "たたかい",
+   "meaning": "battle, fight, struggle",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "戦う",
+   "reading": "たたかう",
+   "meaning": "to fight, battle, contend",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "叩きのめす",
+   "reading": "たたきのめす",
+   "meaning": "to beat up; to knock down",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "只",
+   "reading": "ただ",
+   "meaning": "ordinary; free of charge; just; only",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "唯",
+   "reading": "ただ",
+   "meaning": "only; just; merely",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "立ち退く",
+   "reading": "たちのく",
+   "meaning": "to vacate; to move out; to evacuate",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "達する",
+   "reading": "たっする",
+   "meaning": "to reach; to attain; to arrive at",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "たっぷり",
+   "reading": "たっぷり",
+   "meaning": "plentifully; amply; with room to spare",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "経つ",
+   "reading": "たつ",
+   "meaning": "to pass; to elapse (of time)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "達人",
+   "reading": "たつじん",
+   "meaning": "master; expert",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "立て直す",
+   "reading": "たてなおす",
+   "meaning": "to restore; to rebuild; to regain (balance/footing)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "種",
+   "reading": "たね",
+   "meaning": "kind; type; seed; source",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "度",
+   "reading": "たび",
+   "meaning": "time, occasion (counter)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "タフ",
+   "reading": "タフ",
+   "meaning": "tough",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "試す",
+   "reading": "ためす",
+   "meaning": "to try; to test; to try out",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "溜める",
+   "reading": "ためる",
+   "meaning": "to accumulate; to build up; to store",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "保つ",
+   "reading": "たもつ",
+   "meaning": "to keep; maintain; preserve; retain",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "頼る",
+   "reading": "たよる",
+   "meaning": "to rely on; to depend on; to count on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "短期",
+   "reading": "たんき",
+   "meaning": "short-term",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "探索",
+   "reading": "たんさく",
+   "meaning": "search; hunt; lookup",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "誕生",
+   "reading": "たんじょう",
+   "meaning": "birth; creation; origin",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "担当",
+   "reading": "たんとう",
+   "meaning": "being in charge of, handling",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "代金",
+   "reading": "だいきん",
+   "meaning": "price; charge; payment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "醍醐",
+   "reading": "だいご",
+   "meaning": "the real charm/pleasure (of; part of 醍醐味)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "大事",
+   "reading": "だいじ",
+   "meaning": "important; crucial; precious",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "大好き",
+   "reading": "だいすき",
+   "meaning": "loving; very fond of; adoring",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "大胆",
+   "reading": "だいたん",
+   "meaning": "bold; daring; audacious",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "ダウンロード",
+   "reading": "ダウンロード",
+   "meaning": "download",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "出物",
+   "reading": "だしもの",
+   "meaning": "item on the market; listing; bargain",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ダッシュ",
+   "reading": "ダッシュ",
+   "meaning": "dash; sprint",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ダンシング",
+   "reading": "ダンシング",
+   "meaning": "dancing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "地域",
+   "reading": "ちいき",
+   "meaning": "area; region; district; locality",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "置換",
+   "reading": "ちかん",
+   "meaning": "substitution; replacement (appears in debug/placeholder text)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "治験",
+   "reading": "ちけん",
+   "meaning": "clinical trial",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "因み",
+   "reading": "ちなみ",
+   "meaning": "incidentally; by the way; connection",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "チャンス",
+   "reading": "チャンス",
+   "meaning": "chance; opportunity",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "チャンピオン",
+   "reading": "チャンピオン",
+   "meaning": "champion (here Champion District, a place name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "中古",
+   "reading": "ちゅうこ",
+   "meaning": "used; second-hand; old",
+   "example": "",
+   "pos": "adj-no"
+  },
+  {
+   "word": "長者",
+   "reading": "ちょうじゃ",
+   "meaning": "millionaire; wealthy person",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "調整",
+   "reading": "ちょうせい",
+   "meaning": "adjustment; tuning; regulation",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "挑戦",
+   "reading": "ちょうせん",
+   "meaning": "challenge; attempt; try",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "丁度",
+   "reading": "ちょうど",
+   "meaning": "exactly; just; precisely; right",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "直後",
+   "reading": "ちょくご",
+   "meaning": "immediately after; right after",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "ちょくちょく",
+   "reading": "ちょくちょく",
+   "meaning": "often; now and then; occasionally",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "チョコ",
+   "reading": "チョコ",
+   "meaning": "chocolate",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "直感",
+   "reading": "ちょっかん",
+   "meaning": "intuition; instinct; hunch",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "賃",
+   "reading": "ちん",
+   "meaning": "rent; charge; fare; hire",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ちんぴら",
+   "reading": "チンピラ",
+   "meaning": "hoodlum; small-time punk; delinquent",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "追加",
+   "reading": "ついか",
+   "meaning": "addition; supplement; adding",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "追求",
+   "reading": "ついきゅう",
+   "meaning": "pursuit; seeking after",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "遂に",
+   "reading": "ついに",
+   "meaning": "finally; at last; in the end",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "通常",
+   "reading": "つうじょう",
+   "meaning": "usual; normal; regular",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "通ずる",
+   "reading": "つうずる",
+   "meaning": "to lead to; to be understood; to be versed in",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "通用",
+   "reading": "つうよう",
+   "meaning": "to be accepted; to work; to hold true",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "使い心地",
+   "reading": "つかいごこち",
+   "meaning": "feel of use; ease of use; comfort",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "掴む",
+   "reading": "つかむ",
+   "meaning": "to grasp; to grab; to seize",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "突き込む",
+   "reading": "つきこむ",
+   "meaning": "to thrust into; to delve into; to probe (a matter)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "突き進む",
+   "reading": "つきすすむ",
+   "meaning": "to push on; to plunge forward; to forge ahead",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "次々",
+   "reading": "つぎつぎ",
+   "meaning": "in succession; one after another",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "つく",
+   "reading": "つく",
+   "meaning": "to take up (a position, seat, course); to assume",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "突く",
+   "reading": "つく",
+   "meaning": "to poke; to thrust; to strike (an opening)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "継ぐ",
+   "reading": "つぐ",
+   "meaning": "to succeed to; to inherit; to take over",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "潰す",
+   "reading": "つぶす",
+   "meaning": "to crush; to smash; to ruin",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "坪",
+   "reading": "つぼ",
+   "meaning": "tsubo; unit of land area (approx. 3.3 sq m)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "詰まり",
+   "reading": "つまり",
+   "meaning": "in other words; in short; that is (つまり)",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "積み重ねる",
+   "reading": "つみかさねる",
+   "meaning": "to pile up; to accumulate; to build up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "積り",
+   "reading": "つもり",
+   "meaning": "intention; plan; belief that one is doing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "釣り合い",
+   "reading": "つりあい",
+   "meaning": "balance; equilibrium",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "釣り合う",
+   "reading": "つりあう",
+   "meaning": "to balance; to match; to suit",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "吊り上げる",
+   "reading": "つりあげる",
+   "meaning": "to hoist up; to drive up (a price)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "吊る",
+   "reading": "つる",
+   "meaning": "to hang; to suspend",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "連れ去る",
+   "reading": "つれさる",
+   "meaning": "to carry off; to abduct; to take away",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "帝王",
+   "reading": "ていおう",
+   "meaning": "sovereign; emperor; monarch",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "抵抗",
+   "reading": "ていこう",
+   "meaning": "resistance, opposition, reluctance",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "停止",
+   "reading": "ていし",
+   "meaning": "stop; halt; suspension",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "程度",
+   "reading": "ていど",
+   "meaning": "degree; extent; amount; to some extent",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "定番",
+   "reading": "ていばん",
+   "meaning": "standard; go-to; classic choice",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "適合",
+   "reading": "てきごう",
+   "meaning": "conformity; compatibility; fitness",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "敵情",
+   "reading": "てきじょう",
+   "meaning": "enemy movements; enemy's situation",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "敵対",
+   "reading": "てきたい",
+   "meaning": "hostility; antagonism; opposition",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "テクニック",
+   "reading": "テクニック",
+   "meaning": "technique",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手下",
+   "reading": "てした",
+   "meaning": "underling, henchman, minion",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "撤収",
+   "reading": "てっしゅう",
+   "meaning": "withdrawal; pulling out; striking (a set)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "鉄",
+   "reading": "てつ",
+   "meaning": "iron; steel",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手伝い",
+   "reading": "てつだい",
+   "meaning": "help, assistance; helper",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手続き",
+   "reading": "てつづき",
+   "meaning": "procedure, process, formalities",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手振れ",
+   "reading": "てぶれ",
+   "meaning": "camera shake",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手本",
+   "reading": "てほん",
+   "meaning": "model, example, exemplar",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手前",
+   "reading": "てまえ",
+   "meaning": "toward oneself, this side, in front",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "手元",
+   "reading": "てもと",
+   "meaning": "at hand, on hand, nearby",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "テロリスト",
+   "reading": "テロリスト",
+   "meaning": "terrorist",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "展開",
+   "reading": "てんかい",
+   "meaning": "development; unfolding; progression",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "転換",
+   "reading": "てんかん",
+   "meaning": "conversion; changeover; switch",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "転向",
+   "reading": "てんこう",
+   "meaning": "conversion; switch; changing over",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "天然",
+   "reading": "てんねん",
+   "meaning": "natural; nature",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "転売",
+   "reading": "てんばい",
+   "meaning": "resale; reselling",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "店舗",
+   "reading": "てんぽ",
+   "meaning": "shop, store, establishment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "テーブル",
+   "reading": "テーブル",
+   "meaning": "table",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "出会い",
+   "reading": "であい",
+   "meaning": "encounter; meeting; chance meeting",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "出会う",
+   "reading": "であう",
+   "meaning": "to meet by chance; encounter; run into",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "出入り",
+   "reading": "でいり",
+   "meaning": "going in and out; frequenting; coming and going",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "デザート",
+   "reading": "デザート",
+   "meaning": "dessert",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "電脳",
+   "reading": "でんのう",
+   "meaning": "computer; cyber (part of area/boss name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ディ",
+   "reading": "デー",
+   "meaning": "day (here a stuttered start of 'disco')",
+   "example": "",
+   "pos": "suf"
+  },
+  {
+   "word": "問う",
+   "reading": "とう",
+   "meaning": "to ask; to question; to inquire",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "登場",
+   "reading": "とうじょう",
+   "meaning": "appearance; introduction; debut",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "当店",
+   "reading": "とうてん",
+   "meaning": "this shop, our store",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "豆腐",
+   "reading": "とうふ",
+   "meaning": "tofu; bean curd",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "東洋",
+   "reading": "とうよう",
+   "meaning": "the Orient; East Asia",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "時",
+   "reading": "とき",
+   "meaning": "time; moment; occasion",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "得",
+   "reading": "とく",
+   "meaning": "profit, advantage, bargain",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "特注",
+   "reading": "とくちゅう",
+   "meaning": "special order; custom-made; bespoke",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "特徴",
+   "reading": "とくちょう",
+   "meaning": "feature; trait; characteristic",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "特別",
+   "reading": "とくべつ",
+   "meaning": "special; particular; exceptional",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "土地",
+   "reading": "とち",
+   "meaning": "land; plot; lot; soil",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "特化",
+   "reading": "とっか",
+   "meaning": "specialization; focusing on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "特訓",
+   "reading": "とっくん",
+   "meaning": "intensive training; crash course",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "トップ",
+   "reading": "トップ",
+   "meaning": "top",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "突然",
+   "reading": "とつぜん",
+   "meaning": "suddenly; abruptly; unexpectedly",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "整う",
+   "reading": "ととのう",
+   "meaning": "to be ready; to be in order; to be set",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "整える",
+   "reading": "ととのえる",
+   "meaning": "to arrange; to prepare; to put in order",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "兎に角",
+   "reading": "とにかく",
+   "meaning": "anyway; in any case; at any rate",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "飛ぶ",
+   "reading": "とぶ",
+   "meaning": "to fly; to jump; to skip to (バトルに飛ぶ)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "輩",
+   "reading": "ともがら",
+   "meaning": "fellow; sort; lot (of people)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "虎",
+   "reading": "とら",
+   "meaning": "tiger",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "捕らえる",
+   "reading": "とらえる",
+   "meaning": "to catch; to capture; to seize",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "トラブル",
+   "reading": "トラブル",
+   "meaning": "trouble; problem; malfunction",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "取り敢えず",
+   "reading": "とりあえず",
+   "meaning": "for now; first of all; anyway",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "取り扱う",
+   "reading": "とりあつかう",
+   "meaning": "to handle; to deal in; to carry",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "取得",
+   "reading": "とりえ",
+   "meaning": "acquisition; obtaining (a rank, license)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "取り掛かる",
+   "reading": "とりかかる",
+   "meaning": "to begin; to set about; to get down to",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "取り立てる",
+   "reading": "とりたてる",
+   "meaning": "to collect (a debt); to exact; to promote",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "取り直す",
+   "reading": "とりなおす",
+   "meaning": "to regroup; to pull oneself together; to re-grip",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "取り引き",
+   "reading": "とりひき",
+   "meaning": "transaction; dealings; deal",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "取り戻す",
+   "reading": "とりもどす",
+   "meaning": "to take back; to regain; to recover",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "取れる",
+   "reading": "とれる",
+   "meaning": "to come off; to be obtained; to be balanced",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "トレンディー",
+   "reading": "トレンディー",
+   "meaning": "trendy",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "同額",
+   "reading": "どうがく",
+   "meaning": "the same amount",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "動産",
+   "reading": "どうさん",
+   "meaning": "movable property; personal property",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "同然",
+   "reading": "どうぜん",
+   "meaning": "just like; virtually the same as",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "動揺",
+   "reading": "どうよう",
+   "meaning": "agitation; being flustered; shaking",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "独占",
+   "reading": "どくせん",
+   "meaning": "monopoly; exclusive control",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "独創",
+   "reading": "どくそう",
+   "meaning": "originality; creativity",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "独特",
+   "reading": "どくとく",
+   "meaning": "unique; distinctive; peculiar",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "どない",
+   "reading": "どない",
+   "meaning": "how; what kind of; in what way (Kansai dialect)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "共",
+   "reading": "ども",
+   "meaning": "together with; along with; plural marker",
+   "example": "",
+   "pos": "suf"
+  },
+  {
+   "word": "ドライ",
+   "reading": "ドライ",
+   "meaning": "dry; unemotional; businesslike",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "ドライバー",
+   "reading": "ドライバー",
+   "meaning": "driver; motorist",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ドライブ",
+   "reading": "ドライブ",
+   "meaning": "drive; trip by car",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ドラフト",
+   "reading": "ドラフト",
+   "meaning": "draft (beer)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ドラム",
+   "reading": "ドラム",
+   "meaning": "drum; drum (can)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ドリーム",
+   "reading": "ドリーム",
+   "meaning": "dream",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "名",
+   "reading": "な",
+   "meaning": "name; reputation; title",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "内容",
+   "reading": "ないよう",
+   "meaning": "contents; content; substance",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ナイン",
+   "reading": "ナイン",
+   "meaning": "nine",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "直る",
+   "reading": "なおる",
+   "meaning": "to be fixed; to be repaired; to return to normal",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "仲間",
+   "reading": "なかま",
+   "meaning": "companion; ally; fellow; comrade",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "中身",
+   "reading": "なかみ",
+   "meaning": "contents; what's inside; filling",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "仲良し",
+   "reading": "なかよし",
+   "meaning": "close friend; good friends; being close",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "流す",
+   "reading": "ながす",
+   "meaning": "to let flow; to pour; to distribute",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "流れ",
+   "reading": "ながれ",
+   "meaning": "flow; course (of events); procedure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "流れる",
+   "reading": "ながれる",
+   "meaning": "to flow; to drift; to end up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "無し",
+   "reading": "なし",
+   "meaning": "without; none; nonexistent",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "何故",
+   "reading": "なぜ",
+   "meaning": "why; for what reason; how come",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "納得",
+   "reading": "なっとく",
+   "meaning": "understanding; acceptance; being convinced",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "名乗る",
+   "reading": "なのる",
+   "meaning": "to give one's name; to identify oneself; to claim to be",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "滑らか",
+   "reading": "なめらか",
+   "meaning": "smooth; velvety; fluid",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "悩む",
+   "reading": "なやむ",
+   "meaning": "to worry, be troubled, agonize",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ナンバー",
+   "reading": "ナンバー",
+   "meaning": "number",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ナース",
+   "reading": "ナース",
+   "meaning": "nurse",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "苦手",
+   "reading": "にがて",
+   "meaning": "bad at; weak in; not one's forte",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "錦",
+   "reading": "にしき",
+   "meaning": "brocade; (here a name, Nishiki)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "虹色",
+   "reading": "にじいろ",
+   "meaning": "rainbow-colored",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "偽物",
+   "reading": "にせもの",
+   "meaning": "fake; counterfeit; imitation",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "日数",
+   "reading": "にっすう",
+   "meaning": "number of days",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "入荷",
+   "reading": "にゅうか",
+   "meaning": "arrival of new stock; restocking",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "人形",
+   "reading": "にんぎょう",
+   "meaning": "doll; puppet; figure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "人間",
+   "reading": "にんげん",
+   "meaning": "human; person; human being",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "抜かす",
+   "reading": "ぬかす",
+   "meaning": "to skip, omit; to say (derogatory)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "布",
+   "reading": "ぬの",
+   "meaning": "cloth; fabric; material",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "濡れ手",
+   "reading": "ぬれて",
+   "meaning": "wet hands (idiom: easy profit)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "捩じ込む",
+   "reading": "ねじこむ",
+   "meaning": "to thrust in; to force in; to land (an attack)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ねた",
+   "reading": "ねた",
+   "meaning": "material; topic; scoop; info",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ネットワーク",
+   "reading": "ネットワーク",
+   "meaning": "network",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "狙う",
+   "reading": "ねらう",
+   "meaning": "to aim at; to target; to go for",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "野兎",
+   "reading": "のうさぎ",
+   "meaning": "hare; wild rabbit",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "残り",
+   "reading": "のこり",
+   "meaning": "remainder; the rest; what is left",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "乗せる",
+   "reading": "のせる",
+   "meaning": "to place on; put on; load",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "覗く",
+   "reading": "のぞく",
+   "meaning": "to peek; to peep; to look into",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "乗っ取り",
+   "reading": "のっとり",
+   "meaning": "takeover; hijacking; seizure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "伸びる",
+   "reading": "のびる",
+   "meaning": "to stretch; extend; grow; increase",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ノーマル",
+   "reading": "ノーマル",
+   "meaning": "normal",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "把握",
+   "reading": "はあく",
+   "meaning": "grasp, understanding, getting hold of",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "配合",
+   "reading": "はいごう",
+   "meaning": "blend; combination; mixture",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "敗戦",
+   "reading": "はいせん",
+   "meaning": "defeat; lost battle",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ハイテク",
+   "reading": "ハイテク",
+   "meaning": "high-tech",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "敗北",
+   "reading": "はいぼく",
+   "meaning": "defeat; loss",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ハウス",
+   "reading": "ハウス",
+   "meaning": "house",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "博士",
+   "reading": "はかせ",
+   "meaning": "expert; learned person; doctor (PhD)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "挟む",
+   "reading": "はさむ",
+   "meaning": "to hold between; to sandwich; to be caught between",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "走り",
+   "reading": "はしり",
+   "meaning": "running; run; performance (of a machine)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "走り込む",
+   "reading": "はしりこむ",
+   "meaning": "to run in; to charge in",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "弾む",
+   "reading": "はずむ",
+   "meaning": "to bounce; to splurge, pay generously",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "発行",
+   "reading": "はっこう",
+   "meaning": "publication; issue",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "発祥",
+   "reading": "はっしょう",
+   "meaning": "origin; birthplace",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "発売",
+   "reading": "はつばい",
+   "meaning": "sale; release; going on sale",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "派手",
+   "reading": "はで",
+   "meaning": "flashy; showy; gaudy",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "話",
+   "reading": "はなし",
+   "meaning": "talk; story; conversation",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "話し掛ける",
+   "reading": "はなしかける",
+   "meaning": "to talk to; to address; to accost",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "跳ね",
+   "reading": "はね",
+   "meaning": "a jump; a bounce; splash",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "跳ねる",
+   "reading": "はねる",
+   "meaning": "to jump; to bounce; to spring up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "幅広い",
+   "reading": "はばひろい",
+   "meaning": "wide, broad, extensive",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "嵌まる",
+   "reading": "はまる",
+   "meaning": "to get hooked on; to be addicted to; to fit into",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "嵌める",
+   "reading": "はめる",
+   "meaning": "to put on; to fit; to insert",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "流行る",
+   "reading": "はやる",
+   "meaning": "to be popular; to be in fashion",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "腹",
+   "reading": "はら",
+   "meaning": "belly; abdomen; stomach",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "腹立つ",
+   "reading": "はらだつ",
+   "meaning": "to get angry; to be annoyed",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "張り切る",
+   "reading": "はりきる",
+   "meaning": "to be enthusiastic, be full of energy",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "張りぼて",
+   "reading": "はりぼて",
+   "meaning": "papier-mache; sham, hollow front",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "範囲",
+   "reading": "はんい",
+   "meaning": "range; scope; extent; area",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "反逆",
+   "reading": "はんぎゃく",
+   "meaning": "treason; rebellion; defiance",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "判断",
+   "reading": "はんだん",
+   "meaning": "judgment; decision",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "販売",
+   "reading": "はんばい",
+   "meaning": "sale; selling; marketing",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ハート",
+   "reading": "ハート",
+   "meaning": "heart; spirit; nerve",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ハード",
+   "reading": "ハード",
+   "meaning": "hard; tough",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "場合",
+   "reading": "ばあい",
+   "meaning": "case; occasion; situation; circumstances",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "倍額",
+   "reading": "ばいがく",
+   "meaning": "double the amount",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "買収",
+   "reading": "ばいしゅう",
+   "meaning": "acquisition; buyout; buying off",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "バイト",
+   "reading": "バイト",
+   "meaning": "part-time job",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "バイト代",
+   "reading": "バイトだい",
+   "meaning": "part-time job pay; earnings",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "売人",
+   "reading": "ばいにん",
+   "meaning": "dealer; pusher; smuggler",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "馬鹿",
+   "reading": "ばか",
+   "meaning": "idiot; fool; stupid",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "薔薇",
+   "reading": "ばら",
+   "meaning": "rose",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "バランス",
+   "reading": "バランス",
+   "meaning": "balance",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "バー",
+   "reading": "バー",
+   "meaning": "bar; tavern; bar (meter)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "バーガー",
+   "reading": "バーガー",
+   "meaning": "burger; hamburger",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パイプ",
+   "reading": "パイプ",
+   "meaning": "pipe; connection; go-between",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パック",
+   "reading": "パック",
+   "meaning": "pack; packet",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パネル",
+   "reading": "パネル",
+   "meaning": "panel",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パフォーマンス",
+   "reading": "パフォーマンス",
+   "meaning": "performance",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パワー",
+   "reading": "パワー",
+   "meaning": "power",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "パー",
+   "reading": "パー",
+   "meaning": "par; parity",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "比較",
+   "reading": "ひかく",
+   "meaning": "comparison; comparatively",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "引き合う",
+   "reading": "ひきあう",
+   "meaning": "to introduce to each other; to be profitable",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "引き続く",
+   "reading": "ひきつづく",
+   "meaning": "to continue, follow on, come next",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "秘訣",
+   "reading": "ひけつ",
+   "meaning": "secret; trick; key (to success)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "非常",
+   "reading": "ひじょう",
+   "meaning": "very; extremely; emergency",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "一向",
+   "reading": "ひたすら",
+   "meaning": "(not) at all; utterly",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "必死",
+   "reading": "ひっし",
+   "meaning": "desperate, frantic, for dear life",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "匹敵",
+   "reading": "ひってき",
+   "meaning": "to rival; to equal; to be a match for",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "引っ張る",
+   "reading": "ひっぱる",
+   "meaning": "to pull, drag, tug",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "一通り",
+   "reading": "ひととおり",
+   "meaning": "roughly; briefly; once through; a whole set",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "姫",
+   "reading": "ひめ",
+   "meaning": "princess; young lady",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "秘める",
+   "reading": "ひめる",
+   "meaning": "to hide; to conceal; to keep within",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "評判",
+   "reading": "ひょうばん",
+   "meaning": "reputation; popularity; talk",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ひょっと",
+   "reading": "ひょっと",
+   "meaning": "possibly; perhaps; by chance",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ヒロイン",
+   "reading": "ヒロイン",
+   "meaning": "heroine; female lead",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "広める",
+   "reading": "ひろめる",
+   "meaning": "to spread, popularize, propagate",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ビジネス",
+   "reading": "ビジネス",
+   "meaning": "business",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "美人",
+   "reading": "びじん",
+   "meaning": "beautiful woman; a beauty",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "びっくり",
+   "reading": "びっくり",
+   "meaning": "to be surprised; to be startled",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ビデオ",
+   "reading": "ビデオ",
+   "meaning": "video",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "びびる",
+   "reading": "ビビる",
+   "meaning": "to get nervous; to lose one's nerve; to be spooked",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "秒",
+   "reading": "びょう",
+   "meaning": "second (unit of time)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "貧乏",
+   "reading": "びんぼう",
+   "meaning": "poor; destitute; poverty-stricken",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "Ｂ",
+   "reading": "ビー",
+   "meaning": "B (letter; rank grade)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ＰＶ",
+   "reading": "ピー・ブイ",
+   "meaning": "promotional video; music video",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ファイター",
+   "reading": "ファイター",
+   "meaning": "fighter",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ファイト",
+   "reading": "ファイト",
+   "meaning": "fight; fighting spirit",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ファイブ",
+   "reading": "ファイブ",
+   "meaning": "five",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ファッション",
+   "reading": "ファッション",
+   "meaning": "fashion",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "フィット",
+   "reading": "フィット",
+   "meaning": "to fit",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "フィフティー",
+   "reading": "フィフティー",
+   "meaning": "fifty",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "風俗",
+   "reading": "ふうぞく",
+   "meaning": "sex trade; adult entertainment; customs",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "フォーティー",
+   "reading": "フォーティー",
+   "meaning": "forty",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "フォーマル",
+   "reading": "フォーマル",
+   "meaning": "formal",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "フォーム",
+   "reading": "フォーム",
+   "meaning": "form; shape",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "深まる",
+   "reading": "ふかまる",
+   "meaning": "to deepen; to intensify",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "普及",
+   "reading": "ふきゅう",
+   "meaning": "spread; diffusion; widespread use",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "複合",
+   "reading": "ふくごう",
+   "meaning": "composite; combined; complex",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "複雑",
+   "reading": "ふくざつ",
+   "meaning": "complex; complicated; mixed (feelings)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "服装",
+   "reading": "ふくそう",
+   "meaning": "attire; dress; clothing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "膨よか",
+   "reading": "ふくよか",
+   "meaning": "plump; full-figured; well-rounded",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "風情",
+   "reading": "ふぜい",
+   "meaning": "the likes of…; (also) charm; elegance",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "不足",
+   "reading": "ふそく",
+   "meaning": "shortage; insufficiency; lack",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "双子",
+   "reading": "ふたご",
+   "meaning": "twins",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "再び",
+   "reading": "ふたたび",
+   "meaning": "again; once more; a second time",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "札付き",
+   "reading": "ふだつき",
+   "meaning": "notorious; infamous",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "普段",
+   "reading": "ふだん",
+   "meaning": "usual; everyday; normally",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ふっ",
+   "reading": "ふっ",
+   "meaning": "hmph; huff (scoffing exhale)",
+   "example": "",
+   "pos": "pref"
+  },
+  {
+   "word": "振り返る",
+   "reading": "ふりかえる",
+   "meaning": "to look back; to reflect on; to review",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "不良",
+   "reading": "ふりょう",
+   "meaning": "delinquent; hoodlum; thug; defective",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "故",
+   "reading": "ふる",
+   "meaning": "reason; cause; because of",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "古株",
+   "reading": "ふるかぶ",
+   "meaning": "old-timer; veteran; senior member",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "フルーツ",
+   "reading": "フルーツ",
+   "meaning": "fruit",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "分",
+   "reading": "ふん",
+   "meaning": "minute; portion; share",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "分間",
+   "reading": "ふんかん",
+   "meaning": "(period of) minutes",
+   "example": "",
+   "pos": "ctr"
+  },
+  {
+   "word": "無事",
+   "reading": "ぶじ",
+   "meaning": "safe; safely; without incident",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "武術",
+   "reading": "ぶじゅつ",
+   "meaning": "martial arts",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "分析",
+   "reading": "ぶんせき",
+   "meaning": "analysis; breaking down",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ぶん投げる",
+   "reading": "ぶんなげる",
+   "meaning": "to hurl; to throw violently",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "プライベート",
+   "reading": "プライベート",
+   "meaning": "private; personal life",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "プリセット",
+   "reading": "プリセット",
+   "meaning": "preset",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "プレー",
+   "reading": "プレイ",
+   "meaning": "to play (a game)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "プレース",
+   "reading": "プレース",
+   "meaning": "place",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "プロ",
+   "reading": "プロ",
+   "meaning": "professional; pro",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "プロモーター",
+   "reading": "プロモーター",
+   "meaning": "promoter",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "兵隊",
+   "reading": "へいたい",
+   "meaning": "soldier; troops; underling",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "へなへな",
+   "reading": "へなへな",
+   "meaning": "weakly; flimsily; limply",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "辺",
+   "reading": "へん",
+   "meaning": "area; vicinity; region",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "変",
+   "reading": "へん",
+   "meaning": "strange; odd; weird",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "別冊",
+   "reading": "べっさつ",
+   "meaning": "separate volume; special issue",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ベース",
+   "reading": "ベース",
+   "meaning": "base; basis",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ペーパー",
+   "reading": "ペーパー",
+   "meaning": "paper",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "放射",
+   "reading": "ほうしゃ",
+   "meaning": "radiation; emission",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "報酬",
+   "reading": "ほうしゅう",
+   "meaning": "reward; remuneration; recompense",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "他",
+   "reading": "ほか",
+   "meaning": "other; another; else; besides",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "補給",
+   "reading": "ほきゅう",
+   "meaning": "supply; replenishment; restoring",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "保証",
+   "reading": "ほしょう",
+   "meaning": "guarantee; assurance; warranty",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "屠る",
+   "reading": "ほふる",
+   "meaning": "to slaughter; to vanquish; to butcher",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "堀",
+   "reading": "ほり",
+   "meaning": "moat; canal; ditch",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "本気",
+   "reading": "ほんき",
+   "meaning": "seriousness; earnestness",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "本業",
+   "reading": "ほんぎょう",
+   "meaning": "main occupation; core business",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "本日",
+   "reading": "ほんじつ",
+   "meaning": "today",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "本真",
+   "reading": "ほんま",
+   "meaning": "really; truth (Kansai)",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "本来",
+   "reading": "ほんらい",
+   "meaning": "originally; essentially; by nature",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "ホームレス",
+   "reading": "ホームレス",
+   "meaning": "homeless (person)",
+   "example": "",
+   "pos": "adj-no"
+  },
+  {
+   "word": "ホール",
+   "reading": "ホール",
+   "meaning": "hall",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボイコット",
+   "reading": "ボイコット",
+   "meaning": "boycott",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "棒",
+   "reading": "ぼう",
+   "meaning": "pole; rod; stick",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "棒状",
+   "reading": "ぼうじょう",
+   "meaning": "rod-shaped; cylindrical",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "募集",
+   "reading": "ぼしゅう",
+   "meaning": "recruitment; solicitation; call for entries",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ボディー",
+   "reading": "ボディー",
+   "meaning": "body; body blow",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボディーガード",
+   "reading": "ボディーガード",
+   "meaning": "bodyguard",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボリューム",
+   "reading": "ボリューム",
+   "meaning": "volume; amount",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "盆栽",
+   "reading": "ぼんさい",
+   "meaning": "bonsai; miniature potted tree",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボーイ",
+   "reading": "ボーイ",
+   "meaning": "boy; waiter",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ボール",
+   "reading": "ボール",
+   "meaning": "ball",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ポイント",
+   "reading": "ポイント",
+   "meaning": "point; points",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ポット",
+   "reading": "ポット",
+   "meaning": "pot",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ぽっぽ",
+   "reading": "ぽっぽ",
+   "meaning": "Poppo (convenience store brand name)",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "ポピュラー",
+   "reading": "ポピュラー",
+   "meaning": "popular; common",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "まあ",
+   "reading": "まあ",
+   "meaning": "well; I suppose; come now",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "枚数",
+   "reading": "まいすう",
+   "meaning": "number (of flat objects)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "前払い",
+   "reading": "まえばらい",
+   "meaning": "advance payment; prepayment",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "前広",
+   "reading": "まえびろ",
+   "meaning": "beforehand; in advance",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "負かす",
+   "reading": "まかす",
+   "meaning": "to defeat; to beat",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "任す",
+   "reading": "まかす",
+   "meaning": "to entrust; leave (to someone)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "任せる",
+   "reading": "まかせる",
+   "meaning": "to entrust; leave to; put in charge",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "巻き込む",
+   "reading": "まきこむ",
+   "meaning": "to involve; to drag into; to entangle",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "巻き付ける",
+   "reading": "まきつける",
+   "meaning": "to wind around; to wrap around",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "撒く",
+   "reading": "まく",
+   "meaning": "to scatter; to sprinkle; to strew",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "負け",
+   "reading": "まけ",
+   "meaning": "defeat; loss; losing",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "増し",
+   "reading": "まし",
+   "meaning": "better; preferable; more",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "増す",
+   "reading": "ます",
+   "meaning": "to increase; to grow; to boost",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "益々",
+   "reading": "ますます",
+   "meaning": "increasingly; more and more",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "待ち合わせ",
+   "reading": "まちあわせ",
+   "meaning": "meeting up, rendezvous, appointment",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "間違い",
+   "reading": "まちがい",
+   "meaning": "mistake; error; certainty (…に間違いない)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "町中",
+   "reading": "まちなか",
+   "meaning": "downtown; around town",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "真っ黒",
+   "reading": "まっくろ",
+   "meaning": "pitch-black; jet-black",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "全く",
+   "reading": "まったく",
+   "meaning": "completely; entirely; really",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "纏わる",
+   "reading": "まつわる",
+   "meaning": "to be related to; to be associated with; to cling",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "学ぶ",
+   "reading": "まなぶ",
+   "meaning": "to learn; to study",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "マニア",
+   "reading": "マニア",
+   "meaning": "enthusiast; buff",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "マフィア",
+   "reading": "マフィア",
+   "meaning": "Mafia",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "まぶい",
+   "reading": "まぶい",
+   "meaning": "cute; pretty; hot (slang)",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "ママ",
+   "reading": "ママ",
+   "meaning": "mom; bar proprietress",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "侭",
+   "reading": "まま",
+   "meaning": "as (it is); unchanged; while remaining",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "守る",
+   "reading": "まもる",
+   "meaning": "to protect; to guard; to defend",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "マロン",
+   "reading": "マロン",
+   "meaning": "chestnut; marron",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "満点",
+   "reading": "まんてん",
+   "meaning": "perfect score; full marks; (fig.) full of",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "身",
+   "reading": "み",
+   "meaning": "body; oneself; one's person",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "見受ける",
+   "reading": "みうける",
+   "meaning": "to see; to catch sight of; to gather from appearances",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "味方",
+   "reading": "みかた",
+   "meaning": "ally; friend; supporter",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "見極める",
+   "reading": "みきわめる",
+   "meaning": "to ascertain; to make sure of; to determine",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "見知り",
+   "reading": "みしり",
+   "meaning": "acquaintance; recognition (esp. 人見知り, shyness)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "御簾",
+   "reading": "みす",
+   "meaning": "bamboo blind",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "見せ場",
+   "reading": "みせば",
+   "meaning": "highlight; high point; climax",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "みたい",
+   "reading": "みたい",
+   "meaning": "-like; seems; resembling",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "見立てる",
+   "reading": "みたてる",
+   "meaning": "to liken to; to regard as; to select",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ミドル",
+   "reading": "ミドル",
+   "meaning": "middle",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "見直す",
+   "reading": "みなおす",
+   "meaning": "to re-examine; to review; to look at again",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ミニゲーム",
+   "reading": "ミニゲーム",
+   "meaning": "minigame",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "未来",
+   "reading": "みらい",
+   "meaning": "future",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ミラクル",
+   "reading": "ミラクル",
+   "meaning": "miracle; (idol group name)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "向く",
+   "reading": "むく",
+   "meaning": "to face; to turn toward; to be suited to",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "むしゃくしゃ",
+   "reading": "むしゃくしゃ",
+   "meaning": "irritated; fed up; in a foul mood",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "夢中",
+   "reading": "むちゅう",
+   "meaning": "absorbed in; crazy about; obsessed",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "無敵",
+   "reading": "むてき",
+   "meaning": "invincible; unrivaled; matchless",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "無用",
+   "reading": "むよう",
+   "meaning": "unnecessary; needless; useless",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "村",
+   "reading": "むら",
+   "meaning": "village",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "目当て",
+   "reading": "めあて",
+   "meaning": "aim; goal; purpose; what one is after",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "名人",
+   "reading": "めいじん",
+   "meaning": "master; expert; virtuoso",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "メード",
+   "reading": "メイド",
+   "meaning": "maid",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "メガ",
+   "reading": "メガ",
+   "meaning": "mega-; huge",
+   "example": "",
+   "pos": "pref"
+  },
+  {
+   "word": "目指す",
+   "reading": "めざす",
+   "meaning": "to aim for; to head for; to try to become",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "召し上がる",
+   "reading": "めしあがる",
+   "meaning": "to eat; to drink (honorific)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "模型",
+   "reading": "もけい",
+   "meaning": "model; miniature; scale model",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "持ち歩く",
+   "reading": "もちあるく",
+   "meaning": "to carry around, carry on oneself",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "最も",
+   "reading": "もっとも",
+   "meaning": "most; extremely",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "もてる",
+   "reading": "もてる",
+   "meaning": "to be popular; to be well-liked",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "モデル",
+   "reading": "モデル",
+   "meaning": "model; version",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "元々",
+   "reading": "もともと",
+   "meaning": "originally; from the start; to begin with",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "模様",
+   "reading": "もよう",
+   "meaning": "pattern; design; figure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "脆い",
+   "reading": "もろい",
+   "meaning": "brittle; fragile; frail; flimsy",
+   "example": "",
+   "pos": "i-adjective"
+  },
+  {
+   "word": "問答",
+   "reading": "もんどう",
+   "meaning": "questions and answers; dialogue (as in 問答無用, no arguing)",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "焼き肉",
+   "reading": "やきにく",
+   "meaning": "yakiniku; grilled meat",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "やくざ",
+   "reading": "ヤクザ",
+   "meaning": "yakuza; gangster; mobster",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "役立つ",
+   "reading": "やくだつ",
+   "meaning": "to be useful, helpful",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "厄介",
+   "reading": "やっかい",
+   "meaning": "troublesome; a nuisance; a bother",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "躍起",
+   "reading": "やっき",
+   "meaning": "desperate; frantic; worked up",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "遣っ付ける",
+   "reading": "やっつける",
+   "meaning": "to beat; to finish off; to do away with",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "奴",
+   "reading": "やつ",
+   "meaning": "guy; fellow; thing (casual)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "雇う",
+   "reading": "やとう",
+   "meaning": "to hire; to employ; to take on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "矢張り",
+   "reading": "やはり",
+   "meaning": "as expected; after all; sure enough",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "敗れる",
+   "reading": "やぶれる",
+   "meaning": "to be defeated; to lose",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "遣り合う",
+   "reading": "やりあう",
+   "meaning": "to compete with; to argue; to have it out",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "遣り手",
+   "reading": "やりて",
+   "meaning": "capable person; go-getter; shrewd operator",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "遣る気",
+   "reading": "やるき",
+   "meaning": "motivation; drive; enthusiasm",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "誘拐",
+   "reading": "ゆうかい",
+   "meaning": "abduction; kidnapping",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "有効",
+   "reading": "ゆうこう",
+   "meaning": "valid; effective",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "融合",
+   "reading": "ゆうごう",
+   "meaning": "fusion; merging; combination",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "優秀",
+   "reading": "ゆうしゅう",
+   "meaning": "excellent; outstanding; superior",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "有利",
+   "reading": "ゆうり",
+   "meaning": "advantageous; favorable",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "譲る",
+   "reading": "ゆずる",
+   "meaning": "to hand over; to yield; to give up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ＵＦＯ",
+   "reading": "ユーフォー",
+   "meaning": "UFO (also UFO catcher/crane game)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "要する",
+   "reading": "ようする",
+   "meaning": "to need; to require; to take",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "好く",
+   "reading": "よく",
+   "meaning": "to like; to be fond of",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "寄越す",
+   "reading": "よこす",
+   "meaning": "to send; to hand over",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "呼び出す",
+   "reading": "よびだす",
+   "meaning": "to call out; to summon; to call up",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "余程",
+   "reading": "よほど",
+   "meaning": "considerably; very; to a great extent",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "因る",
+   "reading": "よる",
+   "meaning": "to depend on; to be due to; to be based on",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ライト",
+   "reading": "ライト",
+   "meaning": "light",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "来日",
+   "reading": "らいにち",
+   "meaning": "coming to Japan",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "ライバル",
+   "reading": "ライバル",
+   "meaning": "rival; competitor",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ライフスタイル",
+   "reading": "ライフスタイル",
+   "meaning": "lifestyle",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "楽",
+   "reading": "らく",
+   "meaning": "comfort; ease; easy",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "ラン",
+   "reading": "ラン",
+   "meaning": "run",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ランキング",
+   "reading": "ランキング",
+   "meaning": "ranking",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ランク",
+   "reading": "ランク",
+   "meaning": "rank; grade",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "理解",
+   "reading": "りかい",
+   "meaning": "understanding; comprehension",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "リスク",
+   "reading": "リスク",
+   "meaning": "risk",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "リズム",
+   "reading": "リズム",
+   "meaning": "rhythm",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "理想",
+   "reading": "りそう",
+   "meaning": "ideal",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "立花",
+   "reading": "りっか",
+   "meaning": "Tachibana (surname / Tachibana Real Estate); rikka ikebana",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "立派",
+   "reading": "りっぱ",
+   "meaning": "splendid; fine; respectable",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "略す",
+   "reading": "りゃくす",
+   "meaning": "to abbreviate; to shorten",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "流行",
+   "reading": "りゅうこう",
+   "meaning": "fashion; trend; vogue",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "両拳",
+   "reading": "りょうけん",
+   "meaning": "both fists",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "レア",
+   "reading": "レア",
+   "meaning": "rare; uncommon",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "レシピ",
+   "reading": "レシピ",
+   "meaning": "recipe (for crafting)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "レジャー",
+   "reading": "レジャー",
+   "meaning": "leisure",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "連",
+   "reading": "れん",
+   "meaning": "consecutive; run; party (esp. 連勤, consecutive shifts)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "恋愛",
+   "reading": "れんあい",
+   "meaning": "romance, love",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "連続",
+   "reading": "れんぞく",
+   "meaning": "consecutive; succession; series; run",
+   "example": "",
+   "pos": "verb"
+  },
+  {
+   "word": "連中",
+   "reading": "れんちゅう",
+   "meaning": "bunch; crowd; those guys; lot",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ロング",
+   "reading": "ロング",
+   "meaning": "long",
+   "example": "",
+   "pos": "na-adjective"
+  },
+  {
+   "word": "ロード",
+   "reading": "ロード",
+   "meaning": "road",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ロードワーク",
+   "reading": "ロードワーク",
+   "meaning": "roadwork; jogging",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "Ｙ",
+   "reading": "ワイ",
+   "meaning": "Y (letter; Yシャツ = dress shirt)",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "ワイヤレス",
+   "reading": "ワイヤレス",
+   "meaning": "wireless",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "若鳥",
+   "reading": "わかどり",
+   "meaning": "young chicken; fledgling",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "和牛",
+   "reading": "わぎゅう",
+   "meaning": "wagyu; Japanese beef",
+   "example": "",
+   "pos": "noun"
+  },
+  {
+   "word": "態々",
+   "reading": "わざわざ",
+   "meaning": "expressly, deliberately, going out of one's way",
+   "example": "",
+   "pos": "adverb"
+  },
+  {
+   "word": "ワン",
+   "reading": "ワン",
+   "meaning": "one",
+   "example": "",
+   "pos": "noun"
+  }
+ ]
+}

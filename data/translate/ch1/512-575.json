@@ -1,0 +1,322 @@
+{
+ "512": {
+  "literal": "If I recall right, it was in a mixed-tenant building east of Taihei Boulevard.",
+  "official": "That's in a building on Taihei Boulevard East, right?",
+  "official_ok": true
+ },
+ "513": {
+  "literal": "If I recall right, it was in a mixed-tenant building east of Taihei Boulevard.",
+  "official": "That's in a building on Taihei Boulevard East, right?",
+  "official_ok": true
+ },
+ "514": {
+  "literal": "I'll make Bruno pay off the debts I couldn't collect.",
+  "official": "",
+  "official_ok": false
+ },
+ "515": {
+  "literal": "I'll make Bruno pay off the tab I couldn't collect.",
+  "official": "Bruno here will have to cover the difference.",
+  "official_ok": true
+ },
+ "516": {
+  "literal": "Well then, we'll be taking our leave here!",
+  "official": "Well, I better get moving.",
+  "official_ok": true
+ },
+ "517": {
+  "literal": "Well then, we'll be taking our leave here!",
+  "official": "Well, I better get moving.",
+  "official_ok": true
+ },
+ "518": {
+  "literal": "To put it bluntly, it's the 'Knock-'Em-Down-and-Watch' outfit!",
+  "official": "He's a... whatchacallit. A fisting artist!",
+  "official_ok": true
+ },
+ "519": {
+  "literal": "To put it bluntly, it's the 'Knock-'Em-Down-and-Watch' outfit!",
+  "official": "",
+  "official_ok": false
+ },
+ "520": {
+  "literal": "It's a job where you get to swing at 'em to your heart's content.",
+  "official": "The customer pays a fee, then they get to throw as many punches at me as they like.",
+  "official_ok": true
+ },
+ "521": {
+  "literal": "It's a job where you get to throw punches at 'em to your heart's content.",
+  "official": "The customer pays a fee, then they get to throw as many punches at me as they like.",
+  "official_ok": true
+ },
+ "522": {
+  "literal": "Is this some new kind of S&M or something?",
+  "official": "This some new S&M thing?",
+  "official_ok": true
+ },
+ "523": {
+  "literal": "Is this some new kind of S&M or something?",
+  "official": "This some new S&M thing?",
+  "official_ok": true
+ },
+ "524": {
+  "literal": "Come on down to my workplace and I'll give you the details.",
+  "official": "Come on by and watch, if you got questions.",
+  "official_ok": true
+ },
+ "525": {
+  "literal": "Come on down to my workplace and I'll give you the details.",
+  "official": "Come on by and watch, if you got questions.",
+  "official_ok": true
+ },
+ "526": {
+  "literal": "Boy, won't you really try to aim for the world?",
+  "official": "I suppose I still can't convince you to take on the world?",
+  "official_ok": true
+ },
+ "527": {
+  "literal": "Boy, won't you really try to aim for the world?",
+  "official": "I suppose I still can't convince you to take on the world?",
+  "official_ok": true
+ },
+ "528": {
+  "literal": "Yes! Boy, you've got the greatest talent there is, you know?",
+  "official": "You got potential most men can't even dream about!",
+  "official_ok": true
+ },
+ "529": {
+  "literal": "Yes! Boy, you've got the greatest talent there is, you know?",
+  "official": "You got potential most men can't even dream about!",
+  "official_ok": true
+ },
+ "530": {
+  "literal": "Becoming world champion wouldn't even be a pipe dream.",
+  "official": "That world champ title could be yours.",
+  "official_ok": true
+ },
+ "531": {
+  "literal": "Becoming world champion wouldn't even be a pipe dream.",
+  "official": "That world champ title could be yours.",
+  "official_ok": true
+ },
+ "532": {
+  "literal": "I'm not enough of a kid to get swept up in words like that and start dreaming.",
+  "official": "Sorry, I'm not some starry-eyed kid who'd fall for that line.",
+  "official_ok": true
+ },
+ "533": {
+  "literal": "I'm not enough of a kid to get swept up in words like that and start dreaming.",
+  "official": "Sorry, I'm not some starry-eyed kid who'd fall for that line.",
+  "official_ok": true
+ },
+ "534": {
+  "literal": "If you're scouting, go try someone else.",
+  "official": "If you're looking to scout somebody, keep looking.",
+  "official_ok": true
+ },
+ "535": {
+  "literal": "You'll surely wind up stabbed with a knife in some back alley and die, you know?",
+  "official": "You'll wind up with a knife 'tween your ribs in some dark alley. That's no way to go out.",
+  "official_ok": true
+ },
+ "536": {
+  "literal": "You'll surely wind up stabbed with a knife in some back alley and die, you know?",
+  "official": "You'll wind up with a knife 'tween your ribs in some dark alley. That's no way to go out.",
+  "official_ok": true
+ },
+ "537": {
+  "literal": "Rather than that, a place where the spotlight shines on you—",
+  "official": "You belong in the light. The spotlight! And I can get you under all the brightest ones.",
+  "official_ok": true
+ },
+ "538": {
+  "literal": "Won't you aim for the world together with me?",
+  "official": "What do you say? You and me versus the world!",
+  "official_ok": true
+ },
+ "539": {
+  "literal": "Your skill as a trainer really does seem to be the real deal.",
+  "official": "",
+  "official_ok": false
+ },
+ "540": {
+  "literal": "Your skill as a trainer really does seem to be the real deal.",
+  "official": "",
+  "official_ok": false
+ },
+ "541": {
+  "literal": "I don't have the luxury of worrying about anything unnecessary.",
+  "official": "",
+  "official_ok": false
+ },
+ "542": {
+  "literal": "I don't have the luxury of worrying about anything unnecessary.",
+  "official": "",
+  "official_ok": false
+ },
+ "543": {
+  "literal": "With this, Kazama-san's position becomes precarious too...",
+  "official": "This also paints a giant target on Kazama-san's back.",
+  "official_ok": true
+ },
+ "544": {
+  "literal": "With this, Kazama-san's position becomes precarious too...",
+  "official": "This also paints a giant target on Kazama-san's back.",
+  "official_ok": true
+ },
+ "545": {
+  "literal": "For that matter, the boss getting nabbed by the cops half a year ago—",
+  "official": "Rumor has it, it was one of them that sold Kazama-san out to the cops and got him pinched six months back.",
+  "official_ok": true
+ },
+ "546": {
+  "literal": "For that matter, the boss getting nabbed by the cops half a year ago—",
+  "official": "Rumor has it, it was one of them that sold Kazama-san out to the cops and got him pinched six months back.",
+  "official_ok": true
+ },
+ "547": {
+  "literal": "For that matter, the boss getting nabbed by the cops half a year ago—",
+  "official": "Rumor has it, it was one of them that sold Kazama-san out to the cops and got him pinched six months back.",
+  "official_ok": true
+ },
+ "548": {
+  "literal": "The gambling den the boss ran—even though he'd carefully kept moving its location—",
+  "official": "The gambling hall he was running never stayed in the same place,",
+  "official_ok": true
+ },
+ "549": {
+  "literal": "The gambling den the boss ran—even though he'd carefully kept moving its location—",
+  "official": "The gambling hall he was running never stayed in the same place,",
+  "official_ok": true
+ },
+ "550": {
+  "literal": "The gambling den the boss ran—even though he'd carefully kept moving its location—",
+  "official": "The gambling hall he was running never stayed in the same place,",
+  "official_ok": true
+ },
+ "551": {
+  "literal": "It got hit with a raid out of nowhere, right?",
+  "official": "but then they suddenly get hit with a raid?",
+  "official_ok": true
+ },
+ "552": {
+  "literal": "It got hit with a raid out of nowhere, right?",
+  "official": "but then they suddenly get hit with a raid?",
+  "official_ok": true
+ },
+ "553": {
+  "literal": "It got hit with a raid out of nowhere, right?",
+  "official": "but then they suddenly get hit with a raid?",
+  "official_ok": true
+ },
+ "554": {
+  "literal": "Back in my active days, disciplining brats was something—",
+  "official": "Back in the day, one punch was enough to straighten out little shits like you.",
+  "official_ok": true
+ },
+ "555": {
+  "literal": "It was that care facility called 'Sunflower,' if I recall.",
+  "official": "Sunflower Orphanage, wasn't it?",
+  "official_ok": true
+ },
+ "556": {
+  "literal": "It was that care facility called 'Sunflower,' if I recall.",
+  "official": "Sunflower Orphanage, wasn't it?",
+  "official_ok": true
+ },
+ "557": {
+  "literal": "Heh, among yakuza, the ones who were raised right are the rare exception.",
+  "official": "It's rare when a yakuza comes from a normal family.",
+  "official_ok": true
+ },
+ "558": {
+  "literal": "Heh, among yakuza, the ones who were raised right are the rare exception.",
+  "official": "It's rare when a yakuza comes from a normal family.",
+  "official_ok": true
+ },
+ "559": {
+  "literal": "Lording the fact that he raised them over the kids he picked up off the street.",
+  "official": "He takes in these kids, then he owns them for life.",
+  "official_ok": true
+ },
+ "560": {
+  "literal": "Lording the fact that he raised them over the kids he picked up off the street.",
+  "official": "He takes in these kids, then he owns them for life.",
+  "official_ok": true
+ },
+ "561": {
+  "literal": "Lording the fact that he raised them over the kids he picked up off the street.",
+  "official": "He takes in these kids, then he owns them for life.",
+  "official_ok": true
+ },
+ "562": {
+  "literal": "Saying you wouldn't even mind laying down your life for the captain, huh.",
+  "official": "You'd be willing to give your life for him, wouldn't you?",
+  "official_ok": true
+ },
+ "563": {
+  "literal": "Saying you wouldn't even mind laying down your life for the captain, huh.",
+  "official": "You'd be willing to give your life for him, wouldn't you?",
+  "official_ok": true
+ },
+ "564": {
+  "literal": "You figure you're being clever with how you maneuver, but...",
+  "official": "You think you're smart enough to control the board...",
+  "official_ok": true
+ },
+ "565": {
+  "literal": "You figure you're being clever with how you maneuver, but...",
+  "official": "You think you're smart enough to control the board...",
+  "official_ok": true
+ },
+ "566": {
+  "literal": "...So you knew all along that I'd be coming, huh?",
+  "official": "Looks like you've been expecting me.",
+  "official_ok": true
+ },
+ "567": {
+  "literal": "...So you knew all along that I'd be coming, huh?",
+  "official": "Looks like you've been expecting me.",
+  "official_ok": true
+ },
+ "568": {
+  "literal": "Yeah. I'm just about ready to blow my top over here...",
+  "official": "",
+  "official_ok": false
+ },
+ "569": {
+  "literal": "Yeah. I'm just about ready to blow my top over here...",
+  "official": "",
+  "official_ok": false
+ },
+ "570": {
+  "literal": "I can pretty much guess what happened from there on.",
+  "official": "I've got a pretty good guess what happened after that, too.",
+  "official_ok": true
+ },
+ "571": {
+  "literal": "I can pretty much guess what happened from there on.",
+  "official": "I've got a pretty good guess what happened after that, too.",
+  "official_ok": true
+ },
+ "572": {
+  "literal": "There's a large-scale redevelopment plan in the works, see.",
+  "official": "There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+  "official_ok": true
+ },
+ "573": {
+  "literal": "I've heard about that, then. Land whose ownership rights are scattered among many people—",
+  "official": "I did hear about that. They've been buying up land and buildings owned by a bunch of different people...",
+  "official_ok": true
+ },
+ "574": {
+  "literal": "I've heard about that, then. Land whose ownership rights are scattered among many people—",
+  "official": "I did hear about that. They've been buying up land and buildings owned by a bunch of different people...",
+  "official_ok": true
+ },
+ "575": {
+  "literal": "—they're buying it all up wholesale, is what I heard.",
+  "official": "They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+  "official_ok": true
+ }
+}

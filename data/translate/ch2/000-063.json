@@ -1,0 +1,317 @@
+{
+ "0": {
+  "literal": "Ahh, thanks to Tachibana Real Estate,",
+  "official": "Gotta love Tachibana Real Estate.",
+  "official_ok": true
+ },
+ "1": {
+  "literal": "we've just gotta throw a drinking party over this!",
+  "official": "This calls for a toast, fellas!",
+  "official_ok": true
+ },
+ "2": {
+  "literal": "Homeless guys hired by Tachibana Real Estate...",
+  "official": "(Looks like these are the homeless guys Tachibana employed.)",
+  "official_ok": true
+ },
+ "3": {
+  "literal": "then I'd be able to talk smoothly.",
+  "official": "That'd thaw it right out.",
+  "official_ok": true
+ },
+ "4": {
+  "literal": "Ah, now that's much appreciated.",
+  "official": "Ooh, great plan, yeah.",
+  "official_ok": true
+ },
+ "5": {
+  "literal": "You sound like you're talking pretty fluently to me, though...?",
+  "official": "Your tongue seems to be working just fine to me.",
+  "official_ok": true
+ },
+ "6": {
+  "literal": "Heh, for all your fussing, you're talking just fine, aren't you.",
+  "official": "",
+  "official_ok": false
+ },
+ "7": {
+  "literal": "Beer, in any case. I've got a bottle opener too, so",
+  "official": "Beer for me. And I've got a bottle opener, so can or bottle works fine.",
+  "official_ok": true
+ },
+ "8": {
+  "literal": "Hey, the others haven't gotten their share yet.",
+  "official": "",
+  "official_ok": false
+ },
+ "9": {
+  "literal": "In winter, there's really nothing but sake, huh...!",
+  "official": "There's nothing like sake to warm you up in winter!",
+  "official_ok": true
+ },
+ "10": {
+  "literal": "Hey now, don't tell me you want me to bring hot sake",
+  "official": "Whoa, whoa. You don't expect me to bring you hot sake, do you?",
+  "official_ok": true
+ },
+ "11": {
+  "literal": "That's honestly too much to ask.",
+  "official": "Because that's more than I can promise.",
+  "official_ok": true
+ },
+ "12": {
+  "literal": "Well, I won't be greedy about it.",
+  "official": "But I'm not that greedy. Room temperature works.",
+  "official_ok": true
+ },
+ "13": {
+  "literal": "Here's the sake you requested.",
+  "official": "The sake you ordered.",
+  "official_ok": true
+ },
+ "14": {
+  "literal": "...Champagne.",
+  "official": "Champagne? Awfully fancy choice.",
+  "official_ok": true
+ },
+ "15": {
+  "literal": "...Christmas.",
+  "official": "Ahh, yeah. I guess it is that time of year.",
+  "official_ok": true
+ },
+ "16": {
+  "literal": "Ah... it really was that time of year, huh.",
+  "official": "Ahh, yeah. I guess it is that time of year.",
+  "official_ok": true
+ },
+ "17": {
+  "literal": "Next time, go ask Santa for it.",
+  "official": "You'll have to ask Santa for the next bottle.",
+  "official_ok": true
+ },
+ "18": {
+  "literal": "Quiet Homeless Man",
+  "official": "Quiet Homeless Man",
+  "official_ok": true
+ },
+ "19": {
+  "literal": "Ee hee hee, never thought I'd get booze handed to me for free!",
+  "official": "Ee hee hee, didn't expect a free drink tonight!",
+  "official_ok": true
+ },
+ "20": {
+  "literal": "Life's not such a bad thing after all.",
+  "official": "Life's just great, I tell ya.",
+  "official_ok": true
+ },
+ "21": {
+  "literal": "Truth is, I've got a real weakness for whisky.",
+  "official": "Oh, and I'm a whisky hound, thanks.",
+  "official_ok": true
+ },
+ "22": {
+  "literal": "That's not it. It's gotta be scotch or nothing.",
+  "official": "Make sure it's a scotch, would you?",
+  "official_ok": true
+ },
+ "23": {
+  "literal": "Cheerful Homeless Man",
+  "official": "Cheery Homeless Man",
+  "official_ok": true
+ },
+ "24": {
+  "literal": "...Does it really have to be potato?",
+  "official": "...It has to be potato shochu?",
+  "official_ok": true
+ },
+ "25": {
+  "literal": "Come on, man. When you say shochu, it's gotta be potato.",
+  "official": "Sweet potato shochu's the only shochu worth drinking.",
+  "official_ok": true
+ },
+ "27": {
+  "literal": "Even a lightweight's gotta drink. You'll never get ahead otherwise, y'know?",
+  "official": "You gotta expand your horizons! You'll never get a woman.",
+  "official_ok": true
+ },
+ "28": {
+  "literal": "Back when I was a salaryman...",
+  "official": "When I was a young stud, I'd take gals out, get 'em wasted, and...",
+  "official_ok": true
+ },
+ "29": {
+  "literal": "[He told me] to dig up the info on the \"Empty Lot\" that Kazama-san keeps hidden.",
+  "official": "To extract from Kazama-san the information he possesses on the Empty Lot.",
+  "official_ok": true
+ },
+ "30": {
+  "literal": "That you would join hands with us",
+  "official": "that you and I would join hands",
+  "official_ok": true
+ },
+ "31": {
+  "literal": "was the wish of none other than Kazama-san himself.",
+  "official": "was Kazama-san's ultimate wish.",
+  "official_ok": true
+ },
+ "32": {
+  "literal": "The reason Kazama-san entrusted you to me",
+  "official": "It was half a year ago that Kazama-san entrusted you to my care.",
+  "official_ok": true
+ },
+ "33": {
+  "literal": "was half a year ago, before that man went to prison.",
+  "official": "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+  "official_ok": true
+ },
+ "34": {
+  "literal": "He had foreseen very nearly all of it.",
+  "official": "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+  "official_ok": true
+ },
+ "35": {
+  "literal": "His depth of character runs far too deep.",
+  "official": "His abilities and wisdom cannot be overstated.",
+  "official_ok": true
+ },
+ "36": {
+  "literal": "His aim in obtaining it is, most likely, not merely to protect himself—",
+  "official": "What's more, I am certain that his motives for acquiring the Empty Lot go far beyond merely protecting his own position.",
+  "official_ok": true
+ },
+ "37": {
+  "literal": "he must be painting a bigger picture.",
+  "official": "Knowing him, his designs are in service of something far greater.",
+  "official_ok": true
+ },
+ "38": {
+  "literal": "Do I have your understanding now, Kiryu-san?",
+  "official": "Have I earned your understanding, Kiryu-san?",
+  "official_ok": true
+ },
+ "39": {
+  "literal": "Tachibana... that you would carry on the boss's will—",
+  "official": "Tachibana... What proof have you got that you're the guy Kazama-san entrusted all this to?",
+  "official_ok": true
+ },
+ "40": {
+  "literal": "According to what Kazama-san told me,",
+  "official": "Kazama-san led me to believe that this would serve as sufficient proof.",
+  "official_ok": true
+ },
+ "41": {
+  "literal": "I was merely holding onto it to hand over to you.",
+  "official": "I merely took care of it until I could pass it on to you.",
+  "official_ok": true
+ },
+ "42": {
+  "literal": "I hadn't understood the first thing about what kind of man he was.",
+  "official": "I guess... I still didn't have any clue just what kind of man Kazama-san really is.",
+  "official_ok": true
+ },
+ "43": {
+  "literal": "Ever since that day I defied the old man and became a yakuza...",
+  "official": "That's something I decided the day I went against his wishes and joined the yakuza.",
+  "official_ok": true
+ },
+ "44": {
+  "literal": "That a young punk like this beat me one-on-one...",
+  "official": "No fucking way... A total rookie, one-on-one, and he wins!?",
+  "official_ok": true
+ },
+ "45": {
+  "literal": "Are you satisfied now, Oda-san?",
+  "official": "Are you satisfied, Oda-san?",
+  "official_ok": true
+ },
+ "46": {
+  "literal": "Yes! It's my... my loss, President!",
+  "official": "Very! He's, well... He's got me beat, boss!",
+  "official_ok": true
+ },
+ "47": {
+  "literal": "You mean you had Oda test me?",
+  "official": "You signed off on Oda testing me like this?",
+  "official_ok": true
+ },
+ "48": {
+  "literal": "He's my irreplaceable right-hand man. That's why, before bringing you into our ranks,",
+  "official": "Oda-san is invaluable to me. He is practically one of my limbs. Thus, I needed his approval before I could officially welcome you into our circle.",
+  "official_ok": true
+ },
+ "49": {
+  "literal": "Is that so. ...I'm starting to feel like a complete idiot.",
+  "official": "Is that so? ...I'm beginning to feel more and more like an idiot.",
+  "official_ok": true
+ },
+ "50": {
+  "literal": "You set those guys on me just now so they'd attack me—",
+  "official": "Did you have the guys downstairs attack me?",
+  "official_ok": true
+ },
+ "51": {
+  "literal": "is that what you did...? Why?",
+  "official": "Did you have the guys downstairs attack me? Why?",
+  "official_ok": true
+ },
+ "52": {
+  "literal": "You were sizing us up too, weren't you?",
+  "official": "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+  "official_ok": true
+ },
+ "53": {
+  "literal": "What could you possibly learn about me just by having your men attack me?",
+  "official": "And you thought having your crew attack me would give you an answer?",
+  "official_ok": true
+ },
+ "54": {
+  "literal": "Man, not being able to leave work to other people",
+  "official": "I tell ya, it's tough not being able to delegate.",
+  "official_ok": true
+ },
+ "55": {
+  "literal": "is a real drag.",
+  "official": "I tell ya, it's tough not being able to delegate.",
+  "official_ok": true
+ },
+ "56": {
+  "literal": "Running a real estate office in Kamurocho, there's plenty of rough business...",
+  "official": "The real estate business in Kamurocho is a rough scene.",
+  "official_ok": true
+ },
+ "57": {
+  "literal": "...I'm an even match for a half-assed ex-yakuza.",
+  "official": "But I am the perfect match for a half-assed ex-yakuza.",
+  "official_ok": true
+ },
+ "58": {
+  "literal": "In that case... neither of us needs to hold back, huh.",
+  "official": "In that case, I guess neither of us needs to hold back.",
+  "official_ok": true
+ },
+ "59": {
+  "literal": "No matter where I go, I never get a warm welcome.",
+  "official": "It feels like this is the only sort of welcome I get, lately.",
+  "official_ok": true
+ },
+ "60": {
+  "literal": "I've really been made a fool of.",
+  "official": "But getting bounced at the door from a party I was invited to is a new low.",
+  "official_ok": true
+ },
+ "61": {
+  "literal": "The punk's lost his damn mind!",
+  "official": "You lost your mind, dude?",
+  "official_ok": true
+ },
+ "62": {
+  "literal": "I run a real estate business in Kamurocho.",
+  "official": "I operate a real estate business in Kamurocho.",
+  "official_ok": true
+ },
+ "63": {
+  "literal": "Ever since I lost it a few years ago, it aches when the weather turns cold.",
+  "official": "So I simply live with the pain.",
+  "official_ok": true
+ }
+}

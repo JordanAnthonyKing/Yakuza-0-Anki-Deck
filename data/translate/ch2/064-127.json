@@ -1,0 +1,317 @@
+{
+ "64": {
+  "literal": "Even painkillers have no effect.",
+  "official": "Painkillers have no effect.",
+  "official_ok": true
+ },
+ "65": {
+  "literal": "All I can do is endure the pain around the clock.",
+  "official": "So I simply live with the pain.",
+  "official_ok": true
+ },
+ "66": {
+  "literal": "Kiryu-san... [are you familiar with] the capitulum, a head-shaped inflorescence?",
+  "official": "Kiryu-san, are you familiar with the term, \"pseudanthium\"?",
+  "official_ok": true
+ },
+ "67": {
+  "literal": "It's a gathering of many tiny flowers.",
+  "official": "A cluster of many flowers, gathered to form a single, large flower.",
+  "official_ok": true
+ },
+ "68": {
+  "literal": "Was it Kazama-san who named it \"Sunflower\"?",
+  "official": "Was it Kazama-san who named the orphanage \"Sunflower\"?",
+  "official_ok": true
+ },
+ "69": {
+  "literal": "You grew up at the Sunflower, all but brothers with Nishikiyama-san.",
+  "official": "You and Nishikiyama-san grew up as brothers at the Sunflower Orphanage.",
+  "official_ok": true
+ },
+ "70": {
+  "literal": "You followed after Kazama-san into the world of the yakuza.",
+  "official": "You and Nishikiyama-san regarded Kazama-san as a father, in time following in his footsteps to join the yakuza.",
+  "official_ok": true
+ },
+ "71": {
+  "literal": "And now you've been framed for murder,",
+  "official": "And now you find yourself framed for murder, with Kazama-san facing the risk of expulsion as a result.",
+  "official_ok": true
+ },
+ "72": {
+  "literal": "Would you join hands with me, Kiryu-san?",
+  "official": "I would like for you to join me, Kiryu-san.",
+  "official_ok": true
+ },
+ "73": {
+  "literal": "If they get their hands on it, Kazama-san won't escape expulsion.",
+  "official": "If the Dojima Family lieutenants acquire the Empty Lot, Kazama-san's expulsion is a certainty.",
+  "official_ok": true
+ },
+ "74": {
+  "literal": "Why go so far to try to draw me in?",
+  "official": "Why go to the effort of winning me over?",
+  "official_ok": true
+ },
+ "75": {
+  "literal": "...In order to survive.",
+  "official": "",
+  "official_ok": false
+ },
+ "76": {
+  "literal": "Could you at least take my card, then?",
+  "official": "",
+  "official_ok": false
+ },
+ "77": {
+  "literal": "I'll have your clothes brought over right away.",
+  "official": "",
+  "official_ok": false
+ },
+ "78": {
+  "literal": "...I should let Nishiki know, at least, that I made it out safe.",
+  "official": "I should let Nishiki know I'm not dead yet.",
+  "official_ok": true
+ },
+ "79": {
+  "literal": "Hey, seriously? I'm amazed you weren't killed!",
+  "official": "You're okay!? I can't believe you made it out of there alive!",
+  "official_ok": true
+ },
+ "80": {
+  "literal": "They mean to pin the blame on him.",
+  "official": "The family intends to hold him accountable",
+  "official_ok": true
+ },
+ "81": {
+  "literal": "I'll grab Kuze and make him cough up where the real culprit is.",
+  "official": "I'll pay Kuze a visit and make him hand over the killer.",
+  "official_ok": true
+ },
+ "82": {
+  "literal": "Hey, what are you talking about? Don't be so distant.",
+  "official": "Oh, come on. Don't be like that.",
+  "official_ok": true
+ },
+ "83": {
+  "literal": "It's the least I can do to square things, Nishiki. I'll do this by the book.",
+  "official": "This is about me taking accountability, Nishiki. Let me do this right.",
+  "official_ok": true
+ },
+ "84": {
+  "literal": "You think you can just walk right past me without a word?",
+  "official": "Yeah, you seem to think you can just walk by me without a word.",
+  "official_ok": true
+ },
+ "85": {
+  "literal": "I've no intention of trading words with you.",
+  "official": "I'm not here to chat.",
+  "official_ok": true
+ },
+ "86": {
+  "literal": "Heh, so basically it's a shakedown...",
+  "official": "Heh, so this is a shakedown?",
+  "official_ok": true
+ },
+ "87": {
+  "literal": "Then I'll just take it by force.",
+  "official": "Then I guess we'll do this the hard way.",
+  "official_ok": true
+ },
+ "88": {
+  "literal": "To think I'd have this much trouble with the likes of you...",
+  "official": "If I'm having trouble with somebody like you, I need to change my training regimen.",
+  "official_ok": true
+ },
+ "89": {
+  "literal": "He goes by the nickname \"Mr. Shakedown.\"",
+  "official": "\"Mr. Shakedown,\" they call him.",
+  "official_ok": true
+ },
+ "90": {
+  "literal": "He takes your money by force.",
+  "official": "He'll go after anybody that crosses his path, and then he takes everything they've got.",
+  "official_ok": true
+ },
+ "91": {
+  "literal": "You might have some confidence in your own skills, but...",
+  "official": "You seem like you can hold your own in a fight, but that guy's on a whole different level.",
+  "official_ok": true
+ },
+ "92": {
+  "literal": "True, with any half-baked strength...",
+  "official": "He's definitely more than your average tough guy could handle.",
+  "official_ok": true
+ },
+ "93": {
+  "literal": "If only there were someone strong enough to get it back...",
+  "official": "Still! I wish somebody would come along and beat all that stolen money out of him, though!",
+  "official_ok": true
+ },
+ "94": {
+  "literal": "It was my own fault for getting carried away, but...",
+  "official": "I knew I should've made a beeline to the bank with it.",
+  "official_ok": true
+ },
+ "95": {
+  "literal": "You be careful too when you're carrying a lot of cash.",
+  "official": "You be careful too, next time you're sitting on a stack of cash.",
+  "official_ok": true
+ },
+ "96": {
+  "literal": "Mr. Shakedown, huh... His strength was off the charts.",
+  "official": "(\"Mr. Shakedown,\" huh? He was insanely tough.)",
+  "official_ok": true
+ },
+ "97": {
+  "literal": "I may well run into him around here again someday.",
+  "official": "(I probably haven't seen the last of him.)",
+  "official_ok": true
+ },
+ "98": {
+  "literal": "You'll have every last yen on you taken.",
+  "official": "If you lose to Mr. Shakedown in battle, he'll take all the money you have.",
+  "official_ok": true
+ },
+ "99": {
+  "literal": "You can get it back by defeating Mr. Shakedown.",
+  "official": "If you can beat Mr. Shakedown, you'll reclaim all the money he's stolen from you.",
+  "official_ok": true
+ },
+ "100": {
+  "literal": "The cash Mr. Shakedown carries fluctuates depending on the situation.",
+  "official": "The amount he's carrying varies at different times.",
+  "official_ok": true
+ },
+ "101": {
+  "literal": "You can obtain even more money than what was taken from you.",
+  "official": "If you can take him down when he's especially flush with cash, you can make back more than what you've lost.",
+  "official_ok": true
+ },
+ "102": {
+  "literal": "Hey, boss.",
+  "official": "Hey there, buddy.",
+  "official_ok": true
+ },
+ "103": {
+  "literal": "I'm here to collect the protection money.",
+  "official": "Time to pay your protection money, pal.",
+  "official_ok": true
+ },
+ "104": {
+  "literal": "And you're still telling me to pay protection money again!?",
+  "official": "And you have the gall to ask for MORE!?",
+  "official_ok": true
+ },
+ "105": {
+  "literal": "\"When it counts\"? What are you talking about?",
+  "official": "When you need it? What are you talking about?",
+  "official_ok": true
+ },
+ "106": {
+  "literal": "In short, you got scared of Tachibana Real Estate and ran, didn't you?",
+  "official": "Complicated my ass! You got scared and ran away. What could be simpler?",
+  "official_ok": true
+ },
+ "107": {
+  "literal": "Wh-Who got scared!?",
+  "official": "S-Scared!? Who do you think--",
+  "official_ok": true
+ },
+ "108": {
+  "literal": "I've got to win back the customers I've lost, and...",
+  "official": "Now I'm scrambling to get new customers to make up for all the ones I lost.",
+  "official_ok": true
+ },
+ "109": {
+  "literal": "It's our family that's got this place's back!",
+  "official": "Our family's handled this cafe's protection for 30 years!",
+  "official_ok": true
+ },
+ "110": {
+  "literal": "If you mean to muscle in on our turf, it's war!",
+  "official": "You try to swoop in on our turf, it'll mean war!",
+  "official_ok": true
+ },
+ "111": {
+  "literal": "Shut up! I'll kill you!",
+  "official": "Shut your mouth and try me. I'll kill you!",
+  "official_ok": true
+ },
+ "112": {
+  "literal": "Get lost, now...",
+  "official": "Now get lost,",
+  "official_ok": true
+ },
+ "113": {
+  "literal": "Don't ever show your face at this shop again.",
+  "official": "don't show your face around this guy's shop again.",
+  "official_ok": true
+ },
+ "114": {
+  "literal": "S-So in the end... in place of that guy...",
+  "official": "in the end you're just taking his place as the guy squeezing me for protection money?",
+  "official_ok": true
+ },
+ "116": {
+  "literal": "They're so scary...",
+  "official": "They're terrifying.",
+  "official_ok": true
+ },
+ "117": {
+  "literal": "My parents' whereabouts, my daughter's school...",
+  "official": "My parents' home address, my daughter's school...",
+  "official_ok": true
+ },
+ "118": {
+  "literal": "It's the building my place was originally in.",
+  "official": "The place my cafe was in.",
+  "official_ok": true
+ },
+ "119": {
+  "literal": "The \"Hakua Building\" on Shichifuku Street.",
+  "official": "The Hakua Building on Shichifuku Street.",
+  "official_ok": true
+ },
+ "120": {
+  "literal": "Most of the shops have moved out and it's nearly empty, but...",
+  "official": "They've driven most of the tenants out, so the place is practically empty,",
+  "official_ok": true
+ },
+ "121": {
+  "literal": "There was one stubborn holdout of a shop.",
+  "official": "there was one stubborn guy who said the only way he was leaving was in a casket.",
+  "official_ok": true
+ },
+ "122": {
+  "literal": "That's right. No matter how good the terms he was offered...",
+  "official": "They were making him all kinds of sweet deals, but he turned down every last one.",
+  "official_ok": true
+ },
+ "123": {
+  "literal": "If you go there, you'll probably run into those guys.",
+  "official": "If he's still there now, Tachibana's boys will be, too. Go have a look if you really want to get mixed up with them.",
+  "official_ok": true
+ },
+ "124": {
+  "literal": "I see... Understood. You've been a big help.",
+  "official": "All right, thanks. I appreciate it.",
+  "official_ok": true
+ },
+ "125": {
+  "literal": "What happened to the rest of your homeless buddies?",
+  "official": "Hey. Where'd all your other buddies go?",
+  "official_ok": true
+ },
+ "126": {
+  "literal": "They said their work here was already done, so...",
+  "official": "They told us this one's all done.",
+  "official_ok": true
+ },
+ "127": {
+  "literal": "'Cause Tachibana's outfit runs a wide operation.",
+  "official": "Tachibana-san's got his fingers in all sortsa pies.",
+  "official_ok": true
+ }
+}

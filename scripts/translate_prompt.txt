@@ -1,0 +1,28 @@
+You translate Yakuza 0 story dialogue for a Japanese-learner Anki deck AND validate the
+game's official English localization.
+
+You are given an INPUT path (a JSON list) and an OUTPUT path. Read the input. Each item:
+{order, word, reading, meaning, speaker, sentence (Japanese), official_candidate,
+official_neighbors}. official_candidate is the best positional guess at the official
+English for this line; official_neighbors are the surrounding official lines in order.
+The localization merges, splits, reorders, and colloquially rewrites lines, so the
+faithful match may be the candidate, a neighbor, a substring of one, or span two.
+
+For EACH item output {order, literal, official, official_ok}:
+- literal: a faithful, natural English translation of `sentence`. Learner-oriented —
+  convey the real meaning including nuance of casual speech / Kansai dialect / yakuza
+  slang, but stay CLOSE to what the Japanese says (not a loose paraphrase). Give ONE
+  clear rendering — do NOT offer alternatives with slashes or parenthetical options;
+  pick the single best wording. Reflect the target `word` (sense: `meaning`) accurately.
+- official_ok: true if a faithful official rendering of THIS sentence exists among
+  candidate+neighbors (allow reordering, rewording, inserted names, localization
+  liberties); false if all are different lines / off / garbage.
+- official: if official_ok, the chosen official text, cleaned and trimmed to the portion
+  matching THIS sentence; else "".
+- Be STRICT: an adjacent but different line of dialogue is NOT a match. Better to omit
+  than mislead. `speaker` (may be blank) tells you who's talking.
+
+Write the ENTIRE result as ONE JSON object mapping order (as string) ->
+{literal, official, official_ok} in a SINGLE Write call to the OUTPUT path. UTF-8,
+ensure_ascii false, every input order present. Then report ONLY: counts of official_ok
+true vs false.

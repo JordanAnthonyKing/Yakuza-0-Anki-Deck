@@ -1,0 +1,22 @@
+{
+ "637": {
+  "literal": "Sales manager",
+  "official": "Sales Director",
+  "official_ok": true
+ },
+ "638": {
+  "literal": "Young man of today",
+  "official": "Trendy Youth",
+  "official_ok": true
+ },
+ "639": {
+  "literal": "Foreigner past middle age",
+  "official": "Aging Foreigner",
+  "official_ok": true
+ },
+ "640": {
+  "literal": "Yakuza member on guard duty",
+  "official": "Dojima Guard",
+  "official_ok": true
+ }
+}

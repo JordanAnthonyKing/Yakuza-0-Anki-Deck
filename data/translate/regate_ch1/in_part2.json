@@ -1,0 +1,1406 @@
+[
+ {
+  "order": 211,
+  "speaker": "極道",
+  "sentence": "この人数相手に、あんたひとりでか？",
+  "literal": "Against this many guys, all by yourself?",
+  "official_candidate": "C01120_B_KRU_A_tlk",
+  "official_neighbors": [
+   "C01120_A_KUZ_lighter",
+   "C01120_C_KUZ_A",
+   "C01120_C_KUZ_A_tlk",
+   "ADV_P_KRU_STAND",
+   "C01120_B_KRU_A",
+   "C01120_B_KRU_B",
+   "C01120_B_KRU_A_to_B",
+   "kaiwabgm_fuon_03",
+   "C01120_B_KRU_C",
+   "C01120_B_KRU_B_to_C"
+  ]
+ },
+ {
+  "order": 212,
+  "speaker": "極道",
+  "sentence": "さっさと道空けねえか、チンピラぁ!!",
+  "literal": "Get out of the way already, you punk!!",
+  "official_candidate": "C01120_B_KRU_C",
+  "official_neighbors": [
+   "C01120_B_KRU_A",
+   "C01120_B_KRU_A_tlk",
+   "C01120_B_KRU_B",
+   "C01120_B_KRU_A_to_B",
+   "kaiwabgm_fuon_03",
+   "C01120_B_KRU_B_to_C",
+   "C01120_C_KUZ_B",
+   "C01120_C_KUZ_A_standup",
+   "C01120_B_KRU_D",
+   "C01120_B_KRU_C_to_D"
+  ]
+ },
+ {
+  "order": 219,
+  "speaker": "柏木",
+  "sentence": "俺ぁもう本当に兄弟が人殺しに",
+  "literal": "I really thought my sworn brother had turned into a killer—",
+  "official_candidate": "Nishiki.",
+  "official_neighbors": [
+   "Yeah. He did.",
+   "Wait, what's going on!?",
+   "The man who Kiryu allegedly killed in the Empty Lot was shot to death. Of course, I don't need to tell you he wouldn't do that.",
+   "Which means somebody framed him.",
+   "Holy shit, that's a relief! You couldn't have told me that sooner, sir? This whole time I was thinking my brother actually offed a guy!",
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yes, sir. Kashiwagi-san, do you know more about it?"
+  ]
+ },
+ {
+  "order": 220,
+  "speaker": "柏木",
+  "sentence": "冗談じゃねえ、親っさん以外に",
+  "literal": "You've gotta be kidding—other than the boss,",
+  "official_candidate": "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+  "official_neighbors": [
+   "Holy shit, that's a relief! You couldn't have told me that sooner, sir? This whole time I was thinking my brother actually offed a guy!",
+   "Nishiki.",
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on."
+  ]
+ },
+ {
+  "order": 221,
+  "speaker": "柏木",
+  "sentence": "堂島のカシラが務まるかよ！",
+  "literal": "who could possibly serve as Dojima's captain!",
+  "official_candidate": "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+  "official_neighbors": [
+   "Holy shit, that's a relief! You couldn't have told me that sooner, sir? This whole time I was thinking my brother actually offed a guy!",
+   "Nishiki.",
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on."
+  ]
+ },
+ {
+  "order": 222,
+  "speaker": "柏木",
+  "sentence": "落ち着け、錦山。",
+  "literal": "Calm down, Nishikiyama.",
+  "official_candidate": "Yes, sir. Kashiwagi-san, do you know more about it?",
+  "official_neighbors": [
+   "Nishiki.",
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+   "And that's the Empty Lot?"
+  ]
+ },
+ {
+  "order": 223,
+  "speaker": "柏木",
+  "sentence": "お前らが知っているのはほんのさわりだけだな？",
+  "literal": "What you guys know is just the surface of it, right?",
+  "official_candidate": "Yes, sir. Kashiwagi-san, do you know more about it?",
+  "official_neighbors": [
+   "Nishiki.",
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+   "And that's the Empty Lot?"
+  ]
+ },
+ {
+  "order": 224,
+  "speaker": "柏木",
+  "sentence": "ええ。柏木さんはくわしく御存知なんスか？",
+  "literal": "Yeah. Do you know the details, Kashiwagi-san?",
+  "official_candidate": "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+  "official_neighbors": [
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+   "And that's the Empty Lot?",
+   "Yeah. They only recently figured it out, though. They bought up 80^ of the neighborhood before they found it."
+  ]
+ },
+ {
+  "order": 225,
+  "speaker": "柏木",
+  "sentence": "ああ。……まず今、神室町のある一帯に",
+  "literal": "Yeah. ...First off, right now, over a certain area of Kamurocho—",
+  "official_candidate": "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+  "official_neighbors": [
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+   "And that's the Empty Lot?",
+   "Yeah. They only recently figured it out, though. They bought up 80^ of the neighborhood before they found it.",
+   "And it's sitting in the dead center of the redevelopment area. If they can't get that plot, there's no way they can sell any of what they've already bought."
+  ]
+ },
+ {
+  "order": 226,
+  "speaker": "柏木",
+  "sentence": "地上げをしている。",
+  "literal": "they're doing land-sharking.",
+  "official_candidate": "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+  "official_neighbors": [
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+   "And that's the Empty Lot?",
+   "Yeah. They only recently figured it out, though. They bought up 80^ of the neighborhood before they found it.",
+   "And it's sitting in the dead center of the redevelopment area. If they can't get that plot, there's no way they can sell any of what they've already bought."
+  ]
+ },
+ {
+  "order": 229,
+  "speaker": "柏木",
+  "sentence": "もし今出てくりゃ１０億って値になってんだがな。",
+  "literal": "If it came onto the market now, its price would be up to a billion yen.",
+  "official_candidate": "A billion yen for that tiny lot!?",
+  "official_neighbors": [
+   "And that's the Empty Lot?",
+   "Yeah. They only recently figured it out, though. They bought up 80^ of the neighborhood before they found it.",
+   "And it's sitting in the dead center of the redevelopment area. If they can't get that plot, there's no way they can sell any of what they've already bought.",
+   "That's a hell of a snag... And you say nobody's managed to make a move on that lot yet?",
+   "The owner's gone missing. If they turned up now, the price I've heard being thrown around is one billion.",
+   "Sure. That tiny lot could sink the whole redevelopment project, and Dojima's already sunk ten billion plus into buying up the area.",
+   "They can't go back now, even if it means coughing up a billion yen for a postage stamp of land.",
+   "Kuze said that Kazama-san had some key piece of info they needed in order to get the land.",
+   "What is it Kazama-san knows?",
+   "I couldn't say. That's the first I've heard of it."
+  ]
+ },
+ {
+  "order": 230,
+  "speaker": "柏木",
+  "sentence": "たった一坪の土地が!?",
+  "literal": "For just one tsubo of land!?",
+  "official_candidate": "Sure. That tiny lot could sink the whole redevelopment project, and Dojima's already sunk ten billion plus into buying up the area.",
+  "official_neighbors": [
+   "Yeah. They only recently figured it out, though. They bought up 80^ of the neighborhood before they found it.",
+   "And it's sitting in the dead center of the redevelopment area. If they can't get that plot, there's no way they can sell any of what they've already bought.",
+   "That's a hell of a snag... And you say nobody's managed to make a move on that lot yet?",
+   "The owner's gone missing. If they turned up now, the price I've heard being thrown around is one billion.",
+   "A billion yen for that tiny lot!?",
+   "They can't go back now, even if it means coughing up a billion yen for a postage stamp of land.",
+   "Kuze said that Kazama-san had some key piece of info they needed in order to get the land.",
+   "What is it Kazama-san knows?",
+   "I couldn't say. That's the first I've heard of it.",
+   "But you figure it's gotta have something to do with the missing owner, right?"
+  ]
+ },
+ {
+  "order": 239,
+  "speaker": "柏木",
+  "sentence": "今は何も手が打てねえ。",
+  "literal": "Right now there's nothing we can do about it.",
+  "official_candidate": "And I'm sure I don't have to tell you what happens to yakuza after they've been cut loose.",
+  "official_neighbors": [
+   "And, that's only the beginning. Watch Kuze get the Empty Lot and become Dojima's captain. He'll drive Kazama out of the family entirely.",
+   "Drive him out?",
+   "No way... You really think they could get him expelled!?",
+   "They'd find a way. And with Kazama in prison now, he can't stop them.",
+   "Kazama-san, expelled...?",
+   "Getting kicked to the curb after having climbed all the way to the top... Most men don't survive that humiliation.",
+   "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+   "But... Kiryu didn't actually kill anybody!",
+   "If we can prove he's innocent, they can't use that to get Kazama-san booted!",
+   "The only way to prove that is to catch the guy who did it."
+  ]
+ },
+ {
+  "order": 241,
+  "speaker": "柏木",
+  "sentence": "耐えられる人間は少ねえ。",
+  "literal": "Few people can endure it.",
+  "official_candidate": "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+  "official_neighbors": [
+   "No way... You really think they could get him expelled!?",
+   "They'd find a way. And with Kazama in prison now, he can't stop them.",
+   "Kazama-san, expelled...?",
+   "And I'm sure I don't have to tell you what happens to yakuza after they've been cut loose.",
+   "Getting kicked to the curb after having climbed all the way to the top... Most men don't survive that humiliation.",
+   "But... Kiryu didn't actually kill anybody!",
+   "If we can prove he's innocent, they can't use that to get Kazama-san booted!",
+   "The only way to prove that is to catch the guy who did it.",
+   "Right. But whoever it is, he's in Kuze's pocket. We can't make a move against a Dojima lieutenant. Pick a fight with the brass in our world, and you're finished.",
+   "But if we don't do something, Kiryu'll get thrown in jail!"
+  ]
+ },
+ {
+  "order": 242,
+  "speaker": "柏木",
+  "sentence": "自殺したホームレスに",
+  "literal": "Among the homeless who've killed themselves—",
+  "official_candidate": "But... Kiryu didn't actually kill anybody!",
+  "official_neighbors": [
+   "They'd find a way. And with Kazama in prison now, he can't stop them.",
+   "Kazama-san, expelled...?",
+   "And I'm sure I don't have to tell you what happens to yakuza after they've been cut loose.",
+   "Getting kicked to the curb after having climbed all the way to the top... Most men don't survive that humiliation.",
+   "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+   "If we can prove he's innocent, they can't use that to get Kazama-san booted!",
+   "The only way to prove that is to catch the guy who did it.",
+   "Right. But whoever it is, he's in Kuze's pocket. We can't make a move against a Dojima lieutenant. Pick a fight with the brass in our world, and you're finished.",
+   "But if we don't do something, Kiryu'll get thrown in jail!",
+   "If we act, it hurts Kazama's standing even more. One wrong move from us, and they'll have their reason to expel him."
+  ]
+ },
+ {
+  "order": 243,
+  "speaker": "柏木",
+  "sentence": "そうだ。だが……　久瀬が真犯人を握ってる以上、",
+  "literal": "That's right. But... as long as Kuze has the real culprit in his grip,",
+  "official_candidate": "But if we don't do something, Kiryu'll get thrown in jail!",
+  "official_neighbors": [
+   "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+   "But... Kiryu didn't actually kill anybody!",
+   "If we can prove he's innocent, they can't use that to get Kazama-san booted!",
+   "The only way to prove that is to catch the guy who did it.",
+   "Right. But whoever it is, he's in Kuze's pocket. We can't make a move against a Dojima lieutenant. Pick a fight with the brass in our world, and you're finished.",
+   "If we act, it hurts Kazama's standing even more. One wrong move from us, and they'll have their reason to expel him.",
+   "So what, then? What do we do!?",
+   "Kashiwagi-san.",
+   "My innocence and the Empty Lot can both wait.",
+   "What matters most to me right now is protecting Kazama-san, and that's what I'm going to do."
+  ]
+ },
+ {
+  "order": 244,
+  "speaker": "柏木",
+  "sentence": "手は出せん。相手は堂島組の幹部だ。この世界で",
+  "literal": "we can't touch him. He's a Dojima Family exec. In this world—",
+  "official_candidate": "But if we don't do something, Kiryu'll get thrown in jail!",
+  "official_neighbors": [
+   "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+   "But... Kiryu didn't actually kill anybody!",
+   "If we can prove he's innocent, they can't use that to get Kazama-san booted!",
+   "The only way to prove that is to catch the guy who did it.",
+   "Right. But whoever it is, he's in Kuze's pocket. We can't make a move against a Dojima lieutenant. Pick a fight with the brass in our world, and you're finished.",
+   "If we act, it hurts Kazama's standing even more. One wrong move from us, and they'll have their reason to expel him.",
+   "So what, then? What do we do!?",
+   "Kashiwagi-san.",
+   "My innocence and the Empty Lot can both wait.",
+   "What matters most to me right now is protecting Kazama-san, and that's what I'm going to do."
+  ]
+ },
+ {
+  "order": 249,
+  "speaker": "柏木",
+  "sentence": "俺は親っさんを守るために動きます。",
+  "literal": "I'll make my move to protect the boss.",
+  "official_candidate": "C01150_NIS_A_toB",
+  "official_neighbors": [
+   "You have a plan?",
+   "Yes, sir... I let this happen. I'll take responsibility for it alone.",
+   "There's only one way to keep this from coming back around to Kazama-san.",
+   "Eh>\t?ǍO",
+   "C01150_NIS_B",
+   "Nishikiyama",
+   "Kiryu",
+   "Kashiwagi",
+   "ifc_jimaku_kashiwagi",
+   "C01100_KSW_tabaco_kamae"
+  ]
+ },
+ {
+  "order": 250,
+  "speaker": "柏木",
+  "sentence": "俺の不始末は、俺ひとりでケジメつけます。",
+  "literal": "I'll answer for my own screwup by myself.",
+  "official_candidate": "C01100_KSW_tabaco_smoke",
+  "official_neighbors": [
+   "Nishikiyama",
+   "Kiryu",
+   "Kashiwagi",
+   "ifc_jimaku_kashiwagi",
+   "C01100_KSW_tabaco_kamae",
+   "M_YKZS_TLK_sofa_kamae",
+   "M_YKZS_TLK_sofa_yes",
+   "P_KRU_TLK_sofa_kamae",
+   "C01100_KSW_tabaco_en",
+   "kaiwabgm_fuon_03"
+  ]
+ },
+ {
+  "order": 257,
+  "speaker": "桐生",
+  "sentence": "お前……　音痴だったんだな。",
+  "literal": "You... you were tone-deaf, huh.",
+  "official_candidate": "Here's hoping, anyway...",
+  "official_neighbors": [
+   "Hey, you're the one who said to get crazy. I was just trying to humor you.",
+   "Suuure. And you loved every minute of it. Do you sneak off and practice on the sly? You so do.",
+   "Come on, quit busting my balls.",
+   "Hey, Kiryu... What's it like having zero sense of rhythm?",
+   "Aw, don't let it get you down. It's all just practice! Keep at it and you'll be a pro in no time.",
+   "All that singing worked up an appetite. How about we move this party to the ramen shop?",
+   "You're hungry again? I'm still full, man.",
+   "So? You can watch me eat, then. Tengokuken work for you?",
+   "Yeah, all right, fine...",
+   "You come here a lot?"
+  ]
+ },
+ {
+  "order": 269,
+  "speaker": "桐生",
+  "sentence": "そういうのしあがり方もあるさ。",
+  "literal": "There's that way of turning out, too.",
+  "official_candidate": "C01065_KRU_B_to_A",
+  "official_neighbors": [
+   "Nishikiyama",
+   "nishiki_adv_c01_070_01",
+   "C01065_NIS_A_tlk",
+   "Kiryu",
+   "C01065_KRU_A",
+   "kiryu_adv_c01_070_01",
+   "nishiki_adv_c01_070_02",
+   "C01065_KRU_A_to_B",
+   "kiryu_adv_c01_070_02",
+   "nishiki_adv_c01_070_03"
+  ]
+ },
+ {
+  "order": 270,
+  "speaker": "桐生",
+  "sentence": "ただ、お前は風間の親っさんの子じゃない。",
+  "literal": "It's just that you're not Kazama's kid.",
+  "official_candidate": "kiryu_adv_c01_070_04",
+  "official_neighbors": [
+   "nishiki_adv_c01_070_02",
+   "C01065_KRU_A_to_B",
+   "kiryu_adv_c01_070_02",
+   "nishiki_adv_c01_070_03",
+   "nishiki_adv_c01_070_04",
+   "nishiki_adv_c01_070_05",
+   "C01065_KRU_A_tlk",
+   "kiryu_adv_c01_070_05",
+   "nishiki_adv_c01_070_06",
+   "kiryu_adv_c01_070_06"
+  ]
+ },
+ {
+  "order": 271,
+  "speaker": "桐生",
+  "sentence": "堂島組の組員なんだ。",
+  "literal": "You're a member of the Dojima Family.",
+  "official_candidate": "kiryu_adv_c01_070_04",
+  "official_neighbors": [
+   "nishiki_adv_c01_070_02",
+   "C01065_KRU_A_to_B",
+   "kiryu_adv_c01_070_02",
+   "nishiki_adv_c01_070_03",
+   "nishiki_adv_c01_070_04",
+   "nishiki_adv_c01_070_05",
+   "C01065_KRU_A_tlk",
+   "kiryu_adv_c01_070_05",
+   "nishiki_adv_c01_070_06",
+   "kiryu_adv_c01_070_06"
+  ]
+ },
+ {
+  "order": 272,
+  "speaker": "桐生",
+  "sentence": "よせよ……　親っさんに考えがあってのことだ。",
+  "literal": "Cut it out... The old man had his reasons for doing it.",
+  "official_candidate": "kiryu_adv_c01_065_04",
+  "official_neighbors": [
+   "nishiki_adv_c01_065_02",
+   "kiryu_adv_c01_065_03",
+   "C01065_NIS_A_drink",
+   "nishiki_adv_c01_065_03",
+   "C01065_NIS_A_to_B",
+   "nishiki_adv_c01_065_04",
+   "kiryu_adv_c01_065_05",
+   "nishiki_adv_c01_065_05",
+   "kiryu_adv_c01_065_06",
+   "kiryu_adv_c01_065_07"
+  ]
+ },
+ {
+  "order": 273,
+  "speaker": "桐生",
+  "sentence": "よし！　真面目な話はもうやめだ！",
+  "literal": "All right! Enough with the serious talk!",
+  "official_candidate": "kiryu_adv_c01_065_07",
+  "official_neighbors": [
+   "kiryu_adv_c01_065_04",
+   "nishiki_adv_c01_065_04",
+   "kiryu_adv_c01_065_05",
+   "nishiki_adv_c01_065_05",
+   "kiryu_adv_c01_065_06",
+   "nishiki_adv_c01_065_06",
+   "kiryu_adv_c01_065_08",
+   "nishiki_adv_c01_065_07",
+   "nishiki_adv_c01_065_08",
+   "nishiki_adv_c01_065_09"
+  ]
+ },
+ {
+  "order": 280,
+  "speaker": "渋澤",
+  "sentence": "だったら死体転がしたのは俺じゃありません！",
+  "literal": "In that case, I'm not the one who dumped the body!",
+  "official_candidate": "If that's true, it would mean somebody's set you up here. Is that what you're saying?",
+  "official_neighbors": [
+   "In this deep and still playing dumb?",
+   "The body they found was beat to hell, but it was a bullet to the face that ended him.",
+   "The police haven't made that public yet, but it's fact.",
+   "Really? Are you sure about that!?",
+   "Then it wasn't me that killed him. I roughed him up with my bare hands, and that's all. That's the truth!",
+   "Yes, sir. No matter what happened there, I didn't shoot him.",
+   "So says the accused. And what say we all?",
+   "I think it's a load of shit, and you're trying to worm your way out of this. Who the fuck bothers to frame a nobody like you?",
+   "Listen, Kiryu. I'm only gonna ask you one more time. Why stir up trouble there of all places?",
+   "That's what the loan shark told me to do."
+  ]
+ },
+ {
+  "order": 285,
+  "speaker": "渋澤",
+  "sentence": "このままじゃ“あっちの仕事”に支障がでちまう。",
+  "literal": "At this rate, it'll get in the way of 'that other job.'",
+  "official_candidate": "C01095_AWA_A_kamae",
+  "official_neighbors": [
+   "What do you think, Kuze?",
+   "Only one possible answer.",
+   "EA1\u0006@,:",
+   "kaiwabgm_fuon_10",
+   "Awano",
+   "C01095_AWA_A_tlk2",
+   "Shibusawa",
+   "C01095_KUZ_A_kamae",
+   "C01095_KUZ_A_angry",
+   "Talk_Yes"
+  ]
+ },
+ {
+  "order": 290,
+  "speaker": "桐生",
+  "sentence": "き、桐生さん……　え？　本気すか!?",
+  "literal": "K-Kiryu-san... huh? Are you serious?!",
+  "official_candidate": "Please give the boss a message. Tell him... Kazuma Kiryu is here to end his oath.",
+  "official_neighbors": [
+   "I've seen this place a million times, but it never looked as scary as it does now.",
+   "Evening, gents!",
+   "Is the boss... Is Dojima in today?",
+   "Yes, sir. He's inside.",
+   "It'll be just me from here.",
+   "Kiryu-san? ...Wait, seriously!?",
+   "Yeah.",
+   "Thanks, Nishiki. And sorry. You head on back.",
+   "You're really going through with this, Kiryu?",
+   "I'll have a talk with the boss. It's not like I'm a dead man just yet. I'll try to finesse it, like you would."
+  ]
+ },
+ {
+  "order": 302,
+  "speaker": "渋澤",
+  "sentence": "地味ですけど山ん中で生き埋めが一番かと。",
+  "literal": "It's not flashy, but burying him alive up in the mountains would be best, I'd say.",
+  "official_candidate": "Figure out how we erase this trash.",
+  "official_neighbors": [
+   "So that's a no, then? Heh, all right...",
+   "Then we're done here. I've got no use left for you.",
+   "You had the chance to climb the ranks as one of my boys. If you'd have taken that, you wouldn't have to die now.",
+   "Hey, Yoneda!",
+   "Yes sir.",
+   "It's not fancy, but a live burial up in the mountains is probably easiest. Or we could melt him down with chemicals and just dump him in the river.",
+   "No, leave a body. It's better if he's found, down the line. Sends a message that Dojima's big on discipline. Tojo HQ will appreciate that.",
+   "Huff... huff...",
+   "Looks like you can actually back up that big mouth of yours. Not bad.",
+   "Kazama scouted himself a solid kid. If I'd met you back when I was boxing, I'd have offered to be your promoter."
+  ]
+ },
+ {
+  "order": 316,
+  "speaker": "渋澤",
+  "sentence": "今さらごちゃごちゃうるせんだよ。",
+  "literal": "It's way too late to be yapping on and on about it now.",
+  "official_candidate": "You admit you screwed up this time, right?",
+  "official_neighbors": [
+   "I see. You don't need to bother.",
+   "What? But the killer's still...",
+   "The killer? Let the police sort that out. You're a civilian now.",
+   "But I have to do this. To make things right!",
+   "Make things right? You're a civilian, damn it. Get it through your head and stop whining.",
+   "Yes, sir. At the very least, if I hadn't done it at that spot, all of this might have been avoided.",
+   "So you asked to be expelled.",
+   "Yes, sir.",
+   "Well, relax. I'll make sure responsibility's taken.",
+   "Your screw-up made it harder for us to get that land, Kiryu. And it was Kazama that brought you in. Accountability falls on him."
+  ]
+ },
+ {
+  "order": 318,
+  "speaker": "渋澤",
+  "sentence": "安心しろ。ケジメならきっちりとってもらうさ。",
+  "literal": "Relax. I'll make sure amends are settled properly.",
+  "official_candidate": "Your screw-up made it harder for us to get that land, Kiryu. And it was Kazama that brought you in. Accountability falls on him.",
+  "official_neighbors": [
+   "You admit you screwed up this time, right?",
+   "Yes, sir. At the very least, if I hadn't done it at that spot, all of this might have been avoided.",
+   "So you asked to be expelled.",
+   "Yes, sir.",
+   "Well, relax. I'll make sure responsibility's taken.",
+   "You were a yakuza till a minute ago. You understand the logic, right?",
+   "There's no coming back once you're out of the yakuza. I suggest you find a nice little job and live a nice little life.",
+   "What now...? What the hell am I supposed to do now?",
+   "YAG@]",
+   "ĿCA@E@-\u000e"
+  ]
+ },
+ {
+  "order": 319,
+  "speaker": "渋澤",
+  "sentence": "風間が拾ってきたガキ……　桐生、お前の不手際で",
+  "literal": "The kid Kazama picked up off the street... Kiryu, because of your blunder—",
+  "official_candidate": "You were a yakuza till a minute ago. You understand the logic, right?",
+  "official_neighbors": [
+   "Yes, sir. At the very least, if I hadn't done it at that spot, all of this might have been avoided.",
+   "So you asked to be expelled.",
+   "Yes, sir.",
+   "Well, relax. I'll make sure responsibility's taken.",
+   "Your screw-up made it harder for us to get that land, Kiryu. And it was Kazama that brought you in. Accountability falls on him.",
+   "There's no coming back once you're out of the yakuza. I suggest you find a nice little job and live a nice little life.",
+   "What now...? What the hell am I supposed to do now?",
+   "YAG@]",
+   "ĿCA@E@-\u000e",
+   "ĿAAH@X\u0010"
+  ]
+ },
+ {
+  "order": 320,
+  "speaker": "渋澤",
+  "sentence": "この理屈はわかるだろ？",
+  "literal": "You understand this logic, don't you?",
+  "official_candidate": "There's no coming back once you're out of the yakuza. I suggest you find a nice little job and live a nice little life.",
+  "official_neighbors": [
+   "So you asked to be expelled.",
+   "Yes, sir.",
+   "Well, relax. I'll make sure responsibility's taken.",
+   "Your screw-up made it harder for us to get that land, Kiryu. And it was Kazama that brought you in. Accountability falls on him.",
+   "You were a yakuza till a minute ago. You understand the logic, right?",
+   "What now...? What the hell am I supposed to do now?",
+   "YAG@]",
+   "ĿCA@E@-\u000e",
+   "ĿAAH@X\u0010",
+   "\u0007IXAI;dA\u001bC"
+  ]
+ },
+ {
+  "order": 321,
+  "speaker": "渋澤",
+  "sentence": "極道は一度身ぃ引いたらしまいだ。",
+  "literal": "Once you've pulled out of the yakuza life even once, that's the end of it.",
+  "official_candidate": "#iA`vA+",
+  "official_neighbors": [
+   "ĿCA@E@-\u000e",
+   "ĿAAH@X\u0010",
+   "\u0007IXAI;dA\u001bC",
+   "AMA\u0001+\u0002",
+   "\u0012oA]hsA!F",
+   "YX\u0010AU\u0006A\u000b\u0012o",
+   "KAQ\u001f@T",
+   "AZrA7",
+   "A[GA3",
+   "A_hsA9K"
+  ]
+ },
+ {
+  "order": 324,
+  "speaker": "錦山",
+  "sentence": "やっぱりお前からの呼び出しだったんだな、錦……",
+  "literal": "So it really was you who paged me after all, Nishiki...",
+  "official_candidate": "Hey, Kiryu? It's Nishikiyama.",
+  "official_neighbors": [
+   "I'm at Chen-san's restaurant in Little Asia. I'd like to speak with you one-on-one. Can you come here?",
+   "What's this about?",
+   "I'll tell you when you get here. ...And be careful. Dojima's men are still hunting you.",
+   "(I guess Sera's in Kamurocho, too. I need to meet him in Little Asia.)",
+   "(Better head to the Kazama Family office.)",
+   "Yeah. I figured it was you trying to get a hold of me.",
+   "Where are you?",
+   "The Kazama Family office. On Tenkaichi Street.",
+   "Kazama's office? What are you doing there?",
+   "I'm talking with Kashiwagi-san right now. I thought he might be able to give us some advice."
+  ]
+ },
+ {
+  "order": 329,
+  "speaker": "錦山",
+  "sentence": "可能です。",
+  "literal": "It's possible.",
+  "official_candidate": "\u0015UA|>\u001eRAv",
+  "official_neighbors": [
+   "I think you need to hear what Kashiwagi-san has to say.",
+   "Have you heard about the Empty Lot?",
+   "Kuze told me about it just now. I guess nothing gets past Kashiwagi-san.",
+   "I'll be there in a bit.",
+   "You can save the game and use the Item Box at pay phones.",
+   "At?&A?}",
+   "BA^5@\u0002nA",
+   "BAZ\u001d@\u0002nA-\u000f",
+   "BA\b1?/A(",
+   "\u0018sAC@ =pA"
+  ]
+ },
+ {
+  "order": 336,
+  "speaker": "桐生",
+  "sentence": "とある組織の幹部組員",
+  "literal": "A senior member of a certain organization.",
+  "official_candidate": "Kiryu",
+  "official_neighbors": [
+   "I'm saying he's paid them all enough to keep quiet. If he's really the kind of guy they say he is, it's possible. Shit... Wonder if there's any way to outspend him.",
+   "Um, with what money, sir? We don't really have any...",
+   "Then get the hell out there and find me some information! Forget the informants. Go hit one of the businesses he's bought out or something!",
+   "Y-Yessir!",
+   "\bFYakuza Brass",
+   "Yakuza Underling",
+   "Talk_Ojigi",
+   "Talk_Angry",
+   "Talk_Sorry"
+  ]
+ },
+ {
+  "order": 351,
+  "speaker": "バッカス",
+  "sentence": "ったく、相変わらず面倒見がいいっつーか……",
+  "literal": "Geez, you look after people as much as ever, huh...",
+  "official_candidate": "What're you blabbin' about... Stay outta this!",
+  "official_neighbors": [
+   "Yeah? C'mon, grampa... Take yer best shot!",
+   "Screw it, they're completely wasted. It's not worth the trouble. Let's take a different road.",
+   "No need. I've got a faster way to fix this.",
+   "Yeah. I just need to sober them up a bit... with my fists.",
+   "Again? I can't tell if you're a sadist or a charity worker.",
+   "Yeah, butt out, you... butts!",
+   "Huh, wha...? Where am I?",
+   "What was I doing here? ...And who are you?",
+   "Sounds like that sobered them up.",
+   "Must be your delicate touch."
+  ]
+ },
+ {
+  "order": 356,
+  "speaker": "バッカス",
+  "sentence": "実はネ、向こうから来るコワーい顔したメンズと",
+  "literal": "Actually, y'know, with those scary-faced men coming over there—",
+  "official_candidate": "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+  "official_neighbors": [
+   "That's a great question! Ask them. They're real eager to talk to you, too!",
+   "Oh hey, speak of the devil. Here they are now!",
+   "Alright, gramps... Is this the kid?",
+   "Yessir! My prize pupil!",
+   "I'm sorry, \"pupil\"?",
+   "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+   "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+   "Like hell they are! And since when are you my master, anyway?",
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt."
+  ]
+ },
+ {
+  "order": 357,
+  "speaker": "バッカス",
+  "sentence": "師匠の借金は弟子が払うものネ。",
+  "literal": "It's the pupil who pays the master's debts.",
+  "official_candidate": "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+  "official_neighbors": [
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt.",
+   "Hey, boy?",
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "Oh, so you think he'd beat you.",
+   "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?"
+  ]
+ },
+ {
+  "order": 358,
+  "speaker": "バッカス",
+  "sentence": "このブル野を相手に強情張り通せたヤツはいねぇ。",
+  "literal": "There's nobody who's managed to keep holding out stubborn against this Bruno.",
+  "official_candidate": "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+  "official_neighbors": [
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+   "Oh, so you think he'd beat you.",
+   "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?",
+   "I told you, this has got nothing to do with me.",
+   "Okay, all right! I'll pay you the money!",
+   "Wise choice."
+  ]
+ },
+ {
+  "order": 359,
+  "speaker": "バッカス",
+  "sentence": "あの後ろにいる大きな男、ブルノとファイトして",
+  "literal": "Fight that big man standing behind him, Bruno, and—",
+  "official_candidate": "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?",
+  "official_neighbors": [
+   "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+   "Oh, so you think he'd beat you.",
+   "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "I told you, this has got nothing to do with me.",
+   "Okay, all right! I'll pay you the money!",
+   "Wise choice.",
+   "I feel terrible, just terrible for all the hassle I caused. Tell you what, why don't we make it two million?",
+   "You wanna pay me double!? Like I'm gonna buy that! You're drunk off your ass, old man!"
+  ]
+ },
+ {
+  "order": 360,
+  "speaker": "バッカス",
+  "sentence": "ノーノー、闘うのは１人ずつヨ。",
+  "literal": "No, no, you fight them one at a time.",
+  "official_candidate": "Seriously!?",
+  "official_neighbors": [
+   "Well that's just lovely.",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now.",
+   "Okay, I'll go first then!",
+   "Hey, are you even listening!? Are you sure you want to do this?",
+   "He'll be fine. Just a little workout. You just focus on keeping an eye on the action, boy. Watch Kamoji's moves.",
+   "Aaand, FIGHT!",
+   "Huff, whew... I'm tired. Gotta remember to eat before I do this stuff.",
+   "Kamoji, was it? What were those moves just now? Actually, forget it. Are you okay? You shouldn't push yourself like that.",
+   "Ha ha, he's fine! Told you, didn't I? Big guy didn't land a single punch on him.",
+   "Hey, you in the coat. Homeless dude! Bruno's barely got a scratch on him. You gonna try to finish the job with those weak-ass punches?"
+  ]
+ },
+ {
+  "order": 361,
+  "speaker": "バッカス",
+  "sentence": "３人がかりで闘うのはフェアじゃナイネ。",
+  "literal": "Taking him on three-on-one wouldn't be fair.",
+  "official_candidate": "Seriously!?",
+  "official_neighbors": [
+   "Well that's just lovely.",
+   "I'll tell you right now I'm not bailing you out. If you don't want to get hurt, I'd start apologizing now.",
+   "Okay, I'll go first then!",
+   "Hey, are you even listening!? Are you sure you want to do this?",
+   "He'll be fine. Just a little workout. You just focus on keeping an eye on the action, boy. Watch Kamoji's moves.",
+   "Aaand, FIGHT!",
+   "Huff, whew... I'm tired. Gotta remember to eat before I do this stuff.",
+   "Kamoji, was it? What were those moves just now? Actually, forget it. Are you okay? You shouldn't push yourself like that.",
+   "Ha ha, he's fine! Told you, didn't I? Big guy didn't land a single punch on him.",
+   "Hey, you in the coat. Homeless dude! Bruno's barely got a scratch on him. You gonna try to finish the job with those weak-ass punches?"
+  ]
+ },
+ {
+  "order": 362,
+  "speaker": "バッカス",
+  "sentence": "ハハハ！　ブル野を相手にタイマンだと!?",
+  "literal": "Hahaha! A one-on-one against Bruno?!",
+  "official_candidate": "Kamoji, was it? What were those moves just now? Actually, forget it. Are you okay? You shouldn't push yourself like that.",
+  "official_neighbors": [
+   "Hey, are you even listening!? Are you sure you want to do this?",
+   "He'll be fine. Just a little workout. You just focus on keeping an eye on the action, boy. Watch Kamoji's moves.",
+   "Seriously!?",
+   "Aaand, FIGHT!",
+   "Huff, whew... I'm tired. Gotta remember to eat before I do this stuff.",
+   "Ha ha, he's fine! Told you, didn't I? Big guy didn't land a single punch on him.",
+   "Hey, you in the coat. Homeless dude! Bruno's barely got a scratch on him. You gonna try to finish the job with those weak-ass punches?",
+   "Ah, no. Kamoji-kun, you sit this one out. I'm calling the round as your manager! Let the kid take it from here.",
+   "You know what to do, don't you, boy?",
+   "Heh... Yeah, all right. I meant it when I said I wouldn't bail you out, but watching him just put me in the mood for a quick round."
+  ]
+ },
+ {
+  "order": 363,
+  "speaker": "バッカス",
+  "sentence": "とんだ自殺志願者もいたもんだ！",
+  "literal": "What an outrageous death-wish volunteer we've got here!",
+  "official_candidate": "Kamoji, was it? What were those moves just now? Actually, forget it. Are you okay? You shouldn't push yourself like that.",
+  "official_neighbors": [
+   "Hey, are you even listening!? Are you sure you want to do this?",
+   "He'll be fine. Just a little workout. You just focus on keeping an eye on the action, boy. Watch Kamoji's moves.",
+   "Seriously!?",
+   "Aaand, FIGHT!",
+   "Huff, whew... I'm tired. Gotta remember to eat before I do this stuff.",
+   "Ha ha, he's fine! Told you, didn't I? Big guy didn't land a single punch on him.",
+   "Hey, you in the coat. Homeless dude! Bruno's barely got a scratch on him. You gonna try to finish the job with those weak-ass punches?",
+   "Ah, no. Kamoji-kun, you sit this one out. I'm calling the round as your manager! Let the kid take it from here.",
+   "You know what to do, don't you, boy?",
+   "Heh... Yeah, all right. I meant it when I said I wouldn't bail you out, but watching him just put me in the mood for a quick round."
+  ]
+ },
+ {
+  "order": 364,
+  "speaker": "バッカス",
+  "sentence": "レッツファイト！",
+  "literal": "Let's fight!",
+  "official_candidate": "You know what to do, don't you, boy?",
+  "official_neighbors": [
+   "Huff, whew... I'm tired. Gotta remember to eat before I do this stuff.",
+   "Kamoji, was it? What were those moves just now? Actually, forget it. Are you okay? You shouldn't push yourself like that.",
+   "Ha ha, he's fine! Told you, didn't I? Big guy didn't land a single punch on him.",
+   "Hey, you in the coat. Homeless dude! Bruno's barely got a scratch on him. You gonna try to finish the job with those weak-ass punches?",
+   "Ah, no. Kamoji-kun, you sit this one out. I'm calling the round as your manager! Let the kid take it from here.",
+   "Heh... Yeah, all right. I meant it when I said I wouldn't bail you out, but watching him just put me in the mood for a quick round.",
+   "Right, then. On to round two of the two-million yen murder parade! Bruno? Take him!",
+   "What just happened? Bruno barely got a punch in! Just who the hell ARE you?",
+   "Name's Kiryu. Dojima Family. Which family are you guys with?",
+   "Whoa, wait, you're a proper yakuza!? Er, s-sorry, sir! I didn't know! We just work for Toko Credit."
+  ]
+ },
+ {
+  "order": 365,
+  "speaker": "バッカス",
+  "sentence": "ブル野はまだピンピンしてるぞ？",
+  "literal": "Bruno's still full of energy, you know?",
+  "official_candidate": "Name's Kiryu. Dojima Family. Which family are you guys with?",
+  "official_neighbors": [
+   "Ah, no. Kamoji-kun, you sit this one out. I'm calling the round as your manager! Let the kid take it from here.",
+   "You know what to do, don't you, boy?",
+   "Heh... Yeah, all right. I meant it when I said I wouldn't bail you out, but watching him just put me in the mood for a quick round.",
+   "Right, then. On to round two of the two-million yen murder parade! Bruno? Take him!",
+   "What just happened? Bruno barely got a punch in! Just who the hell ARE you?",
+   "Whoa, wait, you're a proper yakuza!? Er, s-sorry, sir! I didn't know! We just work for Toko Credit.",
+   "Well there's a coincidence. I have business with your boss. Need to meet with him as soon as possible. You know where he is right now?",
+   "The president? I figure he'd be at the office at this hour.",
+   "I see. That's in a building on Taihei Boulevard East, right? I'll pay him a visit then.",
+   "And that takes care of that little debt of ours, right?"
+  ]
+ },
+ {
+  "order": 366,
+  "speaker": "バッカス",
+  "sentence": "七福パークっていう駐車場だぁ。",
+  "literal": "It's a parking lot called Shichifuku Park.",
+  "official_candidate": "Sorry, I'm not some starry-eyed kid who'd fall for that line. If you're looking to scout somebody, keep looking.",
+  "official_neighbors": [
+   "All right, I get the picture. Shichifuku Parking Lot, right? I'll swing by if I can find the time.",
+   "It's Kiryu-san, from the Dojima Family, right? I'll be waiting! See you soon.",
+   "Well, that takes care of my troubles for today... I suppose I still can't convince you to take on the world?",
+   "The world? What does that even mean? Are you still trying to recruit me into pro fighting or whatever it was?",
+   "That's exactly what it was! You got potential most men can't even dream about! That world champ title could be yours.",
+   "I'll tell you one thing, boy. You keep living street fight to street fight, you'll wind up with a knife 'tween your ribs in some dark alley. That's no way to go out.",
+   "You belong in the light. The spotlight! And I can get you under all the brightest ones. What do you say? You and me versus the world!",
+   "...Yeah, okay. We just met. You're not gonna change your life around because some old geezer asked you to. I get it. I'll give up... for now.",
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "You've got skills as a trainer, that much I believe."
+  ]
+ },
+ {
+  "order": 367,
+  "speaker": "バッカス",
+  "sentence": "カモジ君はボーイのファイトに役立つ",
+  "literal": "Kamoji-kun comes in handy for the boy's fights—",
+  "official_candidate": "I'll tell you one thing, boy. You keep living street fight to street fight, you'll wind up with a knife 'tween your ribs in some dark alley. That's no way to go out.",
+  "official_neighbors": [
+   "It's Kiryu-san, from the Dojima Family, right? I'll be waiting! See you soon.",
+   "Well, that takes care of my troubles for today... I suppose I still can't convince you to take on the world?",
+   "The world? What does that even mean? Are you still trying to recruit me into pro fighting or whatever it was?",
+   "That's exactly what it was! You got potential most men can't even dream about! That world champ title could be yours.",
+   "Sorry, I'm not some starry-eyed kid who'd fall for that line. If you're looking to scout somebody, keep looking.",
+   "You belong in the light. The spotlight! And I can get you under all the brightest ones. What do you say? You and me versus the world!",
+   "...Yeah, okay. We just met. You're not gonna change your life around because some old geezer asked you to. I get it. I'll give up... for now.",
+   "But that doesn't mean I'm giving up for good! You got room to grow like a tree. I'll keep coaching you along the way!",
+   "You've got skills as a trainer, that much I believe.",
+   "But I'm really not in a position to be worrying about anybody but myself right now. Sorry. But hey... Maybe I'll see you around."
+  ]
+ },
+ {
+  "order": 369,
+  "speaker": "バッカス",
+  "sentence": "（ん？　ポケベルの呼び出しか）",
+  "literal": "(Hm? A page from my pager?)",
+  "official_candidate": "Yeah? How about we start with those rags you're wearing?",
+  "official_neighbors": [
+   "Yeah.",
+   "Good. That should put Kazama-san's mind at ease a bit.",
+   "Heh, dunno about that. But he always knew all I could do is fight. You're the one who's good at the dance.",
+   "Please. You see the times we're living in? You'd be crazy not to enjoy all this, bro! Learn to use your head a bit.",
+   "Once the new year rolls around, Kazama-san gets out of prison. I'll try to learn a few new tricks by then.",
+   "Try sporting a suit that runs 500 grand for once. Trust me, you'll see the world in a whole new light.",
+   "Fashion's not my thing. Besides, Kazama-san never wore flashy clothes.",
+   "You do realize he's the family captain, right?",
+   "Number two in the whole Dojima operation? You get to that level, you can wear whatever you damn well please.",
+   "But for the rest of us, \"flashy\" is part of the business."
+  ]
+ },
+ {
+  "order": 370,
+  "speaker": "バッカス",
+  "sentence": "（見覚えのねえ番号だが……　どうせ錦からだろう。",
+  "literal": "(It's a number I don't recognize... but it's probably from Nishiki anyway.",
+  "official_candidate": "C01060_NIS_A",
+  "official_neighbors": [
+   "Talk_Yes",
+   "The Completion List",
+   "M_YKZS_TLK_stand_kamae",
+   "M_YKZS_TLK_stand_call",
+   "Yui the Hostess",
+   "C01060_HOSA_A",
+   "C01060_HOSB_A",
+   "Madoka the Hostess",
+   "Aging Foreigner",
+   "kaiwabgm_sub_fuon_02"
+  ]
+ },
+ {
+  "order": 371,
+  "speaker": "錦山",
+  "sentence": "この不始末に付け込まれちまうってことだ。",
+  "literal": "It means they'll take advantage of this screw-up.",
+  "official_candidate": "What?",
+  "official_neighbors": [
+   "I'm gonna go call in.",
+   "You think... It's gotta be about what they were saying on the news, right?",
+   "This is bad.",
+   "You're obviously screwed, but this also paints a giant target on Kazama-san's back.",
+   "They're gonna use this to bring him down.",
+   "How do you figure?",
+   "Everybody in the Dojima Family knows it was Kazama-san who brought us in.",
+   "That means our screw-ups become his responsibility, too.",
+   "What? But this was my mistake. He had nothing to do with it."
+  ]
+ },
+ {
+  "order": 372,
+  "speaker": "錦山",
+  "sentence": "そうはいかねえよ。殺しとなるとコトがでかい。",
+  "literal": "It's not that simple. Once it's a killing, the matter's huge.",
+  "official_candidate": "What? But this was my mistake. He had nothing to do with it.",
+  "official_neighbors": [
+   "What?",
+   "They're gonna use this to bring him down.",
+   "How do you figure?",
+   "Everybody in the Dojima Family knows it was Kazama-san who brought us in.",
+   "That means our screw-ups become his responsibility, too.",
+   "That's not how it works. Murder is a big deal.",
+   "Everybody with an eye on his position is going to come at this with everything they've got.",
+   "The three Dojima lieutenants, for starters.",
+   "Shit...",
+   "Rumor has it, it was one of them that sold Kazama-san out to the cops and got him pinched six months back."
+  ]
+ },
+ {
+  "order": 374,
+  "speaker": "錦山",
+  "sentence": "サツにチクったとしか思えねぇ。",
+  "literal": "I can't think of it as anything but someone snitching to the cops.",
+  "official_candidate": "The gambling hall he was running never stayed in the same place, but then they suddenly get hit with a raid?",
+  "official_neighbors": [
+   "Everybody with an eye on his position is going to come at this with everything they've got.",
+   "The three Dojima lieutenants, for starters.",
+   "Shit...",
+   "Rumor has it, it was one of them that sold Kazama-san out to the cops and got him pinched six months back.",
+   "Wait, what?",
+   "The only way that happens is if somebody with family info tips them off.",
+   "And the way I hear it told, it was one of the lieutenants that talked... Kuze.",
+   "You really think Kuze sold Kazama-san out to the cops?",
+   "Well, it's not like I've got hard proof.",
+   "But you know Kuze's been on a power trip ever since the old man got locked up. And where there's smoke..."
+  ]
+ },
+ {
+  "order": 379,
+  "speaker": "柏木",
+  "sentence": "たった一坪ばかりの更地があんだよ。",
+  "literal": "There's an empty lot of only about one tsubo.",
+  "official_candidate": "And that's the Empty Lot?",
+  "official_neighbors": [
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?",
+   "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+   "Yeah. They only recently figured it out, though. They bought up 80^ of the neighborhood before they found it.",
+   "And it's sitting in the dead center of the redevelopment area. If they can't get that plot, there's no way they can sell any of what they've already bought.",
+   "That's a hell of a snag... And you say nobody's managed to make a move on that lot yet?",
+   "The owner's gone missing. If they turned up now, the price I've heard being thrown around is one billion.",
+   "A billion yen for that tiny lot!?"
+  ]
+ },
+ {
+  "order": 380,
+  "speaker": "柏木",
+  "sentence": "一坪１０億だろうがいまさら退けやしねえ。",
+  "literal": "Even at a billion yen a tsubo, there's no backing out now.",
+  "official_candidate": "Kuze said that Kazama-san had some key piece of info they needed in order to get the land.",
+  "official_neighbors": [
+   "That's a hell of a snag... And you say nobody's managed to make a move on that lot yet?",
+   "The owner's gone missing. If they turned up now, the price I've heard being thrown around is one billion.",
+   "A billion yen for that tiny lot!?",
+   "Sure. That tiny lot could sink the whole redevelopment project, and Dojima's already sunk ten billion plus into buying up the area.",
+   "They can't go back now, even if it means coughing up a billion yen for a postage stamp of land.",
+   "What is it Kazama-san knows?",
+   "I couldn't say. That's the first I've heard of it.",
+   "But you figure it's gotta have something to do with the missing owner, right?",
+   "Well, whatever it is, Kuze set Kiryu up to force him to get that info out of Kazama.",
+   "Right. At the cost of somebody's life..."
+  ]
+ },
+ {
+  "order": 381,
+  "speaker": "柏木",
+  "sentence": "桐生は実際、殺しはやってないんです！",
+  "literal": "Kiryu really didn't do the killing!",
+  "official_candidate": "If we can prove he's innocent, they can't use that to get Kazama-san booted!",
+  "official_neighbors": [
+   "Kazama-san, expelled...?",
+   "And I'm sure I don't have to tell you what happens to yakuza after they've been cut loose.",
+   "Getting kicked to the curb after having climbed all the way to the top... Most men don't survive that humiliation.",
+   "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+   "But... Kiryu didn't actually kill anybody!",
+   "The only way to prove that is to catch the guy who did it.",
+   "Right. But whoever it is, he's in Kuze's pocket. We can't make a move against a Dojima lieutenant. Pick a fight with the brass in our world, and you're finished.",
+   "But if we don't do something, Kiryu'll get thrown in jail!",
+   "If we act, it hurts Kazama's standing even more. One wrong move from us, and they'll have their reason to expel him.",
+   "So what, then? What do we do!?"
+  ]
+ },
+ {
+  "order": 382,
+  "speaker": "渋澤",
+  "sentence": "ウソに決まってんだろ。ったく悪あがきしやがって。",
+  "literal": "It's obviously a lie. Geez, putting up such a pathetic last-ditch struggle.",
+  "official_candidate": "Listen, Kiryu. I'm only gonna ask you one more time. Why stir up trouble there of all places?",
+  "official_neighbors": [
+   "Then it wasn't me that killed him. I roughed him up with my bare hands, and that's all. That's the truth!",
+   "If that's true, it would mean somebody's set you up here. Is that what you're saying?",
+   "Yes, sir. No matter what happened there, I didn't shoot him.",
+   "So says the accused. And what say we all?",
+   "I think it's a load of shit, and you're trying to worm your way out of this. Who the fuck bothers to frame a nobody like you?",
+   "That's what the loan shark told me to do.",
+   "He said he'd call the mark there so I could teach him a lesson and collect the cash.",
+   "That's the whole truth?",
+   "Yes, sir.",
+   "Then it sounds like we'll need to ask this loan shark a few questions."
+  ]
+ },
+ {
+  "order": 385,
+  "speaker": "柏木",
+  "sentence": "カシラの座を争っているってわけだ。",
+  "literal": "So they're fighting over the captain's seat.",
+  "official_candidate": "That's crazy. Nobody but Kazama-san could hack it as Dojima captain!",
+  "official_neighbors": [
+   "Which means somebody framed him.",
+   "Holy shit, that's a relief! You couldn't have told me that sooner, sir? This whole time I was thinking my brother actually offed a guy!",
+   "Nishiki.",
+   "This isn't good, Kiryu. Tell me everything Kuze said, from the beginning.",
+   "...I see. So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+   "Calm down, Nishiki. Back to the Empty Lot Kuze mentioned. You boys are only just hearing about it, right?",
+   "Yes, sir. Kashiwagi-san, do you know more about it?",
+   "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+   "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+   "I did hear about that. They've been buying up land and buildings owned by a bunch of different people to bundle it all together and resell it for a major profit, right?"
+  ]
+ },
+ {
+  "order": 412,
+  "speaker": "営業部長",
+  "sentence": "用意してもらえるなんて相当ラッキーだねぇ。",
+  "literal": "Having one set up for you—that's pretty lucky, huh.",
+  "official_candidate": "Rookie Salesman",
+  "official_neighbors": [
+   "Why? They got paid a relocation fee, and Tachibana Real Estate found them all new locations. They should be thanking us!",
+   "Besides, redevelopment raises property values for the whole area. Plus they'll have us as customers, ha ha!",
+   "Hey, whatever happened to that property behind Theater Square? That seemed like a promising spot, too.",
+   "Yeah, but another business beat us to it. One of the shops Tachibana Real Estate cleared out, apparently.",
+   "They're lucky Tachibana's office was able to find them a new location in Kamurocho.",
+   "Talk_Yes",
+   "Sales Director",
+   "Talk_Think",
+   "Talk_No",
+   "Talk_Smile"
+  ]
+ },
+ {
+  "order": 413,
+  "speaker": "営業部長",
+  "sentence": "用意してもらえるなんて相当ラッキーだねぇ。",
+  "literal": "Having one set up for you—that's pretty lucky, huh.",
+  "official_candidate": "Rookie Salesman",
+  "official_neighbors": [
+   "Why? They got paid a relocation fee, and Tachibana Real Estate found them all new locations. They should be thanking us!",
+   "Besides, redevelopment raises property values for the whole area. Plus they'll have us as customers, ha ha!",
+   "Hey, whatever happened to that property behind Theater Square? That seemed like a promising spot, too.",
+   "Yeah, but another business beat us to it. One of the shops Tachibana Real Estate cleared out, apparently.",
+   "They're lucky Tachibana's office was able to find them a new location in Kamurocho.",
+   "Talk_Yes",
+   "Sales Director",
+   "Talk_Think",
+   "Talk_No",
+   "Talk_Smile"
+  ]
+ },
+ {
+  "order": 447,
+  "speaker": "バッカス",
+  "sentence": "カタギのクセしてアコギな商売するヤツに",
+  "literal": "To a guy who, despite being a straight citizen, runs a ruthless racket...",
+  "official_candidate": "I do say so. Take your buddy today. These squeaky-clean idiots, borrowing money just to blow on tits and booze...",
+  "official_neighbors": [
+   "You want to play the rich guy, quit being so stingy.",
+   "But you get what I'm saying, right?",
+   "People see the expensive car, the designer jacket, and the gleam of that little Dojima pin, they pay attention.",
+   "A yakuza's only as good as his image.",
+   "If you say so.",
+   "Nobody in this town gives a crap about substance. What you see is what you get.",
+   "Fine, I get it already. Are we going drinking tonight, or are you gonna keep ranting?",
+   "Hell yeah, we're drinking. What say we mix things up, hit Pink Street tonight? I know a nice little spot over there.",
+   "What is this, a fight?",
+   "Looks like it."
+  ]
+ },
+ {
+  "order": 452,
+  "speaker": "バッカス",
+  "sentence": "目ぇ覚まさせてやるさ。少し手荒になるがな。",
+  "literal": "I'll snap 'em awake. It'll get a little rough, though.",
+  "official_candidate": "Again? I can't tell if you're a sadist or a charity worker.",
+  "official_neighbors": [
+   "Ohhh, NOW you've done it!",
+   "Yeah? C'mon, grampa... Take yer best shot!",
+   "Screw it, they're completely wasted. It's not worth the trouble. Let's take a different road.",
+   "No need. I've got a faster way to fix this.",
+   "Yeah. I just need to sober them up a bit... with my fists.",
+   "What're you blabbin' about... Stay outta this!",
+   "Yeah, butt out, you... butts!",
+   "Huh, wha...? Where am I?",
+   "What was I doing here? ...And who are you?",
+   "Sounds like that sobered them up."
+  ]
+ },
+ {
+  "order": 453,
+  "speaker": "バッカス",
+  "sentence": "目ぇ覚まさせてやるさ。少し手荒になるがな。",
+  "literal": "I'll snap 'em out of it. It'll get a bit rough, though.",
+  "official_candidate": "Again? I can't tell if you're a sadist or a charity worker.",
+  "official_neighbors": [
+   "Ohhh, NOW you've done it!",
+   "Yeah? C'mon, grampa... Take yer best shot!",
+   "Screw it, they're completely wasted. It's not worth the trouble. Let's take a different road.",
+   "No need. I've got a faster way to fix this.",
+   "Yeah. I just need to sober them up a bit... with my fists.",
+   "What're you blabbin' about... Stay outta this!",
+   "Yeah, butt out, you... butts!",
+   "Huh, wha...? Where am I?",
+   "What was I doing here? ...And who are you?",
+   "Sounds like that sobered them up."
+  ]
+ },
+ {
+  "order": 478,
+  "speaker": "バッカス",
+  "sentence": "へへ、“現役女子大生ホステス”の",
+  "literal": "Heheh, of the \"active current college-girl hostesses\"—",
+  "official_candidate": "Aw, don't be like that. Here, buy yourselves something nice.",
+  "official_neighbors": [
+   "I've been ringing your pager, but you never call me back! When are you coming back to the club?",
+   "Tonight. I'll drop by in a bit.",
+   "You promise?",
+   "What, you don't trust me?",
+   "Well, I WANT to...",
+   "Yaaay! I trust you with my life!",
+   "These two have got this down...",
+   "Thanks! We'll see you later.",
+   "Don't keep us waiting, Nishikiyama-kun!",
+   "When did you get so popular with the ladies, Nishiki?"
+  ]
+ },
+ {
+  "order": 479,
+  "speaker": "バッカス",
+  "sentence": "へへ、“現役女子大生ホステス”の",
+  "literal": "Heheh, of the \"active college-girl hostesses\"—",
+  "official_candidate": "Aw, don't be like that. Here, buy yourselves something nice.",
+  "official_neighbors": [
+   "I've been ringing your pager, but you never call me back! When are you coming back to the club?",
+   "Tonight. I'll drop by in a bit.",
+   "You promise?",
+   "What, you don't trust me?",
+   "Well, I WANT to...",
+   "Yaaay! I trust you with my life!",
+   "These two have got this down...",
+   "Thanks! We'll see you later.",
+   "Don't keep us waiting, Nishikiyama-kun!",
+   "When did you get so popular with the ladies, Nishiki?"
+  ]
+ },
+ {
+  "order": 488,
+  "speaker": "バッカス",
+  "sentence": "チッ、こっちの事情はおかまいなしかよ……",
+  "literal": "Tch, no regard for my situation at all, huh...",
+  "official_candidate": "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+  "official_neighbors": [
+   "Oh hey, speak of the devil. Here they are now!",
+   "Alright, gramps... Is this the kid?",
+   "Yessir! My prize pupil!",
+   "I'm sorry, \"pupil\"?",
+   "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+   "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+   "Like hell they are! And since when are you my master, anyway?",
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt.",
+   "Hey, boy?"
+  ]
+ },
+ {
+  "order": 489,
+  "speaker": "バッカス",
+  "sentence": "チッ、こっちの事情はおかまいなしかよ……",
+  "literal": "Tch, so you've got no consideration for my circumstances...",
+  "official_candidate": "Why tell me about it? ...Wait, you don't expect ME to pay, do you?",
+  "official_neighbors": [
+   "Oh hey, speak of the devil. Here they are now!",
+   "Alright, gramps... Is this the kid?",
+   "Yessir! My prize pupil!",
+   "I'm sorry, \"pupil\"?",
+   "The million-yen loan I gave these two deadbeats is way past due. I need it back, and I ain't waiting much longer.",
+   "That tip I gave you the other day's worth at least that, no? Besides, the debts of the master are the debts of... y'know, you.",
+   "Like hell they are! And since when are you my master, anyway?",
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt.",
+   "Hey, boy?"
+  ]
+ },
+ {
+  "order": 492,
+  "speaker": "バッカス",
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official_candidate": "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+  "official_neighbors": [
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt.",
+   "Hey, boy?",
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "Oh, so you think he'd beat you.",
+   "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?"
+  ]
+ },
+ {
+  "order": 493,
+  "speaker": "バッカス",
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official_candidate": "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+  "official_neighbors": [
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt.",
+   "Hey, boy?",
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "Oh, so you think he'd beat you.",
+   "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?"
+  ]
+ },
+ {
+  "order": 494,
+  "speaker": "バッカス",
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official_candidate": "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+  "official_neighbors": [
+   "I don't really give a shit who you are. Just gimme my money, before the big gentleman behind me gets impatient.",
+   "Bruno here, he's got a short fuse. Especially for stubborn types. For your own sake, I'd pay up before I got hurt.",
+   "Hey, boy?",
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "Oh, so you think he'd beat you.",
+   "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?"
+  ]
+ },
+ {
+  "order": 495,
+  "speaker": "バッカス",
+  "sentence": "さもないと、俺の後ろにいるこの男が黙ってないぜ。",
+  "literal": "Otherwise, this man standing behind me won't let it slide.",
+  "official_candidate": "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+  "official_neighbors": [
+   "Hey, boy?",
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+   "Oh, so you think he'd beat you.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?",
+   "I told you, this has got nothing to do with me.",
+   "Okay, all right! I'll pay you the money!"
+  ]
+ },
+ {
+  "order": 496,
+  "speaker": "バッカス",
+  "sentence": "さもないと、俺の後ろにいるこの男が黙ってないぜ。",
+  "literal": "Otherwise, this guy behind me here won't stay quiet.",
+  "official_candidate": "I didn't say that! ...Look, if you're trying to bait me, it's not going to work. It's your debt, you handle it.",
+  "official_neighbors": [
+   "Hey, boy?",
+   "What now?",
+   "You think you could take big Bruno there in a fight?",
+   "...Couldn't say for sure. Doesn't really matter either way, because you're not going to drag me into your problems.",
+   "Oh, so you think he'd beat you.",
+   "Nyeh, that's a let-down. Can't have you getting spooked over a chump like him. He's bargain-bin muscle. Dime a dozen. Bottom of the bracket.",
+   "Bracket? What are you even talking about?",
+   "Hey, what's with all the whispering, boys? Are you paying, or does this get ugly!?",
+   "I told you, this has got nothing to do with me.",
+   "Okay, all right! I'll pay you the money!"
+  ]
+ }
+]

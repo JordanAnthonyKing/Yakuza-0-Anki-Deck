@@ -1,0 +1,1111 @@
+[
+ {
+  "order": 3,
+  "speaker": "桐生",
+  "sentence": "滑らかにしゃべれるってもんだ。",
+  "literal": "then I'd be able to talk smoothly.",
+  "official_candidate": "Ooh, great plan, yeah.",
+  "official_neighbors": [
+   "I was hoping you guys could answer a few questions. Is this a good time?",
+   "Huh? Yeah, I don't mind. ...Actually, wait. Sorry. It's too cold. My tongue's frozen stiff.",
+   "What?",
+   "Hmm, if only I had some booze. That'd thaw it right out.",
+   "If you're that eager to chat, buy us a round. Only fair, right?",
+   "Your tongue seems to be working just fine to me.",
+   "Mope! It'f mumb. Cam't tawk!",
+   "...Fine. You'll talk if I bring drinks?",
+   "Well, first just answer me this. Who out of you has actually done work for Tachibana Real Estate?",
+   "Heh, I see. Then at least it looks like I'll get my money's worth."
+  ]
+ },
+ {
+  "order": 4,
+  "speaker": "桐生",
+  "sentence": "ああ、そいつはありがたいねえ。",
+  "literal": "Ah, now that's much appreciated.",
+  "official_candidate": "...Fine. You'll talk if I bring drinks?",
+  "official_neighbors": [
+   "Hmm, if only I had some booze. That'd thaw it right out.",
+   "If you're that eager to chat, buy us a round. Only fair, right?",
+   "Ooh, great plan, yeah.",
+   "Your tongue seems to be working just fine to me.",
+   "Mope! It'f mumb. Cam't tawk!",
+   "Well, first just answer me this. Who out of you has actually done work for Tachibana Real Estate?",
+   "Heh, I see. Then at least it looks like I'll get my money's worth.",
+   "Oh, and not just ANY booze will do. We get to choose our order, okay?",
+   "Tongues are tricky like that. If you don't give 'em exactly what they want, they're just no good.",
+   "(It's probably quickest to just give them what they want... I'll take their orders and bring what they tell me to.)"
+  ]
+ },
+ {
+  "order": 6,
+  "speaker": "桐生",
+  "sentence": "フッ、色々言ってた割には、普通じゃないか。",
+  "literal": "Heh, for all your fussing, you're talking just fine, aren't you.",
+  "official_candidate": "Ooh, perfect! You're a decent guy for a kid your age!",
+  "official_neighbors": [
+   "Yeah, well. There's just no beating a beer at the end of a job!",
+   "What job?",
+   "Whoa, you almost got me there. Nope! First the beer. And I got a bottle opener on me, so I don't care if it's a can or a bottle. Whichever works.",
+   "(Okay, beer's easy. They sell that pretty much everywhere.)",
+   "Here's your beer.",
+   "Beer for me. And I've got a bottle opener, so can or bottle works fine.",
+   "(Okay, beer's easy. They sell that pretty much everywhere.)",
+   "Wait, the other guys don't have theirs yet. I can't do the toast alone! You mind hurrying?",
+   "#OBearded Homeless Man",
+   "Talk_Happy"
+  ]
+ },
+ {
+  "order": 8,
+  "speaker": "桐生",
+  "sentence": "なんだ、他の人の分がまだじゃないか。",
+  "literal": "Hey, the others haven't gotten their share yet.",
+  "official_candidate": "C02100_HOM_E_lp",
+  "official_neighbors": [
+   "C02100_HOM_E_handsup",
+   "Talk_Kamae",
+   "C02100_HOM_B_lp",
+   "C02100_HOM_C_lp",
+   "C02100_HOM_D_lp",
+   "Talk_No",
+   "homeless_a_adv_c02_100_08",
+   "Talk_Think",
+   "homeless_a_adv_c02_100_09",
+   "Talk_Smile"
+  ]
+ },
+ {
+  "order": 14,
+  "speaker": "桐生",
+  "sentence": "…………シャンパン。",
+  "literal": "...Champagne.",
+  "official_candidate": "Champagne? Awfully fancy choice.",
+  "official_neighbors": [
+   "Ahh, yeah. I guess it is that time of year.",
+   "(Champagne... They probably have some at Don Quijote.)",
+   "Here's that champagne. You'll have to ask Santa for the next bottle.",
+   "...Merry Christmas.",
+   "Here's that champagne. You'll have to ask Santa for the next bottle."
+  ]
+ },
+ {
+  "order": 15,
+  "speaker": "桐生",
+  "sentence": "…………クリスマス。",
+  "literal": "...Christmas.",
+  "official_candidate": "Champagne? Awfully fancy choice.",
+  "official_neighbors": [
+   "Ahh, yeah. I guess it is that time of year.",
+   "(Champagne... They probably have some at Don Quijote.)",
+   "Here's that champagne. You'll have to ask Santa for the next bottle.",
+   "...Merry Christmas.",
+   "Here's that champagne. You'll have to ask Santa for the next bottle."
+  ]
+ },
+ {
+  "order": 23,
+  "speaker": "桐生",
+  "sentence": "陽気なホームレス",
+  "literal": "Cheerful Homeless Man",
+  "official_candidate": "Talk_Smile",
+  "official_neighbors": [
+   "Here, this one's yours. Scotch.",
+   "Ooh ho ho! It pays to ask, I guess! Ahhh, tonight's gonna be a fun one!",
+   "Oh, and I'm real particular about my whisky. Make sure it's a scotch, would you?",
+   "(Hmm, scotch... If I hit a few convenience stores, somebody should have some.)",
+   "Cheery Homeless Man",
+   "Kiryu",
+   "Talk_Think",
+   "Talk_Yes",
+   "M_NML_TLK_stand_get",
+   "Talk_Get"
+  ]
+ },
+ {
+  "order": 32,
+  "speaker": "尾田",
+  "sentence": "私が風間さんからあなたのことを託されたのは、",
+  "literal": "The reason Kazama-san entrusted you to me",
+  "official_candidate": "Nevertheless, that you and I would join hands, despite that fact, was Kazama-san's ultimate wish.",
+  "official_neighbors": [
+   "The Dojima lieutenant Kuze-san approached you to spy on Kazama-san for him, didn't he? To extract from Kazama-san the information he possesses on the Empty Lot.",
+   "The secret information in Kazama-san's possession is the identity of the person able to locate the owner of the Lot. ...In other words, me.",
+   "In the race to secure the Empty Lot, we have made far greater progress than that of the Dojima Family.",
+   "Of course, the moment they learn of that, they will be quite furious and will turn their full attention to destroying us.",
+   "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+   "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+   "That's crazy. Not even he could possibly have seen all that coming!",
+   "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself. His abilities and wisdom cannot be overstated.",
+   "To him, predicting the events that would unfold around you was a simple endeavor."
+  ]
+ },
+ {
+  "order": 33,
+  "speaker": "尾田",
+  "sentence": "半年前、あの人が刑務所に入るよりも前のことです。",
+  "literal": "was half a year ago, before that man went to prison.",
+  "official_candidate": "Nevertheless, that you and I would join hands, despite that fact, was Kazama-san's ultimate wish.",
+  "official_neighbors": [
+   "The Dojima lieutenant Kuze-san approached you to spy on Kazama-san for him, didn't he? To extract from Kazama-san the information he possesses on the Empty Lot.",
+   "The secret information in Kazama-san's possession is the identity of the person able to locate the owner of the Lot. ...In other words, me.",
+   "In the race to secure the Empty Lot, we have made far greater progress than that of the Dojima Family.",
+   "Of course, the moment they learn of that, they will be quite furious and will turn their full attention to destroying us.",
+   "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+   "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+   "That's crazy. Not even he could possibly have seen all that coming!",
+   "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself. His abilities and wisdom cannot be overstated.",
+   "To him, predicting the events that would unfold around you was a simple endeavor."
+  ]
+ },
+ {
+  "order": 34,
+  "speaker": "尾田",
+  "sentence": "ほぼ見通していました。",
+  "literal": "He had foreseen very nearly all of it.",
+  "official_candidate": "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+  "official_neighbors": [
+   "The Dojima lieutenant Kuze-san approached you to spy on Kazama-san for him, didn't he? To extract from Kazama-san the information he possesses on the Empty Lot.",
+   "The secret information in Kazama-san's possession is the identity of the person able to locate the owner of the Lot. ...In other words, me.",
+   "In the race to secure the Empty Lot, we have made far greater progress than that of the Dojima Family.",
+   "Of course, the moment they learn of that, they will be quite furious and will turn their full attention to destroying us.",
+   "Nevertheless, that you and I would join hands, despite that fact, was Kazama-san's ultimate wish.",
+   "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+   "That's crazy. Not even he could possibly have seen all that coming!",
+   "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself. His abilities and wisdom cannot be overstated.",
+   "To him, predicting the events that would unfold around you was a simple endeavor.",
+   "What's more, I am certain that his motives for acquiring the Empty Lot go far beyond merely protecting his own position."
+  ]
+ },
+ {
+  "order": 35,
+  "speaker": "尾田",
+  "sentence": "その懐はあまりに深い。",
+  "literal": "His depth of character runs far too deep.",
+  "official_candidate": "That's crazy. Not even he could possibly have seen all that coming!",
+  "official_neighbors": [
+   "In the race to secure the Empty Lot, we have made far greater progress than that of the Dojima Family.",
+   "Of course, the moment they learn of that, they will be quite furious and will turn their full attention to destroying us.",
+   "Nevertheless, that you and I would join hands, despite that fact, was Kazama-san's ultimate wish.",
+   "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+   "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+   "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself. His abilities and wisdom cannot be overstated.",
+   "To him, predicting the events that would unfold around you was a simple endeavor.",
+   "What's more, I am certain that his motives for acquiring the Empty Lot go far beyond merely protecting his own position.",
+   "Knowing him, his designs are in service of something far greater.",
+   "Then... If he's so all-knowing, why's he in prison!?"
+  ]
+ },
+ {
+  "order": 36,
+  "speaker": "尾田",
+  "sentence": "手に入れる目的は、おそらく自分の身を守る",
+  "literal": "His aim in obtaining it is, most likely, not merely to protect himself—",
+  "official_candidate": "To him, predicting the events that would unfold around you was a simple endeavor.",
+  "official_neighbors": [
+   "Nevertheless, that you and I would join hands, despite that fact, was Kazama-san's ultimate wish.",
+   "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+   "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+   "That's crazy. Not even he could possibly have seen all that coming!",
+   "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself. His abilities and wisdom cannot be overstated.",
+   "What's more, I am certain that his motives for acquiring the Empty Lot go far beyond merely protecting his own position.",
+   "Knowing him, his designs are in service of something far greater.",
+   "Then... If he's so all-knowing, why's he in prison!?",
+   "That must be another necessary step in his scenario. That is what I believe, at any rate.",
+   "What? That's insane..."
+  ]
+ },
+ {
+  "order": 37,
+  "speaker": "尾田",
+  "sentence": "絵を描いているはずです。",
+  "literal": "he must be painting a bigger picture.",
+  "official_candidate": "What's more, I am certain that his motives for acquiring the Empty Lot go far beyond merely protecting his own position.",
+  "official_neighbors": [
+   "It was half a year ago that Kazama-san entrusted you to my care. Before he departed for prison, of course.",
+   "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+   "That's crazy. Not even he could possibly have seen all that coming!",
+   "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself. His abilities and wisdom cannot be overstated.",
+   "To him, predicting the events that would unfold around you was a simple endeavor.",
+   "Knowing him, his designs are in service of something far greater.",
+   "Then... If he's so all-knowing, why's he in prison!?",
+   "That must be another necessary step in his scenario. That is what I believe, at any rate.",
+   "What? That's insane...",
+   "Have I earned your understanding, Kiryu-san?"
+  ]
+ },
+ {
+  "order": 39,
+  "speaker": "尾田",
+  "sentence": "立華……　あんたが親っさんの意思を",
+  "literal": "Tachibana... that you would carry on the boss's will—",
+  "official_candidate": "Have I earned your understanding, Kiryu-san?",
+  "official_neighbors": [
+   "What's more, I am certain that his motives for acquiring the Empty Lot go far beyond merely protecting his own position.",
+   "Knowing him, his designs are in service of something far greater.",
+   "Then... If he's so all-knowing, why's he in prison!?",
+   "That must be another necessary step in his scenario. That is what I believe, at any rate.",
+   "What? That's insane...",
+   "Tachibana... What proof have you got that you're the guy Kazama-san entrusted all this to?",
+   "Kazama-san led me to believe that this would serve as sufficient proof.",
+   "Th-That watch...",
+   "You are familiar with it, I believe. To Kazama-san, from Sawamura, Yumi-san. It was a present, or so I have heard.",
+   "And Kazama-san gave it to you!?"
+  ]
+ },
+ {
+  "order": 45,
+  "speaker": "尾田",
+  "sentence": "納得しましたか？　尾田さん。",
+  "literal": "Are you satisfied now, Oda-san?",
+  "official_candidate": "Very! He's, well... He's got me beat, boss!",
+  "official_neighbors": [
+   "That's something I decided the day I went against his wishes and joined the yakuza.",
+   "In that case... I am pleased to count you as an ally, Kiryu-san.",
+   "No fucking way... A total rookie, one-on-one, and he wins!? Heheheh. You gotta be kidding me.",
+   "Oda...",
+   "Are you satisfied, Oda-san?",
+   "What's going on here? You signed off on Oda testing me like this?",
+   "Correct. Oda-san is invaluable to me. He is practically one of my limbs. Thus, I needed his approval before I could officially welcome you into our circle.",
+   "Is that so? ...I'm beginning to feel more and more like an idiot. I was about ready to put my trust in you people until a few minutes ago.",
+   "Is that you, Oda?",
+   "Did you have the guys downstairs attack me? Why?"
+  ]
+ },
+ {
+  "order": 46,
+  "speaker": "尾田",
+  "sentence": "ええ！　俺の……　負けですよ、社長！",
+  "literal": "Yes! It's my... my loss, President!",
+  "official_candidate": "What's going on here? You signed off on Oda testing me like this?",
+  "official_neighbors": [
+   "In that case... I am pleased to count you as an ally, Kiryu-san.",
+   "No fucking way... A total rookie, one-on-one, and he wins!? Heheheh. You gotta be kidding me.",
+   "Oda...",
+   "Are you satisfied, Oda-san?",
+   "Very! He's, well... He's got me beat, boss!",
+   "Correct. Oda-san is invaluable to me. He is practically one of my limbs. Thus, I needed his approval before I could officially welcome you into our circle.",
+   "Is that so? ...I'm beginning to feel more and more like an idiot. I was about ready to put my trust in you people until a few minutes ago.",
+   "Is that you, Oda?",
+   "Did you have the guys downstairs attack me? Why?",
+   "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too."
+  ]
+ },
+ {
+  "order": 50,
+  "speaker": "尾田",
+  "sentence": "お前が俺を襲うようにさっきの連中を",
+  "literal": "You set those guys on me just now so they'd attack me—",
+  "official_candidate": "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+  "official_neighbors": [
+   "What's going on here? You signed off on Oda testing me like this?",
+   "Correct. Oda-san is invaluable to me. He is practically one of my limbs. Thus, I needed his approval before I could officially welcome you into our circle.",
+   "Is that so? ...I'm beginning to feel more and more like an idiot. I was about ready to put my trust in you people until a few minutes ago.",
+   "Is that you, Oda?",
+   "Did you have the guys downstairs attack me? Why?",
+   "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+   "So you're more than just a crooked suit, is that it?"
+  ]
+ },
+ {
+  "order": 51,
+  "speaker": "尾田",
+  "sentence": "けしかけたのか……？　なんでだ？",
+  "literal": "is that what you did...? Why?",
+  "official_candidate": "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+  "official_neighbors": [
+   "What's going on here? You signed off on Oda testing me like this?",
+   "Correct. Oda-san is invaluable to me. He is practically one of my limbs. Thus, I needed his approval before I could officially welcome you into our circle.",
+   "Is that so? ...I'm beginning to feel more and more like an idiot. I was about ready to put my trust in you people until a few minutes ago.",
+   "Is that you, Oda?",
+   "Did you have the guys downstairs attack me? Why?",
+   "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+   "So you're more than just a crooked suit, is that it?"
+  ]
+ },
+ {
+  "order": 52,
+  "speaker": "尾田",
+  "sentence": "あんただって俺たちを品定めしてたろ？",
+  "literal": "You were sizing us up too, weren't you?",
+  "official_candidate": "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+  "official_neighbors": [
+   "Correct. Oda-san is invaluable to me. He is practically one of my limbs. Thus, I needed his approval before I could officially welcome you into our circle.",
+   "Is that so? ...I'm beginning to feel more and more like an idiot. I was about ready to put my trust in you people until a few minutes ago.",
+   "Is that you, Oda?",
+   "Did you have the guys downstairs attack me? Why?",
+   "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+   "So you're more than just a crooked suit, is that it?",
+   "Oh, I'm nothing special. But I am the perfect match for a half-assed ex-yakuza."
+  ]
+ },
+ {
+  "order": 53,
+  "speaker": "尾田",
+  "sentence": "部下に襲わせるだけで、俺の何がわかんだ？",
+  "literal": "What could you possibly learn about me just by having your men attack me?",
+  "official_candidate": "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+  "official_neighbors": [
+   "Is that you, Oda?",
+   "Did you have the guys downstairs attack me? Why?",
+   "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+   "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+   "And you thought having your crew attack me would give you an answer?",
+   "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+   "So you're more than just a crooked suit, is that it?",
+   "Oh, I'm nothing special. But I am the perfect match for a half-assed ex-yakuza.",
+   "In that case, I guess neither of us needs to hold back. Bring whatever you've got!",
+   "Tch. Look, it was Tachibana who invited me here. Aren't you with his real estate agency?"
+  ]
+ },
+ {
+  "order": 54,
+  "speaker": "尾田",
+  "sentence": "いやあ仕事を人に任せられないってのは",
+  "literal": "Man, not being able to leave work to other people",
+  "official_candidate": "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+  "official_neighbors": [
+   "Did you have the guys downstairs attack me? Why?",
+   "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+   "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "So you're more than just a crooked suit, is that it?",
+   "Oh, I'm nothing special. But I am the perfect match for a half-assed ex-yakuza.",
+   "In that case, I guess neither of us needs to hold back. Bring whatever you've got!",
+   "Tch. Look, it was Tachibana who invited me here. Aren't you with his real estate agency?",
+   "The president isn't in."
+  ]
+ },
+ {
+  "order": 55,
+  "speaker": "尾田",
+  "sentence": "しんどいね。",
+  "literal": "is a real drag.",
+  "official_candidate": "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+  "official_neighbors": [
+   "Did you have the guys downstairs attack me? Why?",
+   "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+   "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "So you're more than just a crooked suit, is that it?",
+   "Oh, I'm nothing special. But I am the perfect match for a half-assed ex-yakuza.",
+   "In that case, I guess neither of us needs to hold back. Bring whatever you've got!",
+   "Tch. Look, it was Tachibana who invited me here. Aren't you with his real estate agency?",
+   "The president isn't in."
+  ]
+ },
+ {
+  "order": 56,
+  "speaker": "尾田",
+  "sentence": "神室町で不動産屋やってると荒事も多くてさ……",
+  "literal": "Running a real estate office in Kamurocho, there's plenty of rough business...",
+  "official_candidate": "So you're more than just a crooked suit, is that it?",
+  "official_neighbors": [
+   "Hey, you did your homework on us. I figured it was only fair that we got the chance to take a look at the goods, too.",
+   "I mean, it's clear you're pretty good in a fight. But good enough to merit President Tachibana personally recruiting you? I just don't know.",
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+   "Oh, I'm nothing special. But I am the perfect match for a half-assed ex-yakuza.",
+   "In that case, I guess neither of us needs to hold back. Bring whatever you've got!",
+   "Tch. Look, it was Tachibana who invited me here. Aren't you with his real estate agency?",
+   "The president isn't in.",
+   "I heard he's coming later. He told me to wait for him up in the penthouse."
+  ]
+ },
+ {
+  "order": 57,
+  "speaker": "尾田",
+  "sentence": "……元極道の半端モンといい勝負だ。",
+  "literal": "...I'm an even match for a half-assed ex-yakuza.",
+  "official_candidate": "In that case, I guess neither of us needs to hold back. Bring whatever you've got!",
+  "official_neighbors": [
+   "And you thought having your crew attack me would give you an answer?",
+   "Not really. Some things you've just got to do for yourself, I guess. I tell ya, it's tough not being able to delegate.",
+   "The real estate business in Kamurocho is a rough scene. But it works out, seeing as my blood boils hotter than your average yakuza.",
+   "So you're more than just a crooked suit, is that it?",
+   "Oh, I'm nothing special. But I am the perfect match for a half-assed ex-yakuza.",
+   "Tch. Look, it was Tachibana who invited me here. Aren't you with his real estate agency?",
+   "The president isn't in.",
+   "I heard he's coming later. He told me to wait for him up in the penthouse.",
+   "Heh, I'm afraid you're mistaken, sir.",
+   "What?"
+  ]
+ },
+ {
+  "order": 64,
+  "speaker": "尾田",
+  "sentence": "鎮痛剤もききません。",
+  "literal": "Even painkillers have no effect.",
+  "official_candidate": "So I simply live with the pain. In time, grimacing became tiresome, so I stopped.",
+  "official_neighbors": [
+   "That's correct. Please, be at ease. I am a civilian. I operate a real estate business in Kamurocho.",
+   "And what does a real estate guy want with me?",
+   "Are you certain you won't eat?",
+   "My right hand is prosthetic. Please excuse my table manners.",
+   "I lost it years ago, and now it aches in the cold months. A curious thing. I feel it throbbing, down to the fingertips, even though it's gone. Painkillers have no effect.",
+   "I don't recall asking.",
+   "Kiryu-san, are you familiar with the term, \"pseudanthium\"?",
+   "Pseudo...?",
+   "Pseudanthium. A botany term referring to a cluster of many flowers, gathered to form a single, large flower.",
+   "You are intimately acquainted with one such flower, as it happens."
+  ]
+ },
+ {
+  "order": 69,
+  "speaker": "尾田",
+  "sentence": "あなたはヒマワリで錦山さんと兄弟同然に育った。",
+  "literal": "You grew up at the Sunflower, all but brothers with Nishikiyama-san.",
+  "official_candidate": "You and Nishikiyama-san regarded Kazama-san as a father, in time following in his footsteps to join the yakuza.",
+  "official_neighbors": [
+   "What are you talking about?",
+   "The sunflower. Each large bloom is in fact a collection of tiny flowers, each petal its own entity.",
+   "A fitting name for a place where children gather. Was it Kazama-san who named the orphanage \"Sunflower\"?",
+   "...Who are you?",
+   "You and Nishikiyama-san grew up as brothers at the Sunflower Orphanage. A young woman named Sawamura, Yumi-san as well.",
+   "And now you find yourself framed for murder, with Kazama-san facing the risk of expulsion as a result.",
+   "That's enough! You proved your point. It's obvious you've got quite the network to dig all that up.",
+   "What I don't get is why. What are you after?",
+   "There's only one thing any real estate broker in this town is after. I want the Empty Lot.",
+   "That place again..."
+  ]
+ },
+ {
+  "order": 70,
+  "speaker": "尾田",
+  "sentence": "風間さんを追って極道の世界に入った。",
+  "literal": "You followed after Kazama-san into the world of the yakuza.",
+  "official_candidate": "And now you find yourself framed for murder, with Kazama-san facing the risk of expulsion as a result.",
+  "official_neighbors": [
+   "The sunflower. Each large bloom is in fact a collection of tiny flowers, each petal its own entity.",
+   "A fitting name for a place where children gather. Was it Kazama-san who named the orphanage \"Sunflower\"?",
+   "...Who are you?",
+   "You and Nishikiyama-san grew up as brothers at the Sunflower Orphanage. A young woman named Sawamura, Yumi-san as well.",
+   "You and Nishikiyama-san regarded Kazama-san as a father, in time following in his footsteps to join the yakuza.",
+   "That's enough! You proved your point. It's obvious you've got quite the network to dig all that up.",
+   "What I don't get is why. What are you after?",
+   "There's only one thing any real estate broker in this town is after. I want the Empty Lot.",
+   "That place again...",
+   "I would like for you to join me, Kiryu-san."
+  ]
+ },
+ {
+  "order": 71,
+  "speaker": "尾田",
+  "sentence": "そして今は殺人の濡れ衣を着せられ、",
+  "literal": "And now you've been framed for murder,",
+  "official_candidate": "That's enough! You proved your point. It's obvious you've got quite the network to dig all that up.",
+  "official_neighbors": [
+   "A fitting name for a place where children gather. Was it Kazama-san who named the orphanage \"Sunflower\"?",
+   "...Who are you?",
+   "You and Nishikiyama-san grew up as brothers at the Sunflower Orphanage. A young woman named Sawamura, Yumi-san as well.",
+   "You and Nishikiyama-san regarded Kazama-san as a father, in time following in his footsteps to join the yakuza.",
+   "And now you find yourself framed for murder, with Kazama-san facing the risk of expulsion as a result.",
+   "What I don't get is why. What are you after?",
+   "There's only one thing any real estate broker in this town is after. I want the Empty Lot.",
+   "That place again...",
+   "I would like for you to join me, Kiryu-san.",
+   "If the Dojima Family lieutenants acquire the Empty Lot, Kazama-san's expulsion is a certainty."
+  ]
+ },
+ {
+  "order": 75,
+  "speaker": "尾田",
+  "sentence": "……生き残るためにはな。",
+  "literal": "...In order to survive.",
+  "official_candidate": "VA\u000f\\)@B?-",
+  "official_neighbors": [
+   "I will have your clothes brought up immediately. If you'll excuse me...",
+   "R??щ7@EO",
+   "\u0004@Eh?D@IX\u0010",
+   "AdZ@\fjhr",
+   "AM?\u0016^5",
+   "_kaiwabgm_fuon_06",
+   "Tachibana",
+   "Kiryu",
+   "C02160_ODA_A",
+   "C02160_ODA_A_laugh"
+  ]
+ },
+ {
+  "order": 76,
+  "speaker": "尾田",
+  "sentence": "せめてこの名刺だけはお持ちいただけますか？",
+  "literal": "Could you at least take my card, then?",
+  "official_candidate": "C02150_A_ODA",
+  "official_neighbors": [
+   "C02160_KRU_A_to_kamae",
+   "C02160_ODA_B",
+   "C02160_ODA_A_to_B",
+   "Commoner Male",
+   "C02150_A_KRU",
+   "kaiwabgm_kinpaku_mild_01",
+   "C02140_GRD_1_A_walk",
+   "Talk_Gakkari",
+   "Tachibana Employee",
+   "kaiwabgm_fuon_02"
+  ]
+ },
+ {
+  "order": 77,
+  "speaker": "尾田",
+  "sentence": "服はすぐに持ってこさせます。",
+  "literal": "I'll have your clothes brought over right away.",
+  "official_candidate": "C02140_GRD_1_A_talk",
+  "official_neighbors": [
+   "kaiwabgm_kinpaku_mild_01",
+   "C02140_GRD_1_A_walk",
+   "Talk_Gakkari",
+   "Tachibana Employee",
+   "kaiwabgm_fuon_02",
+   "C02140_GRD_1_A_angry",
+   "ArmsID",
+   "C02140_GRD_1_A_to_B",
+   "C02010_A_TAC",
+   "kaiwabgm_fuon_04"
+  ]
+ },
+ {
+  "order": 82,
+  "speaker": "尾田",
+  "sentence": "おい何言ってんだよ、水くせえな。",
+  "literal": "Hey, what are you talking about? Don't be so distant.",
+  "official_candidate": "This is about me taking accountability, Nishiki. Let me do this right.",
+  "official_neighbors": [
+   "What? Why!? You're out of the organization now!",
+   "I know. Still, this is a step forward. Now that I'm not yakuza, I'm free to take action. I'll pay Kuze a visit and make him hand over the killer.",
+   "Yeah... Yeah, that makes sense. Well, first we should go fill Kashiwagi-san in. Come on.",
+   "No... I've been expelled from the Tojo Clan. I can't be in the Kazama Family office. You go tell him for me.",
+   "Oh, come on. Don't be like that. It's fine, come inside.",
+   "Accountability for what, though? You didn't do anything.",
+   "Fine. You're heading back to your apartment then? I'll meet you there in a bit. You can fill me in on everything.",
+   "All right.",
+   "Okay, see ya later.",
+   "(I should head home for tonight. From here, it'd be fastest to walk north through the Hotel District.)"
+  ]
+ },
+ {
+  "order": 83,
+  "speaker": "尾田",
+  "sentence": "せめてものケジメだ、錦。きっちり筋は通す。",
+  "literal": "It's the least I can do to square things, Nishiki. I'll do this by the book.",
+  "official_candidate": "Accountability for what, though? You didn't do anything.",
+  "official_neighbors": [
+   "I know. Still, this is a step forward. Now that I'm not yakuza, I'm free to take action. I'll pay Kuze a visit and make him hand over the killer.",
+   "Yeah... Yeah, that makes sense. Well, first we should go fill Kashiwagi-san in. Come on.",
+   "No... I've been expelled from the Tojo Clan. I can't be in the Kazama Family office. You go tell him for me.",
+   "Oh, come on. Don't be like that. It's fine, come inside.",
+   "This is about me taking accountability, Nishiki. Let me do this right.",
+   "Fine. You're heading back to your apartment then? I'll meet you there in a bit. You can fill me in on everything.",
+   "All right.",
+   "Okay, see ya later.",
+   "(I should head home for tonight. From here, it'd be fastest to walk north through the Hotel District.)",
+   "Hey. You."
+  ]
+ },
+ {
+  "order": 84,
+  "speaker": "尾田",
+  "sentence": "俺の前を黙って素通りしていいと思っているのか？",
+  "literal": "You think you can just walk right past me without a word?",
+  "official_candidate": "Do I know you? This isn't your turf. Why should I have to tell you anything?",
+  "official_neighbors": [
+   "Okay, see ya later.",
+   "(I should head home for tonight. From here, it'd be fastest to walk north through the Hotel District.)",
+   "Hey. You.",
+   "...There a problem?",
+   "Yeah, you seem to think you can just walk by me without a word.",
+   "I'm not here to chat. If you don't want to get hurt, you'll leave all the cash you've got and get lost.",
+   "Heh, so this is a shakedown? You should pick your targets better. I don't have a single yen for chumps like you.",
+   "Then I guess we'll do this the hard way. Hope you're insured.",
+   "Heh... You're not half bad. I'll let you off the hook this time.",
+   "What?"
+  ]
+ },
+ {
+  "order": 94,
+  "speaker": "尾田",
+  "sentence": "浮かれていたのがいけなかったんだが……",
+  "literal": "It was my own fault for getting carried away, but...",
+  "official_candidate": "Oh, and rumor has it Egashira's not the only Mr. Shakedown. And that they aren't just a Kamurocho thing. Stay sharp if you ever go out of town.",
+  "official_neighbors": [
+   "You seem like you can hold your own in a fight, but that guy's on a whole different level. If he sets his sights on you, you run for it.",
+   "He's definitely more than your average tough guy could handle.",
+   "Still! I wish somebody would come along and beat all that stolen money out of him, though!",
+   "What, did he get you, too?",
+   "Damn right he did. Took my whole holiday bonus... I knew I should've made a beeline to the bank with it. You be careful too, next time you're sitting on a stack of cash.",
+   "(\"Mr. Shakedown,\" huh? He was insanely tough. I probably haven't seen the last of him. Better keep my eyes peeled.)",
+   "If you lose to Mr. Shakedown in battle, he'll take all the money you have. If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+   "If you can beat Mr. Shakedown, you'll reclaim all the money he's stolen from you. The amount he's carrying varies at different times. If you can take him down when he's especially flush with cash, you can make back more than what you've lost.",
+   "(I should just head home for tonight.)",
+   "Hey there, buddy. Been looking for you."
+  ]
+ },
+ {
+  "order": 95,
+  "speaker": "尾田",
+  "sentence": "アンタも大金持ってる時は気をつけなよ。",
+  "literal": "You be careful too when you're carrying a lot of cash.",
+  "official_candidate": "Oh, and rumor has it Egashira's not the only Mr. Shakedown. And that they aren't just a Kamurocho thing. Stay sharp if you ever go out of town.",
+  "official_neighbors": [
+   "You seem like you can hold your own in a fight, but that guy's on a whole different level. If he sets his sights on you, you run for it.",
+   "He's definitely more than your average tough guy could handle.",
+   "Still! I wish somebody would come along and beat all that stolen money out of him, though!",
+   "What, did he get you, too?",
+   "Damn right he did. Took my whole holiday bonus... I knew I should've made a beeline to the bank with it. You be careful too, next time you're sitting on a stack of cash.",
+   "(\"Mr. Shakedown,\" huh? He was insanely tough. I probably haven't seen the last of him. Better keep my eyes peeled.)",
+   "If you lose to Mr. Shakedown in battle, he'll take all the money you have. If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+   "If you can beat Mr. Shakedown, you'll reclaim all the money he's stolen from you. The amount he's carrying varies at different times. If you can take him down when he's especially flush with cash, you can make back more than what you've lost.",
+   "(I should just head home for tonight.)",
+   "Hey there, buddy. Been looking for you."
+  ]
+ },
+ {
+  "order": 96,
+  "speaker": "尾田",
+  "sentence": "カツアゲ君か……　途方も無い強さだった。",
+  "literal": "Mr. Shakedown, huh... His strength was off the charts.",
+  "official_candidate": "If you lose to Mr. Shakedown in battle, he'll take all the money you have. If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+  "official_neighbors": [
+   "Still! I wish somebody would come along and beat all that stolen money out of him, though!",
+   "What, did he get you, too?",
+   "Damn right he did. Took my whole holiday bonus... I knew I should've made a beeline to the bank with it. You be careful too, next time you're sitting on a stack of cash.",
+   "Oh, and rumor has it Egashira's not the only Mr. Shakedown. And that they aren't just a Kamurocho thing. Stay sharp if you ever go out of town.",
+   "(\"Mr. Shakedown,\" huh? He was insanely tough. I probably haven't seen the last of him. Better keep my eyes peeled.)",
+   "If you can beat Mr. Shakedown, you'll reclaim all the money he's stolen from you. The amount he's carrying varies at different times. If you can take him down when he's especially flush with cash, you can make back more than what you've lost.",
+   "(I should just head home for tonight.)",
+   "Hey there, buddy. Been looking for you.",
+   "You again... You got a lot of nerve showing up now. What do you want!?",
+   "I think it's pretty clear what I want. Time to pay your protection money, pal. If you're doing business in Kamurocho, you're doing business with us."
+  ]
+ },
+ {
+  "order": 97,
+  "speaker": "尾田",
+  "sentence": "またいずれこの辺りで会うかもしれない。",
+  "literal": "I may well run into him around here again someday.",
+  "official_candidate": "If you lose to Mr. Shakedown in battle, he'll take all the money you have. If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+  "official_neighbors": [
+   "Still! I wish somebody would come along and beat all that stolen money out of him, though!",
+   "What, did he get you, too?",
+   "Damn right he did. Took my whole holiday bonus... I knew I should've made a beeline to the bank with it. You be careful too, next time you're sitting on a stack of cash.",
+   "Oh, and rumor has it Egashira's not the only Mr. Shakedown. And that they aren't just a Kamurocho thing. Stay sharp if you ever go out of town.",
+   "(\"Mr. Shakedown,\" huh? He was insanely tough. I probably haven't seen the last of him. Better keep my eyes peeled.)",
+   "If you can beat Mr. Shakedown, you'll reclaim all the money he's stolen from you. The amount he's carrying varies at different times. If you can take him down when he's especially flush with cash, you can make back more than what you've lost.",
+   "(I should just head home for tonight.)",
+   "Hey there, buddy. Been looking for you.",
+   "You again... You got a lot of nerve showing up now. What do you want!?",
+   "I think it's pretty clear what I want. Time to pay your protection money, pal. If you're doing business in Kamurocho, you're doing business with us."
+  ]
+ },
+ {
+  "order": 98,
+  "speaker": "尾田",
+  "sentence": "所持金が全額奪われてしまいます。",
+  "literal": "You'll have every last yen on you taken.",
+  "official_candidate": "If you can beat Mr. Shakedown, you'll reclaim all the money he's stolen from you. The amount he's carrying varies at different times. If you can take him down when he's especially flush with cash, you can make back more than what you've lost.",
+  "official_neighbors": [
+   "What, did he get you, too?",
+   "Damn right he did. Took my whole holiday bonus... I knew I should've made a beeline to the bank with it. You be careful too, next time you're sitting on a stack of cash.",
+   "Oh, and rumor has it Egashira's not the only Mr. Shakedown. And that they aren't just a Kamurocho thing. Stay sharp if you ever go out of town.",
+   "(\"Mr. Shakedown,\" huh? He was insanely tough. I probably haven't seen the last of him. Better keep my eyes peeled.)",
+   "If you lose to Mr. Shakedown in battle, he'll take all the money you have. If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+   "(I should just head home for tonight.)",
+   "Hey there, buddy. Been looking for you.",
+   "You again... You got a lot of nerve showing up now. What do you want!?",
+   "I think it's pretty clear what I want. Time to pay your protection money, pal. If you're doing business in Kamurocho, you're doing business with us.",
+   "To hell with that! It's not protection money if you don't show up to actually protect me when I need it! And you have the gall to ask for MORE!?"
+  ]
+ },
+ {
+  "order": 108,
+  "speaker": "尾田",
+  "sentence": "減った客足取り戻さなきゃいけないし、",
+  "literal": "I've got to win back the customers I've lost, and...",
+  "official_candidate": "EXCUSE me!?",
+  "official_neighbors": [
+   "I think you better keep that attitude in check, asshole!",
+   "Mind if I cut in?",
+   "Huh? ...What do you want?",
+   "Who are you? What family you with!?",
+   "I'm not in anybody's family. And pipe down, it's this guy I'm talking to.",
+   "Wh-What do you want from me?",
+   "You say you opened shop here because Tachibana Real Estate forced you out of your last location? That right?",
+   "Oh, I see what this is. You're trying to be this guy's new muscle! Oh hell no!",
+   "What?",
+   "Our family's handled this cafe's protection for 30 years! You try to swoop in on our turf, it'll mean war!"
+  ]
+ },
+ {
+  "order": 124,
+  "speaker": "尾田",
+  "sentence": "なるほど……　わかった。助かったよ。",
+  "literal": "I see... Understood. You've been a big help.",
+  "official_candidate": "Hey. You.",
+  "official_neighbors": [
+   "Accountability for what, though? You didn't do anything.",
+   "Fine. You're heading back to your apartment then? I'll meet you there in a bit. You can fill me in on everything.",
+   "All right.",
+   "Okay, see ya later.",
+   "(I should head home for tonight. From here, it'd be fastest to walk north through the Hotel District.)",
+   "...There a problem?",
+   "Yeah, you seem to think you can just walk by me without a word.",
+   "Do I know you? This isn't your turf. Why should I have to tell you anything?",
+   "I'm not here to chat. If you don't want to get hurt, you'll leave all the cash you've got and get lost.",
+   "Heh, so this is a shakedown? You should pick your targets better. I don't have a single yen for chumps like you."
+  ]
+ },
+ {
+  "order": 125,
+  "speaker": "尾田",
+  "sentence": "ほかのホームレス仲間はどうしたんだ？",
+  "literal": "What happened to the rest of your homeless buddies?",
+  "official_candidate": "Way I sees it, they're way scarier than any yakuza.",
+  "official_neighbors": [
+   "The next job? Where's that?",
+   "Who knows? There's lots around. Tachibana-san's got his fingers in all sortsa pies.",
+   "Just what kind of outfit is Tachibana Real Estate?",
+   "I dunno why yer asking, but you shouldn't mess with them guys. They're the very shadows of this town.",
+   "Shadows?",
+   "They got eyes and ears on every corner here. Whoever ya are, yakuza, doesn't matter. They know yer secrets. Have ya by the balls before ya can blink.",
+   "And that's how they chased off the Jinsei Family?",
+   "Last I heard, Tojo headquarters made the Jinsei boss hack off a finger.",
+   "What?",
+   "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip."
+  ]
+ },
+ {
+  "order": 126,
+  "speaker": "尾田",
+  "sentence": "もうここでの仕事は済んだってさ、",
+  "literal": "They said their work here was already done, so...",
+  "official_candidate": "They got eyes and ears on every corner here. Whoever ya are, yakuza, doesn't matter. They know yer secrets. Have ya by the balls before ya can blink.",
+  "official_neighbors": [
+   "Who knows? There's lots around. Tachibana-san's got his fingers in all sortsa pies.",
+   "Just what kind of outfit is Tachibana Real Estate?",
+   "I dunno why yer asking, but you shouldn't mess with them guys. They're the very shadows of this town.",
+   "Shadows?",
+   "Way I sees it, they're way scarier than any yakuza.",
+   "And that's how they chased off the Jinsei Family?",
+   "Last I heard, Tojo headquarters made the Jinsei boss hack off a finger.",
+   "What?",
+   "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip.",
+   "'Course, they only ratted him out for a tiny bit of it. If the Tojo Clan got the full scope of it, he'd be dead."
+  ]
+ },
+ {
+  "order": 127,
+  "speaker": "尾田",
+  "sentence": "立華さんとこは手広くやってるから。",
+  "literal": "'Cause Tachibana's outfit runs a wide operation.",
+  "official_candidate": "Last I heard, Tojo headquarters made the Jinsei boss hack off a finger.",
+  "official_neighbors": [
+   "I dunno why yer asking, but you shouldn't mess with them guys. They're the very shadows of this town.",
+   "Shadows?",
+   "Way I sees it, they're way scarier than any yakuza.",
+   "They got eyes and ears on every corner here. Whoever ya are, yakuza, doesn't matter. They know yer secrets. Have ya by the balls before ya can blink.",
+   "And that's how they chased off the Jinsei Family?",
+   "What?",
+   "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip.",
+   "'Course, they only ratted him out for a tiny bit of it. If the Tojo Clan got the full scope of it, he'd be dead.",
+   "I see. And now Tachibana's got him on a leash.",
+   "Hey, I never said one word about it being Tachibana-san who did it."
+  ]
+ },
+ {
+  "order": 128,
+  "speaker": "尾田",
+  "sentence": "あの人たちは、神室町の“闇”だよ。",
+  "literal": "Those people are the “darkness” of Kamurocho.",
+  "official_candidate": "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip.",
+  "official_neighbors": [
+   "Way I sees it, they're way scarier than any yakuza.",
+   "They got eyes and ears on every corner here. Whoever ya are, yakuza, doesn't matter. They know yer secrets. Have ya by the balls before ya can blink.",
+   "And that's how they chased off the Jinsei Family?",
+   "Last I heard, Tojo headquarters made the Jinsei boss hack off a finger.",
+   "What?",
+   "'Course, they only ratted him out for a tiny bit of it. If the Tojo Clan got the full scope of it, he'd be dead.",
+   "I see. And now Tachibana's got him on a leash.",
+   "Hey, I never said one word about it being Tachibana-san who did it.",
+   "Not that there's anybody else in this town who could dig up that kind of dirt on the yakuza.",
+   "All's I can tell ya beyond that is this: Fer your own sake, steer clear of Tachibana."
+  ]
+ },
+ {
+  "order": 130,
+  "speaker": "尾田",
+  "sentence": "相手がヤクザだろうが弱み見つけ出して",
+  "literal": "Even if they're up against a yakuza, they'll dig up his weak spot—",
+  "official_candidate": "I see. And now Tachibana's got him on a leash.",
+  "official_neighbors": [
+   "And that's how they chased off the Jinsei Family?",
+   "Last I heard, Tojo headquarters made the Jinsei boss hack off a finger.",
+   "What?",
+   "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip.",
+   "'Course, they only ratted him out for a tiny bit of it. If the Tojo Clan got the full scope of it, he'd be dead.",
+   "Hey, I never said one word about it being Tachibana-san who did it.",
+   "Not that there's anybody else in this town who could dig up that kind of dirt on the yakuza.",
+   "All's I can tell ya beyond that is this: Fer your own sake, steer clear of Tachibana.",
+   "(A real estate company willing to make an enemy of the Tojo Clan... The owner of Cafe Blend may have been right about them being worse than the yakuza.)",
+   "(I still want a bit more info. Hopefully I can track down those other homeless guys.)"
+  ]
+ },
+ {
+  "order": 131,
+  "speaker": "尾田",
+  "sentence": "すぐに金玉握っちまう。",
+  "literal": "—and have him by the balls in no time.",
+  "official_candidate": "I see. And now Tachibana's got him on a leash.",
+  "official_neighbors": [
+   "And that's how they chased off the Jinsei Family?",
+   "Last I heard, Tojo headquarters made the Jinsei boss hack off a finger.",
+   "What?",
+   "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip.",
+   "'Course, they only ratted him out for a tiny bit of it. If the Tojo Clan got the full scope of it, he'd be dead.",
+   "Hey, I never said one word about it being Tachibana-san who did it.",
+   "Not that there's anybody else in this town who could dig up that kind of dirt on the yakuza.",
+   "All's I can tell ya beyond that is this: Fer your own sake, steer clear of Tachibana.",
+   "(A real estate company willing to make an enemy of the Tojo Clan... The owner of Cafe Blend may have been right about them being worse than the yakuza.)",
+   "(I still want a bit more info. Hopefully I can track down those other homeless guys.)"
+  ]
+ },
+ {
+  "order": 138,
+  "speaker": "尾田",
+  "sentence": "喫茶「ブレンド」のマスターが言ってた通り、",
+  "literal": "Just like the master of the Cafe “Blend” said,",
+  "official_candidate": "I'm fine. I'm fine! ...Not that there's really all that much I can tell you, buddy.",
+  "official_neighbors": [
+   "(In this neighborhood... I usually see them hanging around Park Boulevard. Maybe I'll start there.)",
+   "Aaaah! Booze really is the water of life!",
+   "Tongue limbering up now?",
+   "You bet! My whole mouth's nice and warmed up... *hic*!",
+   "Should I be worried?",
+   "Let's start with the work you've done for Tachibana's firm.",
+   "Sure. You just go wherever they tell you and camp out for the day. Make a nuisance of yourself. It's easy money.",
+   "We just finished our shift at one spot today and got paid. Tomorrow it's on to the next place.",
+   "You were at the Hakua Building until a little while ago, right? I was there myself.",
+   "What, you already knew that? Then what else did you wanna know?"
+  ]
+ },
+ {
+  "order": 139,
+  "speaker": "尾田",
+  "sentence": "ああ。言われた場所に１日中居座っているだけ。",
+  "literal": "Yeah. I just camp out all day at whatever spot they tell me to.",
+  "official_candidate": "It's a bull market for us homeless folk these days.",
+  "official_neighbors": [
+   "You were at the Hakua Building until a little while ago, right? I was there myself.",
+   "What, you already knew that? Then what else did you wanna know?",
+   "Is it Tachibana's company that reaches out to you for jobs like that, or do you go to them?",
+   "Yeah, they come to us, same as you did.",
+   "Sometimes yakuza from the Tojo Clan hire us to do the same thing. They're in the business of chasing people out, too.",
+   "And we don't really care if it's for the yakuza or for Tachibana-san. Anybody wants to pay us, we're there.",
+   "Fair enough. One last question: you know where the Tachibana Real Estate guys hang out?",
+   "Yeah, that'd be the Champion District. I see 'em going in and outta there all the time.",
+   "That area's a gold mine for land speculators. It's nothin' but tiny bars, all packed tight.",
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing."
+  ]
+ },
+ {
+  "order": 140,
+  "speaker": "尾田",
+  "sentence": "さっきも１件終わって日当もらったとこでさ、",
+  "literal": "I just wrapped up a job a bit ago and got my day's pay,",
+  "official_candidate": "And we don't really care if it's for the yakuza or for Tachibana-san. Anybody wants to pay us, we're there.",
+  "official_neighbors": [
+   "What, you already knew that? Then what else did you wanna know?",
+   "Is it Tachibana's company that reaches out to you for jobs like that, or do you go to them?",
+   "Yeah, they come to us, same as you did.",
+   "Sometimes yakuza from the Tojo Clan hire us to do the same thing. They're in the business of chasing people out, too.",
+   "It's a bull market for us homeless folk these days.",
+   "Fair enough. One last question: you know where the Tachibana Real Estate guys hang out?",
+   "Yeah, that'd be the Champion District. I see 'em going in and outta there all the time.",
+   "That area's a gold mine for land speculators. It's nothin' but tiny bars, all packed tight.",
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing.",
+   "All right. So you think their next target's the Champion District?"
+  ]
+ },
+ {
+  "order": 141,
+  "speaker": "尾田",
+  "sentence": "声かけてくるのか？",
+  "literal": "Do they come and approach you about it?",
+  "official_candidate": "Yeah, that'd be the Champion District. I see 'em going in and outta there all the time.",
+  "official_neighbors": [
+   "Yeah, they come to us, same as you did.",
+   "Sometimes yakuza from the Tojo Clan hire us to do the same thing. They're in the business of chasing people out, too.",
+   "It's a bull market for us homeless folk these days.",
+   "And we don't really care if it's for the yakuza or for Tachibana-san. Anybody wants to pay us, we're there.",
+   "Fair enough. One last question: you know where the Tachibana Real Estate guys hang out?",
+   "That area's a gold mine for land speculators. It's nothin' but tiny bars, all packed tight.",
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing.",
+   "All right. So you think their next target's the Champion District?",
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though."
+  ]
+ },
+ {
+  "order": 142,
+  "speaker": "尾田",
+  "sentence": "いまどきはホームレスも使いようなんだねえ。",
+  "literal": "These days even the homeless have their uses, huh.",
+  "official_candidate": "All right. So you think their next target's the Champion District?",
+  "official_neighbors": [
+   "And we don't really care if it's for the yakuza or for Tachibana-san. Anybody wants to pay us, we're there.",
+   "Fair enough. One last question: you know where the Tachibana Real Estate guys hang out?",
+   "Yeah, that'd be the Champion District. I see 'em going in and outta there all the time.",
+   "That area's a gold mine for land speculators. It's nothin' but tiny bars, all packed tight.",
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing.",
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+   "I see. Thanks for the advice. I appreciate it.",
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+   "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)"
+  ]
+ },
+ {
+  "order": 143,
+  "speaker": "尾田",
+  "sentence": "よく出入りしてんの見かけるよ。",
+  "literal": "I often see them going in and out of there.",
+  "official_candidate": "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+  "official_neighbors": [
+   "If you could chase 'em all out and bundle those properties together, you'd make a killing.",
+   "All right. So you think their next target's the Champion District?",
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+   "I see. Thanks for the advice. I appreciate it.",
+   "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)",
+   "You lost, friend? Why are you here? There's no place in this neighborhood that'll serve a yakuza like you.",
+   "I've heard men from Tachibana Real Estate have been coming around lately. Are they here now?",
+   "What, you another Tojo boy?",
+   "No, actually. And I'm not here to chase anybody out of town."
+  ]
+ },
+ {
+  "order": 144,
+  "speaker": "尾田",
+  "sentence": "そこの連中追い出して一手にまとめあげれば、",
+  "literal": "If you drove out the folks there and bundled it all into one holding,",
+  "official_candidate": "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)",
+  "official_neighbors": [
+   "All right. So you think their next target's the Champion District?",
+   "Pretty sure. Though they're not the only ones. The Tojo Clan's been going after those properties, too.",
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+   "I see. Thanks for the advice. I appreciate it.",
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+   "You lost, friend? Why are you here? There's no place in this neighborhood that'll serve a yakuza like you.",
+   "I've heard men from Tachibana Real Estate have been coming around lately. Are they here now?",
+   "What, you another Tojo boy?",
+   "No, actually. And I'm not here to chase anybody out of town.",
+   "Sure. So why are you asking after Tachibana's guys, then?"
+  ]
+ },
+ {
+  "order": 145,
+  "speaker": "尾田",
+  "sentence": "東城会の連中も狙っているから。",
+  "literal": "Because the Tojo Clan guys are after it too.",
+  "official_candidate": "I've heard men from Tachibana Real Estate have been coming around lately. Are they here now?",
+  "official_neighbors": [
+   "If a yakuza-type like you waltzes in there, all the locals are gonna clam up, though.",
+   "I see. Thanks for the advice. I appreciate it.",
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+   "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)",
+   "You lost, friend? Why are you here? There's no place in this neighborhood that'll serve a yakuza like you.",
+   "What, you another Tojo boy?",
+   "No, actually. And I'm not here to chase anybody out of town.",
+   "Sure. So why are you asking after Tachibana's guys, then?",
+   "I just want to know more about them. I promise I won't make any trouble for you or the others here.",
+   "Not the warmest welcome I've gotten."
+  ]
+ },
+ {
+  "order": 146,
+  "speaker": "尾田",
+  "sentence": "あそこの住人たちに煙たがられるよ。",
+  "literal": "The residents there'll treat you as an unwelcome nuisance.",
+  "official_candidate": "What, you another Tojo boy?",
+  "official_neighbors": [
+   "I see. Thanks for the advice. I appreciate it.",
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+   "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)",
+   "You lost, friend? Why are you here? There's no place in this neighborhood that'll serve a yakuza like you.",
+   "I've heard men from Tachibana Real Estate have been coming around lately. Are they here now?",
+   "No, actually. And I'm not here to chase anybody out of town.",
+   "Sure. So why are you asking after Tachibana's guys, then?",
+   "I just want to know more about them. I promise I won't make any trouble for you or the others here.",
+   "Not the warmest welcome I've gotten.",
+   "We're sick and tired of you yakuza! You don't give a rat's ass about any of the businesses here."
+  ]
+ },
+ {
+  "order": 147,
+  "speaker": "尾田",
+  "sentence": "……そうか。参考になったよ、ありがとう。",
+  "literal": "...I see. That was helpful. Thanks.",
+  "official_candidate": "No, actually. And I'm not here to chase anybody out of town.",
+  "official_neighbors": [
+   "(The Champion District... That may be my ticket to bumping into Tachibana's boys again.)",
+   "(Well, here's the Champion District. The Tachibana Real Estate guys have apparently been coming here a lot lately. It's worth a walk around to see.)",
+   "You lost, friend? Why are you here? There's no place in this neighborhood that'll serve a yakuza like you.",
+   "I've heard men from Tachibana Real Estate have been coming around lately. Are they here now?",
+   "What, you another Tojo boy?",
+   "Sure. So why are you asking after Tachibana's guys, then?",
+   "I just want to know more about them. I promise I won't make any trouble for you or the others here.",
+   "Not the warmest welcome I've gotten.",
+   "We're sick and tired of you yakuza! You don't give a rat's ass about any of the businesses here.",
+   "But this place is all we've got left. If you want us out of here so bad, you'll just have to kill us!"
+  ]
+ },
+ {
+  "order": 148,
+  "speaker": "尾田",
+  "sentence": "あんた、また東城会の若い衆か？",
+  "literal": "You another one of the Tojo Clan's young guns?",
+  "official_candidate": "I told you, I'm only here to talk to Tachibana's men.",
+  "official_neighbors": [
+   "Sure. So why are you asking after Tachibana's guys, then?",
+   "I just want to know more about them. I promise I won't make any trouble for you or the others here.",
+   "Not the warmest welcome I've gotten.",
+   "We're sick and tired of you yakuza! You don't give a rat's ass about any of the businesses here.",
+   "But this place is all we've got left. If you want us out of here so bad, you'll just have to kill us!",
+   "Cut the shit, man! You assholes have never bothered with talk before. You just TAKE!",
+   "What... What IS this guy!?",
+   "Are you finally ready to hear me out? I didn't come here looking to hurt anybody.",
+   "All I want is to know what Tachibana Real Estate is up to here. That's it.",
+   "I'm not selling them out to you... And neither will anybody else in this neighborhood."
+  ]
+ },
+ {
+  "order": 149,
+  "speaker": "尾田",
+  "sentence": "俺らはもうヤクザにウンザリなんだよ！　お前らは",
+  "literal": "We're sick to death of you yakuza! You bastards—",
+  "official_candidate": "I'm not selling them out to you... And neither will anybody else in this neighborhood.",
+  "official_neighbors": [
+   "I told you, I'm only here to talk to Tachibana's men.",
+   "Cut the shit, man! You assholes have never bothered with talk before. You just TAKE!",
+   "What... What IS this guy!?",
+   "Are you finally ready to hear me out? I didn't come here looking to hurt anybody.",
+   "All I want is to know what Tachibana Real Estate is up to here. That's it.",
+   "Hm? Wait, aren't they trying to chase you all out, too?",
+   "No! They're... They're trying to protect us from getting run out by the yakuza! The district's only still standing right now because of them.",
+   "What?",
+   "Isn't that right, Oda-san?",
+   "Evenin'. Well, if it isn't the guy from Namase's bar. Thought you said you weren't yakuza."
+  ]
+ }
+]

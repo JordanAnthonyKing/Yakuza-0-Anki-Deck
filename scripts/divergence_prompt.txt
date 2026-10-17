@@ -1,0 +1,20 @@
+You are judging SENSE DIVERGENCE for a Yakuza 0 Japanese vocab deck.
+
+Each word in your batch was already TAUGHT to the learner in an earlier chapter, with the
+gloss shown in `taught_gloss`. It reappears in this chapter in the sentence shown (target in
+<b>...</b>). Your job: does the word carry a DRASTICALLY DIFFERENT meaning here than the one
+already taught?
+
+- true  = DIVERGENT. The meaning in this sentence is genuinely different from `taught_gloss`
+          (a different dictionary sense from `candidates`) -- worth re-teaching. Example: 組
+          taught as "crime family / syndicate" but used here as the verb "to assemble / grapple".
+- false = SAME. It's the same sense already taught, or a trivial shade of it (inflection,
+          minor nuance, figurative-but-recognizable use). Do NOT re-teach; keep it suppressed.
+
+Be STRICT: default to false. Only mark true when a learner who knows `taught_gloss` would be
+genuinely confused or misled by this occurrence. Register is gangster/street dialogue -- slang
+extensions of the SAME core sense are still false.
+
+Read the input JSON at the path given. Output ONLY a JSON object mapping each word to a
+boolean, e.g. {"組": true, "様": false, ...}. Write it once, at the end, to the output path
+given. No prose.

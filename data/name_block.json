@@ -1,0 +1,3 @@
+[
+ {"surface": "錦", "reading": "にしき", "note": "Nishiki — short form of 錦山 (Nishikiyama); collides with common noun 錦 'brocade', so the POS proper-noun filter can't catch it. Both surface and reading are safe to block: 'brocade' never occurs as real vocab in this game."}
+]

@@ -1,0 +1,322 @@
+{
+ "64": {
+  "literal": "Why you little brat...",
+  "official": "You snot-nose little... punk!",
+  "official_ok": true
+ },
+ "65": {
+  "literal": "Who're you callin' 'old man,' you son of a bitch!",
+  "official": "Who's an old man!?",
+  "official_ok": true
+ },
+ "66": {
+  "literal": "What a pain. Let's just take another road.",
+  "official": "It's not worth the trouble. Let's take a different road.",
+  "official_ok": true
+ },
+ "67": {
+  "literal": "If you've got nothin' to do with this, butt out!!",
+  "official": "Stay outta this!",
+  "official_ok": true
+ },
+ "68": {
+  "literal": "Huh, wha...? What on earth is happening to me...?",
+  "official": "Huh, wha...? Where am I?",
+  "official_ok": true
+ },
+ "69": {
+  "literal": "Let's see... I was at a bar watching a music show, and...",
+  "official": "I remember watching music videos at that bar...",
+  "official_ok": true
+ },
+ "70": {
+  "literal": "and then we got on the topic of which idols we liked—",
+  "official": "Then we got to talking about which idols we liked...",
+  "official_ok": true
+ },
+ "71": {
+  "literal": "the conversation turned to that, and...",
+  "official": "",
+  "official_ok": false
+ },
+ "72": {
+  "literal": "Right, right, and then, my Shoko-chan—",
+  "official": "Yeah, then some smartass started making fun of poor, sweet Shoko-chan, and then...",
+  "official_ok": true
+ },
+ "73": {
+  "literal": "Ugh, my head's throbbing and I just can't remember.",
+  "official": "Rgh, my head's throbbing. I can't remember past that.",
+  "official_ok": true
+ },
+ "74": {
+  "literal": "That's enough for today—go on home.",
+  "official": "I think you two have had enough for tonight. Go home.",
+  "official_ok": true
+ },
+ "75": {
+  "literal": "Sorry about that. My, you're such a kind young fellow...",
+  "official": "Oof, thanks. You're awful considerate for a kid your age.",
+  "official_ok": true
+ },
+ "76": {
+  "literal": "Heh, isn't that exactly why people come flocking here?",
+  "official": "They come thirsty for booze and women, and Kamurocho's got both in spades.",
+  "official_ok": true
+ },
+ "77": {
+  "literal": "Guys who struck it rich in this recent boom—",
+  "official": "",
+  "official_ok": false
+ },
+ "78": {
+  "literal": "a bunch who're nothing but walking greed.",
+  "official": "They come thirsty for booze and women, and Kamurocho's got both in spades.",
+  "official_ok": true
+ },
+ "79": {
+  "literal": "Those guys crave booze and women and all that, and—",
+  "official": "They come thirsty for booze and women",
+  "official_ok": true
+ },
+ "80": {
+  "literal": "What, so in your clumsy way you actually get it after all, huh.",
+  "official": "When did you start waxing poetic? Not that you're wrong.",
+  "official_ok": true
+ },
+ "81": {
+  "literal": "So, changed your opinion of me now?",
+  "official": "You impressed?",
+  "official_ok": true
+ },
+ "82": {
+  "literal": "Heh, what's this, you doubting what I'm telling you?",
+  "official": "What, you don't trust me?",
+  "official_ok": true
+ },
+ "83": {
+  "literal": "Hmm, I'd like to believe you, but...",
+  "official": "Well, I WANT to...",
+  "official_ok": true
+ },
+ "84": {
+  "literal": "Aw, don't say that. ...Here, a little pocket money for you.",
+  "official": "Aw, don't be like that. Here, buy yourselves something nice.",
+  "official_ok": true
+ },
+ "85": {
+  "literal": "When'd you become such a big shot, Nishiki?",
+  "official": "When did you get so popular with the ladies, Nishiki?",
+  "official_ok": true
+ },
+ "86": {
+  "literal": "Staying connected with women is what matters.",
+  "official": "Building connections with girls is important.",
+  "official_ok": true
+ },
+ "87": {
+  "literal": "Look, the big brothers above us in the family...",
+  "official": "The guys higher up the chain than us in the family?",
+  "official_ok": true
+ },
+ "88": {
+  "literal": "...they've got that look about 'em, see.",
+  "official": "One look and anybody with eyes can tell they're yakuza, and not the fun kind.",
+  "official_ok": true
+ },
+ "89": {
+  "literal": "So, when I go drinking with the big brothers,",
+  "official": "So, if you show up with a pack of girls every time the bosses invite you drinking, they remember you.",
+  "official_ok": true
+ },
+ "90": {
+  "literal": "just bringing along a bunch of women gets me some spending money,",
+  "official": "Half the time they give me cash on the spot.",
+  "official_ok": true
+ },
+ "91": {
+  "literal": "There's no point unless you claw your way to the top.",
+  "official": "you've gotta claw your way up that ladder using any means possible.",
+  "official_ok": true
+ },
+ "92": {
+  "literal": "You're keeping me company all the way tonight, got it.",
+  "official": "Hope you're ready, because I'm not stopping till morning.",
+  "official_ok": true
+ },
+ "93": {
+  "literal": "(Seems like I've been set up...)",
+  "official": "(It looks like that loan shark set me up.)",
+  "official_ok": true
+ },
+ "94": {
+  "literal": "(Just what kind of scheme is going on here...)",
+  "official": "(I don't know what his game is...)",
+  "official_ok": true
+ },
+ "95": {
+  "literal": "Oh! Boy!",
+  "official": "Hey, boy!",
+  "official_ok": true
+ },
+ "96": {
+  "literal": "If you don't mind me, I'll hear you out, okay?",
+  "official": "I can't promise much, but I'm happy to lend you an ear.",
+  "official_ok": true
+ },
+ "97": {
+  "literal": "I've got a favor to ask you, boy!",
+  "official": "Anyway, I had a favor I wanted to ask you.",
+  "official_ok": true
+ },
+ "98": {
+  "literal": "Hey, geezer... this the young guy you meant?",
+  "official": "Alright, gramps... Is this the kid?",
+  "official_ok": true
+ },
+ "99": {
+  "literal": "Yes! He's my pupil!",
+  "official": "Yessir! My prize pupil!",
+  "official_ok": true
+ },
+ "100": {
+  "literal": "...Don't tell me, that one million yen—",
+  "official": "",
+  "official_ok": false
+ },
+ "101": {
+  "literal": "Don't screw with me.",
+  "official": "Like hell they are!",
+  "official_ok": true
+ },
+ "102": {
+  "literal": "You'd best cough up the cash before you get hurt—for your own good, y'know?",
+  "official": "For your own sake, I'd pay up before I got hurt.",
+  "official_ok": true
+ },
+ "103": {
+  "literal": "Don't drag me into your troublesome mess.",
+  "official": "You're not going to drag me into your problems.",
+  "official_ok": true
+ },
+ "104": {
+  "literal": "In other words, you're not confident, are you?",
+  "official": "Oh, so you think he'd beat you.",
+  "official_ok": true
+ },
+ "105": {
+  "literal": "...Trying to goad me on like that won't get you anywhere.",
+  "official": "...Look, if you're trying to bait me, it's not going to work.",
+  "official_ok": true
+ },
+ "106": {
+  "literal": "Pay your own damn debt yourself.",
+  "official": "It's your debt, you handle it.",
+  "official_ok": true
+ },
+ "107": {
+  "literal": "There are tons of guys like that all over the world, you know?",
+  "official": "He's bargain-bin muscle. Dime a dozen.",
+  "official_ok": true
+ },
+ "108": {
+  "literal": "Okay, understood!",
+  "official": "Okay, all right!",
+  "official_ok": true
+ },
+ "109": {
+  "literal": "I've caused you trouble.",
+  "official": "I feel terrible, just terrible for all the hassle I caused.",
+  "official_ok": true
+ },
+ "110": {
+  "literal": "Two million?! Like I'd ever believe a story like that!",
+  "official": "You wanna pay me double!? Like I'm gonna buy that!",
+  "official_ok": true
+ },
+ "111": {
+  "literal": "Why you damn drunk!",
+  "official": "You're drunk off your ass, old man!",
+  "official_ok": true
+ },
+ "112": {
+  "literal": "...However, there's a condition.",
+  "official": "...On one condition.",
+  "official_ok": true
+ },
+ "113": {
+  "literal": "That fellow behind you does the fighting,",
+  "official": "You have your tank back there fight us for it.",
+  "official_ok": true
+ },
+ "114": {
+  "literal": "but if we win, we won't pay the money.",
+  "official": "We win, and we don't owe you a thing.",
+  "official_ok": true
+ },
+ "115": {
+  "literal": "Even if the three of you gang up, you haven't got a chance, you know?",
+  "official": "All three of you could rush him at the same time and he'd snap you like twigs.",
+  "official_ok": true
+ },
+ "116": {
+  "literal": "I'm telling you up front, I've got no intention of helping.",
+  "official": "I'll tell you right now I'm not bailing you out.",
+  "official_ok": true
+ },
+ "117": {
+  "literal": "Kamoji here is just gonna try a little, okay.",
+  "official": "He'll be fine. Just a little workout.",
+  "official_ok": true
+ },
+ "118": {
+  "literal": "You, boy—keep your eyes on Kamoji's moves.",
+  "official": "",
+  "official_ok": false
+ },
+ "119": {
+  "literal": "An amateur shouldn't push his luck.",
+  "official": "You shouldn't push yourself like that.",
+  "official_ok": true
+ },
+ "120": {
+  "literal": "The other guy's punches aren't landing at all, huh.",
+  "official": "Big guy didn't land a single punch on him.",
+  "official_ok": true
+ },
+ "121": {
+  "literal": "Hey, you—the homeless guy over there!",
+  "official": "Hey, you in the coat. Homeless dude!",
+  "official_ok": true
+ },
+ "122": {
+  "literal": "You're gonna keep going with those wimpy little punches?",
+  "official": "You gonna try to finish the job with those weak-ass punches?",
+  "official_ok": true
+ },
+ "123": {
+  "literal": "Heh... Well, guess there's no helping it.",
+  "official": "Heh... Yeah, all right.",
+  "official_ok": true
+ },
+ "124": {
+  "literal": "I didn't have the slightest bit of motivation for this, but...",
+  "official": "I meant it when I said I wouldn't bail you out,",
+  "official_ok": true
+ },
+ "125": {
+  "literal": "After seeing that guy's moves, though, I changed my mind...",
+  "official": "but watching him just put me in the mood for a quick round.",
+  "official_ok": true
+ },
+ "126": {
+  "literal": "Bruno, let 'em have it!",
+  "official": "Bruno? Take him!",
+  "official_ok": true
+ },
+ "127": {
+  "literal": "Wh... Bruno's getting beaten this one-sidedly...",
+  "official": "What just happened? Bruno barely got a punch in!",
+  "official_ok": true
+ }
+}

@@ -1,0 +1,562 @@
+[
+ {
+  "name": "真島",
+  "freq_speaker": 1352,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "桐生",
+  "freq_speaker": 1264,
+  "freq_text": 57,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "尾田",
+  "freq_speaker": 935,
+  "freq_text": 0,
+  "first_chapter": 2,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "李",
+  "freq_speaker": 440,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "阿波野",
+  "freq_speaker": 431,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "バッカス",
+  "freq_speaker": 374,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "マコト",
+  "freq_speaker": 356,
+  "freq_text": 0,
+  "first_chapter": 13,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "小太りの男",
+  "freq_speaker": 323,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "世良",
+  "freq_speaker": 282,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "立華",
+  "freq_speaker": 243,
+  "freq_text": 0,
+  "first_chapter": 14,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "謎の男",
+  "freq_speaker": 223,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "堂島",
+  "freq_speaker": 0,
+  "freq_text": 217,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "堂島組組員",
+  "freq_speaker": 199,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "錦山",
+  "freq_speaker": 196,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "荒っぽい女",
+  "freq_speaker": 186,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "気の立った男",
+  "freq_speaker": 177,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "柏木",
+  "freq_speaker": 175,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "店長",
+  "freq_speaker": 172,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "佐川",
+  "freq_speaker": 170,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "中国人の男",
+  "freq_speaker": 164,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "山野井",
+  "freq_speaker": 143,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "アッコ",
+  "freq_speaker": 141,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "渋澤",
+  "freq_speaker": 137,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "日侠連組員",
+  "freq_speaker": 128,
+  "freq_text": 0,
+  "first_chapter": 12,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "男の仲間",
+  "freq_speaker": 128,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "米木",
+  "freq_speaker": 123,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "女の声",
+  "freq_speaker": 116,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "怒鳴り声",
+  "freq_speaker": 97,
+  "freq_text": 0,
+  "first_chapter": 10,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "ヤクザ",
+  "freq_speaker": 92,
+  "freq_text": 0,
+  "first_chapter": 11,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "東城",
+  "freq_speaker": 0,
+  "freq_text": 91,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "極道",
+  "freq_speaker": 89,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "タクシー",
+  "freq_speaker": 85,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "カモジ",
+  "freq_speaker": 84,
+  "freq_text": 0,
+  "first_chapter": 10,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "陳老人",
+  "freq_speaker": 80,
+  "freq_text": 0,
+  "first_chapter": 10,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "亜細亜",
+  "freq_speaker": 0,
+  "freq_text": 63,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "嶋野組組員",
+  "freq_speaker": 61,
+  "freq_text": 0,
+  "first_chapter": 15,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "中国マフィア",
+  "freq_speaker": 60,
+  "freq_text": 0,
+  "first_chapter": 10,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "嶋野の狂犬",
+  "freq_speaker": 60,
+  "freq_text": 0,
+  "first_chapter": 14,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "大丈夫だ",
+  "freq_speaker": 53,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "絶倫君",
+  "freq_speaker": 52,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "寿司屋・店員",
+  "freq_speaker": 48,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "ロンファ",
+  "freq_speaker": 46,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "下っ端ヤクザ",
+  "freq_speaker": 46,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "後にする",
+  "freq_speaker": 39,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "娯楽王",
+  "freq_speaker": 36,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "中国人の医者",
+  "freq_speaker": 36,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "諦める",
+  "freq_speaker": 36,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "茉莉奈",
+  "freq_speaker": 34,
+  "freq_text": 0,
+  "first_chapter": 14,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "久瀬",
+  "freq_speaker": 0,
+  "freq_text": 33,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "行かない",
+  "freq_speaker": 32,
+  "freq_text": 0,
+  "first_chapter": 13,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "中国",
+  "freq_speaker": 0,
+  "freq_text": 30,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "近江",
+  "freq_speaker": 0,
+  "freq_text": 30,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "まだ休まない",
+  "freq_speaker": 28,
+  "freq_text": 0,
+  "first_chapter": 10,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "電話番",
+  "freq_speaker": 28,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "日本",
+  "freq_speaker": 0,
+  "freq_text": 28,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "室町",
+  "freq_speaker": 0,
+  "freq_text": 23,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "営業部長",
+  "freq_speaker": 21,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "男の子分",
+  "freq_speaker": 20,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "`真島",
+  "freq_speaker": 20,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "陽田",
+  "freq_speaker": 20,
+  "freq_text": 0,
+  "first_chapter": 7,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "公衆電話では",
+  "freq_speaker": 18,
+  "freq_text": 0,
+  "first_chapter": 17,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "冷めた住人",
+  "freq_speaker": 17,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "ポン引きの男",
+  "freq_speaker": 16,
+  "freq_text": 0,
+  "first_chapter": 1,
+  "source": "speaker",
+  "descriptor_flag": true
+ },
+ {
+  "name": "ちょっと待て",
+  "freq_speaker": 16,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "乗り込む",
+  "freq_speaker": 16,
+  "freq_text": 0,
+  "first_chapter": 4,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "まだ帰らない",
+  "freq_speaker": 15,
+  "freq_text": 0,
+  "first_chapter": 2,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "飲み屋の店主",
+  "freq_speaker": 15,
+  "freq_text": 0,
+  "first_chapter": 5,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "大阪",
+  "freq_speaker": 0,
+  "freq_text": 14,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ },
+ {
+  "name": "Iおばちゃん",
+  "freq_speaker": 13,
+  "freq_text": 0,
+  "first_chapter": 16,
+  "source": "speaker",
+  "descriptor_flag": false
+ },
+ {
+  "name": "椿",
+  "freq_speaker": 0,
+  "freq_text": 13,
+  "first_chapter": null,
+  "source": "place",
+  "descriptor_flag": false
+ }
+]

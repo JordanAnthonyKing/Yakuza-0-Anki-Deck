@@ -1,0 +1,322 @@
+{
+ "128": {
+  "literal": "The hell—just who are you, anyway?",
+  "official": "Just who the hell ARE you?",
+  "official_ok": true
+ },
+ "129": {
+  "literal": "H-huh... So you were one of the real deal (an actual yakuza)...?!",
+  "official": "Whoa, wait, you're a proper yakuza!?",
+  "official_ok": true
+ },
+ "130": {
+  "literal": "We're—no, I mean, we're with Toko Credit.",
+  "official": "We just work for Toko Credit.",
+  "official_ok": true
+ },
+ "131": {
+  "literal": "Toko Credit, huh... That works out nicely.",
+  "official": "Well there's a coincidence.",
+  "official_ok": true
+ },
+ "132": {
+  "literal": "In that case, I'd think he's at the office right now.",
+  "official": "The president? I figure he'd be at the office at this hour.",
+  "official_ok": true
+ },
+ "133": {
+  "literal": "...My debt—it's cleared with this, right?",
+  "official": "And that takes care of that little debt of ours, right?",
+  "official_ok": true
+ },
+ "134": {
+  "literal": "That's the rule of debt collection (kiritori).",
+  "official": "That's how our kinda debt collection works.",
+  "official_ok": true
+ },
+ "135": {
+  "literal": "Ho ho ho, the world of competition is a harsh one, eh...",
+  "official": "",
+  "official_ok": false
+ },
+ "136": {
+  "literal": "What's your aim in getting close to me?",
+  "official": "Why approach me? What are you after?",
+  "official_ok": true
+ },
+ "137": {
+  "literal": "If there's some reason behind it, tell me the whole story.",
+  "official": "Look, if you're in some trouble, tell me.",
+  "official_ok": true
+ },
+ "138": {
+  "literal": "...The same goes for that guy called Kamoji.",
+  "official": "And that goes for him, too.",
+  "official_ok": true
+ },
+ "139": {
+  "literal": "For just a homeless guy, his movements aren't those of an amateur.",
+  "official": "Those weren't the moves of an amateur.",
+  "official_ok": true
+ },
+ "140": {
+  "literal": "...Sounds like some shady line of work.",
+  "official": "",
+  "official_ok": false
+ },
+ "141": {
+  "literal": "That's not it! It's 'Try-and-Knock-Me-Down' guy... that's what it is.",
+  "official": "",
+  "official_ok": false
+ },
+ "142": {
+  "literal": "We take a participation fee from the customers, and...",
+  "official": "The customer pays a fee,",
+  "official_ok": true
+ },
+ "143": {
+  "literal": "He's got loads of essence (raw talent)!",
+  "official": "Kamoji-kun here's got plenty to teach you about fighting, my boy.",
+  "official_ok": true
+ },
+ "144": {
+  "literal": "You'd be missing out if you don't watch, boy!",
+  "official": "You'll kick yourself if you don't check it out.",
+  "official_ok": true
+ },
+ "145": {
+  "literal": "Shichifuku Park, right? I'll head over when I get the time.",
+  "official": "Shichifuku Parking Lot, right? I'll swing by if I can find the time.",
+  "official_ok": true
+ },
+ "146": {
+  "literal": "Well now, one matter's been settled, but...",
+  "official": "Well, that takes care of my troubles for today...",
+  "official_ok": true
+ },
+ "147": {
+  "literal": "Don't tell me you're trying to say I should become a martial artist?",
+  "official": "Are you still trying to recruit me into pro fighting or whatever it was?",
+  "official_ok": true
+ },
+ "148": {
+  "literal": "...Well, coming from someone I've only just met,",
+  "official": "",
+  "official_ok": false
+ },
+ "149": {
+  "literal": "But for me right now, above all else,",
+  "official": "",
+  "official_ok": false
+ },
+ "150": {
+  "literal": "Try not to get stabbed to death by a knife, eh!",
+  "official": "",
+  "official_ok": false
+ },
+ "151": {
+  "literal": "Also, getting shot with a gun is dangerous too, y'know!",
+  "official": "",
+  "official_ok": false
+ },
+ "152": {
+  "literal": "Don't go saying such ominous things.",
+  "official": "",
+  "official_ok": false
+ },
+ "153": {
+  "literal": "(This number... where's it from?)",
+  "official": "",
+  "official_ok": false
+ },
+ "154": {
+  "literal": "(Guess I'll go find a payphone and try calling back.)",
+  "official": "",
+  "official_ok": false
+ },
+ "155": {
+  "literal": "(Nishiki should be bringing the car around.)",
+  "official": "",
+  "official_ok": false
+ },
+ "156": {
+  "literal": "Yui the hostess",
+  "official": "",
+  "official_ok": false
+ },
+ "157": {
+  "literal": "A punk-looking man",
+  "official": "",
+  "official_ok": false
+ },
+ "158": {
+  "literal": "I'm gonna go call the office.",
+  "official": "I'm gonna go call in.",
+  "official_ok": true
+ },
+ "159": {
+  "literal": "Just as I thought...",
+  "official": "",
+  "official_ok": false
+ },
+ "160": {
+  "literal": "You're being called in over that news just now, right?",
+  "official": "It's gotta be about what they were saying on the news, right?",
+  "official_ok": true
+ },
+ "161": {
+  "literal": "This has turned into a real mess.",
+  "official": "This is bad.",
+  "official_ok": true
+ },
+ "162": {
+  "literal": "No, you're obviously in deep trouble too, of course, but...",
+  "official": "You're obviously screwed, but this also paints a giant target on Kazama-san's back.",
+  "official_ok": true
+ },
+ "163": {
+  "literal": "The fact that you and I were taken in by the boss means...",
+  "official": "Everybody in the Dojima Family knows it was Kazama-san who brought us in.",
+  "official_ok": true
+ },
+ "164": {
+  "literal": "So, our screw-ups...",
+  "official": "That means our screw-ups...",
+  "official_ok": true
+ },
+ "165": {
+  "literal": "...end up being the boss's responsibility too.",
+  "official": "...become his responsibility, too.",
+  "official_ok": true
+ },
+ "166": {
+  "literal": "Probably, the guys angling to take the boss's place...",
+  "official": "Everybody with an eye on his position is going to come at this with everything they've got.",
+  "official_ok": true
+ },
+ "167": {
+  "literal": "Like the three Dojima Family lieutenants, for instance.",
+  "official": "The three Dojima lieutenants, for starters.",
+  "official_ok": true
+ },
+ "168": {
+  "literal": "Word is he was sold out by one of those three.",
+  "official": "Rumor has it, it was one of them that sold Kazama-san out to the cops and got him pinched six months back.",
+  "official_ok": true
+ },
+ "169": {
+  "literal": "You mean they sold him out to the cops?",
+  "official": "You really think Kuze sold Kazama-san out to the cops?",
+  "official_ok": true
+ },
+ "170": {
+  "literal": "Of course, it's not like I've got proof.",
+  "official": "Well, it's not like I've got hard proof.",
+  "official_ok": true
+ },
+ "171": {
+  "literal": "Kuze's really on a roll. And, well, where there's no smoke without fire...",
+  "official": "But you know Kuze's been on a power trip ever since the old man got locked up. And where there's smoke...",
+  "official_ok": true
+ },
+ "172": {
+  "literal": "All right. For now, I'll...",
+  "official": "",
+  "official_ok": false
+ },
+ "173": {
+  "literal": "I'll try to find someone who can lend me their wits.",
+  "official": "",
+  "official_ok": false
+ },
+ "174": {
+  "literal": "(Since I don't know what they're plotting,)",
+  "official": "(I don't know what they're up to...)",
+  "official_ok": true
+ },
+ "175": {
+  "literal": "(it can't hurt to be on my guard, but...)",
+  "official": "Better go in prepared.",
+  "official_ok": true
+ },
+ "176": {
+  "literal": "(I'd better get myself properly prepared first.)",
+  "official": "(No telling what's waiting in there. I need to be ready.)",
+  "official_ok": true
+ },
+ "177": {
+  "literal": "I-I can't believe it. No way you actually made it this far...",
+  "official": "N-No way... How'd you make it here!?",
+  "official_ok": true
+ },
+ "178": {
+  "literal": "I'm gonna have you tell me everything, nice and slow.",
+  "official": "Now we can talk without any interruptions.",
+  "official_ok": true
+ },
+ "179": {
+  "literal": "...Why did you set me up? What's your aim?",
+  "official": "Why did you set me up? What are you after?",
+  "official_ok": true
+ },
+ "180": {
+  "literal": "(I was told) to have you do the collection at that spot...",
+  "official": "He said I should have you collect the cash there in that back lot...",
+  "official_ok": true
+ },
+ "181": {
+  "literal": "I told you to turn yourself in to the cops, didn't I.",
+  "official": "Pretty sure I told you to turn yourself in,",
+  "official_ok": true
+ },
+ "182": {
+  "literal": "...Don't go pulling this half-asleep bullshit!!",
+  "official": "and instead you're over here doing dumb shit!",
+  "official_ok": true
+ },
+ "183": {
+  "literal": "Ah, yeah, I really am a little rusty...",
+  "official": "Damn, I knew I was getting soft.",
+  "official_ok": true
+ },
+ "184": {
+  "literal": "Mr. President, could you give us a moment alone?",
+  "official": "Mr. President, think I could get a little privacy?",
+  "official_ok": true
+ },
+ "185": {
+  "literal": "Good opportunity, this... With you, just once,",
+  "official": "I'm glad we have this opportunity.",
+  "official_ok": true
+ },
+ "186": {
+  "literal": "I'd been wanting to have a real heart-to-heart with you.",
+  "official": "I wanted to have a chat with you. No bullshit.",
+  "official_ok": true
+ },
+ "187": {
+  "literal": "You and Nishikiyama... you're orphans, I hear?",
+  "official": "You and Nishikiyama... You're orphans, right?",
+  "official_ok": true
+ },
+ "188": {
+  "literal": "You came out of the facility that Kazama the lieutenant runs, right?",
+  "official": "Grew up in Kazama's joint. Sunflower Orphanage, wasn't it?",
+  "official_ok": true
+ },
+ "189": {
+  "literal": "There's no need to feel ashamed just because you're an orphan.",
+  "official": "There's no shame in being an orphan.",
+  "official_ok": true
+ },
+ "190": {
+  "literal": "And now you've turned into a fine little bullet-shield for him, haven't you—",
+  "official": "He's got you and your boy Nishikiyama acting like human shields for him.",
+  "official_ok": true
+ },
+ "191": {
+  "literal": "This kind of thing—is that what they call brainwashing?",
+  "official": "That's some brainwashing kind of shit right there.",
+  "official_ok": true
+ }
+}

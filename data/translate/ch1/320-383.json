@@ -1,0 +1,322 @@
+{
+ "320": {
+  "literal": "You understand this logic, don't you?",
+  "official": "You understand the logic, right?",
+  "official_ok": true
+ },
+ "321": {
+  "literal": "Once you've pulled out of the yakuza life even once, that's the end of it.",
+  "official": "",
+  "official_ok": false
+ },
+ "322": {
+  "literal": "I heard about President Tachibana.",
+  "official": "I heard what happened to President Tachibana...",
+  "official_ok": true
+ },
+ "323": {
+  "literal": "I want to talk with you one-on-one. Can you come right away?",
+  "official": "I'd like to speak with you one-on-one. Can you come here?",
+  "official_ok": true
+ },
+ "324": {
+  "literal": "So it really was you who paged me after all, Nishiki...",
+  "official": "Yeah. I figured it was you trying to get a hold of me.",
+  "official_ok": true
+ },
+ "325": {
+  "literal": "You've already left the Dojima Family office ages ago, right?",
+  "official": "You left the Dojima office, right?",
+  "official_ok": true
+ },
+ "326": {
+  "literal": "Actually, you'd better hear what Kashiwagi-san has to say too—",
+  "official": "I think you need to hear what Kashiwagi-san has to say.",
+  "official_ok": true
+ },
+ "327": {
+  "literal": "...Kuze-no-aniki just told me about it a moment ago.",
+  "official": "Kuze told me about it just now.",
+  "official_ok": true
+ },
+ "328": {
+  "literal": "It seems Kashiwagi-san sees through absolutely everything.",
+  "official": "I guess nothing gets past Kashiwagi-san.",
+  "official_ok": true
+ },
+ "329": {
+  "literal": "It's possible.",
+  "official": "",
+  "official_ok": false
+ },
+ "330": {
+  "literal": "(...It's about time for my meetup with Nishiki.",
+  "official": "",
+  "official_ok": false
+ },
+ "331": {
+  "literal": "The president of that Tachibana Real Estate.",
+  "official": "the president of Tachibana Real Estate",
+  "official_ok": true
+ },
+ "332": {
+  "literal": "Sorry. They're a bunch just like shadows...",
+  "official": "I'm sorry, sir, but the guy's a shadow!",
+  "official_ok": true
+ },
+ "333": {
+  "literal": "The word is, even the informants have nothing at all when it comes to Tachibana Real Estate.",
+  "official": "The informants in this town can tell you anything, EXCEPT when it has to do with Tachibana Real Estate.",
+  "official_ok": true
+ },
+ "334": {
+  "literal": "They might have been bought off by Tachibana.",
+  "official": "Then what, Tachibana's bought 'em all?",
+  "official_ok": true
+ },
+ "335": {
+  "literal": "If Tachibana's the kind of bastard the rumors say, he's capable of it.",
+  "official": "If he's really the kind of guy they say he is, it's possible.",
+  "official_ok": true
+ },
+ "336": {
+  "literal": "A senior member of a certain organization.",
+  "official": "",
+  "official_ok": false
+ },
+ "337": {
+  "literal": "A low-ranking member of a certain organization.",
+  "official": "Yakuza Underling",
+  "official_ok": true
+ },
+ "338": {
+  "literal": "I heard they were all driven out to somewhere else, every last one.",
+  "official": "Same with all the other tenants in that building. The lot of 'em either moved shop or just shuttered for good.",
+  "official_ok": true
+ },
+ "339": {
+  "literal": "A club host on his way to work.",
+  "official": "Waiter on His Way to Work",
+  "official_ok": true
+ },
+ "340": {
+  "literal": "Yeah. There just weren't any places with really good location conditions,",
+  "official": "No kidding. It was hell trying to find the right property. Took forever.",
+  "official_ok": true
+ },
+ "341": {
+  "literal": "I'd agonized over it for a long time, but that Tachibana Real Estate—",
+  "official": "Then we reached out to Tachibana Real Estate and it all came together in no time.",
+  "official_ok": true
+ },
+ "342": {
+  "literal": "With the land-grabbing, the location turns rich. Hahaha!",
+  "official": "Besides, redevelopment raises property values for the whole area. Plus they'll have us as customers, ha ha!",
+  "official_ok": true
+ },
+ "343": {
+  "literal": "And it's a pain to go get a part-time job at this point too...",
+  "official": "And it's too late to get a part-time job and start saving up the scratch.",
+  "official_ok": true
+ },
+ "344": {
+  "literal": "Speaking of which, a filthy homeless guy earlier—",
+  "official": "Funny you say that, I saw this filthy bum with a 10G note a bit ago.",
+  "official_ok": true
+ },
+ "345": {
+  "literal": "Looks like he earned it with some well-paying part-time gig.",
+  "official": "Must have found a pretty sweet gig.",
+  "official_ok": true
+ },
+ "346": {
+  "literal": "Public Park 3. Even though he's homeless,",
+  "official": "Public Park 3, I think. And yeah, seeing a homeless dude waving his cash around is pretty harsh.",
+  "official_ok": true
+ },
+ "347": {
+  "literal": "(Pulling whatever they please on our turf.",
+  "official": "Running shakedowns on our turf?",
+  "official_ok": true
+ },
+ "348": {
+  "literal": "so they don't get carried away and do something stupid,",
+  "official": "Somebody needs to set them straight before they try anything really stupid.",
+  "official_ok": true
+ },
+ "349": {
+  "literal": "You've already finished today's collections too, right?",
+  "official": "You're done with collections today, right?",
+  "official_ok": true
+ },
+ "350": {
+  "literal": "Hey, old man! Don't go talking to some guy who's got nothing to do with this!",
+  "official": "Hey, old man! Quit talking to those... them!",
+  "official_ok": true
+ },
+ "351": {
+  "literal": "Geez, you look after people as much as ever, huh...",
+  "official": "Again? I can't tell if you're a sadist or a charity worker.",
+  "official_ok": true
+ },
+ "352": {
+  "literal": "...Geez, as classless a town as ever, huh.",
+  "official": "Stay classy, Kamurocho...",
+  "official_ok": true
+ },
+ "353": {
+  "literal": "If you're gonna live the yakuza life anyway, then whatever means it takes—",
+  "official": "If you're in this business, you've gotta claw your way up that ladder using any means possible.",
+  "official_ok": true
+ },
+ "354": {
+  "literal": "Whoa, you reek of booze... You're totally plastered.",
+  "official": "Ugh, you reek of booze. You're wasted!",
+  "official_ok": true
+ },
+ "355": {
+  "literal": "Kamoji-kun and I drank the whole night through!",
+  "official": "Me and Kamoji-kun here have been at it all night.",
+  "official_ok": true
+ },
+ "356": {
+  "literal": "Actually, y'know, with those scary-faced men coming over there—",
+  "official": "I just need you to talk to a couple guys. They'll be here real soon. They'll also be real angry.",
+  "official_ok": true
+ },
+ "357": {
+  "literal": "It's the pupil who pays the master's debts.",
+  "official": "Besides, the debts of the master are the debts of... y'know, you.",
+  "official_ok": true
+ },
+ "358": {
+  "literal": "There's nobody who's managed to keep holding out stubborn against this Bruno.",
+  "official": "Bruno here, he's got a short fuse. Especially for stubborn types.",
+  "official_ok": true
+ },
+ "359": {
+  "literal": "Fight that big man standing behind him, Bruno, and—",
+  "official": "You think you could take big Bruno there in a fight?",
+  "official_ok": true
+ },
+ "360": {
+  "literal": "No, no, you fight them one at a time.",
+  "official": "",
+  "official_ok": false
+ },
+ "361": {
+  "literal": "Taking him on three-on-one wouldn't be fair.",
+  "official": "",
+  "official_ok": false
+ },
+ "362": {
+  "literal": "Hahaha! A one-on-one against Bruno?!",
+  "official": "",
+  "official_ok": false
+ },
+ "363": {
+  "literal": "What an outrageous death-wish volunteer we've got here!",
+  "official": "",
+  "official_ok": false
+ },
+ "364": {
+  "literal": "Let's fight!",
+  "official": "",
+  "official_ok": false
+ },
+ "365": {
+  "literal": "Bruno's still full of energy, you know?",
+  "official": "",
+  "official_ok": false
+ },
+ "366": {
+  "literal": "It's a parking lot called Shichifuku Park.",
+  "official": "",
+  "official_ok": false
+ },
+ "367": {
+  "literal": "Kamoji-kun comes in handy for the boy's fights—",
+  "official": "",
+  "official_ok": false
+ },
+ "368": {
+  "literal": "Boy, even if you keep doing nothing but street fights like this,",
+  "official": "You keep living street fight to street fight, you'll wind up with a knife 'tween your ribs in some dark alley.",
+  "official_ok": true
+ },
+ "369": {
+  "literal": "(Hm? A page from my pager?)",
+  "official": "",
+  "official_ok": false
+ },
+ "370": {
+  "literal": "(It's a number I don't recognize... but it's probably from Nishiki anyway.",
+  "official": "",
+  "official_ok": false
+ },
+ "371": {
+  "literal": "It means they'll take advantage of this screw-up.",
+  "official": "They're gonna use this to bring him down.",
+  "official_ok": true
+ },
+ "372": {
+  "literal": "It's not that simple. Once it's a killing, the matter's huge.",
+  "official": "That's not how it works. Murder is a big deal.",
+  "official_ok": true
+ },
+ "373": {
+  "literal": "They'll strike at that weak point without fail.",
+  "official": "Everybody with an eye on his position is going to come at this with everything they've got.",
+  "official_ok": true
+ },
+ "374": {
+  "literal": "I can't think of it as anything but someone snitching to the cops.",
+  "official": "The only way that happens is if somebody with family info tips them off.",
+  "official_ok": true
+ },
+ "375": {
+  "literal": "He pulls some real dirty stuff, huh.",
+  "official": "Still... That Kazama's a cruel son of a bitch.",
+  "official_ok": true
+ },
+ "376": {
+  "literal": "That info—the boss inside the cage is the one sitting on it.",
+  "official": "Kazama's sitting on it.",
+  "official_ok": true
+ },
+ "377": {
+  "literal": "For me to have gone and done something that put you to such trouble...",
+  "official": "I never wanted to make trouble for you like this.",
+  "official_ok": true
+ },
+ "378": {
+  "literal": "The way Dojima's three lieutenants were fighting each other tooth and nail to—",
+  "official": "Dojima's had those three racing against each other to clear out all the tenants in the area so he can get at the land.",
+  "official_ok": true
+ },
+ "379": {
+  "literal": "There's an empty lot of only about one tsubo.",
+  "official": "Right. But amid all that, there's one tiny patch of land that nobody can get their hands on.",
+  "official_ok": true
+ },
+ "380": {
+  "literal": "Even at a billion yen a tsubo, there's no backing out now.",
+  "official": "They can't go back now, even if it means coughing up a billion yen for a postage stamp of land.",
+  "official_ok": true
+ },
+ "381": {
+  "literal": "Kiryu really didn't do the killing!",
+  "official": "But... Kiryu didn't actually kill anybody!",
+  "official_ok": true
+ },
+ "382": {
+  "literal": "It's obviously a lie. Geez, putting up such a pathetic last-ditch struggle.",
+  "official": "I think it's a load of shit, and you're trying to worm your way out of this.",
+  "official_ok": true
+ },
+ "383": {
+  "literal": "And Kazama-san has absolutely nothing to do with it either!",
+  "official": "and Kazama-san has nothing to do with any of this!",
+  "official_ok": true
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "0": {
+  "literal": "You can move the viewpoint.",
+  "official": "You can use the right stick to change the camera angle.",
+  "official_ok": true
+ },
+ "1": {
+  "literal": "It's light, so it's easy to handle, and it has plenty of power too.",
+  "official": "",
+  "official_ok": false
+ },
+ "2": {
+  "literal": "You can perform weaving, an evasive motion.",
+  "official": "Perform a weaving move and dodge out of the way.",
+  "official_ok": true
+ },
+ "3": {
+  "literal": "Catch the enemy's sword attack with your teeth and counter!",
+  "official": "For this attack you're gonna catch a katana swing with your teeth!",
+  "official_ok": true
+ },
+ "4": {
+  "literal": "Fight while watching out for the enemies' movements",
+  "official": "Don't lose sight of enemies",
+  "official_ok": true
+ },
+ "5": {
+  "literal": "Dodge the enemy's attacks.",
+  "official": "Press the button at the right time to evade enemy attacks.",
+  "official_ok": true
+ },
+ "6": {
+  "literal": "Its defense is low, but it's resistant to fire.",
+  "official": "",
+  "official_ok": false
+ },
+ "7": {
+  "literal": "You learned the weapon technique [Kali Stick]!",
+  "official": "You completed Weapon Training: Kali Sticks!",
+  "official_ok": true
+ },
+ "8": {
+  "literal": "When you can't dodge, you gotta use your guard too, y'hear?",
+  "official": "You gots to put up your guard when dodging's not an option.",
+  "official_ok": true
+ },
+ "9": {
+  "literal": "Isn't there a special move that breaks down defenses?",
+  "official": "How do I break down defenses?",
+  "official_ok": true
+ },
+ "10": {
+  "literal": "Watch your remaining health and take down the enemies quickly!",
+  "official": "",
+  "official_ok": false
+ },
+ "11": {
+  "literal": "Looks like the item's effect has worn off.",
+  "official": "(The item's effect wore off.)",
+  "official_ok": true
+ },
+ "12": {
+  "literal": "Input it in time with the enemy's attack.",
+  "official": "",
+  "official_ok": false
+ },
+ "13": {
+  "literal": "Can't I land an even stronger finishing move from a combo?",
+  "official": "How can I launch a finisher from a combo?",
+  "official_ok": true
+ },
+ "14": {
+  "literal": "First, you gotta dodge your opponent's attacks cleanly!",
+  "official": "You gots to evade all their attacks real smooth-like!",
+  "official_ok": true
+ },
+ "15": {
+  "literal": "Sarashi. Armor made of cloth wrapped around the stomach.",
+  "official": "",
+  "official_ok": false
+ },
+ "16": {
+  "literal": "It's a jacket reinforced with metal.",
+  "official": "",
+  "official_ok": false
+ },
+ "17": {
+  "literal": "You can use Sway while keeping the enemy in front of you.",
+  "official": "Quickstep while still facing the enemy.",
+  "official_ok": true
+ },
+ "18": {
+  "literal": "In Beast style, when you attack with your bare hands,",
+  "official": "Perform an attack empty-handed while using the Beast style",
+  "official_ok": true
+ },
+ "19": {
+  "literal": "a bare-handed fight that doesn't use weapons",
+  "official": "",
+  "official_ok": false
+ },
+ "20": {
+  "literal": "Please bet your chips within the time limit.",
+  "official": "Place your bets before the time is up.",
+  "official_ok": true
+ },
+ "21": {
+  "literal": "Its durability is low, but it hurts quite a bit if it connects.",
+  "official": "",
+  "official_ok": false
+ },
+ "22": {
+  "literal": "Its defense is low, but it's resistant to fire.",
+  "official": "",
+  "official_ok": false
+ },
+ "23": {
+  "literal": "Since you can defend at any time as long as your stance is set,",
+  "official": "You can defend at any time while maintaining your stance,",
+  "official_ok": true
+ },
+ "24": {
+  "literal": "If Miracle's health runs out, you fail, so",
+  "official": "",
+  "official_ok": false
+ },
+ "25": {
+  "literal": "Taking down enemies that come at me is",
+  "official": "Beating down hostile guys",
+  "official_ok": true
+ },
+ "26": {
+  "literal": "Heat builds up a lot.",
+  "official": "",
+  "official_ok": false
+ },
+ "27": {
+  "literal": "The Heat Gauge fills up.",
+  "official": "Build up the Heat Gauge.",
+  "official_ok": true
+ },
+ "28": {
+  "literal": "Right after you knock an enemy down,",
+  "official": "Right after you knock a guy down,",
+  "official_ok": true
+ },
+ "29": {
+  "literal": "You can perform weaving, an evasive motion.",
+  "official": "Perform a weaving move and dodge out of the way.",
+  "official_ok": true
+ },
+ "30": {
+  "literal": "Catch the enemy's sword attack with your teeth and counter!",
+  "official": "For this attack you're gonna catch a katana swing with your teeth!",
+  "official_ok": true
+ },
+ "31": {
+  "literal": "Can't I land an even stronger finishing move from a combo?",
+  "official": "How can I launch a finisher from a combo?",
+  "official_ok": true
+ },
+ "32": {
+  "literal": "Press the button on an enemy that is startled and flinching.",
+  "official": "Press near a frightened enemy.",
+  "official_ok": true
+ },
+ "33": {
+  "literal": "Make good use of Heat Actions!",
+  "official": "",
+  "official_ok": false
+ },
+ "34": {
+  "literal": "The seal on the Dancer style has been lifted!",
+  "official": "Blocks have been removed for the Breaker style!",
+  "official_ok": true
+ },
+ "35": {
+  "literal": "It can block light attacks.",
+  "official": "",
+  "official_ok": false
+ },
+ "36": {
+  "literal": "This is the move that works on opponents with a guard that tight!",
+  "official": "This is the perfect move for opponents with a solid defense.",
+  "official_ok": true
+ },
+ "37": {
+  "literal": "Will you play a ranked mahjong match?",
+  "official": "Are you ready for your ranked match?",
+  "official_ok": true
+ },
+ "38": {
+  "literal": "I think I'd have become a \"Lifetime Meijin\" in the shogi world.",
+  "official": "I woulda become a famous shogi champion.",
+  "official_ok": true
+ },
+ "39": {
+  "literal": "Betting Puzzle Pool starts at a stake of 500,000 yen.",
+  "official": "",
+  "official_ok": false
+ },
+ "40": {
+  "literal": "Do you want to display the cue ball's trajectory?",
+  "official": "Show the cue ball's predicted path?",
+  "official_ok": true
+ },
+ "41": {
+  "literal": "Which will it be, wooden tags or chips?",
+  "official": "",
+  "official_ok": false
+ },
+ "42": {
+  "literal": "It doesn't slow down much even on corners, but you need to watch out for flying off the course.",
+  "official": "",
+  "official_ok": false
+ },
+ "43": {
+  "literal": "If you bowl a turkey,",
+  "official": "Bowl a turkey",
+  "official_ok": true
+ },
+ "44": {
+  "literal": "By hitting the target with your batted ball, you can win prize money",
+  "official": "Hit the target, and win money.",
+  "official_ok": true
+ },
+ "45": {
+  "literal": "The public safety of the Leisure King Area has dropped by one rank.",
+  "official": "The Safety rating for the Leisure King Area has gone down by one level.",
+  "official_ok": true
+ },
+ "46": {
+  "literal": "If you hit the target and win prize money, you'll be given a choice of whether to try for the next target.",
+  "official": "",
+  "official_ok": false
+ },
+ "47": {
+  "literal": "Try out all kinds of parts and get a feel for your machine's characteristics!",
+  "official": "Try different components and see what your car can do!",
+  "official_ok": true
+ },
+ "48": {
+  "literal": "Selecting HIT draws one card.",
+  "official": "Select Hit to draw a card.",
+  "official_ok": true
+ },
+ "49": {
+  "literal": "Please select the number of frames to play.",
+  "official": "",
+  "official_ok": false
+ },
+ "50": {
+  "literal": "Please bet your chips within the time limit.",
+  "official": "Place your bets before the time is up.",
+  "official_ok": true
+ },
+ "51": {
+  "literal": "When you scatter bait, the number of fish increases, and",
+  "official": "Scatter bait to attract more fish.",
+  "official_ok": true
+ },
+ "52": {
+  "literal": "Build the best machine you can!",
+  "official": "Customize your car until it's tuned to perfection!",
+  "official_ok": true
+ },
+ "53": {
+  "literal": "You may be challenged to a Money Battle.",
+  "official": "Keep watch for one of the Five Billionaires picking a Money Battle.",
+  "official_ok": true
+ },
+ "54": {
+  "literal": "Sir, high-stakes poker",
+  "official": "",
+  "official_ok": false
+ }
+}

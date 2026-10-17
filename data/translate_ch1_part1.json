@@ -1,0 +1,227 @@
+{
+  "0": {
+    "literal": "Guess I'll head over toward the front of the theater...)",
+    "official": "",
+    "official_ok": false
+  },
+  "1": {
+    "literal": "Bro... even if you say you're getting out of the family,",
+    "official": "Bro... Just because you say you want out doesn't mean Kuze's gonna just let you go.",
+    "official_ok": true
+  },
+  "2": {
+    "literal": "you'd better steel yourself for what's coming.",
+    "official": "Who knows what's going to happen in there? Just... be ready.",
+    "official_ok": true
+  },
+  "3": {
+    "literal": "Maybe that informant, too, has been bought off...",
+    "official": "I'm saying he's paid them all enough to keep quiet. If he's really the kind of guy they say he is, it's possible.",
+    "official_ok": true
+  },
+  "4": {
+    "literal": "Damn... should we fight back with money too...?",
+    "official": "Shit... Wonder if there's any way to outspend him.",
+    "official_ok": true
+  },
+  "5": {
+    "literal": "Then get out there and scrape together the info on your own two feet!",
+    "official": "Then get the hell out there and find me some information!",
+    "official_ok": true
+  },
+  "6": {
+    "literal": "Stop relying on the informants!",
+    "official": "Forget the informants.",
+    "official_ok": true
+  },
+  "7": {
+    "literal": "It was so handy since they were open till morning, and now...",
+    "official": "Them being open all night was a huge deal.",
+    "official_ok": true
+  },
+  "8": {
+    "literal": "I wonder if they did a moonlight flit...",
+    "official": "Think the guy running the place just skipped town?",
+    "official_ok": true
+  },
+  "9": {
+    "literal": "That shop? It relocated somewhere else.",
+    "official": "Nah, they just moved shop.",
+    "official_ok": true
+  },
+  "10": {
+    "literal": "Chief, this is the building our company's Kamurocho branch is going into,",
+    "official": "This is the building our new Kamurocho branch is opening in, right, sir?",
+    "official_ok": true
+  },
+  "11": {
+    "literal": "it's going to open here, right?",
+    "official": "This is the building our new Kamurocho branch is opening in, right, sir?",
+    "official_ok": true
+  },
+  "12": {
+    "literal": "You did well to land such a prime spot!",
+    "official": "I'm impressed we were able to land such a prime spot!",
+    "official_ok": true
+  },
+  "13": {
+    "literal": "Once we asked them, it was resolved in the blink of an eye.",
+    "official": "Then we reached out to Tachibana Real Estate and it all came together in no time.",
+    "official_ok": true
+  },
+  "14": {
+    "literal": "Long-established, popular shops used to be in here, it seems, but—",
+    "official": "All the tenants were established businesses, and popular still, but",
+    "official_ok": true
+  },
+  "15": {
+    "literal": "in less than a month it was a vacant tenancy.",
+    "official": "within a month, the place was vacant.",
+    "official_ok": true
+  },
+  "16": {
+    "literal": "But the people who were forcibly evicted—",
+    "official": "I feel kind of bad for everybody who got forced out...",
+    "official_ok": true
+  },
+  "17": {
+    "literal": "I do feel a little sorry for them...",
+    "official": "I feel kind of bad for everybody who got forced out...",
+    "official_ok": true
+  },
+  "18": {
+    "literal": "What are you talking about? On top of getting an eviction fee,",
+    "official": "Why? They got paid a relocation fee, and",
+    "official_ok": true
+  },
+  "19": {
+    "literal": "they even had a replacement location arranged for them, you know?",
+    "official": "Tachibana Real Estate found them all new locations.",
+    "official_ok": true
+  },
+  "20": {
+    "literal": "If anything, the shops that moved out ought to be thanking us.",
+    "official": "They should be thanking us!",
+    "official_ok": true
+  },
+  "21": {
+    "literal": "Ah, another shop already moved into that spot ahead of us.",
+    "official": "Yeah, but another business beat us to it.",
+    "official_ok": true
+  },
+  "22": {
+    "literal": "If I knew of any, I'd be the first one out doing them myself...",
+    "official": "If I did, I'd be doin' em myself.",
+    "official_ok": true
+  },
+  "23": {
+    "literal": "Huh, really? Man, I'm jealous...",
+    "official": "You serious? Lucky bastard...",
+    "official_ok": true
+  },
+  "24": {
+    "literal": "I might be able to get the details out of him.",
+    "official": "(A homeless guy who worked with Tachibana Real Estate might have some info.)",
+    "official_ok": true
+  },
+  "25": {
+    "literal": "I spotted him holding a 10,000-yen bill.",
+    "official": "Funny you say that, I saw this filthy bum with a 10G note a bit ago.",
+    "official_ok": true
+  },
+  "26": {
+    "literal": "Hunt him? Go hunting?",
+    "official": "Time for some hobo huntin'?",
+    "official_ok": true
+  },
+  "27": {
+    "literal": "Ahh, but nah, forget it—it's too much of a pain to go all the way out there...",
+    "official": "Ehh, fuck it. The park's too far. I'm tired...",
+    "official_ok": true
+  },
+  "28": {
+    "literal": "Broke delinquent",
+    "official": "",
+    "official_ok": false
+  },
+  "29": {
+    "literal": "Spineless delinquent (with no mind of his own)",
+    "official": "",
+    "official_ok": false
+  },
+  "30": {
+    "literal": "Shrewd, sharp-eyed delinquent",
+    "official": "",
+    "official_ok": false
+  },
+  "31": {
+    "literal": "Sorry.",
+    "official": "",
+    "official_ok": false
+  },
+  "32": {
+    "literal": "Hey, come on, hurry up and lend me the money.",
+    "official": "C'mon, hand over the money.",
+    "official_ok": true
+  },
+  "33": {
+    "literal": "Please, give me a break / have mercy...",
+    "official": "Please, just leave me alone.",
+    "official_ok": true
+  },
+  "34": {
+    "literal": "Quit your yammering—you're being a pain in the ass!",
+    "official": "Quit your whining, nerd!",
+    "official_ok": true
+  },
+  "35": {
+    "literal": "Enough—just hurry up and hand it over!",
+    "official": "Just fork over your wallet!",
+    "official_ok": true
+  },
+  "36": {
+    "literal": "S-Somebody, help me...!",
+    "official": "Please... Somebody help me!",
+    "official_ok": true
+  },
+  "37": {
+    "literal": "Guess I'll teach 'em a little lesson...)",
+    "official": "(Somebody needs to set them straight before they try anything really stupid.)",
+    "official_ok": true
+  },
+  "38": {
+    "literal": "Hey... isn't that guy a yakuza?",
+    "official": "Wait, are you sure he's not yakuza?",
+    "official_ok": true
+  },
+  "39": {
+    "literal": "Anyone who's used to walking around Kamurocho",
+    "official": "If you were regulars, you'd know better than to do anything stupid here.",
+    "official_ok": true
+  },
+  "40": {
+    "literal": "wouldn't pull anything stupid around here.",
+    "official": "you'd know better than to do anything stupid here.",
+    "official_ok": true
+  },
+  "41": {
+    "literal": "Don't go preaching all high and mighty just 'cause you're a yakuza!",
+    "official": "Where's a piece of yakuza trash get off lecturing us!?",
+    "official_ok": true
+  },
+  "42": {
+    "literal": "\"Listen and be amazed,\" my ass... what a joke...)",
+    "official": "",
+    "official_ok": false
+  },
+  "43": {
+    "literal": "A timid-looking student",
+    "official": "",
+    "official_ok": false
+  },
+  "44": {
+    "literal": "Man, you've really started to look the part, huh.",
+    "official": "",
+    "official_ok": false
+  }
+}

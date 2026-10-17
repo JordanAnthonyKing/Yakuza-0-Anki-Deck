@@ -1,0 +1,322 @@
+{
+ "384": {
+  "literal": "(...Someone rang my pager.)",
+  "official": "Somebody rang my pager.",
+  "official_ok": true
+ },
+ "385": {
+  "literal": "So they're fighting over the captain's seat.",
+  "official": "So the three lieutenants are all jockeying for Kazama's place while he's out of the picture in prison.",
+  "official_ok": true
+ },
+ "386": {
+  "literal": "(Knowing Nishiki, he might be loafing around somewhere nearby.)",
+  "official": "",
+  "official_ok": false
+ },
+ "387": {
+  "literal": "(Knowing Nishiki, he might be loafing around somewhere nearby.)",
+  "official": "",
+  "official_ok": false
+ },
+ "388": {
+  "literal": "There's no guarantee that bastard Kuze will allow it.",
+  "official": "Just because you say you want out doesn't mean Kuze's gonna just let you go.",
+  "official_ok": true
+ },
+ "389": {
+  "literal": "There's no guarantee that bastard Kuze will allow it.",
+  "official": "Just because you say you want out doesn't mean Kuze's gonna just let you go.",
+  "official_ok": true
+ },
+ "390": {
+  "literal": "Hey, you still can't pin down his whereabouts?",
+  "official": "You STILL haven't found the president of Tachibana Real Estate?",
+  "official_ok": true
+ },
+ "391": {
+  "literal": "Hey, you still can't get a hold on where he is?",
+  "official": "You STILL haven't found the president of Tachibana Real Estate?",
+  "official_ok": true
+ },
+ "392": {
+  "literal": "If we don't take care of it soon, the boss is gonna run out of patience!",
+  "official": "Our boss ain't a patient man, and we've been keeping him waiting a long time.",
+  "official_ok": true
+ },
+ "393": {
+  "literal": "If we don't take care of it soon, the boss is gonna run out of patience!",
+  "official": "Our boss ain't a patient man, and we've been keeping him waiting a long time.",
+  "official_ok": true
+ },
+ "394": {
+  "literal": "We can't get a grip on his tail at all.",
+  "official": "the guy's a shadow! Doesn't leave a trace.",
+  "official_ok": true
+ },
+ "395": {
+  "literal": "It means he's using money to shut the mouths of every informant in town.",
+  "official": "I'm saying he's paid them all enough to keep quiet.",
+  "official_ok": true
+ },
+ "396": {
+  "literal": "It means he's using money to plug up the mouths of every informant in town.",
+  "official": "I'm saying he's paid them all enough to keep quiet.",
+  "official_ok": true
+ },
+ "397": {
+  "literal": "That cafe Blend suddenly closed up shop, huh.",
+  "official": "I'm bummed that Cafe Blend closed all of a sudden.",
+  "official_ok": true
+ },
+ "398": {
+  "literal": "That cafe called Blend suddenly closed up shop, huh.",
+  "official": "I'm bummed that Cafe Blend closed all of a sudden.",
+  "official_ok": true
+ },
+ "399": {
+  "literal": "That cafe Blend suddenly shut down, huh.",
+  "official": "I'm bummed that Cafe Blend closed all of a sudden.",
+  "official_ok": true
+ },
+ "400": {
+  "literal": "Behind the plaza in front of the theater, across from Mach Bowl.",
+  "official": "They're across from Mach Bowl, behind Theater Square.",
+  "official_ok": true
+ },
+ "401": {
+  "literal": "Behind the plaza in front of the theater, across from Mach Bowl.",
+  "official": "They're across from Mach Bowl, behind Theater Square.",
+  "official_ok": true
+ },
+ "402": {
+  "literal": "Behind the plaza in front of the theater, across from Mach Bowl.",
+  "official": "They're across from Mach Bowl, behind Theater Square.",
+  "official_ok": true
+ },
+ "403": {
+  "literal": "Behind the plaza in front of the theater, across from Mach Bowl.",
+  "official": "They're across from Mach Bowl, behind Theater Square.",
+  "official_ok": true
+ },
+ "404": {
+  "literal": "Behind the plaza in front of the theater, across from Mach Bowl.",
+  "official": "They're across from Mach Bowl, behind Theater Square.",
+  "official_ok": true
+ },
+ "405": {
+  "literal": "And there they've put up a new Blend sign again.",
+  "official": "There's a new sign up.",
+  "official_ok": true
+ },
+ "406": {
+  "literal": "It's the same for the other tenants who were in that building.",
+  "official": "Same with all the other tenants in that building.",
+  "official_ok": true
+ },
+ "407": {
+  "literal": "It's the same for the other tenants who were in that building.",
+  "official": "Same with all the other tenants in that building.",
+  "official_ok": true
+ },
+ "408": {
+  "literal": "This whole area will get redeveloped too and become livelier, I'd say.",
+  "official": "Besides, redevelopment raises property values for the whole area.",
+  "official_ok": true
+ },
+ "409": {
+  "literal": "This whole area will get redeveloped too and become livelier, I'd say.",
+  "official": "Besides, redevelopment raises property values for the whole area.",
+  "official_ok": true
+ },
+ "410": {
+  "literal": "This whole area will get redeveloped too and become livelier, I'd say.",
+  "official": "Besides, redevelopment raises property values for the whole area.",
+  "official_ok": true
+ },
+ "411": {
+  "literal": "By the way, what happened to that property behind the theater plaza?",
+  "official": "Hey, whatever happened to that property behind Theater Square?",
+  "official_ok": true
+ },
+ "412": {
+  "literal": "Having one set up for you—that's pretty lucky, huh.",
+  "official": "They're lucky Tachibana's office was able to find them a new location in Kamurocho.",
+  "official_ok": true
+ },
+ "413": {
+  "literal": "Having one set up for you—that's pretty lucky, huh.",
+  "official": "They're lucky Tachibana's office was able to find them a new location in Kamurocho.",
+  "official_ok": true
+ },
+ "414": {
+  "literal": "Who knows? Well, nothing to lose—why not give it a shot?",
+  "official": "Who knows? Can't hurt to ask, I guess.",
+  "official_ok": true
+ },
+ "415": {
+  "literal": "Who knows? Well, nothing to lose—why not go take a swing at it?",
+  "official": "Who knows? Can't hurt to ask, I guess.",
+  "official_ok": true
+ },
+ "416": {
+  "literal": "A homeless man with strong body odor",
+  "official": "Smelly Homeless Man",
+  "official_ok": true
+ },
+ "417": {
+  "literal": "A homeless man with a harsh stench",
+  "official": "Smelly Homeless Man",
+  "official_ok": true
+ },
+ "418": {
+  "literal": "The homeless man with the cart",
+  "official": "Cart-pulling Homeless Man",
+  "official_ok": true
+ },
+ "419": {
+  "literal": "The homeless man with the cart",
+  "official": "Cart-pulling Homeless Man",
+  "official_ok": true
+ },
+ "420": {
+  "literal": "They say if you just go skiing, you can pick up chicks all you want.",
+  "official": "All these cats going skiing say it's like an all-you-can-eat chick buffet on the slopes.",
+  "official_ok": true
+ },
+ "421": {
+  "literal": "They say if you just go skiing, you can pick up chicks to your heart's content.",
+  "official": "All these cats going skiing say it's like an all-you-can-eat chick buffet on the slopes.",
+  "official_ok": true
+ },
+ "422": {
+  "literal": "It's so irritating that he's flush with cash.",
+  "official": "seeing a homeless dude waving his cash around is pretty harsh.",
+  "official_ok": true
+ },
+ "423": {
+  "literal": "It's so irritating that he's rolling in money.",
+  "official": "seeing a homeless dude waving his cash around is pretty harsh.",
+  "official_ok": true
+ },
+ "424": {
+  "literal": "Idiot. Even if he's yakuza, his age isn't much different...",
+  "official": "So what if he is? He's our age.",
+  "official_ok": true
+ },
+ "425": {
+  "literal": "Idiot. Even if he's yakuza, his age isn't all that different...",
+  "official": "So what if he is? He's our age.",
+  "official_ok": true
+ },
+ "426": {
+  "literal": "...no different from us... He's probably just a low-level grunt anyway.",
+  "official": "If he's yakuza, he's probably just an errand boy.",
+  "official_ok": true
+ },
+ "427": {
+  "literal": "...no different from us... He's probably just an underling anyway.",
+  "official": "If he's yakuza, he's probably just an errand boy.",
+  "official_ok": true
+ },
+ "428": {
+  "literal": "Unfortunately, my only strong suit is my fists in a fight.",
+  "official": "all I could do is fight",
+  "official_ok": true
+ },
+ "429": {
+  "literal": "Unfortunately, my only merit is my fighting muscle.",
+  "official": "all I could do is fight",
+  "official_ok": true
+ },
+ "430": {
+  "literal": "Unfortunately, my only strong point is my brawling strength.",
+  "official": "all I could do is fight",
+  "official_ok": true
+ },
+ "431": {
+  "literal": "Do that, and the way you see the world will change a bit too.",
+  "official": "you'll see the world in a whole new light",
+  "official_ok": true
+ },
+ "432": {
+  "literal": "Do that, and the way you see the world will change a bit too.",
+  "official": "you'll see the world in a whole new light",
+  "official_ok": true
+ },
+ "433": {
+  "literal": "Once you reach that level, you can still pull it off even so.",
+  "official": "You get to that level, you can wear whatever you damn well please.",
+  "official_ok": true
+ },
+ "434": {
+  "literal": "Once you reach that level, it still passes muster even so.",
+  "official": "You get to that level, you can wear whatever you damn well please.",
+  "official_ok": true
+ },
+ "435": {
+  "literal": "In the yakuza trade, you need a certain amount of putting on a front.",
+  "official": "But for the rest of us, \"flashy\" is part of the business.",
+  "official_ok": true
+ },
+ "436": {
+  "literal": "In the yakuza trade, you need a certain degree of keeping up appearances.",
+  "official": "But for the rest of us, \"flashy\" is part of the business.",
+  "official_ok": true
+ },
+ "437": {
+  "literal": "This snazzy lighter is mine too.",
+  "official": "Yeah, and that fancy lighter of mine, too.",
+  "official_ok": true
+ },
+ "438": {
+  "literal": "This stylish lighter is mine too.",
+  "official": "Yeah, and that fancy lighter of mine, too.",
+  "official_ok": true
+ },
+ "439": {
+  "literal": "If you want to put on airs, don't be a cheapskate.",
+  "official": "You want to play the rich guy, quit being so stingy.",
+  "official_ok": true
+ },
+ "440": {
+  "literal": "If you want to keep up appearances, don't be stingy about it.",
+  "official": "You want to play the rich guy, quit being so stingy.",
+  "official_ok": true
+ },
+ "441": {
+  "literal": "People look at the emblem on your car and the brand of clothes you wear,",
+  "official": "People see the expensive car, the designer jacket,",
+  "official_ok": true
+ },
+ "442": {
+  "literal": "People look at the emblem on your car and the brand of clothes you wear,",
+  "official": "People see the expensive car, the designer jacket,",
+  "official_ok": true
+ },
+ "443": {
+  "literal": "And seeing this Dojima Family crest, they obediently do as they're told.",
+  "official": "and the gleam of that little Dojima pin, they pay attention.",
+  "official_ok": true
+ },
+ "444": {
+  "literal": "And seeing this Dojima Family crest, they meekly do as they're told.",
+  "official": "and the gleam of that little Dojima pin, they pay attention.",
+  "official_ok": true
+ },
+ "445": {
+  "literal": "A yakuza is all about putting on a good front.",
+  "official": "A yakuza's only as good as his image.",
+  "official_ok": true
+ },
+ "446": {
+  "literal": "A yakuza is worth only as much as the front he puts on.",
+  "official": "A yakuza's only as good as his image.",
+  "official_ok": true
+ },
+ "447": {
+  "literal": "To a guy who, despite being a straight citizen, runs a ruthless racket...",
+  "official": "",
+  "official_ok": false
+ }
+}

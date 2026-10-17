@@ -1,0 +1,317 @@
+{
+ "192": {
+  "literal": "A bodyguard? To protect him against whom?",
+  "official": "Bodyguard? To protect him from whom?",
+  "official_ok": true
+ },
+ "193": {
+  "literal": "Hmph... No matter what some outsider says,",
+  "official": "Right. Well, it doesn't matter much what an outsider like you has to say.",
+  "official_ok": true
+ },
+ "194": {
+  "literal": "There is one, actually. Here—this is from the boss of the Jinsei Family.",
+  "official": "Something from the boss over at the Jinsei Family.",
+  "official_ok": true
+ },
+ "195": {
+  "literal": "Three years' worth of thirty thousand a month, with a little extra tacked on, comes to two million.",
+  "official": "Three years' worth at 30 grand a month, rounded way up to two million.",
+  "official_ok": true
+ },
+ "196": {
+  "literal": "According to a guy named Oda, on the top floor here...",
+  "official": "That Oda guy said if I wait in the penthouse here",
+  "official_ok": true
+ },
+ "197": {
+  "literal": "...if I wait, Tachibana is supposed to show up, he said.",
+  "official": "if I wait in the penthouse here, Tachibana will show up",
+  "official_ok": true
+ },
+ "198": {
+  "literal": "With this, big bro, you too join the ranks of men who can tell the difference.",
+  "official": "Now let's induct you into the club of connoisseurs, kid!",
+  "official_ok": true
+ },
+ "199": {
+  "literal": "Once they eventually learn of that, they'll surely fly into a rage.",
+  "official": "Of course, the moment they learn of that, they will be quite furious",
+  "official_ok": true
+ },
+ "200": {
+  "literal": "Me, I'm way more hot-blooded than your run-of-the-mill yakuza—",
+  "official": "But it works out, seeing as my blood boils hotter than your average yakuza.",
+  "official_ok": true
+ },
+ "201": {
+  "literal": "You're supposed to be our protection, yet you don't guard us when it counts...",
+  "official": "It's not protection money if you don't show up to actually protect me when I need it!",
+  "official_ok": true
+ },
+ "202": {
+  "literal": "The, uh—the man who came to you with the eviction offer—",
+  "official": "the guy from Tachibana's office who paid you that visit",
+  "official_ok": true
+ },
+ "203": {
+  "literal": "Heh heh. From what I've heard, the boss of the Jinsei Family—",
+  "official": "Came to light he'd been skimming off the top of his payments up the ladder. Anonymous tip.",
+  "official_ok": true
+ },
+ "204": {
+  "literal": "They're a ragtag bunch of drifters thrown together.",
+  "official": "",
+  "official_ok": false
+ },
+ "205": {
+  "literal": "They're specialists in real estate takeovers.",
+  "official": "property acquisition specialists homing in on Kamurocho",
+  "official_ok": true
+ },
+ "206": {
+  "literal": "Because they became the owner of this building, every one of us—",
+  "official": "they owned the building and we all had to leave",
+  "official_ok": true
+ },
+ "207": {
+  "literal": "It can't be helped... I'll ask all five of them their preferences, and—",
+  "official": "(It's probably quickest to just give them what they want... I'll take their orders and bring what they tell me to.)",
+  "official_ok": true
+ },
+ "208": {
+  "literal": "Unless it's booze suited to each one's own taste,",
+  "official": "If you don't give 'em exactly what they want, they're just no good.",
+  "official_ok": true
+ },
+ "209": {
+  "literal": "—shall I go and procure the drinks they want.",
+  "official": "I'll take their orders and bring what they tell me to.",
+  "official_ok": true
+ },
+ "210": {
+  "literal": "—shall I go and procure the drinks they want.",
+  "official": "I'll take their orders and bring what they tell me to.",
+  "official_ok": true
+ },
+ "211": {
+  "literal": "When a superior offers you a drink,",
+  "official": "",
+  "official_ok": false
+ },
+ "212": {
+  "literal": "When a superior presses a drink on you,",
+  "official": "",
+  "official_ok": false
+ },
+ "213": {
+  "literal": "In the scramble over the 'Empty Lot,' we—",
+  "official": "In the race to secure the Empty Lot",
+  "official_ok": true
+ },
+ "214": {
+  "literal": "In the contest of grabbing for the 'Empty Lot,' we—",
+  "official": "In the race to secure the Empty Lot",
+  "official_ok": true
+ },
+ "215": {
+  "literal": "He's a man with the caliber to climb all the way to the top.",
+  "official": "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself.",
+  "official_ok": true
+ },
+ "216": {
+  "literal": "He's a man with enough caliber to ascend clear to the summit.",
+  "official": "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself.",
+  "official_ok": true
+ },
+ "217": {
+  "literal": "He's a man possessed of the caliber to reach the very top.",
+  "official": "Kazama-san is a man capable of rising to the very top, not only of the Dojima Family, but of the Tojo Clan itself.",
+  "official_ok": true
+ },
+ "218": {
+  "literal": "It should have been easy for him to predict.",
+  "official": "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+  "official_ok": true
+ },
+ "219": {
+  "literal": "Predicting it would have been a simple matter for him.",
+  "official": "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+  "official_ok": true
+ },
+ "220": {
+  "literal": "In order to welcome you in, I needed to obtain his consent.",
+  "official": "I needed his approval before I could officially welcome you into our circle.",
+  "official_ok": true
+ },
+ "221": {
+  "literal": "To bring you into the fold, I needed to secure his agreement.",
+  "official": "I needed his approval before I could officially welcome you into our circle.",
+  "official_ok": true
+ },
+ "222": {
+  "literal": "If you head home quietly, I'll let you off.",
+  "official": "Leave quietly, and I'll just watch you walk away.",
+  "official_ok": true
+ },
+ "223": {
+  "literal": "Go home quietly and I'll look the other way.",
+  "official": "Leave quietly, and I'll just watch you walk away.",
+  "official_ok": true
+ },
+ "224": {
+  "literal": "But to be turned away at the door of a place I was invited to,",
+  "official": "But getting bounced at the door from a party I was invited to is a new low.",
+  "official_ok": true
+ },
+ "225": {
+  "literal": "But getting shut out at the gate of a place I was summoned to,",
+  "official": "But getting bounced at the door from a party I was invited to is a new low.",
+  "official_ok": true
+ },
+ "226": {
+  "literal": "My right hand is a prosthetic. Please excuse my poor manners.",
+  "official": "My right hand is prosthetic. Please excuse my table manners.",
+  "official_ok": true
+ },
+ "227": {
+  "literal": "My right hand is an artificial one. Forgive my discourtesy.",
+  "official": "My right hand is prosthetic. Please excuse my table manners.",
+  "official_ok": true
+ },
+ "228": {
+  "literal": "My right hand is a prosthetic. Pardon the breach of etiquette.",
+  "official": "My right hand is prosthetic. Please excuse my table manners.",
+  "official_ok": true
+ },
+ "229": {
+  "literal": "My right hand is a prosthetic. I beg your forgiveness for the rudeness.",
+  "official": "My right hand is prosthetic. Please excuse my table manners.",
+  "official_ok": true
+ },
+ "230": {
+  "literal": "Strange thing is, it aches all the way to fingertips that shouldn't even be there—",
+  "official": "A curious thing. I feel it throbbing, down to the fingertips, even though it's gone.",
+  "official_ok": true
+ },
+ "231": {
+  "literal": "Curiously, it throbs right down to fingertips that no longer exist—",
+  "official": "A curious thing. I feel it throbbing, down to the fingertips, even though it's gone.",
+  "official_ok": true
+ },
+ "232": {
+  "literal": "Before long, you and Nishikiyama came to look up to [him] as a father—",
+  "official": "You and Nishikiyama-san regarded Kazama-san as a father, in time following in his footsteps to join the yakuza.",
+  "official_ok": true
+ },
+ "233": {
+  "literal": "You and Nishikiyama adored [Kazama] as a father—",
+  "official": "You and Nishikiyama-san regarded Kazama-san as a father, in time following in his footsteps to join the yakuza.",
+  "official_ok": true
+ },
+ "234": {
+  "literal": "As a result of that, Kazama-san too now faces the risk of excommunication.",
+  "official": "with Kazama-san facing the risk of expulsion as a result.",
+  "official_ok": true
+ },
+ "235": {
+  "literal": "Because of that fallout, Kazama-san too is on the brink of expulsion.",
+  "official": "with Kazama-san facing the risk of expulsion as a result.",
+  "official_ok": true
+ },
+ "236": {
+  "literal": "So you're refusing my offer?",
+  "official": "So you are rejecting my offer?",
+  "official_ok": true
+ },
+ "237": {
+  "literal": "So you would reject my proposal?",
+  "official": "So you are rejecting my offer?",
+  "official_ok": true
+ },
+ "238": {
+  "literal": "Yeah. But even so, it's one step forward. Now that the Dojima crest is off me—",
+  "official": "I know. Still, this is a step forward. Now that I'm not yakuza, I'm free to take action.",
+  "official_ok": true
+ },
+ "239": {
+  "literal": "Yeah. But even so, it's progress by one step. With the Dojima crest stripped away—",
+  "official": "I know. Still, this is a step forward. Now that I'm not yakuza, I'm free to take action.",
+  "official_ok": true
+ },
+ "240": {
+  "literal": "There's still plenty of room to improve my training.",
+  "official": "I need to change my training regimen. Time to bump up the intensity.",
+  "official_ok": true
+ },
+ "241": {
+  "literal": "My training still has room for improvement.",
+  "official": "I need to change my training regimen. Time to bump up the intensity.",
+  "official_ok": true
+ },
+ "242": {
+  "literal": "There's still room left over to refine my training.",
+  "official": "I need to change my training regimen. Time to bump up the intensity.",
+  "official_ok": true
+ },
+ "243": {
+  "literal": "The most effective tactic is to run before you get accosted.",
+  "official": "If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+  "official_ok": true
+ },
+ "244": {
+  "literal": "Fleeing before you get hassled is the most effective method.",
+  "official": "If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+  "official_ok": true
+ },
+ "245": {
+  "literal": "Running away before you're accosted is the most effective means.",
+  "official": "If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+  "official_ok": true
+ },
+ "246": {
+  "literal": "The most effective means is to escape before you get tangled up with them.",
+  "official": "If you spot him in the street, the safest tactic is to run away before he can rope you into fighting.",
+  "official_ok": true
+ },
+ "247": {
+  "literal": "The shop's suppliers, its customer records—everything.",
+  "official": "Where I source all the cafe's supplies, who all my customers are.",
+  "official_ok": true
+ },
+ "248": {
+  "literal": "The store's suppliers, its customer information—all of it.",
+  "official": "Where I source all the cafe's supplies, who all my customers are.",
+  "official_ok": true
+ },
+ "249": {
+  "literal": "\"Snack Namase\"...",
+  "official": "",
+  "official_ok": false
+ },
+ "250": {
+  "literal": "\"Snack Namase\"...",
+  "official": "",
+  "official_ok": false
+ },
+ "251": {
+  "literal": "—was pilfering the tribute money owed up to headquarters.",
+  "official": "Came to light he'd been skimming off the top of his payments up the ladder.",
+  "official_ok": true
+ },
+ "252": {
+  "literal": "—had been skimming the tribute money owed up to headquarters.",
+  "official": "Came to light he'd been skimming off the top of his payments up the ladder.",
+  "official_ok": true
+ },
+ "254": {
+  "literal": "About all I've got for you is a warning to keep your hands off Tachibana.",
+  "official": "",
+  "official_ok": false
+ },
+ "255": {
+  "literal": "Newcomers like us have no right to do whatever we please.",
+  "official": "",
+  "official_ok": false
+ }
+}

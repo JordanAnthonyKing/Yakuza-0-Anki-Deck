@@ -1,0 +1,4187 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "はい。<b>あらかた</b>元の通りに。タダで飲めると",
+  "word": "粗方",
+  "reading": "あらかた",
+  "meaning": "mostly; almost; nearly; for the most part",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(adverb) mostly; almost; nearly; for the most part",
+   "(adverb) roughly; approximately; about"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "いえ、<b>突き飛ばさ</b>れた小野の奴もこれといって。",
+  "word": "突き飛ばす",
+  "reading": "つきとばす",
+  "meaning": "to thrust away; to send flying",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to thrust away; to send flying"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "はい、それは<b>先んじ</b>て伝えておきました。",
+  "word": "先んずる",
+  "reading": "さきんずる",
+  "meaning": "to go before; to precede; to forestall; to anticipate",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to go before; to precede; to forestall; to anticipate"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>概ね</b>問題はないのですが……",
+  "word": "概ね",
+  "reading": "おおむね",
+  "meaning": "in general; generally; mostly; roughly",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(adverb) in general; generally; mostly; roughly",
+   "(noun) gist; point; main idea"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ちょっと他の<b>子</b>……　特にサクラコちゃんと",
+  "word": "子",
+  "reading": "こ",
+  "meaning": "child; kid; teenager; youngster",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) child; kid; teenager; youngster",
+   "(noun) (one's) child; offspring",
+   "(noun) young woman",
+   "(noun) young (animal)",
+   "(noun) offshoot",
+   "(noun) interest"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "女っちゅうのは<b>ホンマ</b>面倒くさいのう。",
+  "word": "本真",
+  "reading": "ほんま",
+  "meaning": "truth; reality",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(na-adjective) truth; reality"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "すみません、お<b>手数</b>ですがお願いします。",
+  "word": "手数",
+  "reading": "てすう",
+  "meaning": "trouble; bother",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) trouble; bother",
+   "(noun) number of moves",
+   "(noun) number of punches",
+   "(noun) number of liberties"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "しゃあない、<b>本人</b>に直接会いに行くか……",
+  "word": "本人",
+  "reading": "ほんにん",
+  "meaning": "the person in question; the person themselves; said person",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) the person in question; the person themselves; said person"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>控え室</b>におるやろうか",
+  "word": "控え室",
+  "reading": "ひかえしつ",
+  "meaning": "waiting room; anteroom; antechamber; green room",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) waiting room; anteroom; antechamber; green room"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>支配</b>人、あの問題が……",
+  "word": "支配",
+  "reading": "しはい",
+  "meaning": "rule; domination; control",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "ボーイ",
+  "uid": "010221f4",
+  "candidates": [
+   "(verb) rule; domination; control",
+   "(verb) direction; management; guidance",
+   "(verb) control (of one's destiny, public opinion, etc.); governing; influence; sway",
+   "(verb) government"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>ったく</b>……　今度は何や？",
+  "word": "全く",
+  "reading": "まったく",
+  "meaning": "really; truly; entirely; completely",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f4",
+  "candidates": [
+   "(adverb) really; truly; entirely; completely",
+   "(adverb) indeed",
+   "(int) good grief"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>無茶苦茶</b>な注文してくるお客さんがいて……",
+  "word": "無茶苦茶",
+  "reading": "むちゃくちゃ",
+  "meaning": "nonsensical; unreasonable; absurd; unrealistic",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "ボーイ",
+  "uid": "010221f4",
+  "candidates": [
+   "(na-adjective) nonsensical; unreasonable; absurd; unrealistic",
+   "(na-adjective) awfully; extremely; to excess; senseless",
+   "(na-adjective) disorder; confusion; being jumbled; being mixed up",
+   "(adverb) very; extremely; excessively"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "第１級の<b>ヴィンテージ</b>・ワインをはじめ、",
+  "word": "ビンテージ",
+  "reading": "ヴィンテージ",
+  "meaning": "vintage (year, wine)",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "ボーイ",
+  "uid": "010221f4",
+  "candidates": [
+   "(noun) vintage (year, wine)",
+   "(adj-f) vintage (car, jeans, etc.)"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>ブランデー</b>やウイスキーなど１点ものばかり。",
+  "word": "ブランデー",
+  "reading": "ブランデー",
+  "meaning": "brandy",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "ボーイ",
+  "uid": "010221f4",
+  "candidates": [
+   "(noun) brandy"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "こういう時人間の<b>品性</b>が出るのう。",
+  "word": "品性",
+  "reading": "ひんせい",
+  "meaning": "character; personality",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f4",
+  "candidates": [
+   "(noun) character; personality"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "中々気が<b>利い</b>てるなあ。",
+  "word": "利く",
+  "reading": "きく",
+  "meaning": "to be effective; to take effect; to be good (for)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to be effective; to take effect; to be good (for)",
+   "(verb) to work; to function well",
+   "(verb) to be possible (to do, use, etc.); to be able to",
+   "(verb) to taste (alcohol); to try"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "やっぱりお前、カタギが<b>向い</b>てるって。",
+  "word": "向く",
+  "reading": "むく",
+  "meaning": "to turn toward; to look (up, down, etc.)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to turn toward; to look (up, down, etc.)",
+   "(verb) to face (e.g. east) (of a building, window, etc.); to look out on; to front (on)",
+   "(verb) to point (of an arrow, compass needle, etc.)",
+   "(verb) to be suited to; to be fit for",
+   "(verb) to go towards; to turn to (of one's interests, feelings, etc.); to be inclined (to do)"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>アホ</b>ぬかせ。誰がこんなこと",
+  "word": "阿呆",
+  "reading": "アホ",
+  "meaning": "fool; idiot; simpleton",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(na-adjective) fool; idiot; simpleton"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>皮肉</b>なもんだ。",
+  "word": "皮肉",
+  "reading": "ひにく",
+  "meaning": "irony; sarcasm; cynicism; satire",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(na-adjective) irony; sarcasm; cynicism; satire",
+   "(na-adjective) unexpected; different from what one expected; not as one had planned",
+   "(noun) (only) surface; something superficial",
+   "(noun) skin and bone; body"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そんな誰もが<b>羨む</b>立場を得たお前だけがただひとり、",
+  "word": "羨む",
+  "reading": "うらやむ",
+  "meaning": "to envy; to be envious of; to be jealous of",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to envy; to be envious of; to be jealous of"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "この街で別の「何か」を<b>求め</b>てる……",
+  "word": "求める",
+  "reading": "もとめる",
+  "meaning": "to want; to wish for",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to want; to wish for",
+   "(verb) to request; to demand; to require; to ask for",
+   "(verb) to seek; to search for; to look for; to pursue (pleasure)",
+   "(verb) to purchase; to buy"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日はずいぶんお<b>喋り</b>やないか。",
+  "word": "喋り",
+  "reading": "しゃべり",
+  "meaning": "talk; chat",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) talk; chat"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>しけ</b>たツラのお前を見てたらなんとなくな。",
+  "word": "時化る",
+  "reading": "しける",
+  "meaning": "to be stormy or choppy (sea)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to be stormy or choppy (sea)",
+   "(verb) to go through hard times; to be broke",
+   "(verb) to be gloomy; to be glum"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "でもまぁ、この<b>現状</b>をお前が気に入らないのは",
+  "word": "現状",
+  "reading": "げんじょう",
+  "meaning": "present condition; existing state; status quo; current state",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) present condition; existing state; status quo; current state"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "これはお前への「<b>罰</b>」……なんだからな。",
+  "word": "罰",
+  "reading": "ばち",
+  "meaning": "(divine) punishment; curse; retribution",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) (divine) punishment; curse; retribution"
+  ]
+ },
+ {
+  "order": 25,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "何度目だろうな、その<b>台詞</b>。",
+  "word": "台詞",
+  "reading": "せりふ",
+  "meaning": "(spoken) line (in a play, film, comic, etc.); one's lines",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) (spoken) line (in a play, film, comic, etc.); one's lines",
+   "(noun) comment; remark; phrase; words",
+   "(noun) stock phrase; set phrase; cliché; platitude"
+  ]
+ },
+ {
+  "order": 26,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今月の<b>売り上げ</b>や。この調子なら",
+  "word": "売り上げ",
+  "reading": "うりあげ",
+  "meaning": "amount sold; sales; proceeds; takings",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) amount sold; sales; proceeds; takings"
+  ]
+ },
+ {
+  "order": 27,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "来月には<b>ノルマ</b>の１億、達成するで。",
+  "word": "ノルマ",
+  "reading": "ノルマ",
+  "meaning": "(one's) quota; assignment",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) (one's) quota; assignment"
+  ]
+ },
+ {
+  "order": 28,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺が極道に戻れるよう<b>口利き</b>する……",
+  "word": "口利き",
+  "reading": "くちきき",
+  "meaning": "mediation; good offices; intervention; mediator",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) mediation; good offices; intervention; mediator",
+   "(noun) influential person; person of influence",
+   "(noun) eloquence; eloquent person",
+   "(noun) way of speaking"
+  ]
+ },
+ {
+  "order": 29,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そんなことしたら、お前はあの「<b>暗</b>～い場所」に",
+  "word": "暗",
+  "reading": "あん",
+  "meaning": "darkness",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) darkness"
+  ]
+ },
+ {
+  "order": 30,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>逆戻り</b>だ。それは嫌だろうからなあ。",
+  "word": "逆戻り",
+  "reading": "ぎゃくもどり",
+  "meaning": "retrogression; reversal; relapse; doubling back",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) retrogression; reversal; relapse; doubling back"
+  ]
+ },
+ {
+  "order": 31,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ヤクザがお前みたいな<b>金づる</b>、",
+  "word": "金蔓",
+  "reading": "かねづる",
+  "meaning": "source of revenue; financial supporter",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) source of revenue; financial supporter"
+  ]
+ },
+ {
+  "order": 32,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "簡単に<b>手放す</b>わけがないだろう。",
+  "word": "手放す",
+  "reading": "てばなす",
+  "meaning": "to let go of; to release; to drop",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to let go of; to release; to drop",
+   "(verb) to part with (e.g. a possession); to relinquish; to spare; to sell",
+   "(verb) to send away (e.g. one's child); to let go; to part with",
+   "(verb) to temporarily stop working"
+  ]
+ },
+ {
+  "order": 33,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>上等</b>や……　５億やろうが何やろうが、",
+  "word": "上等",
+  "reading": "じょうとう",
+  "meaning": "superior; first-class; excellent; top quality",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(na-adjective) superior; first-class; excellent; top quality",
+   "(int) (that's) just fine!; bring it on!"
+  ]
+ },
+ {
+  "order": 34,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>ナンボ</b>でも稼いだるわ。",
+  "word": "何ぼ",
+  "reading": "なんぼ",
+  "meaning": "how much; how many; how; to what extent",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(adverb) how much; how many; how; to what extent",
+   "(adverb) however (much); no matter how",
+   "(adverb) what matters is ...; it all comes down to ...; nothing beats ..."
+  ]
+ },
+ {
+  "order": 35,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>引き続き</b>よろしく頼むよ、支配人。",
+  "word": "引き続く",
+  "reading": "ひきつづく",
+  "meaning": "to continue (for a long time); to occur in succession; to come next (e.g. on TV)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to continue (for a long time); to occur in succession; to come next (e.g. on TV)"
+  ]
+ },
+ {
+  "order": 36,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それが<b>どない</b>した。",
+  "word": "どない",
+  "reading": "どない",
+  "meaning": "what kind of; what sort of; what",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(na-adjective) what kind of; what sort of; what",
+   "(adverb) how; in what way"
+  ]
+ },
+ {
+  "order": 37,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お<b>あつらえ向き</b>かと思ってよ。",
+  "word": "誂え向き",
+  "reading": "あつらえむき",
+  "meaning": "perfect (for); ideal; just right; most suitable",
+  "pos": "adj-no",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(adj-no) perfect (for); ideal; just right; most suitable"
+  ]
+ },
+ {
+  "order": 38,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "売上に相当<b>響き</b>ますよ！",
+  "word": "響く",
+  "reading": "ひびく",
+  "meaning": "to resound; to be heard far away",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221fc",
+  "candidates": [
+   "(verb) to resound; to be heard far away",
+   "(verb) to reverberate; to shake; to vibrate",
+   "(verb) to come (home); to remain (with someone)",
+   "(verb) to have an effect; to make an impression"
+  ]
+ },
+ {
+  "order": 39,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "分かっとる。せやけどオーナー様のご<b>決定</b>や。",
+  "word": "決定",
+  "reading": "けってい",
+  "meaning": "decision; determination",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221fc",
+  "candidates": [
+   "(verb) decision; determination"
+  ]
+ },
+ {
+  "order": 40,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……ったく、<b>落ち込ん</b>どる暇もあらへんなぁ。",
+  "word": "落ち込む",
+  "reading": "おちこむ",
+  "meaning": "to feel down; to feel sad; to be depressed; to be in low spirits",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221fc",
+  "candidates": [
+   "(verb) to feel down; to feel sad; to be depressed; to be in low spirits",
+   "(verb) to be in a slump (business, economy, etc.); to be in an unfavourable condition",
+   "(verb) to fall into (e.g. a hole)"
+  ]
+ },
+ {
+  "order": 41,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オデッセイのノゾミちゃんが<b>ダントツ</b>でしょうね。",
+  "word": "断トツ",
+  "reading": "だんトツ",
+  "meaning": "far and away the best; the very best; cream of the crop; crème de la crème",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221fc",
+  "candidates": [
+   "(noun) far and away the best; the very best; cream of the crop; crème de la crème"
+  ]
+ },
+ {
+  "order": 42,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オデッセイ自体がウチの<b>ライバル</b>みたいなもの",
+  "word": "ライバル",
+  "reading": "ライバル",
+  "meaning": "rival; competitor; competition",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221fc",
+  "candidates": [
+   "(noun) rival; competitor; competition"
+  ]
+ },
+ {
+  "order": 43,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そうか。……じゃ、一<b>丁</b>行ってくるかのう。",
+  "word": "丁",
+  "reading": "ちょう",
+  "meaning": "counter for long and narrow things (e.g. guns, spades, hoes, oars, ink sticks, candles, abacuses, kitchen knives, scissors, shamisen, violins); counter for palanquins, rickshaws, and similar vehicles",
+  "pos": "ctr",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221fc",
+  "candidates": [
+   "(ctr) counter for long and narrow things (e.g. guns, spades, hoes, oars, ink sticks, candles, abacuses, kitchen knives, scissors, shamisen, violins); counter for palanquins, rickshaws, and similar vehicles"
+  ]
+ },
+ {
+  "order": 44,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "決まっとるやろ。ノゾミをウチに<b>引き抜く</b>。",
+  "word": "引き抜く",
+  "reading": "ひきぬく",
+  "meaning": "to extract; to pull out; to draw out; to uproot",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221fc",
+  "candidates": [
+   "(verb) to extract; to pull out; to draw out; to uproot",
+   "(verb) to headhunt; to lure away; to poach; to entice"
+  ]
+ },
+ {
+  "order": 45,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここでコケたらウチはあっちゅう間に<b>崩れる</b>で。",
+  "word": "崩れる",
+  "reading": "くずれる",
+  "meaning": "to collapse; to crumble",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221fc",
+  "candidates": [
+   "(verb) to collapse; to crumble",
+   "(verb) to get out of shape; to lose one's shape; to become disorganized; to become untidy",
+   "(verb) to break down; to be thrown into disarray",
+   "(verb) to crash (stock market); to slump; to decline",
+   "(verb) to break money into small change",
+   "(verb) to turn bad (e.g. weather); to change for the worse; to deteriorate"
+  ]
+ },
+ {
+  "order": 46,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "さ、オデッセイに<b>乗り込ん</b>で",
+  "word": "乗り込む",
+  "reading": "のりこむ",
+  "meaning": "to board (a train, plane, etc.); to get into (a car); to get on (a bus); to go on board",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022200",
+  "candidates": [
+   "(verb) to board (a train, plane, etc.); to get into (a car); to get on (a bus); to go on board",
+   "(verb) to march into; to enter; to arrive (at, in)"
+  ]
+ },
+ {
+  "order": 47,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ノゾミの<b>引き抜き</b>といくか",
+  "word": "引き抜き",
+  "reading": "ひきぬき",
+  "meaning": "hiring from another company; recruitment; scouting; headhunting",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022200",
+  "candidates": [
+   "(noun) hiring from another company; recruitment; scouting; headhunting",
+   "(noun) quick costume change (taking off outer costume)",
+   "(noun) drawing (wire, pipes, metal plate)",
+   "(noun) extraction; pulling out"
+  ]
+ },
+ {
+  "order": 48,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "「オデッセイ」は<b>招福</b>町やったな……",
+  "word": "招福",
+  "reading": "しょうふく",
+  "meaning": "good luck charm; something that encourages or invites good luck",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022200",
+  "candidates": [
+   "(noun) good luck charm; something that encourages or invites good luck"
+  ]
+ },
+ {
+  "order": 49,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "気になるところをボタンで<b>観察</b>してみましょう。",
+  "word": "観察",
+  "reading": "かんさつ",
+  "meaning": "observation; survey; watching",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "マウスを使用し店内を見回す",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) observation; survey; watching"
+  ]
+ },
+ {
+  "order": 50,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>５０</b>過ぎたオッサンが２人。",
+  "word": "フィフティー",
+  "reading": "フィフティー",
+  "meaning": "fifty",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) fifty"
+  ]
+ },
+ {
+  "order": 51,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>金融</b>系か不動産系で間違いない",
+  "word": "金融",
+  "reading": "きんゆう",
+  "meaning": "finance; financing; credit transacting; loaning of money",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) finance; financing; credit transacting; loaning of money",
+   "(adj-no) monetary; financial; credit"
+  ]
+ },
+ {
+  "order": 52,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あの感じは<b>接待</b>とちゃうな。",
+  "word": "接待",
+  "reading": "せったい",
+  "meaning": "entertainment (of guests; esp. in the corporate world); treating (to food and drinks); wining and dining",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) entertainment (of guests; esp. in the corporate world); treating (to food and drinks); wining and dining"
+  ]
+ },
+ {
+  "order": 53,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "若いのが<b>ＡＤ</b>っちゅうところか",
+  "word": "ＡＤ",
+  "reading": "エー・ディー",
+  "meaning": "AD; Anno Domini",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) AD; Anno Domini"
+  ]
+ },
+ {
+  "order": 54,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "客が３人に<b>対し</b>て、ホステスが２人……",
+  "word": "対する",
+  "reading": "たいする",
+  "meaning": "to face (each other); to be facing",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to face (each other); to be facing",
+   "(verb) to be directed toward (the future, etc.); to be in response to; to be related to",
+   "(verb) to receive (a client, etc.)",
+   "(verb) to compare with; to contrast with; to be in opposition with; to be opposed to",
+   "(verb) to confront; to oppose; to compete with"
+  ]
+ },
+ {
+  "order": 55,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どうにも<b>バランス</b>が悪いのう",
+  "word": "バランス",
+  "reading": "バランス",
+  "meaning": "balance",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) balance"
+  ]
+ },
+ {
+  "order": 56,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "確か<b>満席</b>っちゅう話やったが……",
+  "word": "満席",
+  "reading": "まんせき",
+  "meaning": "full house; all seats occupied; fully occupied",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) full house; all seats occupied; fully occupied"
+  ]
+ },
+ {
+  "order": 57,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "人気店っちゅう<b>雰囲気</b>を出すために、",
+  "word": "雰囲気",
+  "reading": "ふんいき",
+  "meaning": "atmosphere; mood; ambience; ambiance",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) atmosphere; mood; ambience; ambiance",
+   "(noun) a certain air; presence; special aura; something (about someone)",
+   "(noun) (Earth's) atmosphere"
+  ]
+ },
+ {
+  "order": 58,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "席に余裕があっても、<b>わざと</b>入り口で",
+  "word": "態と",
+  "reading": "わざと",
+  "meaning": "on purpose; deliberately; intentionally",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) on purpose; deliberately; intentionally"
+  ]
+ },
+ {
+  "order": 59,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……ホステスがどの子も<b>微妙</b>に古いのう。",
+  "word": "微妙",
+  "reading": "びみょう",
+  "meaning": "subtle; delicate; fine",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) subtle; delicate; fine",
+   "(na-adjective) difficult; complex; tricky; delicate (situation, position, etc.)",
+   "(na-adjective) doubtful; questionable; dicey",
+   "(na-adjective) not great; iffy",
+   "(na-adjective) slightly; somewhat; a little bit"
+  ]
+ },
+ {
+  "order": 60,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "同<b>年代</b>の男にはあまりウケへんやろうが、",
+  "word": "年代",
+  "reading": "ねんだい",
+  "meaning": "age; era; period; date",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) age; era; period; date"
+  ]
+ },
+ {
+  "order": 61,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "歳の<b>離れ</b>たオッサンには、",
+  "word": "離れる",
+  "reading": "はなれる",
+  "meaning": "to be separated; to be apart; to be distant",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to be separated; to be apart; to be distant",
+   "(verb) to leave; to go away",
+   "(verb) to leave (a job, etc.); to quit; to give up",
+   "(verb) to lose connection with; to drift away from"
+  ]
+ },
+ {
+  "order": 62,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "やっぱりそう簡単に<b>一見</b>の客にノゾミは来んか……",
+  "word": "一見",
+  "reading": "いっけん",
+  "meaning": "look; glimpse; glance",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) look; glimpse; glance",
+   "(adverb) apparently; seemingly; at first glance; on the face of it",
+   "(verb) first meeting"
+  ]
+ },
+ {
+  "order": 63,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "おぉ～、こらえらい<b>べっぴん</b>さんが来たなぁ！",
+  "word": "別嬪",
+  "reading": "べっぴん",
+  "meaning": "beautiful woman; pretty girl",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) beautiful woman; pretty girl",
+   "(noun) high-quality goods; special article"
+  ]
+ },
+ {
+  "order": 64,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ウチ？　ウチは最近スキーに<b>ハマっ</b>てんねん。",
+  "word": "嵌まる",
+  "reading": "はまる",
+  "meaning": "to fit; to get into; to go into; to be fitted with (e.g. door with a window)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to fit; to get into; to go into; to be fitted with (e.g. door with a window)",
+   "(verb) to be fit for (a job, etc.); to be suited for; to satisfy (conditions)",
+   "(verb) to fall into; to plunge into; to get stuck; to get caught",
+   "(verb) to be deceived; to be taken in; to fall into a trap",
+   "(verb) to get addicted to; to get deep into; to become crazy about; to become stuck on"
+  ]
+ },
+ {
+  "order": 65,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どうせ客に<b>貢い</b>でもらうつもりなんやろ？",
+  "word": "貢ぐ",
+  "reading": "みつぐ",
+  "meaning": "to support (someone) financially; to finance; to supply (money); to give (in support)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to support (someone) financially; to finance; to supply (money); to give (in support)",
+   "(verb) to present (money or gifts) to a monarch (feudal lord, etc.)"
+  ]
+ },
+ {
+  "order": 66,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>そない</b>優しいお客さんおらんもん……",
+  "word": "そない",
+  "reading": "そない",
+  "meaning": "that kind of; that sort of; that; such",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) that kind of; that sort of; that; such",
+   "(adverb) like that; in that way; so"
+  ]
+ },
+ {
+  "order": 67,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "も～、お客さん、<b>いけず</b>やわ！",
+  "word": "いけず",
+  "reading": "いけず",
+  "meaning": "unkind; mean",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) unkind; mean"
+  ]
+ },
+ {
+  "order": 68,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "危うくここに来た目的を<b>見失う</b>とこやったわ……",
+  "word": "見失う",
+  "reading": "みうしなう",
+  "meaning": "to lose sight of; to miss",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to lose sight of; to miss"
+  ]
+ },
+ {
+  "order": 69,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まぁ<b>年末</b>っちゅうこともありますけど、",
+  "word": "年末",
+  "reading": "ねんまつ",
+  "meaning": "end-of-year; year-end",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) end-of-year; year-end"
+  ]
+ },
+ {
+  "order": 70,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "最近はみんな<b>強制</b>で同伴させられてるから、",
+  "word": "強制",
+  "reading": "きょうせい",
+  "meaning": "compulsion; coercion; forcing (to do); enforcement",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) compulsion; coercion; forcing (to do); enforcement"
+  ]
+ },
+ {
+  "order": 71,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "けど、そない<b>必死</b>になって同伴させるほど、",
+  "word": "必死",
+  "reading": "ひっし",
+  "meaning": "frantic; frenetic; desperate",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) frantic; frenetic; desperate",
+   "(noun) inevitable death",
+   "(noun) brinkmate (inevitable checkmate)"
+  ]
+ },
+ {
+  "order": 72,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>意地</b>？",
+  "word": "意地",
+  "reading": "いじ",
+  "meaning": "stubbornness; obstinacy; willpower; pride",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) stubbornness; obstinacy; willpower; pride",
+   "(noun) disposition; nature",
+   "(noun) appetite; desire; greed"
+  ]
+ },
+ {
+  "order": 73,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今月は絶対に勝たな、全員<b>罰金</b>とか、",
+  "word": "罰金",
+  "reading": "ばっきん",
+  "meaning": "fine; penalty",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) fine; penalty"
+  ]
+ },
+ {
+  "order": 74,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なんやそら……　自分とこが<b>儲かっ</b>とれば",
+  "word": "儲かる",
+  "reading": "もうかる",
+  "meaning": "to be profitable; to yield a profit",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to be profitable; to yield a profit"
+  ]
+ },
+ {
+  "order": 75,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>正直</b>、なんぼ同伴したって、常連さんも",
+  "word": "正直",
+  "reading": "しょうじき",
+  "meaning": "honest; frank; candid; straightforward",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) honest; frank; candid; straightforward",
+   "(adverb) honestly; frankly"
+  ]
+ },
+ {
+  "order": 76,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オデッセイは<b>グランド</b>を抜こうと必死みたいやな。",
+  "word": "グランド",
+  "reading": "グラウンド",
+  "meaning": "(sports) ground; (playing) field; playground; stadium",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) (sports) ground; (playing) field; playground; stadium"
+  ]
+ },
+ {
+  "order": 77,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "だが、その勢いもそろそろ<b>頭打ち</b>。",
+  "word": "頭打ち",
+  "reading": "あたまうち",
+  "meaning": "reaching a peak; reaching the limit; plateauing; maxing out",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) reaching a peak; reaching the limit; plateauing; maxing out"
+  ]
+ },
+ {
+  "order": 78,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日は<b>４０</b>人くらいやと思いますけど。",
+  "word": "フォーティー",
+  "reading": "フォーティー",
+  "meaning": "forty",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) forty"
+  ]
+ },
+ {
+  "order": 79,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せやなぁ。<b>週</b>に１度しか来ん子とかもおるし。",
+  "word": "週",
+  "reading": "しゅう",
+  "meaning": "week",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) week"
+  ]
+ },
+ {
+  "order": 80,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>しょっちゅう</b>です。",
+  "word": "しょっちゅう",
+  "reading": "しょっちゅう",
+  "meaning": "always; all the time; constantly; frequently",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) always; all the time; constantly; frequently"
+  ]
+ },
+ {
+  "order": 81,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ほぉ……　そない<b>新顔</b>がよう入ってくるんか。",
+  "word": "新顔",
+  "reading": "しんがお",
+  "meaning": "newcomer; new face",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) newcomer; new face"
+  ]
+ },
+ {
+  "order": 82,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "うちは上下関係<b>めっちゃ</b>厳しいですし、",
+  "word": "目茶",
+  "reading": "めちゃ",
+  "meaning": "very; extremely; so",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) very; extremely; so",
+   "(na-adjective) absurd; ridiculous; nonsensical",
+   "(na-adjective) excessive; extreme"
+  ]
+ },
+ {
+  "order": 83,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "競争が<b>激しい</b>っちゅうことか……",
+  "word": "激しい",
+  "reading": "はげしい",
+  "meaning": "violent; furious; tempestuous",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(i-adjective) violent; furious; tempestuous",
+   "(i-adjective) extreme; intense; fierce; strong",
+   "(i-adjective) fervent; vehement",
+   "(i-adjective) incessant; relentless",
+   "(i-adjective) precipitous; steep"
+  ]
+ },
+ {
+  "order": 84,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "（来た！　ええ<b>流れ</b>や……！）",
+  "word": "流れ",
+  "reading": "ながれ",
+  "meaning": "flow (of a fluid or gas); stream; current",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) flow (of a fluid or gas); stream; current",
+   "(noun) flow (of people, things); passage (of time); tide; passing",
+   "(noun) course (of events); (step-by-step) procedure; process",
+   "(noun) group of people who remain together after the end of an event",
+   "(noun) descent; ancestry; school",
+   "(noun) forfeiture; foreclosure"
+  ]
+ },
+ {
+  "order": 85,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せやからウチら、そないな人と話<b>合わせる</b>ために、",
+  "word": "合わせる",
+  "reading": "あわせる",
+  "meaning": "to match (rhythm, speed, etc.)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to match (rhythm, speed, etc.)",
+   "(verb) to join together; to unite; to combine; to add up",
+   "(verb) to face; to be opposite (someone)",
+   "(verb) to compare; to check with",
+   "(verb) to cause to meet (e.g. an unpleasant fate)",
+   "(verb) to place together; to connect; to overlap"
+  ]
+ },
+ {
+  "order": 86,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そういうお客さんから<b>ウケ</b>が良くて、",
+  "word": "受け",
+  "reading": "うけ",
+  "meaning": "popularity; favour; favor; reception",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) popularity; favour; favor; reception",
+   "(noun) defense; defence; reputation",
+   "(noun) agreement",
+   "(noun) receiver of technique (e.g. in martial arts)",
+   "(noun) bottom (submissive partner of a homosexual relationship)"
+  ]
+ },
+ {
+  "order": 87,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>指名</b>をたくさん稼いでいったんです。",
+  "word": "指名",
+  "reading": "しめい",
+  "meaning": "naming; nominating; designating",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) naming; nominating; designating",
+   "(verb) calling on; asking for; requesting"
+  ]
+ },
+ {
+  "order": 88,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あ、今の<b>内緒</b>にしてぇな？",
+  "word": "内緒",
+  "reading": "ないしょ",
+  "meaning": "secrecy; confidentiality; privacy; secret",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) secrecy; confidentiality; privacy; secret",
+   "(noun) one's circumstances (esp. fiscal)",
+   "(noun) inner realization; personal enlightenment",
+   "(noun) kitchen"
+  ]
+ },
+ {
+  "order": 89,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ウチがそないなこと言ってたのが他の子に<b>バレ</b>たら",
+  "word": "ばれる",
+  "reading": "ばれる",
+  "meaning": "to leak out (of a secret); to come out; to be exposed (of a lie, improper behaviour, etc.); to be found out",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to leak out (of a secret); to come out; to be exposed (of a lie, improper behaviour, etc.); to be found out",
+   "(verb) to get away (of a fish)"
+  ]
+ },
+ {
+  "order": 90,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "噂通り、ホステスの教育は<b>完璧</b>なようやな。",
+  "word": "完璧",
+  "reading": "かんぺき",
+  "meaning": "perfect; complete; flawless",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) perfect; complete; flawless"
+  ]
+ },
+ {
+  "order": 91,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>十分</b>に相手が務まるやろうな……",
+  "word": "十分",
+  "reading": "じゅうぶん",
+  "meaning": "enough; sufficient; plenty; adequate",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) enough; sufficient; plenty; adequate",
+   "(adverb) sufficiently; fully; thoroughly; well",
+   "(verb) division into ten"
+  ]
+ },
+ {
+  "order": 92,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>よろしけれ</b>ばお飲み物もお持ちしますが……？",
+  "word": "宜しい",
+  "reading": "よろしい",
+  "meaning": "good; OK; all right; fine",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "オデッセイのボーイ",
+  "uid": "0102220e",
+  "candidates": [
+   "(i-adjective) good; OK; all right; fine"
+  ]
+ },
+ {
+  "order": 93,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>のんびり</b>待ちますわ。",
+  "word": "のんびり",
+  "reading": "のんびり",
+  "meaning": "at leisure; in a relaxed manner; in a carefree manner; quietly",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) at leisure; in a relaxed manner; in a carefree manner; quietly",
+   "(verb) to relax; to take it easy; to chill"
+  ]
+ },
+ {
+  "order": 94,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "満席でも客を<b>追い返さ</b>んのはさすがやな。",
+  "word": "追い返す",
+  "reading": "おいかえす",
+  "meaning": "to drive away; to turn away; to send away; to repel",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to drive away; to turn away; to send away; to repel"
+  ]
+ },
+ {
+  "order": 95,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここは下手にノゾミを指名<b>せん方</b>が",
+  "word": "詮方",
+  "reading": "せんかた",
+  "meaning": "way; method; means; resource",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) way; method; means; resource"
+  ]
+ },
+ {
+  "order": 96,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "１<b>名</b>様ご案内いたします。こちらへどうぞ。",
+  "word": "名",
+  "reading": "な",
+  "meaning": "name; given name",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "オデッセイのボーイ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) name; given name",
+   "(noun) title",
+   "(noun) fame; renown; reputation",
+   "(noun) pretext; pretense; justification; appearance"
+  ]
+ },
+ {
+  "order": 97,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "店ん中くらい、サングラス<b>外し</b>たらどうでっか。",
+  "word": "外す",
+  "reading": "はずす",
+  "meaning": "to remove; to take off; to detach; to unfasten",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to remove; to take off; to detach; to unfasten",
+   "(verb) to drop (e.g. from a team); to remove (from a position); to exclude; to expel",
+   "(verb) to leave (e.g. one's seat); to go away from; to step out; to slip away",
+   "(verb) to dodge (a question, blow, etc.); to evade; to sidestep; to avoid (e.g. peak season)",
+   "(verb) to miss (a target, chance, punch, etc.)",
+   "(verb) to get wrong; to fail to hit the mark; to misjudge"
+  ]
+ },
+ {
+  "order": 98,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お<b>目当て</b>はノゾミやな？",
+  "word": "目当て",
+  "reading": "めあて",
+  "meaning": "mark; guide; landmark",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) mark; guide; landmark",
+   "(noun) purpose; aim; goal; intention",
+   "(noun) sight (on a firearm)"
+  ]
+ },
+ {
+  "order": 99,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタの方は随分と<b>回りくどい</b>やないか。",
+  "word": "回りくどい",
+  "reading": "まわりくどい",
+  "meaning": "circuitous; roundabout; indirect",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(i-adjective) circuitous; roundabout; indirect"
+  ]
+ },
+ {
+  "order": 100,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "呼びまっせ。<b>説得</b>でも交渉でもしたらええ。",
+  "word": "説得",
+  "reading": "せっとく",
+  "meaning": "persuasion",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) persuasion"
+  ]
+ },
+ {
+  "order": 101,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そないなことしても<b>トップ</b>のアンタが",
+  "word": "トップ",
+  "reading": "トップ",
+  "meaning": "top",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) top",
+   "(noun) top position",
+   "(noun) senior management; senior bureaucrat",
+   "(noun) home page (of a website)"
+  ]
+ },
+ {
+  "order": 102,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どうにか変えようと<b>焦っ</b>とるらしいやないか。",
+  "word": "焦る",
+  "reading": "あせる",
+  "meaning": "to be in a hurry; to be impatient; to be anxious (to do); to fret",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to be in a hurry; to be impatient; to be anxious (to do); to fret",
+   "(verb) to get a fright; to panic; to get flustered; to be startled"
+  ]
+ },
+ {
+  "order": 103,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今はそれでもええが、<b>今後</b>もっと売り上げを伸ばそう",
+  "word": "今後",
+  "reading": "こんご",
+  "meaning": "from now on; hereafter",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(adverb) from now on; hereafter"
+  ]
+ },
+ {
+  "order": 104,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "客の好みにも<b>幅広く</b>応えられてんとちゃうか？",
+  "word": "幅広い",
+  "reading": "はばひろい",
+  "meaning": "extensive; wide; broad",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(i-adjective) extensive; wide; broad"
+  ]
+ },
+ {
+  "order": 105,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "若い男にウケる子が絶対的に<b>不足</b>しとる。",
+  "word": "不足",
+  "reading": "ふそく",
+  "meaning": "insufficiency; deficiency; shortage; lack",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) insufficiency; deficiency; shortage; lack",
+   "(na-adjective) dissatisfaction; discontent; complaint"
+  ]
+ },
+ {
+  "order": 106,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "たまに若い客が来ても、店の雰囲気に<b>馴染め</b>ず、",
+  "word": "馴染む",
+  "reading": "なじむ",
+  "meaning": "to become familiar with; to get used to; to become accustomed to; to adapt oneself to",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to become familiar with; to get used to; to become accustomed to; to adapt oneself to",
+   "(verb) to come to fit; to go (well) with; to suit; to match"
+  ]
+ },
+ {
+  "order": 107,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まだある。実は今、オデッセイは<b>深刻</b>な女不足や。",
+  "word": "深刻",
+  "reading": "しんこく",
+  "meaning": "serious; severe; grave; acute",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(na-adjective) serious; severe; grave; acute"
+  ]
+ },
+ {
+  "order": 108,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "１人でも多くの<b>新人</b>が欲しい……　ちゃうか？",
+  "word": "新人",
+  "reading": "しんじん",
+  "meaning": "newcomer; new figure; new member; recruit",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) newcomer; new figure; new member; recruit",
+   "(noun) modern humans (from Cro-Magnon man onwards); Homo sapiens"
+  ]
+ },
+ {
+  "order": 109,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>根拠</b>はあるんやろうな？",
+  "word": "根拠",
+  "reading": "こんきょ",
+  "meaning": "basis; grounds; foundation; reason",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) basis; grounds; foundation; reason",
+   "(noun) base (of operations)",
+   "(noun) base (of a group of stones)"
+  ]
+ },
+ {
+  "order": 110,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "入り口でちぃとばかし<b>待たさ</b>れた。",
+  "word": "待たす",
+  "reading": "またす",
+  "meaning": "to keep (a person) waiting",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to keep (a person) waiting"
+  ]
+ },
+ {
+  "order": 111,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "バイト気分の<b>女の子</b>がすぐ辞めてしまう……",
+  "word": "女の子",
+  "reading": "おんなのこ",
+  "meaning": "girl; daughter; baby girl",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) girl; daughter; baby girl",
+   "(noun) young woman"
+  ]
+ },
+ {
+  "order": 112,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "人数は<b>確保</b>したいが、そうは言うても",
+  "word": "確保",
+  "reading": "かくほ",
+  "meaning": "securing; obtaining; ensuring; guarantee",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) securing; obtaining; ensuring; guarantee",
+   "(verb) belay; belaying"
+  ]
+ },
+ {
+  "order": 113,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>悩ましい</b>ところやなぁ？",
+  "word": "悩ましい",
+  "reading": "なやましい",
+  "meaning": "seductive; carnal; enchanting",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(i-adjective) seductive; carnal; enchanting",
+   "(i-adjective) troubling; difficult; thorny; hard",
+   "(i-adjective) anxious; uneasy"
+  ]
+ },
+ {
+  "order": 114,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "確かに今、そういう<b>悩み</b>があるのは事実ですわ。",
+  "word": "悩み",
+  "reading": "なやみ",
+  "meaning": "trouble; troubles; worry; distress",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) trouble; troubles; worry; distress"
+  ]
+ },
+ {
+  "order": 115,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そんだけ言えば俺の腹は<b>伝わっ</b>たやろ？",
+  "word": "伝わる",
+  "reading": "つたわる",
+  "meaning": "to spread (of a rumour, news, etc.); to travel; to circulate; to go around",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to spread (of a rumour, news, etc.); to travel; to circulate; to go around",
+   "(verb) to be handed down (from generation to generation); to be passed down",
+   "(verb) to be introduced (to a country, region, etc.); to be brought; to come",
+   "(verb) to be conveyed (of a feeling, impression, etc.); to be felt; to come across",
+   "(verb) to travel (of sound, electricity, etc.); to propagate; to be conducted; to be transmitted",
+   "(verb) to go along; to move along"
+  ]
+ },
+ {
+  "order": 116,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "こちらの事情はすべてお<b>見通し</b>ってわけやな。",
+  "word": "見通し",
+  "reading": "みとおし",
+  "meaning": "unobstructed view; perspective; visibility; vista",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) unobstructed view; perspective; visibility; vista",
+   "(noun) forecast; outlook; prospect; prediction",
+   "(noun) insight; foresight"
+  ]
+ },
+ {
+  "order": 117,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そろそろ<b>バント</b>の出来る選手が",
+  "word": "バント",
+  "reading": "バント",
+  "meaning": "bunt; bunting",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) bunt; bunting"
+  ]
+ },
+ {
+  "order": 118,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それで？　ウチの４<b>番</b>に対して",
+  "word": "番",
+  "reading": "ばん",
+  "meaning": "number (in a series)",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) number (in a series)",
+   "(noun) (one's) turn",
+   "(noun) watch; guard; lookout",
+   "(noun) rank; standing; position",
+   "(noun) bout; match",
+   "(noun) pieces (in a collection)"
+  ]
+ },
+ {
+  "order": 119,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタは何<b>差し出す</b>つもりや。",
+  "word": "差し出す",
+  "reading": "さしだす",
+  "meaning": "to hold out; to extend (e.g. a hand)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to hold out; to extend (e.g. a hand)",
+   "(verb) to present; to submit; to tender",
+   "(verb) to sacrifice; to give (up)",
+   "(verb) to send; to forward"
+  ]
+ },
+ {
+  "order": 120,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まずは、<b>手付</b>として１０００万。",
+  "word": "手付け",
+  "reading": "てつけ",
+  "meaning": "deposit; earnest money",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) deposit; earnest money"
+  ]
+ },
+ {
+  "order": 121,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "若い<b>客層</b>を狙って育てとった連中や。",
+  "word": "客層",
+  "reading": "きゃくそう",
+  "meaning": "clientele; customer stratum",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) clientele; customer stratum"
+  ]
+ },
+ {
+  "order": 122,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "真島はん、アンタが目ぇ付けた<b>秘蔵</b>っ子を",
+  "word": "秘蔵",
+  "reading": "ひぞう",
+  "meaning": "treasuring; cherishing; prizing; holding dear",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) treasuring; cherishing; prizing; holding dear"
+  ]
+ },
+ {
+  "order": 123,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタんとこには将来の売り上げを<b>保証</b>する。",
+  "word": "保証",
+  "reading": "ほしょう",
+  "meaning": "guarantee; security; assurance; pledge",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) guarantee; security; assurance; pledge",
+   "(verb) warranty"
+  ]
+ },
+ {
+  "order": 124,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なるほどな。アンタは顔に<b>似合わ</b>ず",
+  "word": "似合う",
+  "reading": "にあう",
+  "meaning": "to suit; to match; to become; to be like",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to suit; to match; to become; to be like"
+  ]
+ },
+ {
+  "order": 125,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "交渉<b>成立っ</b>てことでええな？",
+  "word": "成り立つ",
+  "reading": "なりたつ",
+  "meaning": "to consist of; to be made up of; to be composed of",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to consist of; to be made up of; to be composed of",
+   "(verb) to be concluded (e.g. of an agreement); to hold true (e.g. of a theory); to be valid",
+   "(verb) to be viable (of a business, lifestyle, etc.); to carry on; to keep going"
+  ]
+ },
+ {
+  "order": 126,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日みたいなんはこれっ<b>限り</b>にしてもらいましょか。",
+  "word": "限り",
+  "reading": "かぎり",
+  "meaning": "limit; limits; bounds",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) limit; limits; bounds",
+   "(noun) degree; extent; scope",
+   "(noun) the end; the last",
+   "(adverb) as long as ...; as far as ...; as much as ...; to the limits of ...",
+   "(adverb) unless ...",
+   "(noun) (not) included in ...; (not) part of ..."
+  ]
+ },
+ {
+  "order": 127,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "これからはウチも<b>全力</b>で勝ちにいかせて",
+  "word": "全力",
+  "reading": "ぜんりょく",
+  "meaning": "all one's power (strength, energy, efforts); one's utmost",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) all one's power (strength, energy, efforts); one's utmost"
+  ]
+ },
+ {
+  "order": 128,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お<b>勘定</b>たのむわ。",
+  "word": "勘定",
+  "reading": "かんじょう",
+  "meaning": "calculation; computation; counting; reckoning",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) calculation; computation; counting; reckoning",
+   "(verb) bill; check; account; payment (of a bill)",
+   "(verb) consideration; allowance"
+  ]
+ },
+ {
+  "order": 129,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日は私の<b>奢り</b>っちゅうことで。",
+  "word": "驕り",
+  "reading": "おごり",
+  "meaning": "arrogance; haughtiness; conceitedness",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) arrogance; haughtiness; conceitedness"
+  ]
+ },
+ {
+  "order": 130,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そらご<b>ちそう</b>さん。ほな。",
+  "word": "馳走",
+  "reading": "ちそう",
+  "meaning": "treating someone (to food or drink); dinner; wonderful food",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) treating someone (to food or drink); dinner; wonderful food",
+   "(verb) running about"
+  ]
+ },
+ {
+  "order": 131,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ノゾミの<b>シフト</b>とか詳しいことは明日話すわ。",
+  "word": "シフト",
+  "reading": "シフト",
+  "meaning": "shift; move",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102222d",
+  "candidates": [
+   "(verb) shift; move",
+   "(noun) (work) shift; work schedule",
+   "(verb) gearshift; changing gears"
+  ]
+ },
+ {
+  "order": 132,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "（今日は<b>蒼天</b>堀通りの方に行ってみるか）",
+  "word": "蒼天",
+  "reading": "そうてん",
+  "meaning": "blue sky; azure sky",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102222d",
+  "candidates": [
+   "(noun) blue sky; azure sky",
+   "(noun) spring sky",
+   "(noun) God; the Creator"
+  ]
+ },
+ {
+  "order": 133,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お前ら、<b>仕返し</b>したかったら店に来いや。",
+  "word": "仕返し",
+  "reading": "しかえし",
+  "meaning": "payback; tit for tat; retaliation; revenge",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022231",
+  "candidates": [
+   "(verb) payback; tit for tat; retaliation; revenge",
+   "(verb) doing over again; redoing"
+  ]
+ },
+ {
+  "order": 134,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>心当たり</b>あるやろ？",
+  "word": "心当たり",
+  "reading": "こころあたり",
+  "meaning": "having in mind; happening to know (of); idea (of); inkling",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "チンピラ",
+  "uid": "01022231",
+  "candidates": [
+   "(noun) having in mind; happening to know (of); idea (of); inkling"
+  ]
+ },
+ {
+  "order": 135,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>より</b>によってウチのＮｏ．１を引き抜くたあ、",
+  "word": "より",
+  "reading": "より",
+  "meaning": "than",
+  "pos": "prt",
+  "chapter": 3,
+  "speaker": "チンピラ",
+  "uid": "01022231",
+  "candidates": [
+   "(prt) than",
+   "(prt) rather than; instead of; over; above",
+   "(prt) from; out of; since; at",
+   "(prt) except; but; other than",
+   "(adverb) more"
+  ]
+ },
+ {
+  "order": 136,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ええ<b>度胸</b>しとるやないか。",
+  "word": "度胸",
+  "reading": "どきょう",
+  "meaning": "courage; bravery; pluck; nerve",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "チンピラ",
+  "uid": "01022231",
+  "candidates": [
+   "(noun) courage; bravery; pluck; nerve"
+  ]
+ },
+ {
+  "order": 137,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "夜の<b>帝王</b>か何か知らんが、なっさけ無い話やで。",
+  "word": "帝王",
+  "reading": "ていおう",
+  "meaning": "sovereign; emperor; monarch",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "チンピラ",
+  "uid": "01022231",
+  "candidates": [
+   "(noun) sovereign; emperor; monarch"
+  ]
+ },
+ {
+  "order": 138,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ま、<b>試し</b>にやってみてもええけどな。ハハハ！",
+  "word": "試し",
+  "reading": "ためし",
+  "meaning": "trial; test; try",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "チンピラ",
+  "uid": "01022231",
+  "candidates": [
+   "(noun) trial; test; try"
+  ]
+ },
+ {
+  "order": 139,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "靴でも<b>舐め</b>たるわ。",
+  "word": "嘗める",
+  "reading": "なめる",
+  "meaning": "to lick; to lap; to suck",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022231",
+  "candidates": [
+   "(verb) to lick; to lap; to suck",
+   "(verb) to taste",
+   "(verb) to experience (esp. a hardship)",
+   "(verb) to underestimate; to make light of; to look down on (someone); to make a fool of",
+   "(verb) to lick (at; of flames); to burn"
+  ]
+ },
+ {
+  "order": 140,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>まして</b>ケンカ売りに来たチンピラなんぞに……",
+  "word": "況して",
+  "reading": "まして",
+  "meaning": "still more; to say nothing of; not to mention",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022231",
+  "candidates": [
+   "(adverb) still more; to say nothing of; not to mention",
+   "(adverb) still less"
+  ]
+ },
+ {
+  "order": 141,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "っ……！　<b>大層</b>な口聞けんのも今のうちや！",
+  "word": "大層",
+  "reading": "たいそう",
+  "meaning": "very; extremely; exceedingly; greatly",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "チンピラ",
+  "uid": "01022231",
+  "candidates": [
+   "(adverb) very; extremely; exceedingly; greatly",
+   "(na-adjective) extreme; excessive; great many; large number of",
+   "(na-adjective) splendid; impressive; tremendous; immense",
+   "(na-adjective) exaggerated"
+  ]
+ },
+ {
+  "order": 142,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "蒼天<b>堀</b>の方にでも行ってくるか……",
+  "word": "堀",
+  "reading": "ほり",
+  "meaning": "moat; fosse",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "01022239",
+  "candidates": [
+   "(noun) moat; fosse",
+   "(noun) canal; ditch"
+  ]
+ },
+ {
+  "order": 143,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "支配人、<b>先ほど</b>はありがとうございました。",
+  "word": "先程",
+  "reading": "さきほど",
+  "meaning": "a short while ago; a moment ago; just now; some time ago",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(adverb) a short while ago; a moment ago; just now; some time ago"
+  ]
+ },
+ {
+  "order": 144,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>いちいち</b>意地悪に出来てるらしい。",
+  "word": "一々",
+  "reading": "いちいち",
+  "meaning": "one-by-one; separately",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(adverb) one-by-one; separately",
+   "(adverb) every single; each and every; without omission; fully"
+  ]
+ },
+ {
+  "order": 145,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "いや、意地<b>悪言</b>って済まなかったな。",
+  "word": "悪言",
+  "reading": "あくげん",
+  "meaning": "uncomplimentary remarks; slander",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) uncomplimentary remarks; slander"
+  ]
+ },
+ {
+  "order": 146,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……こんくらい聞けば<b>仕込み</b>は十分やろ。",
+  "word": "仕込み",
+  "reading": "しこみ",
+  "meaning": "training; education; upbringing",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022200",
+  "candidates": [
+   "(noun) training; education; upbringing",
+   "(noun) stocking up; laying in",
+   "(noun) preparation (e.g. ingredients)",
+   "(noun) girl studying to become a geisha"
+  ]
+ },
+ {
+  "order": 147,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "（……さすがに<b>正体</b>バレるとマズイか）",
+  "word": "正体",
+  "reading": "しょうたい",
+  "meaning": "true character; true form; true colors; identity",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220b",
+  "candidates": [
+   "(noun) true character; true form; true colors; identity",
+   "(noun) consciousness; one's senses"
+  ]
+ },
+ {
+  "order": 148,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まずは<b>店内</b>の様子を観察しよか",
+  "word": "店内",
+  "reading": "てんない",
+  "meaning": "inside of a store (restaurant, café, etc.); store interior; on the premises",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) inside of a store (restaurant, café, etc.); store interior; on the premises"
+  ]
+ },
+ {
+  "order": 149,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "でね、新しい<b>ウェア</b>がめっちゃ可愛いねん！",
+  "word": "ウエア",
+  "reading": "ウェア",
+  "meaning": "wear; clothing; dress",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) wear; clothing; dress"
+  ]
+ },
+ {
+  "order": 150,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "最近、客の<b>入り</b>でグランドに負けっぱなしやさかい、",
+  "word": "入り",
+  "reading": "いり",
+  "meaning": "entering; entrance; entry",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) entering; entrance; entry",
+   "(noun) attendance; audience; number (of visitors, customers, etc.)",
+   "(noun) containing",
+   "(noun) income; earnings; takings",
+   "(noun) expenses; expenditure",
+   "(noun) setting (of the Sun or Moon)"
+  ]
+ },
+ {
+  "order": 152,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>新規</b>のお客さんを増やさへんと、頭打ちなんよねぇ。",
+  "word": "新規",
+  "reading": "しんき",
+  "meaning": "new; fresh",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) new; fresh",
+   "(noun) new item (e.g. customer, regulation); newly created object",
+   "(noun) new customer"
+  ]
+ },
+ {
+  "order": 153,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "毎日開店と<b>同時</b>に目当てのお客さんが",
+  "word": "同時",
+  "reading": "どうじ",
+  "meaning": "same time",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) same time",
+   "(adj-f) simultaneous; concurrent; synchronous"
+  ]
+ },
+ {
+  "order": 154,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "客層がオッサンに<b>偏っ</b>とる。",
+  "word": "偏る",
+  "reading": "かたよる",
+  "meaning": "to lean (to one side); to incline",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to lean (to one side); to incline",
+   "(verb) to be unbalanced (e.g. diet); to be unduly weighted towards; to be concentrated on",
+   "(verb) to be partial; to be biased; to be prejudiced"
+  ]
+ },
+ {
+  "order": 155,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "思うなら、客層<b>広げん</b>ことには頭打ちや。",
+  "word": "広げる",
+  "reading": "ひろげる",
+  "meaning": "to spread; to extend; to expand; to enlarge",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to spread; to extend; to expand; to enlarge",
+   "(verb) to unfold; to open; to unroll; to unwrap",
+   "(verb) to scatter about; to spread around",
+   "(verb) to make flourish; to cause to prosper"
+  ]
+ },
+ {
+  "order": 156,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>さらに</b>言えば、今いる客層も決して良くはない。",
+  "word": "更に",
+  "reading": "さらに",
+  "meaning": "furthermore; again; after all; more and more",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(adverb) furthermore; again; after all; more and more"
+  ]
+ },
+ {
+  "order": 157,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "店内の教育も<b>ごっつ</b>厳しいらしいやないか。",
+  "word": "ごつい",
+  "reading": "ごつい",
+  "meaning": "large and rough; big and tough; rugged (hands, features, etc.); hard",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(i-adjective) large and rough; big and tough; rugged (hands, features, etc.); hard",
+   "(i-adjective) unrefined; rustic; boorish",
+   "(i-adjective) extreme; excessive; tremendous; terrible"
+  ]
+ },
+ {
+  "order": 158,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>フロア</b>はどうや。落ち着いたか。",
+  "word": "フロア",
+  "reading": "フロア",
+  "meaning": "floor",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) floor",
+   "(noun) dance floor",
+   "(noun) sales floor",
+   "(noun) floor (of a building); storey; story"
+  ]
+ },
+ {
+  "order": 159,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "フロアはどうや。<b>落ち着い</b>たか。",
+  "word": "落ち着く",
+  "reading": "おちつく",
+  "meaning": "to calm down; to compose oneself; to regain presence of mind; to relax",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to calm down; to compose oneself; to regain presence of mind; to relax",
+   "(verb) to calm down; to settle down; to die down; to become stable",
+   "(verb) to settle down (in a location, job, etc.); to settle in",
+   "(verb) to be settled (of an arrangement, conclusion, etc.); to be fixed; to have been reached",
+   "(verb) to harmonize with; to harmonise with; to match; to suit",
+   "(verb) to be unobtrusive; to be quiet; to be subdued"
+  ]
+ },
+ {
+  "order": 160,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "乳<b>揉ま</b>れて何もナシじゃモチベーションガタ落ちや。",
+  "word": "揉む",
+  "reading": "もむ",
+  "meaning": "to rub; to crumple",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to rub; to crumple",
+   "(verb) to massage",
+   "(verb) to argue; to have a heated discussion",
+   "(verb) to train; to coach",
+   "(verb) to jostle; to crowd; to shake; to rock",
+   "(verb) to have various experiences (out in the world)"
+  ]
+ },
+ {
+  "order": 161,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "乳揉まれて何もナシじゃ<b>モチベーション</b>ガタ落ちや。",
+  "word": "モチベーション",
+  "reading": "モチベーション",
+  "meaning": "motivation",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) motivation"
+  ]
+ },
+ {
+  "order": 162,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "乳揉まれて何もナシじゃモチベーション<b>ガタ落ち</b>や。",
+  "word": "がた落ち",
+  "reading": "ガタおち",
+  "meaning": "sharp drop; plunge; nosedive; slump",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) sharp drop; plunge; nosedive; slump"
+  ]
+ },
+ {
+  "order": 163,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "あの<b>暴れ</b>てたドアホ、一応見張っとけや。",
+  "word": "暴れる",
+  "reading": "あばれる",
+  "meaning": "to act violently; to rage; to struggle; to be riotous",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to act violently; to rage; to struggle; to be riotous"
+  ]
+ },
+ {
+  "order": 164,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "あの暴れてたドアホ、<b>一応</b>見張っとけや。",
+  "word": "一応",
+  "reading": "いちおう",
+  "meaning": "more or less; though not quite satisfactorily; after a fashion; pretty much",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(adverb) more or less; though not quite satisfactorily; after a fashion; pretty much",
+   "(adverb) tentatively; for the time being",
+   "(adverb) just in case",
+   "(adverb) once"
+  ]
+ },
+ {
+  "order": 165,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "あの暴れてたドアホ、一応<b>見張っ</b>とけや。",
+  "word": "見張る",
+  "reading": "みはる",
+  "meaning": "to stand watch; to stand guard; to look out",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to stand watch; to stand guard; to look out",
+   "(verb) to open (one's eyes) wide"
+  ]
+ },
+ {
+  "order": 166,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>トンズラ</b>こかんとも限らんからな。",
+  "word": "とんずら",
+  "reading": "トンズラ",
+  "meaning": "fleeing; escape",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) fleeing; escape"
+  ]
+ },
+ {
+  "order": 167,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "トンズラ<b>こか</b>んとも限らんからな。",
+  "word": "放く",
+  "reading": "こく",
+  "meaning": "to expel (from the body); to let off (a fart); to let out",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) to expel (from the body); to let off (a fart); to let out",
+   "(verb) to utter (a lie, nonsense, etc.); to say; to spout (bullshit)",
+   "(verb) to do"
+  ]
+ },
+ {
+  "order": 168,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そちらの方も<b>すでに</b>手配しています。",
+  "word": "既に",
+  "reading": "すでに",
+  "meaning": "already",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(adverb) already",
+   "(adverb) previously; before",
+   "(adverb) undeniably; unmistakably; in the first place"
+  ]
+ },
+ {
+  "order": 169,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そちらの方もすでに<b>手配</b>しています。",
+  "word": "手配",
+  "reading": "てはい",
+  "meaning": "arrangement; preparations",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "店長",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) arrangement; preparations",
+   "(verb) search (by police)"
+  ]
+ },
+ {
+  "order": 170,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "……<b>スタッフ</b>は最近どんな塩梅や？",
+  "word": "スタッフ",
+  "reading": "スタッフ",
+  "meaning": "staff; staff member",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(noun) staff; staff member"
+  ]
+ },
+ {
+  "order": 171,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "……スタッフは最近どんな<b>塩梅</b>や？",
+  "word": "塩梅",
+  "reading": "あんばい",
+  "meaning": "seasoning; flavour; flavor; taste",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": [
+   "(verb) seasoning; flavour; flavor; taste",
+   "(noun) condition; state; situation",
+   "(noun) (state of) health; physical condition",
+   "(verb) arrangement; assignment; adjustment; handling"
+  ]
+ },
+ {
+  "order": 172,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "客との喧嘩を<b>見世物</b>に仕立てて、",
+  "word": "見世物",
+  "reading": "みせもの",
+  "meaning": "misemono; type of Edo- and Meiji-period side show often held outdoors or in small temporarily erected shacks on temple and shrine grounds",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) misemono; type of Edo- and Meiji-period side show often held outdoors or in small temporarily erected shacks on temple and shrine grounds",
+   "(noun) show; exhibition; spectacle; freakshow"
+  ]
+ },
+ {
+  "order": 173,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "客との喧嘩を見世物に<b>仕立て</b>て、",
+  "word": "仕立てる",
+  "reading": "したてる",
+  "meaning": "to tailor; to make (clothing)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to tailor; to make (clothing)",
+   "(verb) to train; to bring up",
+   "(verb) to make it seem like; to pass off",
+   "(verb) to turn into a play or movie",
+   "(verb) to prepare; to send; to despatch"
+  ]
+ },
+ {
+  "order": 174,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "<b>ついで</b>に飲み代まで取り上げちまうなんてよ、",
+  "word": "序で",
+  "reading": "ついで",
+  "meaning": "opportunity; occasion; chance",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) opportunity; occasion; chance",
+   "(noun) order; sequence",
+   "(noun) successor"
+  ]
+ },
+ {
+  "order": 175,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ついでに<b>飲み代</b>まで取り上げちまうなんてよ、",
+  "word": "飲み代",
+  "reading": "のみしろ",
+  "meaning": "drink money; drinking money",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) drink money; drinking money"
+  ]
+ },
+ {
+  "order": 176,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ついでに飲み代まで<b>取り上げ</b>ちまうなんてよ、",
+  "word": "取り上げる",
+  "reading": "とりあげる",
+  "meaning": "to pick up",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to pick up",
+   "(verb) to adopt (a proposal); to take up (a topic); to accept; to listen to",
+   "(verb) to take issue with; to make a problem of; to bring up (as a point of criticism)",
+   "(verb) to report (news); to cover; to feature",
+   "(verb) to take away; to confiscate; to deprive (someone) of; to revoke",
+   "(verb) to deliver (a baby)"
+  ]
+ },
+ {
+  "order": 177,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "分かってねえよ。金も、<b>地位</b>も、名誉もある。",
+  "word": "地位",
+  "reading": "ちい",
+  "meaning": "(social) position; status; standing",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) (social) position; status; standing",
+   "(noun) position (in a company, organization, etc.); post; rank"
+  ]
+ },
+ {
+  "order": 178,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "分かってねえよ。金も、地位も、<b>名誉</b>もある。",
+  "word": "名誉",
+  "reading": "めいよ",
+  "meaning": "honor; honour; credit; glory",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(na-adjective) honor; honour; credit; glory",
+   "(noun) prestige; dignity; reputation; honor",
+   "(noun) honorary (e.g. president, doctorate)"
+  ]
+ },
+ {
+  "order": 179,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "この件で冗談は<b>通じ</b>ひんぞ。",
+  "word": "通ずる",
+  "reading": "つうずる",
+  "meaning": "to be open (to traffic); to lead (to); to connect (to); to run (from, between; e.g. bus service)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221f8",
+  "candidates": [
+   "(verb) to be open (to traffic); to lead (to); to connect (to); to run (from, between; e.g. bus service)",
+   "(verb) to flow (of a liquid, current, etc.); to pass (through); to get through (e.g. of a signal); to connect (e.g. of a call)",
+   "(verb) to be conveyed (of an intention, meaning, etc.); to be understood (by); to be comprehended; to get across (e.g. of an idea)",
+   "(verb) to be well versed (in); to be proficient (in); to know a lot (about); to be familiar (with)",
+   "(verb) to be widespread; to be commonly known; to be prevalent",
+   "(verb) to have an effect; to work; to be on par (with)"
+  ]
+ },
+ {
+  "order": 181,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>即</b>戦力が欲しくてさ。",
+  "word": "即",
+  "reading": "そく",
+  "meaning": "instantly; immediately; at once",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(adverb) instantly; immediately; at once",
+   "(conj) equals; means; is",
+   "(noun) oneness (of two opposing things); inseparability"
+  ]
+ },
+ {
+  "order": 182,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "即<b>戦力</b>が欲しくてさ。",
+  "word": "戦力",
+  "reading": "せんりょく",
+  "meaning": "war potential; military strength; fighting power",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "佐川",
+  "uid": "010221f8",
+  "candidates": [
+   "(noun) war potential; military strength; fighting power",
+   "(noun) ability (to compete); capabilities; valuable asset"
+  ]
+ },
+ {
+  "order": 183,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>マウス</b>を使用し店内を見回すことができます。",
+  "word": "マウス",
+  "reading": "マウス",
+  "meaning": "mouse (esp. a laboratory mouse)",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "マウスを使用し店内を見回す",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) mouse (esp. a laboratory mouse)",
+   "(noun) (computer) mouse"
+  ]
+ },
+ {
+  "order": 184,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "マウスを使用し店内を<b>見回す</b>ことができます。",
+  "word": "見回す",
+  "reading": "みまわす",
+  "meaning": "to look around; to survey",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "マウスを使用し店内を見回す",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to look around; to survey"
+  ]
+ },
+ {
+  "order": 185,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "スーツは<b>上物</b>、腕時計もイタリア製の高級品や。",
+  "word": "上物",
+  "reading": "じょうもの",
+  "meaning": "high-quality goods; choice goods",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) high-quality goods; choice goods"
+  ]
+ },
+ {
+  "order": 186,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "スーツは上物、腕時計もイタリア製の<b>高級</b>品や。",
+  "word": "高級",
+  "reading": "こうきゅう",
+  "meaning": "high-class; high-grade; high-quality; high-end",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) high-class; high-grade; high-quality; high-end",
+   "(noun) high-ranking; high-level; senior"
+  ]
+ },
+ {
+  "order": 187,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>熱心</b>に口説いとるところからすると、",
+  "word": "熱心",
+  "reading": "ねっしん",
+  "meaning": "zealous; enthusiastic; ardent; fervent",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) zealous; enthusiastic; ardent; fervent"
+  ]
+ },
+ {
+  "order": 188,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "熱心に<b>口説い</b>とるところからすると、",
+  "word": "口説く",
+  "reading": "くどく",
+  "meaning": "to persuade; to urge; to coax; to solicit",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to persuade; to urge; to coax; to solicit",
+   "(verb) to make advances (to); to seduce; to court; to woo"
+  ]
+ },
+ {
+  "order": 189,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "派手な<b>私服</b>のオッサンと、プレイボーイ風の中年。",
+  "word": "私服",
+  "reading": "しふく",
+  "meaning": "ordinary clothes (i.e. non-uniform); plain clothes; civilian clothes; casual wear",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) ordinary clothes (i.e. non-uniform); plain clothes; civilian clothes; casual wear",
+   "(noun) plainclothes police officer"
+  ]
+ },
+ {
+  "order": 190,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "派手な私服のオッサンと、プレイボーイ風の<b>中年</b>。",
+  "word": "中年",
+  "reading": "ちゅうねん",
+  "meaning": "middle-age; middle age; midlife; one's middle years",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) middle-age; middle age; midlife; one's middle years"
+  ]
+ },
+ {
+  "order": 191,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ありゃ<b>芸能</b>関係やな。番組ディレクターと俳優。",
+  "word": "芸能",
+  "reading": "げいのう",
+  "meaning": "public entertainment; performing arts",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) public entertainment; performing arts",
+   "(noun) accomplishments; attainments"
+  ]
+ },
+ {
+  "order": 192,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ありゃ芸能関係やな。番組<b>ディレクター</b>と俳優。",
+  "word": "ディレクター",
+  "reading": "ディレクター",
+  "meaning": "director",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) director"
+  ]
+ },
+ {
+  "order": 193,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "良く言えば<b>王道</b>、悪く言えばひと昔前の流行や",
+  "word": "王道",
+  "reading": "おうどう",
+  "meaning": "righteous government; just rule; kingship; rule of right",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) righteous government; just rule; kingship; rule of right",
+   "(noun) easy method; simple approach; short-cut; royal road",
+   "(noun) orthodox way; proper way; traditional manner; classic approach"
+  ]
+ },
+ {
+  "order": 194,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "良く言えば王道、悪く言えば<b>ひと昔</b>前の流行や",
+  "word": "一昔",
+  "reading": "ひとむかし",
+  "meaning": "an age (ago); a long time (ago); a decade (ago)",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) an age (ago); a long time (ago); a decade (ago)"
+  ]
+ },
+ {
+  "order": 195,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "良く言えば王道、悪く言えばひと昔前の<b>流行</b>や",
+  "word": "流行",
+  "reading": "りゅうこう",
+  "meaning": "fashion; trend; vogue; craze",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) fashion; trend; vogue; craze",
+   "(verb) prevalence (of a disease); epidemic"
+  ]
+ },
+ {
+  "order": 196,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>案外</b>そないな方が安定してウケるもんや",
+  "word": "案外",
+  "reading": "あんがい",
+  "meaning": "unexpectedly; surprisingly",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) unexpectedly; surprisingly",
+   "(na-adjective) unexpected; unanticipated; unforeseen; surprising"
+  ]
+ },
+ {
+  "order": 197,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "案外そないな方が<b>安定</b>してウケるもんや",
+  "word": "安定",
+  "reading": "あんてい",
+  "meaning": "stability; steadiness; consistency; equilibrium",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) stability; steadiness; consistency; equilibrium",
+   "(verb) stable"
+  ]
+ },
+ {
+  "order": 198,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>性欲</b>の権化みたいな男やな。",
+  "word": "性欲",
+  "reading": "せいよく",
+  "meaning": "sexual desire; sex drive; lust",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) sexual desire; sex drive; lust"
+  ]
+ },
+ {
+  "order": 199,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "性欲の<b>権化</b>みたいな男やな。",
+  "word": "権化",
+  "reading": "ごんげ",
+  "meaning": "incarnation (of Buddha or bodhisattva); avatar",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) incarnation (of Buddha or bodhisattva); avatar",
+   "(noun) embodiment (as in \"embodiment of evil\"); incarnation; personification"
+  ]
+ },
+ {
+  "order": 200,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>アカ</b>ン、俺は何を普通に話し込んでるんや……！",
+  "word": "明く",
+  "reading": "あく",
+  "meaning": "to open (e.g. doors)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to open (e.g. doors)",
+   "(verb) to open (e.g. business, etc.)",
+   "(verb) to be empty",
+   "(verb) to be vacant; to be available; to be free",
+   "(verb) to be open (e.g. neckline, etc.)",
+   "(verb) to have been opened (of one's eyes, mouth, etc.)"
+  ]
+ },
+ {
+  "order": 201,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "アカン、俺は何を普通に<b>話し込ん</b>でるんや……！",
+  "word": "話し込む",
+  "reading": "はなしこむ",
+  "meaning": "to be deep in talk",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to be deep in talk"
+  ]
+ },
+ {
+  "order": 202,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>単に</b>意地張ってるだけですわ。",
+  "word": "単に",
+  "reading": "たんに",
+  "meaning": "simply; merely; only; solely",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(adverb) simply; merely; only; solely"
+  ]
+ },
+ {
+  "order": 203,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "単に意地<b>張っ</b>てるだけですわ。",
+  "word": "張る",
+  "reading": "はる",
+  "meaning": "to stick; to paste; to affix",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to stick; to paste; to affix",
+   "(verb) to stretch; to spread; to strain; to tighten",
+   "(verb) to form (e.g. ice on a pond)",
+   "(verb) to fill; to swell",
+   "(verb) to stick out; to push out",
+   "(verb) to post (a link, etc. online)"
+  ]
+ },
+ {
+  "order": 204,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>ぎょうさん</b>揃っとるのう！",
+  "word": "仰山",
+  "reading": "ぎょうさん",
+  "meaning": "a lot; plenty; abundant; great many",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) a lot; plenty; abundant; great many",
+   "(na-adjective) exaggerated; grandiose"
+  ]
+ },
+ {
+  "order": 205,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ぎょうさん<b>揃っ</b>とるのう！",
+  "word": "揃う",
+  "reading": "そろう",
+  "meaning": "to be complete; to be all present; to make a full set; to be satisfied (of conditions)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to be complete; to be all present; to make a full set; to be satisfied (of conditions)",
+   "(verb) to be equal; to be uniform; to be even; to match",
+   "(verb) to gather; to assemble; to be collected"
+  ]
+ },
+ {
+  "order": 206,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "同じ席に<b>つい</b>て初めて話したっちゅうケースも",
+  "word": "つく",
+  "reading": "つく",
+  "meaning": "to take (seat, position, course, office, etc.); to assume; to be hired; to be employed",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to take (seat, position, course, office, etc.); to assume; to be hired; to be employed",
+   "(verb) to ascend (the throne); to accede",
+   "(verb) to start (on a journey); to commence; to depart",
+   "(verb) to study (under teacher); to be an apprentice"
+  ]
+ },
+ {
+  "order": 207,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "同じ席について初めて話したっちゅう<b>ケース</b>も",
+  "word": "ケース",
+  "reading": "ケース",
+  "meaning": "case (container)",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) case (container)",
+   "(noun) case (instance, situation)",
+   "(noun) case"
+  ]
+ },
+ {
+  "order": 208,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "<b>名実</b>ともにトップレディっちゅうワケやな。",
+  "word": "名実",
+  "reading": "めいじつ",
+  "meaning": "in name and in reality; nominally and virtually; form and contents",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) in name and in reality; nominally and virtually; form and contents"
+  ]
+ },
+ {
+  "order": 210,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "名実ともにトップ<b>レディ</b>っちゅうワケやな。",
+  "word": "レディー",
+  "reading": "レディー",
+  "meaning": "lady",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) lady"
+  ]
+ },
+ {
+  "order": 211,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "<b>逆</b>に全然話題についていかれへんくて、",
+  "word": "逆",
+  "reading": "ぎゃく",
+  "meaning": "reverse; opposite",
+  "pos": "na-adjective",
+  "chapter": 3,
+  "speaker": "タカコ",
+  "uid": "0102220e",
+  "candidates": [
+   "(na-adjective) reverse; opposite",
+   "(na-adjective) converse (of a hypothesis, etc.)",
+   "(noun) inverse (function)"
+  ]
+ },
+ {
+  "order": 212,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "これなら目の肥えた<b>金持ち</b>層でも、",
+  "word": "金持ち",
+  "reading": "かねもち",
+  "meaning": "rich person; wealthy person",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) rich person; wealthy person"
+  ]
+ },
+ {
+  "order": 213,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "これなら目の肥えた金持ち<b>層</b>でも、",
+  "word": "層",
+  "reading": "そう",
+  "meaning": "layer; stratum; seam; bed",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(noun) layer; stratum; seam; bed",
+   "(noun) class; stratum; bracket; group",
+   "(noun) sheaf",
+   "(ctr) counter for stories (of a building)"
+  ]
+ },
+ {
+  "order": 214,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "<b>自ら</b>お出でになるとは、恐縮やのう。",
+  "word": "自ら",
+  "reading": "おのずから",
+  "meaning": "naturally; in due course; by itself; of its own accord",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(adverb) naturally; in due course; by itself; of its own accord"
+  ]
+ },
+ {
+  "order": 215,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "自らお<b>出で</b>になるとは、恐縮やのう。",
+  "word": "出でる",
+  "reading": "いでる",
+  "meaning": "to go; to come",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to go; to come"
+  ]
+ },
+ {
+  "order": 216,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "自らお出でになるとは、<b>恐縮</b>やのう。",
+  "word": "恐縮",
+  "reading": "きょうしゅく",
+  "meaning": "feeling (much) obliged; being (very) grateful; being thankful",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) feeling (much) obliged; being (very) grateful; being thankful",
+   "(verb) feeling sorry (for troubling someone); feeling ashamed (e.g. of an error); feeling embarrassed (e.g. by someone's compliments, hospitality, etc.)",
+   "(verb) shrinking back in fear"
+  ]
+ },
+ {
+  "order": 217,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "コソコソ<b>忍び込ん</b>で敵情視察……",
+  "word": "忍び込む",
+  "reading": "しのびこむ",
+  "meaning": "to creep in; to steal in; to sneak in",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to creep in; to steal in; to sneak in"
+  ]
+ },
+ {
+  "order": 218,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "コソコソ忍び込んで<b>敵情</b>視察……",
+  "word": "敵情",
+  "reading": "てきじょう",
+  "meaning": "enemy movements; enemy's position",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) enemy movements; enemy's position"
+  ]
+ },
+ {
+  "order": 219,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "コソコソ忍び込んで敵情<b>視察</b>……",
+  "word": "視察",
+  "reading": "しさつ",
+  "meaning": "inspection; observation",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) inspection; observation"
+  ]
+ },
+ {
+  "order": 220,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "フッ、うちは<b>在籍</b>１００名を超える大箱でっせ？",
+  "word": "在籍",
+  "reading": "ざいせき",
+  "meaning": "being enrolled (at a school); being registered; being a member (of a team, organization, etc.)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) being enrolled (at a school); being registered; being a member (of a team, organization, etc.)"
+  ]
+ },
+ {
+  "order": 221,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "フッ、うちは在籍１００名を<b>超える</b>大箱でっせ？",
+  "word": "越える",
+  "reading": "こえる",
+  "meaning": "to cross over; to cross; to pass through; to pass over (out of)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to cross over; to cross; to pass through; to pass over (out of)",
+   "(verb) to exceed; to surpass; to be more (than)"
+  ]
+ },
+ {
+  "order": 222,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "フッ、うちは在籍１００名を超える<b>大箱</b>でっせ？",
+  "word": "大箱",
+  "reading": "おおばこ",
+  "meaning": "large box; chest",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "山形",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) large box; chest"
+  ]
+ },
+ {
+  "order": 223,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "金持ちのオッサンばかりの<b>せい</b>で",
+  "word": "所為",
+  "reading": "せい",
+  "meaning": "consequence; outcome; result; blame",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) consequence; outcome; result; blame"
+  ]
+ },
+ {
+  "order": 224,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "高級な<b>イメージ</b>がつきすぎてるんや。",
+  "word": "イメージ",
+  "reading": "イメージ",
+  "meaning": "image (in one's mind); impression; imagining; mental image",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) image (in one's mind); impression; imagining; mental image",
+   "(noun) (computer) image",
+   "(noun) depiction (e.g. of a product); rendition; impression"
+  ]
+ },
+ {
+  "order": 225,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "せやけど、中に入ったら<b>空席</b>が目についた。",
+  "word": "空席",
+  "reading": "くうせき",
+  "meaning": "empty seat; unoccupied seat",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) empty seat; unoccupied seat",
+   "(noun) vacancy; vacant post"
+  ]
+ },
+ {
+  "order": 226,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>テーブル</b>があった。普通はマンツーマンが基本。",
+  "word": "テーブル",
+  "reading": "テーブル",
+  "meaning": "table",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) table"
+  ]
+ },
+ {
+  "order": 227,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "テーブルがあった。普通はマン<b>ツー</b>マンが基本。",
+  "word": "ツー",
+  "reading": "ツー",
+  "meaning": "two",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) two"
+  ]
+ },
+ {
+  "order": 228,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "<b>場合</b>によってはクレームがきてもおかしない。",
+  "word": "場合",
+  "reading": "ばあい",
+  "meaning": "case; occasion; situation; circumstances",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) case; occasion; situation; circumstances"
+  ]
+ },
+ {
+  "order": 229,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "場合によっては<b>クレーム</b>がきてもおかしない。",
+  "word": "クレーム",
+  "reading": "クレーム",
+  "meaning": "claim (for compensation); customer complaint seeking compensation",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) claim (for compensation); customer complaint seeking compensation",
+   "(noun) (general) complaint; objection"
+  ]
+ },
+ {
+  "order": 231,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ホステスのレベルを高く<b>保て</b>ている反面、",
+  "word": "保つ",
+  "reading": "たもつ",
+  "meaning": "to keep; to preserve; to hold; to retain",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to keep; to preserve; to hold; to retain",
+   "(verb) to last; to endure; to keep well (food); to wear well"
+  ]
+ },
+ {
+  "order": 232,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ホステスのレベルを高く保てている<b>反面</b>、",
+  "word": "反面",
+  "reading": "はんめん",
+  "meaning": "while; although; though; but",
+  "pos": "conj",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(conj) while; although; though; but",
+   "(conj) (but) on the other hand; at the same time; then again; and yet",
+   "(noun) opposite side; other side; reverse"
+  ]
+ },
+ {
+  "order": 233,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ホステスの<b>品質</b>を下げるわけにもいかん……",
+  "word": "品質",
+  "reading": "ひんしつ",
+  "meaning": "quality (of a product or a service)",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) quality (of a product or a service)"
+  ]
+ },
+ {
+  "order": 234,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ホステスの品質を<b>下げる</b>わけにもいかん……",
+  "word": "下げる",
+  "reading": "さげる",
+  "meaning": "to hang; to suspend; to wear (e.g. decoration)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to hang; to suspend; to wear (e.g. decoration)",
+   "(verb) to lower; to reduce; to bring down",
+   "(verb) to demote; to move back; to pull back",
+   "(verb) to clear (plates); to remove (food, etc. from table or altar)",
+   "(verb) to keep on playing after one has formed a scoring combination with captured cards"
+  ]
+ },
+ {
+  "order": 235,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "今の客層を<b>支える</b>ホステスは十分揃っとる。",
+  "word": "支える",
+  "reading": "ささえる",
+  "meaning": "to support; to prop; to sustain; to underlay",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(verb) to support; to prop; to sustain; to underlay",
+   "(verb) to hold at bay; to stem; to check"
+  ]
+ },
+ {
+  "order": 236,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ここには<b>ホーム</b>ランバッターは腐るほどおる。",
+  "word": "ホーム",
+  "reading": "ホーム",
+  "meaning": "platform",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) platform"
+  ]
+ },
+ {
+  "order": 237,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ここにはホーム<b>ラン</b>バッターは腐るほどおる。",
+  "word": "ラン",
+  "reading": "ラン",
+  "meaning": "run",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) run"
+  ]
+ },
+ {
+  "order": 238,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ここにはホームラン<b>バッター</b>は腐るほどおる。",
+  "word": "バッター",
+  "reading": "バッター",
+  "meaning": "batter",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) batter",
+   "(noun) batter"
+  ]
+ },
+ {
+  "order": 239,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "<b>いわば</b>将来の１番バッターちゅうとこか。",
+  "word": "言わば",
+  "reading": "いわば",
+  "meaning": "so to speak; so to call it; as it were; in a sense",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(adverb) so to speak; so to call it; as it were; in a sense"
+  ]
+ },
+ {
+  "order": 240,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ああ。<b>走</b>攻守揃った将来間違いなしの連中やで。",
+  "word": "走",
+  "reading": "そう",
+  "meaning": "run; race",
+  "pos": "suf",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(suf) run; race"
+  ]
+ },
+ {
+  "order": 241,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ああ。走<b>攻守</b>揃った将来間違いなしの連中やで。",
+  "word": "攻守",
+  "reading": "こうしゅ",
+  "meaning": "offense and defense; offence and defence; batting and fielding",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) offense and defense; offence and defence; batting and fielding"
+  ]
+ },
+ {
+  "order": 242,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "こっちは<b>当面</b>の売り上げが欲しい。その代わり",
+  "word": "当面",
+  "reading": "とうめん",
+  "meaning": "current; urgent; pressing; impending",
+  "pos": "adverb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(adverb) current; urgent; pressing; impending",
+   "(verb) to confront (an issue); to face (up to something)",
+   "(adverb) for the meantime; at present"
+  ]
+ },
+ {
+  "order": 243,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "こっちは当面の売り上げが欲しい。その<b>代わり</b>",
+  "word": "代わり",
+  "reading": "かわり",
+  "meaning": "substitute; replacement; substituting; replacing",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022229",
+  "candidates": [
+   "(noun) substitute; replacement; substituting; replacing",
+   "(noun) stand-in; proxy; alternate; deputy",
+   "(noun) compensation; exchange; return",
+   "(noun) another helping; second helping; seconds; refill",
+   "(noun) upcoming program; upcoming programme"
+  ]
+ },
+ {
+  "order": 244,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "客としてなら<b>土</b>下座でも何でもしたるわ。",
+  "word": "土",
+  "reading": "つち",
+  "meaning": "earth; soil; dirt; clay",
+  "pos": "noun",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022231",
+  "candidates": [
+   "(noun) earth; soil; dirt; clay",
+   "(noun) the earth (historically, esp. as opposed to the heavens); the ground; the land",
+   "(noun) low-quality torinoko-gami (containing mud)",
+   "(noun) (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+  ]
+ },
+ {
+  "order": 245,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "客としてなら土<b>下座</b>でも何でもしたるわ。",
+  "word": "下座",
+  "reading": "げざ",
+  "meaning": "coming down from one's seat and prostrating oneself (to pay obeisance)",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "01022231",
+  "candidates": [
+   "(verb) coming down from one's seat and prostrating oneself (to pay obeisance)",
+   "(noun) musicians' box on the left side of the stage",
+   "(noun) lower seat"
+  ]
+ }
+]

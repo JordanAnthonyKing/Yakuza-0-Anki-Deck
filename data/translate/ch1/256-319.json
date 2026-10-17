@@ -1,0 +1,322 @@
+{
+ "256": {
+  "literal": "Knock it off—there's no way that's true.",
+  "official": "Come on, quit busting my balls.",
+  "official_ok": true
+ },
+ "257": {
+  "literal": "You... you were tone-deaf, huh.",
+  "official": "Hey, Kiryu... What's it like having zero sense of rhythm?",
+  "official_ok": true
+ },
+ "258": {
+  "literal": "Don't get so down about it! Everything's just practice!",
+  "official": "Aw, don't let it get you down. It's all just practice!",
+  "official_ok": true
+ },
+ "259": {
+  "literal": "Still, belting it out like that really worked up an appetite.",
+  "official": "All that singing worked up an appetite.",
+  "official_ok": true
+ },
+ "260": {
+  "literal": "Wanna go grab some ramen to cap it all off?",
+  "official": "How about we move this party to the ramen shop?",
+  "official_ok": true
+ },
+ "261": {
+  "literal": "You planning to eat even more?",
+  "official": "You're hungry again?",
+  "official_ok": true
+ },
+ "262": {
+  "literal": "I'm not that hungry, man.",
+  "official": "I'm still full, man.",
+  "official_ok": true
+ },
+ "263": {
+  "literal": "How about 'Tengokuken'?",
+  "official": "Tengokuken work for you?",
+  "official_ok": true
+ },
+ "264": {
+  "literal": "I figured maybe you were a regular here.",
+  "official": "I thought maybe you were a regular.",
+  "official_ok": true
+ },
+ "265": {
+  "literal": "You could learn a thing or two from me.",
+  "official": "you could stand to follow my lead a little",
+  "official_ok": true
+ },
+ "266": {
+  "literal": "So you're just not that type, then.",
+  "official": "But I guess you're just not the type, huh?",
+  "official_ok": true
+ },
+ "267": {
+  "literal": "Me... I've just been chasing after the old man's back,",
+  "official": "I... I entered this life chasing after Kazama-san.",
+  "official_ok": true
+ },
+ "268": {
+  "literal": "The only thing I'm good for is putting my body on the line.",
+  "official": "all I can give is my life",
+  "official_ok": true
+ },
+ "269": {
+  "literal": "There's that way of turning out, too.",
+  "official": "",
+  "official_ok": false
+ },
+ "270": {
+  "literal": "It's just that you're not Kazama's kid.",
+  "official": "",
+  "official_ok": false
+ },
+ "271": {
+  "literal": "You're a member of the Dojima Family.",
+  "official": "",
+  "official_ok": false
+ },
+ "272": {
+  "literal": "Cut it out... The old man had his reasons for doing it.",
+  "official": "",
+  "official_ok": false
+ },
+ "273": {
+  "literal": "All right! Enough with the serious talk!",
+  "official": "",
+  "official_ok": false
+ },
+ "274": {
+  "literal": "Don't play dumb with me.",
+  "official": "Don't be a dumbshit.",
+  "official_ok": true
+ },
+ "275": {
+  "literal": "Don't tell me this was on Captain Kazama's orders?",
+  "official": "This wouldn't happen to be a case of Captain Kazama pulling the strings, would it?",
+  "official_ok": true
+ },
+ "276": {
+  "literal": "And where'd you get that piece?",
+  "official": "And where did you get a piece?",
+  "official_ok": true
+ },
+ "277": {
+  "literal": "The body they found had been beaten up, and then—",
+  "official": "The body they found was beat to hell,",
+  "official_ok": true
+ },
+ "278": {
+  "literal": "—it was finished off with a shot to the head.",
+  "official": "but it was a bullet to the face that ended him.",
+  "official_ok": true
+ },
+ "279": {
+  "literal": "The cops haven't made it public yet, though.",
+  "official": "The police haven't made that public yet,",
+  "official_ok": true
+ },
+ "280": {
+  "literal": "In that case, I'm not the one who dumped the body!",
+  "official": "Then it wasn't me that killed him.",
+  "official_ok": true
+ },
+ "281": {
+  "literal": "He told me to rough him up a bit first and then collect the money.",
+  "official": "so I could teach him a lesson and collect the cash",
+  "official_ok": true
+ },
+ "282": {
+  "literal": "What you just said—no mistake about it, right?",
+  "official": "That's the whole truth?",
+  "official_ok": true
+ },
+ "283": {
+  "literal": "That said, the fact that our family was involved in that killing—",
+  "official": "Still, doesn't change the fact that one of our boys was involved in the killin'.",
+  "official_ok": true
+ },
+ "284": {
+  "literal": "—was involved is a fact.",
+  "official": "doesn't change the fact that one of our boys was involved in the killin'",
+  "official_ok": true
+ },
+ "285": {
+  "literal": "At this rate, it'll get in the way of 'that other job.'",
+  "official": "",
+  "official_ok": false
+ },
+ "286": {
+  "literal": "It looks awfully creepy today.",
+  "official": "I've seen this place a million times, but it never looked as scary as it does now.",
+  "official_ok": true
+ },
+ "287": {
+  "literal": "Evening, sir!",
+  "official": "Evening, gents!",
+  "official_ok": true
+ },
+ "288": {
+  "literal": "The boss... is Boss Dojima in the office?",
+  "official": "Is the boss... Is Dojima in today?",
+  "official_ok": true
+ },
+ "289": {
+  "literal": "...Tell him Kazuma Kiryu has come to return his cup.",
+  "official": "Tell him... Kazuma Kiryu is here to end his oath.",
+  "official_ok": true
+ },
+ "290": {
+  "literal": "K-Kiryu-san... huh? Are you serious?!",
+  "official": "Kiryu-san? ...Wait, seriously!?",
+  "official_ok": true
+ },
+ "291": {
+  "literal": "I'll try to handle it as deftly as I can.",
+  "official": "I'll try to finesse it, like you would.",
+  "official_ok": true
+ },
+ "292": {
+  "literal": "Please announce me... Brother Kuze.",
+  "official": "Please let me through to see him.",
+  "official_ok": true
+ },
+ "293": {
+  "literal": "Ahh, too bad. Saturday at eight is no good.",
+  "official": "Yeah, that's a shame. Saturdays at eight's bad timing.",
+  "official_ok": true
+ },
+ "294": {
+  "literal": "Wha—you... you haven't even cut off your pinky.",
+  "official": "The hell? Your pinky's still on your goddamn hand.",
+  "official_ok": true
+ },
+ "295": {
+  "literal": "You bastard—you taking the yakuza lightly, huh?!",
+  "official": "That's not how things work in the yakuza, dumbass!",
+  "official_ok": true
+ },
+ "296": {
+  "literal": "Hey, think it over again, Kiryu.",
+  "official": "C'mon, use your head here, Kiryu.",
+  "official_ok": true
+ },
+ "297": {
+  "literal": "Do it now and I'll wipe the whole slate clean.",
+  "official": "It's not too late to put this all behind us.",
+  "official_ok": true
+ },
+ "298": {
+  "literal": "Get the info on the 'Empty Lot' out of Captain Kazama.",
+  "official": "Pump Captain Kazama for that info on the Empty Lot.",
+  "official_ok": true
+ },
+ "299": {
+  "literal": "So the answer's no, then? Heh, I see...",
+  "official": "So that's a no, then? Heh, all right...",
+  "official_ok": true
+ },
+ "300": {
+  "literal": "So you're saying you're of no use to me, then?",
+  "official": "I've got no use left for you.",
+  "official_ok": true
+ },
+ "301": {
+  "literal": "You had your chance.",
+  "official": "You had the chance to climb the ranks as one of my boys.",
+  "official_ok": true
+ },
+ "302": {
+  "literal": "It's not flashy, but burying him alive up in the mountains would be best, I'd say.",
+  "official": "It's not fancy, but a live burial up in the mountains is probably easiest.",
+  "official_ok": true
+ },
+ "303": {
+  "literal": "Yeah, leave the body. It's better if his corpse turns up later on—",
+  "official": "No, leave a body. It's better if he's found, down the line.",
+  "official_ok": true
+ },
+ "304": {
+  "literal": "—it'll boost our standing with the main family, too.",
+  "official": "Tojo HQ will appreciate that.",
+  "official_ok": true
+ },
+ "305": {
+  "literal": "Captain Kazama sure scouted himself a fine kid.",
+  "official": "Kazama scouted himself a solid kid.",
+  "official_ok": true
+ },
+ "306": {
+  "literal": "If I'd met you back when I was still boxing,",
+  "official": "If I'd met you back when I was boxing,",
+  "official_ok": true
+ },
+ "307": {
+  "literal": "I'd practically want to be your promoter.",
+  "official": "I'd have offered to be your promoter.",
+  "official_ok": true
+ },
+ "308": {
+  "literal": "Kuze... spit it out before you lose the ability to talk.",
+  "official": "Kuze... Talk, before I break your jaw.",
+  "official_ok": true
+ },
+ "309": {
+  "literal": "Where are you hiding him?",
+  "official": "Where are you hiding him?",
+  "official_ok": true
+ },
+ "310": {
+  "literal": "Kiryu... you went through all this trouble because you wanted out of the family—",
+  "official": "Tell me, Kiryu. Why go through all this to get kicked out?",
+  "official_ok": true
+ },
+ "311": {
+  "literal": "—to prove my and Kazama's innocence—",
+  "official": "In order to prove that me and Kazama-san are innocent, sir.",
+  "official_ok": true
+ },
+ "312": {
+  "literal": "—that's what I'm here to make clear.",
+  "official": "In order to prove that me and Kazama-san are innocent, sir.",
+  "official_ok": true
+ },
+ "313": {
+  "literal": "In this whole affair, I didn't do the killing.",
+  "official": "I'm not the one who killed that man,",
+  "official_ok": true
+ },
+ "314": {
+  "literal": "Well then, shall we grab a bite to eat.",
+  "official": "...It's about time for dinner.",
+  "official_ok": true
+ },
+ "315": {
+  "literal": "The culprit? The cops'll go looking for him on their own.",
+  "official": "The killer? Let the police sort that out.",
+  "official_ok": true
+ },
+ "316": {
+  "literal": "It's way too late to be yapping on and on about it now.",
+  "official": "Get it through your head and stop whining.",
+  "official_ok": true
+ },
+ "317": {
+  "literal": "That's why I asked to be expelled.",
+  "official": "So you asked to be expelled.",
+  "official_ok": true
+ },
+ "318": {
+  "literal": "Relax. I'll make sure amends are settled properly.",
+  "official": "Well, relax. I'll make sure responsibility's taken.",
+  "official_ok": true
+ },
+ "319": {
+  "literal": "The kid Kazama picked up off the street... Kiryu, because of your blunder—",
+  "official": "Your screw-up made it harder for us to get that land, Kiryu. And it was Kazama that brought you in.",
+  "official_ok": true
+ }
+}

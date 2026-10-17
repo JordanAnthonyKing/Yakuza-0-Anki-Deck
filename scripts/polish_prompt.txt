@@ -1,0 +1,23 @@
+You are polishing GLOSSES for a Yakuza 0 Japanese vocab deck (i+1 sentence cards).
+
+Each card teaches one word, shown in its in-game sentence with the target in <b>...</b>. The
+card currently defaults to the word's FIRST dictionary sense, which is often not the sense used
+in this sentence. Your job: pick the ONE candidate sense that best fits how the word is actually
+used in THIS sentence, so the learner sees the right meaning.
+
+Input: read the JSON list at the input path. Each entry = {word, reading, pos, sentence,
+candidates[]}. Each candidate is a gloss group prefixed with its part of speech, e.g.
+"(noun) rate; ratio; proportion".
+
+For each word:
+- Choose the single best-fitting candidate for the sentence's meaning. Register is
+  gangster/street/Kansai dialogue -- judge the contextual sense, not the dictionary's default order.
+- Output that candidate's gloss text with the leading "(pos)" tag REMOVED. Example: candidate
+  "(noun) rate; ratio; proportion" -> output "rate; ratio; proportion". Keep the "; "-joined
+  synonyms of that one sense as-is; do not merge multiple candidates or invent wording.
+- If several senses could fit, prefer the one a learner most needs here; if none fit well, pick
+  the closest/most general candidate (never leave a word out).
+
+Output ONLY a JSON object mapping each word to its chosen gloss string, e.g.
+{"粗方": "mostly; almost; nearly; for the most part", "子": "young woman"}. Write it once, at the
+end, to the output path given. No prose.

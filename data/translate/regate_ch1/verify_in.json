@@ -1,0 +1,476 @@
+[
+ {
+  "order": 79,
+  "sentence": "そいつらが酒やら女やら欲しがって",
+  "literal": "Those guys crave booze and women and all that, and—",
+  "official": "They come thirsty for booze and women"
+ },
+ {
+  "order": 80,
+  "sentence": "なんだよ、不器用なりに一応わかってんじゃねえか。",
+  "literal": "What, so in your clumsy way you actually get it after all, huh.",
+  "official": "When did you start waxing poetic? Not that you're wrong."
+ },
+ {
+  "order": 81,
+  "sentence": "見直したか？",
+  "literal": "So, changed your opinion of me now?",
+  "official": "You impressed?"
+ },
+ {
+  "order": 82,
+  "sentence": "フッ、なんだよ、俺のいうこと疑ってる？",
+  "literal": "Heh, what's this, you doubting what I'm telling you?",
+  "official": "What, you don't trust me?"
+ },
+ {
+  "order": 83,
+  "sentence": "うーん、信じたいけどなぁ。",
+  "literal": "Hmm, I'd like to believe you, but...",
+  "official": "Well, I WANT to..."
+ },
+ {
+  "order": 84,
+  "sentence": "そんなこと言うなよぉ。……ほら、お小遣いだ。",
+  "literal": "Aw, don't say that. ...Here, a little pocket money for you.",
+  "official": "Aw, don't be like that. Here, buy yourselves something nice."
+ },
+ {
+  "order": 92,
+  "sentence": "今夜はとことん付き合ってもらうからな。",
+  "literal": "You're keeping me company all the way tonight, got it.",
+  "official": "Hope you're ready, because I'm not stopping till morning."
+ },
+ {
+  "order": 93,
+  "sentence": "（どうやら俺はハメられたらしい……",
+  "literal": "(Seems like I've been set up...)",
+  "official": "(It looks like that loan shark set me up.)"
+ },
+ {
+  "order": 94,
+  "sentence": "（どういうカラクリになっているのか……",
+  "literal": "(Just what kind of scheme is going on here...)",
+  "official": "(I don't know what his game is...)"
+ },
+ {
+  "order": 95,
+  "sentence": "オー！　ボーイ！",
+  "literal": "Oh! Boy!",
+  "official": "Hey, boy!"
+ },
+ {
+  "order": 98,
+  "sentence": "おうジジイ……　この兄ちゃんがそうか？",
+  "literal": "Hey, geezer... this the young guy you meant?",
+  "official": "Alright, gramps... Is this the kid?"
+ },
+ {
+  "order": 100,
+  "sentence": "……まさか、その１００万、",
+  "literal": "...Don't tell me, that one million yen—",
+  "official": "...Wait, you don't expect ME to pay, do you?"
+ },
+ {
+  "order": 101,
+  "sentence": "ふざけんな。",
+  "literal": "Don't screw with me.",
+  "official": "Like hell they are!"
+ },
+ {
+  "order": 102,
+  "sentence": "怪我する前にカネ出しておいた方が身のためだぜ？",
+  "literal": "You'd best cough up the cash before you get hurt—for your own good, y'know?",
+  "official": "For your own sake, I'd pay up before I got hurt."
+ },
+ {
+  "order": 103,
+  "sentence": "面倒な話に巻き込むんじゃねぇ。",
+  "literal": "Don't drag me into your troublesome mess.",
+  "official": "You're not going to drag me into your problems."
+ },
+ {
+  "order": 104,
+  "sentence": "つまり、自信は無いんだネ？",
+  "literal": "In other words, you're not confident, are you?",
+  "official": "Oh, so you think he'd beat you."
+ },
+ {
+  "order": 105,
+  "sentence": "……そうやって俺を焚きつけようとしても無駄だぜ。",
+  "literal": "...Trying to goad me on like that won't get you anywhere.",
+  "official": "...Look, if you're trying to bait me, it's not going to work."
+ },
+ {
+  "order": 106,
+  "sentence": "テメェの借金はテメェで払え。",
+  "literal": "Pay your own damn debt yourself.",
+  "official": "It's your debt, you handle it."
+ },
+ {
+  "order": 107,
+  "sentence": "セカイにはあんなのがゴロゴロいるんデスヨ？",
+  "literal": "There are tons of guys like that all over the world, you know?",
+  "official": "He's bargain-bin muscle. Dime a dozen."
+ },
+ {
+  "order": 108,
+  "sentence": "オーケイ、ワカリマシタ！",
+  "literal": "Okay, understood!",
+  "official": "Okay, all right!"
+ },
+ {
+  "order": 115,
+  "sentence": "お前ら３人が束になっても勝てやしねぇぞ？",
+  "literal": "Even if the three of you gang up, you haven't got a chance, you know?",
+  "official": "All three of you could rush him at the same time and he'd snap you like twigs."
+ },
+ {
+  "order": 116,
+  "sentence": "言っとくが俺は手伝うつもりはねえからな。",
+  "literal": "I'm telling you up front, I've got no intention of helping.",
+  "official": "I'll tell you right now I'm not bailing you out."
+ },
+ {
+  "order": 117,
+  "sentence": "カモジ君はチョットガンバルだけネ。",
+  "literal": "Kamoji here is just gonna try a little, okay.",
+  "official": "He'll be fine. Just a little workout."
+ },
+ {
+  "order": 119,
+  "sentence": "シロウトが無理するもんじゃねぇ。",
+  "literal": "An amateur shouldn't push his luck.",
+  "official": "You shouldn't push yourself like that."
+ },
+ {
+  "order": 120,
+  "sentence": "向こうのパンチ、全然ヒットしてないネ。",
+  "literal": "The other guy's punches aren't landing at all, huh.",
+  "official": "Big guy didn't land a single punch on him."
+ },
+ {
+  "order": 121,
+  "sentence": "おい、そこのホームレス！",
+  "literal": "Hey, you—the homeless guy over there!",
+  "official": "Hey, you in the coat. Homeless dude!"
+ },
+ {
+  "order": 122,
+  "sentence": "そのヘナチョコパンチでまだやるのか？",
+  "literal": "You're gonna keep going with those wimpy little punches?",
+  "official": "You gonna try to finish the job with those weak-ass punches?"
+ },
+ {
+  "order": 123,
+  "sentence": "フッ……　しょうがねえな。",
+  "literal": "Heh... Well, guess there's no helping it.",
+  "official": "Heh... Yeah, all right."
+ },
+ {
+  "order": 124,
+  "sentence": "これっぽっちもやる気なんてなかったが、",
+  "literal": "I didn't have the slightest bit of motivation for this, but...",
+  "official": "I meant it when I said I wouldn't bail you out,"
+ },
+ {
+  "order": 125,
+  "sentence": "アイツの技見ちまったら気が変わったぜ……",
+  "literal": "After seeing that guy's moves, though, I changed my mind...",
+  "official": "but watching him just put me in the mood for a quick round."
+ },
+ {
+  "order": 126,
+  "sentence": "ブル野、やっちまえ！",
+  "literal": "Bruno, let 'em have it!",
+  "official": "Bruno? Take him!"
+ },
+ {
+  "order": 127,
+  "sentence": "な……　ブル野がこんな一方的に……",
+  "literal": "Wh... Bruno's getting beaten this one-sidedly...",
+  "official": "What just happened? Bruno barely got a punch in!"
+ },
+ {
+  "order": 128,
+  "sentence": "テメェ、一体何者なんだ？",
+  "literal": "The hell—just who are you, anyway?",
+  "official": "Just who the hell ARE you?"
+ },
+ {
+  "order": 129,
+  "sentence": "え、あ、本職の方だったんですか……!?",
+  "literal": "H-huh... So you were one of the real deal (an actual yakuza)...?!",
+  "official": "Whoa, wait, you're a proper yakuza!?"
+ },
+ {
+  "order": 130,
+  "sentence": "俺らは、いや、僕達は東興クレジットの者です。",
+  "literal": "We're—no, I mean, we're with Toko Credit.",
+  "official": "We just work for Toko Credit."
+ },
+ {
+  "order": 131,
+  "sentence": "東興クレジットか……　丁度いい。",
+  "literal": "Toko Credit, huh... That works out nicely.",
+  "official": "Well there's a coincidence."
+ },
+ {
+  "order": 132,
+  "sentence": "それなら、今はオフィスにいるかと思います。",
+  "literal": "In that case, I'd think he's at the office right now.",
+  "official": "The president? I figure he'd be at the office at this hour."
+ },
+ {
+  "order": 133,
+  "sentence": "……ワタシの借金、これでチャラ？",
+  "literal": "...My debt—it's cleared with this, right?",
+  "official": "And that takes care of that little debt of ours, right?"
+ },
+ {
+  "order": 134,
+  "sentence": "それがキリトリのルールです。",
+  "literal": "That's the rule of debt collection (kiritori).",
+  "official": "That's how our kinda debt collection works."
+ },
+ {
+  "order": 136,
+  "sentence": "何の目的があって俺に近づいて来てるんだ？",
+  "literal": "What's your aim in getting close to me?",
+  "official": "Why approach me? What are you after?"
+ },
+ {
+  "order": 137,
+  "sentence": "何か事情があるなら全部話してくれ。",
+  "literal": "If there's some reason behind it, tell me the whole story.",
+  "official": "Look, if you're in some trouble, tell me."
+ },
+ {
+  "order": 138,
+  "sentence": "……あのカモジって男にしてもそうだ。",
+  "literal": "...The same goes for that guy called Kamoji.",
+  "official": "And that goes for him, too."
+ },
+ {
+  "order": 139,
+  "sentence": "ただのホームレスにしちゃ、動きが素人じゃない。",
+  "literal": "For just a homeless guy, his movements aren't those of an amateur.",
+  "official": "Those weren't the moves of an amateur."
+ },
+ {
+  "order": 142,
+  "sentence": "客から参加料をもらって、",
+  "literal": "We take a participation fee from the customers, and...",
+  "official": "The customer pays a fee,"
+ },
+ {
+  "order": 143,
+  "sentence": "たくさんのエッセンス持ってるヨ！",
+  "literal": "He's got loads of essence (raw talent)!",
+  "official": "Kamoji-kun here's got plenty to teach you about fighting, my boy."
+ },
+ {
+  "order": 144,
+  "sentence": "ボーイは見なきゃ損するネ！",
+  "literal": "You'd be missing out if you don't watch, boy!",
+  "official": "You'll kick yourself if you don't check it out."
+ },
+ {
+  "order": 145,
+  "sentence": "七福パークだな？　時間が出来た時に行くぜ。",
+  "literal": "Shichifuku Park, right? I'll head over when I get the time.",
+  "official": "Shichifuku Parking Lot, right? I'll swing by if I can find the time."
+ },
+ {
+  "order": 356,
+  "sentence": "実はネ、向こうから来るコワーい顔したメンズと",
+  "literal": "Actually, y'know, with those scary-faced men coming over there—",
+  "official": "I just need you to talk to a couple guys. They'll be here real soon. They'll also be real angry."
+ },
+ {
+  "order": 357,
+  "sentence": "師匠の借金は弟子が払うものネ。",
+  "literal": "It's the pupil who pays the master's debts.",
+  "official": "Besides, the debts of the master are the debts of... y'know, you."
+ },
+ {
+  "order": 478,
+  "sentence": "へへ、“現役女子大生ホステス”の",
+  "literal": "Heheh, of the \"active current college-girl hostesses\"—",
+  "official": "Heh, \"college-girl-slash-hostesses,\" Madoka-chan and Yui-chan."
+ },
+ {
+  "order": 479,
+  "sentence": "へへ、“現役女子大生ホステス”の",
+  "literal": "Heheh, of the \"active college-girl hostesses\"—",
+  "official": "Heh, \"college-girl-slash-hostesses,\" Madoka-chan and Yui-chan."
+ },
+ {
+  "order": 488,
+  "sentence": "チッ、こっちの事情はおかまいなしかよ……",
+  "literal": "Tch, no regard for my situation at all, huh...",
+  "official": "Ugh, you're not even listening..."
+ },
+ {
+  "order": 489,
+  "sentence": "チッ、こっちの事情はおかまいなしかよ……",
+  "literal": "Tch, so you've got no consideration for my circumstances...",
+  "official": "Ugh, you're not even listening..."
+ },
+ {
+  "order": 492,
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official": "That tip I gave you the other day's worth at least that, no?"
+ },
+ {
+  "order": 493,
+  "sentence": "フィッシュハートあればウォーターハート。",
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official": "That tip I gave you the other day's worth at least that, no?"
+ },
+ {
+  "order": 497,
+  "sentence": "フゥ……　これくらいの相手でビビってちゃ",
+  "literal": "Whew... If you get spooked by an opponent like this,",
+  "official": "Can't have you getting spooked over a chump like him."
+ },
+ {
+  "order": 498,
+  "sentence": "フゥ……　これくらいの相手でビビってちゃ",
+  "literal": "Whew... Getting scared of a nobody like this,",
+  "official": "Can't have you getting spooked over a chump like him."
+ },
+ {
+  "order": 499,
+  "sentence": "なにコソコソしゃべってやがる？",
+  "literal": "What are you two whispering about over there?",
+  "official": "Hey, what's with all the whispering, boys?"
+ },
+ {
+  "order": 500,
+  "sentence": "なにコソコソしゃべってやがる？",
+  "literal": "What are you muttering about over there?",
+  "official": "Hey, what's with all the whispering, boys?"
+ },
+ {
+  "order": 504,
+  "sentence": "あー、もうカモジ君はギブアップ！",
+  "literal": "Ahh, Kamoji's already tapping out!",
+  "official": "Ah, no. Kamoji-kun, you sit this one out."
+ },
+ {
+  "order": 505,
+  "sentence": "あー、もうカモジ君はギブアップ！",
+  "literal": "Ahh, Kamoji's giving up already!",
+  "official": "Ah, no. Kamoji-kun, you sit this one out."
+ },
+ {
+  "order": 506,
+  "sentence": "ドクター……　じゃなくてバッカスストップだヨ！",
+  "literal": "Doctor... er, I mean, Bacchus Stop!",
+  "official": "I'm calling the round as your manager!"
+ },
+ {
+  "order": 507,
+  "sentence": "ドクター……　じゃなくてバッカスストップだヨ！",
+  "literal": "Doctor... no wait, it's a Bacchus Stop!",
+  "official": "I'm calling the round as your manager!"
+ },
+ {
+  "order": 508,
+  "sentence": "ほんじゃあ、２００万円の虐殺ショー、",
+  "literal": "All right then, the two-million-yen massacre show—",
+  "official": "Right, then. On to round two of the two-million yen murder parade!"
+ },
+ {
+  "order": 509,
+  "sentence": "ほんじゃあ、２００万円の虐殺ショー、",
+  "literal": "All right then, the two-million-yen slaughter show—",
+  "official": "Right, then. On to round two of the two-million yen murder parade!"
+ },
+ {
+  "order": 510,
+  "sentence": "第２ラウンドといこうか!?",
+  "literal": "shall we head into round two?!",
+  "official": "Right, then. On to round two of the two-million yen murder parade!"
+ },
+ {
+  "order": 511,
+  "sentence": "第２ラウンドといこうか!?",
+  "literal": "shall we go for round two?!",
+  "official": "Right, then. On to round two of the two-million yen murder parade!"
+ },
+ {
+  "order": 512,
+  "sentence": "確か泰平通り東の雑居ビルだったな。",
+  "literal": "If I recall right, it was in a mixed-tenant building east of Taihei Boulevard.",
+  "official": "That's in a building on Taihei Boulevard East, right?"
+ },
+ {
+  "order": 513,
+  "sentence": "確か泰平通り東の雑居ビルだったな。",
+  "literal": "If I recall right, it was in a mixed-tenant building east of Taihei Boulevard.",
+  "official": "That's in a building on Taihei Boulevard East, right?"
+ },
+ {
+  "order": 515,
+  "sentence": "回収できなかったツケはブル野に払わせます。",
+  "literal": "I'll make Bruno pay off the tab I couldn't collect.",
+  "official": "Bruno here will have to cover the difference."
+ },
+ {
+  "order": 516,
+  "sentence": "では、僕達はこの辺で失礼します！",
+  "literal": "Well then, we'll be taking our leave here!",
+  "official": "Well, I better get moving."
+ },
+ {
+  "order": 517,
+  "sentence": "では、僕達はこの辺で失礼します！",
+  "literal": "Well then, we'll be taking our leave here!",
+  "official": "Well, I better get moving."
+ },
+ {
+  "order": 518,
+  "sentence": "ズバリ、“押しタオシテ見て屋”だネ！",
+  "literal": "To put it bluntly, it's the 'Knock-'Em-Down-and-Watch' outfit!",
+  "official": "He's a... whatchacallit. A fisting artist!"
+ },
+ {
+  "order": 520,
+  "sentence": "存分に殴り掛かってもらう仕事だぁ。",
+  "literal": "It's a job where you get to swing at 'em to your heart's content.",
+  "official": "The customer pays a fee, then they get to throw as many punches at me as they like."
+ },
+ {
+  "order": 521,
+  "sentence": "存分に殴り掛かってもらう仕事だぁ。",
+  "literal": "It's a job where you get to throw punches at 'em to your heart's content.",
+  "official": "The customer pays a fee, then they get to throw as many punches at me as they like."
+ },
+ {
+  "order": 522,
+  "sentence": "新手のＳＭか何かか？",
+  "literal": "Is this some new kind of S&M or something?",
+  "official": "This some new S&M thing?"
+ },
+ {
+  "order": 523,
+  "sentence": "新手のＳＭか何かか？",
+  "literal": "Is this some new kind of S&M or something?",
+  "official": "This some new S&M thing?"
+ },
+ {
+  "order": 524,
+  "sentence": "詳しくは仕事場に来てくんろ。",
+  "literal": "Come on down to my workplace and I'll give you the details.",
+  "official": "Come on by and watch, if you got questions."
+ },
+ {
+  "order": 525,
+  "sentence": "詳しくは仕事場に来てくんろ。",
+  "literal": "Come on down to my workplace and I'll give you the details.",
+  "official": "Come on by and watch, if you got questions."
+ }
+]

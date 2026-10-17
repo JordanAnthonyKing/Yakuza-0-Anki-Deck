@@ -1,0 +1,17 @@
+# Environment / tooling (reinstallable)
+.venv/
+tools/
+__pycache__/
+*.pyc
+
+# Third-party inputs (re-downloadable / re-extractable)
+*JLPT Tango*.apkg
+data/jmdict-eng*.json
+data/jmdict-eng*.json.zip
+data/jmdict_index.pkl
+# extracted game text: re-extract with tools/parmanager/ParTool.exe from the install
+# (wdr_par_j/wdr.par -> source/wdrj/msg, wdr_par_c/wdr.par -> source/wdr/msg)
+source/
+
+# Transient
+data/translate/**/*.pre_regate

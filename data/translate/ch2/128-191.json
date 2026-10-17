@@ -1,0 +1,317 @@
+{
+ "128": {
+  "literal": "Those people are the “darkness” of Kamurocho.",
+  "official": "They're the very shadows of this town.",
+  "official_ok": true
+ },
+ "129": {
+  "literal": "The way I see it, they're way scarier than any yakuza.",
+  "official": "Way I sees it, they're way scarier than any yakuza.",
+  "official_ok": true
+ },
+ "130": {
+  "literal": "Even if they're up against a yakuza, they'll dig up his weak spot—",
+  "official": "Whoever ya are, yakuza, doesn't matter. They know yer secrets.",
+  "official_ok": true
+ },
+ "131": {
+  "literal": "—and have him by the balls in no time.",
+  "official": "Have ya by the balls before ya can blink.",
+  "official_ok": true
+ },
+ "132": {
+  "literal": "He got ratted out anonymously.",
+  "official": "Anonymous tip.",
+  "official_ok": true
+ },
+ "133": {
+  "literal": "Though what he got snitched on for was only a tiny part of it.",
+  "official": "'Course, they only ratted him out for a tiny bit of it.",
+  "official_ok": true
+ },
+ "134": {
+  "literal": "If the whole thing got spilled, the family boss would definitely be killed.",
+  "official": "If the Tojo Clan got the full scope of it, he'd be dead.",
+  "official_ok": true
+ },
+ "135": {
+  "literal": "I see... So Tachibana leaks the dirt bit by bit—",
+  "official": "I see. And now Tachibana's got him on a leash.",
+  "official_ok": true
+ },
+ "136": {
+  "literal": "—and uses it to put the squeeze on him, that it?",
+  "official": "And now Tachibana's got him on a leash.",
+  "official_ok": true
+ },
+ "137": {
+  "literal": "I never said a single word about that.",
+  "official": "Hey, I never said one word about it being Tachibana-san who did it.",
+  "official_ok": true
+ },
+ "138": {
+  "literal": "Just like the master of the Cafe “Blend” said,",
+  "official": "",
+  "official_ok": false
+ },
+ "139": {
+  "literal": "Yeah. I just camp out all day at whatever spot they tell me to.",
+  "official": "",
+  "official_ok": false
+ },
+ "140": {
+  "literal": "I just wrapped up a job a bit ago and got my day's pay,",
+  "official": "",
+  "official_ok": false
+ },
+ "141": {
+  "literal": "Do they come and approach you about it?",
+  "official": "",
+  "official_ok": false
+ },
+ "142": {
+  "literal": "These days even the homeless have their uses, huh.",
+  "official": "",
+  "official_ok": false
+ },
+ "143": {
+  "literal": "I often see them going in and out of there.",
+  "official": "",
+  "official_ok": false
+ },
+ "144": {
+  "literal": "If you drove out the folks there and bundled it all into one holding,",
+  "official": "",
+  "official_ok": false
+ },
+ "145": {
+  "literal": "Because the Tojo Clan guys are after it too.",
+  "official": "",
+  "official_ok": false
+ },
+ "146": {
+  "literal": "The residents there'll treat you as an unwelcome nuisance.",
+  "official": "",
+  "official_ok": false
+ },
+ "147": {
+  "literal": "...I see. That was helpful. Thanks.",
+  "official": "",
+  "official_ok": false
+ },
+ "148": {
+  "literal": "You another one of the Tojo Clan's young guns?",
+  "official": "",
+  "official_ok": false
+ },
+ "149": {
+  "literal": "We're sick to death of you yakuza! You bastards—",
+  "official": "",
+  "official_ok": false
+ },
+ "150": {
+  "literal": "Of all the guys in the Tojo Clan, it had to be...",
+  "official": "",
+  "official_ok": false
+ },
+ "152": {
+  "literal": "If you want to know more about us, last night with the boss—",
+  "official": "",
+  "official_ok": false
+ },
+ "153": {
+  "literal": "Well, more or less. ...It's because the boss has his policy.",
+  "official": "",
+  "official_ok": false
+ },
+ "154": {
+  "literal": "The way our boss puts it, this area is the roots of Kamurocho.",
+  "official": "",
+  "official_ok": false
+ },
+ "155": {
+  "literal": "Your attitude's a lot different from back at that building earlier.",
+  "official": "",
+  "official_ok": false
+ },
+ "156": {
+  "literal": "The Hakua Building? ...Hah, those guys there are, at the end of the day,",
+  "official": "",
+  "official_ok": false
+ },
+ "157": {
+  "literal": "Even those guys, back when they drifted in from somewhere else,",
+  "official": "",
+  "official_ok": false
+ },
+ "158": {
+  "literal": "My apartment ended up getting burned down.",
+  "official": "They burned my damn apartment down.",
+  "official_ok": true
+ },
+ "159": {
+  "literal": "A place that'd take me in and hide me...",
+  "official": "(I hope I can find someplace that'll take me in...)",
+  "official_ok": true
+ },
+ "160": {
+  "literal": "Feels like I've come home for the first time in ages.",
+  "official": "Feels like I haven't been home in forever.",
+  "official_ok": true
+ },
+ "161": {
+  "literal": "I know. I wasn't expecting anything else anyway.",
+  "official": "Please. You think I'd expect any different?",
+  "official_ok": true
+ },
+ "162": {
+  "literal": "He lured you out, didn't he?",
+  "official": "He sent you into the Empty Lot on Kuze's orders, right?",
+  "official_ok": true
+ },
+ "163": {
+  "literal": "Kuze probably had him killed to shut him up.",
+  "official": "Kuze must have wanted to keep that fact quiet.",
+  "official_ok": true
+ },
+ "164": {
+  "literal": "...He wants me to cooperate so he can get his hands on the “Empty Lot.”",
+  "official": "He wanted me to help him get the Empty Lot.",
+  "official_ok": true
+ },
+ "165": {
+  "literal": "Tachibana Real Estate isn't the kind of outfit that keeps an office in town—",
+  "official": "For starters, they're not the sort of business that's got an office.",
+  "official_ok": true
+ },
+ "166": {
+  "literal": "—it's no legit company.",
+  "official": "For starters, they're not the sort of business that's got an office.",
+  "official_ok": true
+ },
+ "167": {
+  "literal": "In a word, they're a Kamurocho-specialized—",
+  "official": "I've only heard bits here and there, but they're like property acquisition specialists homing in on Kamurocho.",
+  "official_ok": true
+ },
+ "168": {
+  "literal": "...real estate takeover outfit?",
+  "official": "They take over real estate?",
+  "official_ok": true
+ },
+ "169": {
+  "literal": "But Tachibana Real Estate, against that “iron wall” of Kamurocho...",
+  "official": "But somehow, Tachibana Real Estate came along and started poking holes in that iron wall.",
+  "official_ok": true
+ },
+ "170": {
+  "literal": "No matter how thriving a shop might be,",
+  "official": "Doesn't matter how successful the place was, they're gone.",
+  "official_ok": true
+ },
+ "171": {
+  "literal": "Money, threats, harassment...",
+  "official": "Bribes, threats, harassment...",
+  "official_ok": true
+ },
+ "172": {
+  "literal": "But even among them, Tachibana Real Estate is notorious.",
+  "official": "But Tachibana's playing on another level.",
+  "official_ok": true
+ },
+ "173": {
+  "literal": "Apparently even Tojo Clan HQ is after them, trying to root them out.",
+  "official": "Even Tojo HQ is trying to shut them down.",
+  "official_ok": true
+ },
+ "174": {
+  "literal": "But if those guys were to side with you...",
+  "official": "Although if you had them on your side... things suddenly get interesting.",
+  "official_ok": true
+ },
+ "175": {
+  "literal": "Just why they're trying to pull me in—",
+  "official": "I still can't figure what Tachibana hopes to gain from winning me over.",
+  "official_ok": true
+ },
+ "176": {
+  "literal": "...Then tomorrow, let's dig in a little and look into Tachibana Real Estate—",
+  "official": "All right, then tomorrow you and me can dig around for more info on Tachibana.",
+  "official_ok": true
+ },
+ "177": {
+  "literal": "—let's check them out. It's worth poking around.",
+  "official": "It's worth investigating.",
+  "official_ok": true
+ },
+ "178": {
+  "literal": "I'm the manager.",
+  "official": "I run the place.",
+  "official_ok": true
+ },
+ "179": {
+  "literal": "...Are you, by any chance, with the Jinsei Family?",
+  "official": "Are you with the Jinsei Family?",
+  "official_ok": true
+ },
+ "180": {
+  "literal": "Yakuza—a fourth-tier Tojo Clan affiliate that ran protection for this place.",
+  "official": "Tojo Clan, like four tiers down. They run the protection racket here.",
+  "official_ok": true
+ },
+ "181": {
+  "literal": "They got chased off by Tachibana Real Estate.",
+  "official": "those Tachibana guys sent them running.",
+  "official_ok": true
+ },
+ "182": {
+  "literal": "Yakuza backing down against a civilian...?",
+  "official": "The yakuza flinched against civilians?",
+  "official_ok": true
+ },
+ "183": {
+  "literal": "The wife says she's scared of the homeless who've settled into the building,",
+  "official": "Says she's too scared of the homeless guys who took the place over.",
+  "official_ok": true
+ },
+ "184": {
+  "literal": "Siccing those guys on us is Tachibana Real Estate's harassment too.",
+  "official": "They're on the Tachibana Real Estate bankroll, too.",
+  "official_ok": true
+ },
+ "185": {
+  "literal": "Having the homeless piss inside the building, and so on—",
+  "official": "They pay those guys to scream and shout and piss in the halls.",
+  "official_ok": true
+ },
+ "186": {
+  "literal": "Lately all that comes are silent phone calls.",
+  "official": "Lately I've just been getting silent phone calls.",
+  "official_ok": true
+ },
+ "187": {
+  "literal": "They ring hundreds of times, all night long.",
+  "official": "Hundreds of 'em, all through the night.",
+  "official_ok": true
+ },
+ "188": {
+  "literal": "So how about it—have you thought over the matter of moving out?",
+  "official": "Have you given some thought to that relocation for me yet?",
+  "official_ok": true
+ },
+ "189": {
+  "literal": "After all, we're the owner now. Trotting out your own selfish reasons—",
+  "official": "but we're already the legal owners of the building. Can't have you causing trouble by sticking around for your own selfish reasons.",
+  "official_ok": true
+ },
+ "190": {
+  "literal": "We've even got a baby here, you know!?",
+  "official": "We've got an infant here!",
+  "official_ok": true
+ },
+ "191": {
+  "literal": "You can just think of me as this place's bodyguard.",
+  "official": "Just think of me as this guy's bodyguard.",
+  "official_ok": true
+ }
+}

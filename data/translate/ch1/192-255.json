@@ -1,0 +1,322 @@
+{
+ "192": {
+  "literal": "How about you get to the main point now, Kuze-aniki?",
+  "official": "And the point is, sir?",
+  "official_ok": true
+ },
+ "193": {
+  "literal": "...I can't see where your story's going at all.",
+  "official": "I'm not seeing where you're going with all this.",
+  "official_ok": true
+ },
+ "194": {
+  "literal": "Kiryu. You... spy on Captain Kazama.",
+  "official": "Kiryu... I want you to spy on Kazama for me.",
+  "official_ok": true
+ },
+ "195": {
+  "literal": "I told you about the \"Empty Lot,\" didn't I?",
+  "official": "I told you about the Empty Lot, right?",
+  "official_ok": true
+ },
+ "196": {
+  "literal": "It's about the succession of the Dojima Family.",
+  "official": "Next in line to lead the Dojima Family.",
+  "official_ok": true
+ },
+ "197": {
+  "literal": "But there's a certain piece of information about that land that's needed for it—",
+  "official": "But there's one piece of information I need in order to get it, and Kazama's sitting on it.",
+  "official_ok": true
+ },
+ "198": {
+  "literal": "Yeah. You go dig that out of the captain.",
+  "official": "Yeah. And I want you to get it out of him.",
+  "official_ok": true
+ },
+ "199": {
+  "literal": "Pull it off well and I'll guarantee your future in the family. And that guy too—",
+  "official": "Pull this off, and I'll personally guarantee your future in the family.",
+  "official_ok": true
+ },
+ "200": {
+  "literal": "There's no way he'd ever expect to be betrayed by you.",
+  "official": "I doubt he'd ever think to suspect you.",
+  "official_ok": true
+ },
+ "201": {
+  "literal": "The Tojo Clan, 25,000 members strong...",
+  "official": "The Tojo Clan's 25,000 men deep,",
+  "official_ok": true
+ },
+ "202": {
+  "literal": "If you climb your way up through its direct-line Dojima Family,",
+  "official": "and the Dojima Family is one of the major players in it.",
+  "official_ok": true
+ },
+ "203": {
+  "literal": "that's quite a step up in the world.",
+  "official": "Making the upper ranks here is no small accomplishment.",
+  "official_ok": true
+ },
+ "204": {
+  "literal": "Who knows. ...But if you kick this offer aside,",
+  "official": "Maybe, maybe not. But... if you turn this offer down",
+  "official_ok": true
+ },
+ "205": {
+  "literal": "you're definitely headed for the slammer.",
+  "official": "you can be damn sure you're serving time",
+  "official_ok": true
+ },
+ "206": {
+  "literal": "Pick whichever you like. ...But your answer's due now, right here on the spot.",
+  "official": "Choice is yours. ...But I want your answer right now. Right here.",
+  "official_ok": true
+ },
+ "207": {
+  "literal": "You've got none of the caliber for it.",
+  "official": "But you're too clumsy to hold the pieces.",
+  "official_ok": true
+ },
+ "208": {
+  "literal": "You little punk! You're gonna make an enemy of me?",
+  "official": "Cocky little shit! You're gonna make an enemy of me?",
+  "official_ok": true
+ },
+ "209": {
+  "literal": "That's what being a yakuza is all about, isn't it.",
+  "official": "If I weren't, I'd have no business calling myself a yakuza.",
+  "official_ok": true
+ },
+ "210": {
+  "literal": "I'll beat you lot half to death and make him willing to see me.",
+  "official": "",
+  "official_ok": false
+ },
+ "211": {
+  "literal": "Against this many guys, all by yourself?",
+  "official": "",
+  "official_ok": false
+ },
+ "212": {
+  "literal": "Get out of the way already, you punk!!",
+  "official": "",
+  "official_ok": false
+ },
+ "213": {
+  "literal": "Hooguhgiwaffawa... (slurred, drunken gibberish)",
+  "official": "Ermgradurohey.",
+  "official_ok": true
+ },
+ "214": {
+  "literal": "I'm glad you made it out safe.",
+  "official": "I'm glad you're okay.",
+  "official_ok": true
+ },
+ "215": {
+  "literal": "up to the part where you got summoned by the head family—",
+  "official": "Nishikiyama filled me in up to the point where HQ called you in.",
+  "official_ok": true
+ },
+ "216": {
+  "literal": "Someone like Kuze-ojiki... [telling you to] \"betray Kazama\"—",
+  "official": "Did Kuze approach you? Ask you to sell out Kazama?",
+  "official_ok": true
+ },
+ "217": {
+  "literal": "The body Kiryu supposedly let die at the \"Empty Lot\"—",
+  "official": "The man who Kiryu allegedly killed in the Empty Lot",
+  "official_ok": true
+ },
+ "218": {
+  "literal": "had been killed with a gun. Of course, that this guy [did it]—",
+  "official": "was shot to death. Of course, I don't need to tell you he wouldn't do that.",
+  "official_ok": true
+ },
+ "219": {
+  "literal": "I really thought my sworn brother had turned into a killer—",
+  "official": "This whole time I was thinking my brother actually offed a guy!",
+  "official_ok": true
+ },
+ "220": {
+  "literal": "You've gotta be kidding—other than the boss,",
+  "official": "That's crazy. Nobody but Kazama-san",
+  "official_ok": true
+ },
+ "221": {
+  "literal": "who could possibly serve as Dojima's captain!",
+  "official": "could hack it as Dojima captain!",
+  "official_ok": true
+ },
+ "222": {
+  "literal": "Calm down, Nishikiyama.",
+  "official": "Calm down, Nishiki.",
+  "official_ok": true
+ },
+ "223": {
+  "literal": "What you guys know is just the surface of it, right?",
+  "official": "You boys are only just hearing about it, right?",
+  "official_ok": true
+ },
+ "224": {
+  "literal": "Yeah. Do you know the details, Kashiwagi-san?",
+  "official": "Yes, sir. Kashiwagi-san, do you know more about it?",
+  "official_ok": true
+ },
+ "225": {
+  "literal": "Yeah. ...First off, right now, over a certain area of Kamurocho—",
+  "official": "Yeah. There's a big redevelopment project in the works involving a chunk of Kamurocho.",
+  "official_ok": true
+ },
+ "226": {
+  "literal": "they're doing land-sharking.",
+  "official": "",
+  "official_ok": false
+ },
+ "227": {
+  "literal": "It's a plot they found when they were about 80 percent done.",
+  "official": "They bought up 80% of the neighborhood before they found it.",
+  "official_ok": true
+ },
+ "228": {
+  "literal": "As long as they can't get hold of that spot, no matter how much of the surrounding land—",
+  "official": "If they can't get that plot, there's no way they can sell any of what they've already bought.",
+  "official_ok": true
+ },
+ "229": {
+  "literal": "If it came onto the market now, its price would be up to a billion yen.",
+  "official": "If they turned up now, the price I've heard being thrown around is one billion.",
+  "official_ok": true
+ },
+ "230": {
+  "literal": "For just one tsubo of land!?",
+  "official": "A billion yen for that tiny lot!?",
+  "official_ok": true
+ },
+ "231": {
+  "literal": "the whole thing gets upended. But the Dojima Family, into land-sharking the whole surrounding area,",
+  "official": "That tiny lot could sink the whole redevelopment project,",
+  "official_ok": true
+ },
+ "232": {
+  "literal": "have already plowed in over ten billion yen.",
+  "official": "and Dojima's already sunk ten billion plus into buying up the area.",
+  "official_ok": true
+ },
+ "233": {
+  "literal": "[He said] boss Kazama is holding onto a certain piece of information.",
+  "official": "Kuze said that Kazama-san had some key piece of info they needed in order to get the land.",
+  "official_ok": true
+ },
+ "234": {
+  "literal": "No, I don't know. It's the first I've heard of it too.",
+  "official": "I couldn't say. That's the first I've heard of it.",
+  "official_ok": true
+ },
+ "235": {
+  "literal": "So he framed Kiryu to make him dig it out, huh.",
+  "official": "Well, whatever it is, Kuze set Kiryu up to force him to get that info out of Kazama.",
+  "official_ok": true
+ },
+ "236": {
+  "literal": "By pinning it on Kiryu as having killed a civilian,",
+  "official": "They make Kiryu out to have murdered a civilian,",
+  "official_ok": true
+ },
+ "237": {
+  "literal": "Drive him out of the family...?",
+  "official": "Drive him out?",
+  "official_ok": true
+ },
+ "238": {
+  "literal": "You mean... expulsion from the Dojima Family is even on the table?",
+  "official": "No way... You really think they could get him expelled!?",
+  "official_ok": true
+ },
+ "239": {
+  "literal": "Right now there's nothing we can do about it.",
+  "official": "",
+  "official_ok": false
+ },
+ "240": {
+  "literal": "The fate awaiting an expelled yakuza is...",
+  "official": "Getting kicked to the curb after having climbed all the way to the top...",
+  "official_ok": true
+ },
+ "241": {
+  "literal": "Few people can endure it.",
+  "official": "Most men don't survive that humiliation.",
+  "official_ok": true
+ },
+ "242": {
+  "literal": "Among the homeless who've killed themselves—",
+  "official": "\"Ex-yakuza\" is a common phrase in the obituaries for homeless suicides.",
+  "official_ok": true
+ },
+ "243": {
+  "literal": "That's right. But... as long as Kuze has the real culprit in his grip,",
+  "official": "Right. But whoever it is, he's in Kuze's pocket.",
+  "official_ok": true
+ },
+ "244": {
+  "literal": "we can't touch him. He's a Dojima Family exec. In this world—",
+  "official": "We can't make a move against a Dojima lieutenant. Pick a fight with the brass in our world, and you're finished.",
+  "official_ok": true
+ },
+ "245": {
+  "literal": "But at this rate Kiryu's going to get thrown in the slammer—",
+  "official": "But if we don't do something, Kiryu'll get thrown in jail!",
+  "official_ok": true
+ },
+ "246": {
+  "literal": "he'll get chucked in, won't he!?",
+  "official": "Kiryu'll get thrown in jail!",
+  "official_ok": true
+ },
+ "247": {
+  "literal": "For now, my false accusation, too—",
+  "official": "My innocence and the Empty Lot can both wait.",
+  "official_ok": true
+ },
+ "248": {
+  "literal": "the \"Empty Lot\" can wait too.",
+  "official": "My innocence and the Empty Lot can both wait.",
+  "official_ok": true
+ },
+ "249": {
+  "literal": "I'll make my move to protect the boss.",
+  "official": "",
+  "official_ok": false
+ },
+ "250": {
+  "literal": "I'll answer for my own screwup by myself.",
+  "official": "",
+  "official_ok": false
+ },
+ "251": {
+  "literal": "I never knew you were that into karaoke.",
+  "official": "Ha. I never knew you took karaoke so seriously.",
+  "official_ok": true
+ },
+ "252": {
+  "literal": "Idiot, that's because you were the one saying to cut loose,",
+  "official": "Hey, you're the one who said to get crazy.",
+  "official_ok": true
+ },
+ "253": {
+  "literal": "I only went along with it because I had no choice—",
+  "official": "I was just trying to humor you.",
+  "official_ok": true
+ },
+ "254": {
+  "literal": "Yeah, right. For that, you were totally getting into it.",
+  "official": "Suuure. And you loved every minute of it.",
+  "official_ok": true
+ },
+ "255": {
+  "literal": "You practice on the sly all the time, don't you? Come on.",
+  "official": "Do you sneak off and practice on the sly? You so do.",
+  "official_ok": true
+ }
+}

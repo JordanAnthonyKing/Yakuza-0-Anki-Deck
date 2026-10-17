@@ -1,0 +1,322 @@
+{
+ "448": {
+  "literal": "The guys in this town can't see through to what's inside a person.",
+  "official": "Nobody in this town gives a crap about substance.",
+  "official_ok": true
+ },
+ "449": {
+  "literal": "The guys in this town can't see through to a person's inner self.",
+  "official": "Nobody in this town gives a crap about substance.",
+  "official_ok": true
+ },
+ "450": {
+  "literal": "To them, outward appearance is everything.",
+  "official": "What you see is what you get.",
+  "official_ok": true
+ },
+ "451": {
+  "literal": "To them, appearance is everything.",
+  "official": "What you see is what you get.",
+  "official_ok": true
+ },
+ "452": {
+  "literal": "I'll snap 'em awake. It'll get a little rough, though.",
+  "official": "Yeah. I just need to sober them up a bit... with my fists.",
+  "official_ok": true
+ },
+ "453": {
+  "literal": "I'll snap 'em out of it. It'll get a bit rough, though.",
+  "official": "Yeah. I just need to sober them up a bit... with my fists.",
+  "official_ok": true
+ },
+ "454": {
+  "literal": "Looks like the booze has worn off.",
+  "official": "Sounds like that sobered them up.",
+  "official_ok": true
+ },
+ "455": {
+  "literal": "Looks like they've sobered up.",
+  "official": "Sounds like that sobered them up.",
+  "official_ok": true
+ },
+ "456": {
+  "literal": "By completing the tasks written in the \"Completion List,\"",
+  "official": "Completing certain challenges",
+  "official_ok": true
+ },
+ "457": {
+  "literal": "By completing the tasks listed in the \"Completion List,\"",
+  "official": "Completing certain challenges",
+  "official_ok": true
+ },
+ "458": {
+  "literal": "By completing the tasks written in the \"Completion List,\"",
+  "official": "Completing certain challenges",
+  "official_ok": true
+ },
+ "459": {
+  "literal": "you can earn CP (Complete Points).",
+  "official": "will earn you CP (Completion Points)",
+  "official_ok": true
+ },
+ "460": {
+  "literal": "you can earn CP (Complete Points).",
+  "official": "will earn you CP (Completion Points)",
+  "official_ok": true
+ },
+ "461": {
+  "literal": "you can obtain CP (Complete Points).",
+  "official": "will earn you CP (Completion Points)",
+  "official_ok": true
+ },
+ "462": {
+  "literal": "You can check the tasks from the \"Completion List\" item in the Pause menu.",
+  "official": "You can view them from the Pause menu, under Completion List.",
+  "official_ok": true
+ },
+ "463": {
+  "literal": "You can check the tasks under the \"Completion List\" item in the Pause menu.",
+  "official": "You can view them from the Pause menu, under Completion List.",
+  "official_ok": true
+ },
+ "464": {
+  "literal": "From ones you'll clear naturally just by casually playing,",
+  "official": "Some are things that will probably happen on their own as you play the game,",
+  "official_ok": true
+ },
+ "465": {
+  "literal": "From ones you'll accomplish naturally just by casually playing,",
+  "official": "Some are things that will probably happen on their own as you play the game,",
+  "official_ok": true
+ },
+ "466": {
+  "literal": "to ones that are hard to achieve unless you play deliberately—there's a whole range.",
+  "official": "but others will require more deliberate effort.",
+  "official_ok": true
+ },
+ "467": {
+  "literal": "to ones that are hard to complete unless you play with intent—they vary widely.",
+  "official": "but others will require more deliberate effort.",
+  "official_ok": true
+ },
+ "468": {
+  "literal": "At the town's \"shrines and temples,\" you can exchange the CP you've saved up for blessings,",
+  "official": "Visit temples or shrines to access the CP Exchange menu, where you can spend CP to earn special blessings",
+  "official_ok": true
+ },
+ "469": {
+  "literal": "At the town's \"shrines and temples,\" you can trade your saved-up CP for divine blessings,",
+  "official": "Visit temples or shrines to access the CP Exchange menu, where you can spend CP to earn special blessings",
+  "official_ok": true
+ },
+ "470": {
+  "literal": "At the town's \"shrines and temples,\" you can exchange your accumulated CP for blessings,",
+  "official": "Visit temples or shrines to access the CP Exchange menu, where you can spend CP to earn special blessings",
+  "official_ok": true
+ },
+ "471": {
+  "literal": "such as extending how long your dash lasts, or increasing the money you get in battle, and so on,",
+  "official": "ranging from being able to sprint for longer distances to earning more cash from fights.",
+  "official_ok": true
+ },
+ "472": {
+  "literal": "such as your dash's duration getting longer, or the money you get in battle increasing,",
+  "official": "ranging from being able to sprint for longer distances to earning more cash from fights.",
+  "official_ok": true
+ },
+ "473": {
+  "literal": "your dash's duration gets extended, the money you get in battle goes up, and so on—",
+  "official": "ranging from being able to sprint for longer distances to earning more cash from fights.",
+  "official_ok": true
+ },
+ "474": {
+  "literal": "your dash lasts longer, the money you can get in battle increases, and more—",
+  "official": "ranging from being able to sprint for longer distances to earning more cash from fights.",
+  "official_ok": true
+ },
+ "475": {
+  "literal": "your dash lasts longer, the money you can obtain in battle goes up, and so on—",
+  "official": "ranging from being able to sprint for longer distances to earning more cash from fights.",
+  "official_ok": true
+ },
+ "476": {
+  "literal": "Plenty of useful blessings are on offer, so make active use of them.",
+  "official": "They're a big help, so take a look!",
+  "official_ok": true
+ },
+ "477": {
+  "literal": "Plenty of useful blessings are prepared, so put them to good use aggressively.",
+  "official": "They're a big help, so take a look!",
+  "official_ok": true
+ },
+ "478": {
+  "literal": "Heheh, of the \"active current college-girl hostesses\"—",
+  "official": "Heh, \"college-girl-slash-hostesses,\" Madoka-chan and Yui-chan.",
+  "official_ok": true
+ },
+ "479": {
+  "literal": "Heheh, of the \"active college-girl hostesses\"—",
+  "official": "Heh, \"college-girl-slash-hostesses,\" Madoka-chan and Yui-chan.",
+  "official_ok": true
+ },
+ "480": {
+  "literal": "You figured they slickly wheedled some pocket money out of me, right?",
+  "official": "Wait, don't tell me you think I just let those two play me for 40 grand.",
+  "official_ok": true
+ },
+ "481": {
+  "literal": "You thought I got hit up for pocket money good and proper, huh?",
+  "official": "Wait, don't tell me you think I just let those two play me for 40 grand.",
+  "official_ok": true
+ },
+ "482": {
+  "literal": "Basically, they get no play with women.",
+  "official": "Not very popular with the ladies.",
+  "official_ok": true
+ },
+ "483": {
+  "literal": "Basically, they're not popular with women.",
+  "official": "Not very popular with the ladies.",
+  "official_ok": true
+ },
+ "484": {
+  "literal": "My standing in my family goes up, too.",
+  "official": "they remember you",
+  "official_ok": true
+ },
+ "485": {
+  "literal": "It also puts me in good favor within my family.",
+  "official": "they remember you",
+  "official_ok": true
+ },
+ "486": {
+  "literal": "Hmm... Well, fine, I guess.",
+  "official": "Uh huh... Well, all right.",
+  "official_ok": true
+ },
+ "487": {
+  "literal": "Hmm... Well, that's fine.",
+  "official": "Uh huh... Well, all right.",
+  "official_ok": true
+ },
+ "488": {
+  "literal": "Tch, no regard for my situation at all, huh...",
+  "official": "Ugh, you're not even listening...",
+  "official_ok": true
+ },
+ "489": {
+  "literal": "Tch, so you've got no consideration for my circumstances...",
+  "official": "Ugh, you're not even listening...",
+  "official_ok": true
+ },
+ "490": {
+  "literal": "The repayment deadline's long since passed, y'know...",
+  "official": "The million-yen loan I gave these two deadbeats is way past due.",
+  "official_ok": true
+ },
+ "491": {
+  "literal": "The repayment deadline is way past due already, y'know...",
+  "official": "The million-yen loan I gave these two deadbeats is way past due.",
+  "official_ok": true
+ },
+ "492": {
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official": "",
+  "official_ok": false
+ },
+ "493": {
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official": "",
+  "official_ok": false
+ },
+ "494": {
+  "literal": "If there's a fish heart, there's a water heart.",
+  "official": "",
+  "official_ok": false
+ },
+ "495": {
+  "literal": "Otherwise, this man standing behind me won't let it slide.",
+  "official": "Just gimme my money, before the big gentleman behind me gets impatient.",
+  "official_ok": true
+ },
+ "496": {
+  "literal": "Otherwise, this guy behind me here won't stay quiet.",
+  "official": "Just gimme my money, before the big gentleman behind me gets impatient.",
+  "official_ok": true
+ },
+ "497": {
+  "literal": "Whew... If you get spooked by an opponent like this,",
+  "official": "Can't have you getting spooked over a chump like him.",
+  "official_ok": true
+ },
+ "498": {
+  "literal": "Whew... Getting scared of a nobody like this,",
+  "official": "Can't have you getting spooked over a chump like him.",
+  "official_ok": true
+ },
+ "499": {
+  "literal": "What are you two whispering about over there?",
+  "official": "Hey, what's with all the whispering, boys?",
+  "official_ok": true
+ },
+ "500": {
+  "literal": "What are you muttering about over there?",
+  "official": "Hey, what's with all the whispering, boys?",
+  "official_ok": true
+ },
+ "501": {
+  "literal": "Good! We've got a deal!",
+  "official": "",
+  "official_ok": false
+ },
+ "502": {
+  "literal": "Good! Negotiation's settled!",
+  "official": "",
+  "official_ok": false
+ },
+ "503": {
+  "literal": "Good! The deal is struck!",
+  "official": "",
+  "official_ok": false
+ },
+ "504": {
+  "literal": "Ahh, Kamoji's already tapping out!",
+  "official": "Ah, no. Kamoji-kun, you sit this one out.",
+  "official_ok": true
+ },
+ "505": {
+  "literal": "Ahh, Kamoji's giving up already!",
+  "official": "Ah, no. Kamoji-kun, you sit this one out.",
+  "official_ok": true
+ },
+ "506": {
+  "literal": "Doctor... er, I mean, Bacchus Stop!",
+  "official": "I'm calling the round as your manager!",
+  "official_ok": true
+ },
+ "507": {
+  "literal": "Doctor... no wait, it's a Bacchus Stop!",
+  "official": "I'm calling the round as your manager!",
+  "official_ok": true
+ },
+ "508": {
+  "literal": "All right then, the two-million-yen massacre show—",
+  "official": "Right, then. On to round two of the two-million yen murder parade!",
+  "official_ok": true
+ },
+ "509": {
+  "literal": "All right then, the two-million-yen slaughter show—",
+  "official": "Right, then. On to round two of the two-million yen murder parade!",
+  "official_ok": true
+ },
+ "510": {
+  "literal": "shall we head into round two?!",
+  "official": "Right, then. On to round two of the two-million yen murder parade!",
+  "official_ok": true
+ },
+ "511": {
+  "literal": "shall we go for round two?!",
+  "official": "Right, then. On to round two of the two-million yen murder parade!",
+  "official_ok": true
+ }
+}
