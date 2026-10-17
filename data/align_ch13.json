@@ -1,0 +1,1148 @@
+[
+ {
+  "order": 0,
+  "word": "平穏",
+  "reading": "へいおん",
+  "meaning": "tranquil; calm; restful; peaceful",
+  "pos": "na-adjective",
+  "speaker": "ビデオショップの店長",
+  "uid": "003313fb",
+  "sentence": "平穏無事で済むはずがない。何が起きても",
+  "parity": true,
+  "official_candidate": "Don't have to. Tachibana-san's involved. That pretty much guarantees it ain't gonna be pretty. Anythin' could go down around that guy and it wouldn't surprise me.",
+  "official_neighbors": [
+   "Anythin'. I don't know none of the details, but I imagine it's got somethin' to do with the string of yakuza incidents happenin' around town lately, right?",
+   "I... can't really say anything.",
+   "(True, I can't think of a single job I've gotten from Tachibana I'd call \"pretty.\" I should probably assume that trend will continue.)",
+   "(Plus we'll head straight back to Tokyo once the deal's done. I should do everything I want to in Osaka first.)"
+  ]
+ },
+ {
+  "order": 1,
+  "word": "今さっき",
+  "reading": "いまさっき",
+  "meaning": "just now; a moment ago",
+  "pos": "exp",
+  "speaker": "船頭の男",
+  "uid": "00331408",
+  "sentence": "今さっき、メッチャええ勝負があったばかりやねん。",
+  "parity": true,
+  "official_candidate": "You got piss-poor timin'. Just missed the best damn fight in months. That ain't somethin' ya see every day.",
+  "official_neighbors": [
+   "Down river?",
+   "That rookie, what's-his-name... Where the hell'd Billiken-san dig him up? Ugh, I'da made a killin' if I'd bet on him!",
+   "I don't know what you're talking about, but I'm guessing this riverbed is some kind of fighting arena?"
+  ]
+ },
+ {
+  "order": 3,
+  "word": "番",
+  "reading": "ばん",
+  "meaning": "number (in a series)",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "013313f3",
+  "sentence": "まさか尾田が電話番を代わってくれるとはな……",
+  "parity": true,
+  "official_candidate": "(Never would've thought he'd offer to wait by the phone... Not that I'm complaining about a little free time. May as well enjoy a taste of Osaka until the call comes in.)",
+  "official_neighbors": [
+   "(Oda wants me. Guess that means he got his call from that Sera guy?)",
+   "(Anyway, I should get back to that video shop.)",
+   "(Sera's supposed to call us at CAL Videos in Shofukucho West. I should go check it out.)"
+  ]
+ },
+ {
+  "order": 4,
+  "word": "所帯",
+  "reading": "しょたい",
+  "meaning": "household; home; family",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313f3",
+  "sentence": "ほんの４、５人の所帯でね。",
+  "parity": true,
+  "official_candidate": "We called ourselves a mafia outfit, but it was small-time. Four, five guys tops.",
+  "official_neighbors": [
+   "You lived in Sotenbori before?",
+   "Me and Tachibana were both down here before moving up to Kamurocho. That was maybe a year and a half ago.",
+   "Even so, all the Omi yakuza knew who the boss was. I was just riding on the big man's coattails.",
+   "Was that around when he lost his arm?"
+  ]
+ },
+ {
+  "order": 5,
+  "word": "一目",
+  "reading": "ひとめ",
+  "meaning": "glance; look; glimpse",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313f3",
+  "sentence": "一目置かれてた。",
+  "parity": true,
+  "official_candidate": "Even so, all the Omi yakuza knew who the boss was. I was just riding on the big man's coattails.",
+  "official_neighbors": [
+   "Me and Tachibana were both down here before moving up to Kamurocho. That was maybe a year and a half ago.",
+   "We called ourselves a mafia outfit, but it was small-time. Four, five guys tops.",
+   "Was that around when he lost his arm?",
+   "More or less."
+  ]
+ },
+ {
+  "order": 6,
+  "word": "巾着",
+  "reading": "きんちゃく",
+  "meaning": "drawstring purse; money pouch",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313f3",
+  "sentence": "で、俺は社長の腰ぎんちゃくだったわけ。",
+  "parity": true,
+  "official_candidate": "Even so, all the Omi yakuza knew who the boss was. I was just riding on the big man's coattails.",
+  "official_neighbors": [
+   "Me and Tachibana were both down here before moving up to Kamurocho. That was maybe a year and a half ago.",
+   "We called ourselves a mafia outfit, but it was small-time. Four, five guys tops.",
+   "Was that around when he lost his arm?",
+   "More or less."
+  ]
+ },
+ {
+  "order": 8,
+  "word": "訪れる",
+  "reading": "おとずれる",
+  "meaning": "to visit; to call on",
+  "pos": "verb",
+  "speaker": "",
+  "uid": "013313f3",
+  "sentence": "真島が椿園を訪れる８時間前",
+  "parity": false,
+  "official_candidate": "Eight hours before Majima reached the Camellia Grove",
+  "official_neighbors": [
+   "Heh, gotta love seniority. Well, see you in a few.",
+   "Bo\u001b?H\b1",
+   "B/?Ei",
+   "P_KRU_TLK_stand_kamae",
+   "P_KRU_TLK_stand_PB_en",
+   "kaiwabgm_apathy_04",
+   "oda_adv_c13_010_06"
+  ]
+ },
+ {
+  "order": 9,
+  "word": "引き渡し",
+  "reading": "ひきわたし",
+  "meaning": "delivery; handing over; turning over; extradition",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "そういうこと。マキムラマコトの引き渡しは……",
+  "parity": true,
+  "official_candidate": "I did. He'll hand off Makimura at a place called Benten Inn, in the Camellia Grove.",
+  "official_neighbors": [
+   "Yeah. You got the call from Sera?",
+   "Camellia Grove, Benten Inn...",
+   "Right. We'll head there now and meet with Sera. If the coast is clear, we'll take custody of the girl."
+  ]
+ },
+ {
+  "order": 10,
+  "word": "座敷",
+  "reading": "ざしき",
+  "meaning": "tatami room; tatami mat room; formal Japanese room",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "ああ。そこの座敷でこれから世良と会う。",
+  "parity": true,
+  "official_candidate": "Right. We'll head there now and meet with Sera. If the coast is clear, we'll take custody of the girl.",
+  "official_neighbors": [
+   "I did. He'll hand off Makimura at a place called Benten Inn, in the Camellia Grove.",
+   "Camellia Grove, Benten Inn...",
+   "We're leaving right now? Seems kinda rushed, doesn't it?",
+   "The town's crawling with guys out to get her. We don't have the time to be proper about this."
+  ]
+ },
+ {
+  "order": 11,
+  "word": "溢れる",
+  "reading": "あふれる",
+  "meaning": "to overflow; to brim over; to flood",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "街中、女を狙う連中であふれてんだ。",
+  "parity": true,
+  "official_candidate": "The town's crawling with guys out to get her. We don't have the time to be proper about this.",
+  "official_neighbors": [
+   "Right. We'll head there now and meet with Sera. If the coast is clear, we'll take custody of the girl.",
+   "We're leaving right now? Seems kinda rushed, doesn't it?",
+   "Apparently Makimura didn't know she'd inherited the Empty Lot until Sera told her.",
+   "The previous owner was her grandfather. Died about two years ago, now, but by that point she'd already run away."
+  ]
+ },
+ {
+  "order": 12,
+  "word": "行儀",
+  "reading": "ぎょうぎ",
+  "meaning": "manners; behavior; behaviour",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "そんなお行儀よく事は進まねえよ。",
+  "parity": true,
+  "official_candidate": "The town's crawling with guys out to get her. We don't have the time to be proper about this.",
+  "official_neighbors": [
+   "Right. We'll head there now and meet with Sera. If the coast is clear, we'll take custody of the girl.",
+   "We're leaving right now? Seems kinda rushed, doesn't it?",
+   "Apparently Makimura didn't know she'd inherited the Empty Lot until Sera told her.",
+   "The previous owner was her grandfather. Died about two years ago, now, but by that point she'd already run away."
+  ]
+ },
+ {
+  "order": 13,
+  "word": "相続",
+  "reading": "そうぞく",
+  "meaning": "succession",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "マキムラマコトは、自分が「カラの一坪」相続してた",
+  "parity": true,
+  "official_candidate": "Apparently Makimura didn't know she'd inherited the Empty Lot until Sera told her.",
+  "official_neighbors": [
+   "We're leaving right now? Seems kinda rushed, doesn't it?",
+   "The town's crawling with guys out to get her. We don't have the time to be proper about this.",
+   "The previous owner was her grandfather. Died about two years ago, now, but by that point she'd already run away.",
+   "She ran away from home?"
+  ]
+ },
+ {
+  "order": 14,
+  "word": "不幸",
+  "reading": "ふこう",
+  "meaning": "unhappiness; sorrow; misfortune; disaster",
+  "pos": "na-adjective",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "そんな不幸続きん中、相続することになった",
+  "parity": true,
+  "official_candidate": "She goes from one tragedy to the next, then suddenly inherits land worth a billion yen... Guess God figured she deserved a break.",
+  "official_neighbors": [
+   "She ran away from home?",
+   "Yup. Hence the reason nobody had a clue where the hell she was all this time. And while we're talking mysteries, she's also gone blind for some reason.",
+   "Yeah, one that comes with getting hunted down by the yakuza. Ask her how much she's thanking God right now.",
+   "Don't really need to ask, do we? From what I hear, they've had her running scared for days now, and the bodies are piling up around her."
+  ]
+ },
+ {
+  "order": 15,
+  "word": "差し伸べる",
+  "reading": "さしのべる",
+  "meaning": "to hold out; to extend (e.g. one's hands); to stretch; to reach out for",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "手を差し伸べたってことか。",
+  "parity": true,
+  "official_candidate": "She goes from one tragedy to the next, then suddenly inherits land worth a billion yen... Guess God figured she deserved a break.",
+  "official_neighbors": [
+   "She ran away from home?",
+   "Yup. Hence the reason nobody had a clue where the hell she was all this time. And while we're talking mysteries, she's also gone blind for some reason.",
+   "Yeah, one that comes with getting hunted down by the yakuza. Ask her how much she's thanking God right now.",
+   "Don't really need to ask, do we? From what I hear, they've had her running scared for days now, and the bodies are piling up around her."
+  ]
+ },
+ {
+  "order": 16,
+  "word": "死人",
+  "reading": "しにん",
+  "meaning": "corpse; dead person",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "まわりで死人も出てるってよ。",
+  "parity": true,
+  "official_candidate": "Don't really need to ask, do we? From what I hear, they've had her running scared for days now, and the bodies are piling up around her.",
+  "official_neighbors": [
+   "She goes from one tragedy to the next, then suddenly inherits land worth a billion yen... Guess God figured she deserved a break.",
+   "Yeah, one that comes with getting hunted down by the yakuza. Ask her how much she's thanking God right now.",
+   "In any case, she says she's got no attachment to the land. She wants to get rid of it, quick style.",
+   "I see."
+  ]
+ },
+ {
+  "order": 17,
+  "word": "執着",
+  "reading": "しゅうちゃく",
+  "meaning": "attachment; adhesion; insistence; tenacity",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "何にしても、土地に執着もねえし",
+  "parity": true,
+  "official_candidate": "In any case, she says she's got no attachment to the land. She wants to get rid of it, quick style.",
+  "official_neighbors": [
+   "Yeah, one that comes with getting hunted down by the yakuza. Ask her how much she's thanking God right now.",
+   "Don't really need to ask, do we? From what I hear, they've had her running scared for days now, and the bodies are piling up around her.",
+   "I see.",
+   "Okay, ready to do this? Here's the plan to get her out..."
+  ]
+ },
+ {
+  "order": 18,
+  "word": "段取り",
+  "reading": "だんどり",
+  "meaning": "programme; program; plans; arrangements",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "……女連れ出す段取りはこうだ。",
+  "parity": true,
+  "official_candidate": "Okay, ready to do this? Here's the plan to get her out...",
+  "official_neighbors": [
+   "In any case, she says she's got no attachment to the land. She wants to get rid of it, quick style.",
+   "I see.",
+   "First, you head into the Benten Inn and collect the girl. I'll wait outside and keep an eye on who comes and goes.",
+   "Soon as we leave the inn, we make a beeline for Kyoto. We'll take the bullet train from there."
+  ]
+ },
+ {
+  "order": 19,
+  "word": "受け取る",
+  "reading": "うけとる",
+  "meaning": "to receive; to get; to accept",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "まずお前が弁天屋の中で女を受け取る。",
+  "parity": true,
+  "official_candidate": "First, you head into the Benten Inn and collect the girl. I'll wait outside and keep an eye on who comes and goes.",
+  "official_neighbors": [
+   "I see.",
+   "Okay, ready to do this? Here's the plan to get her out...",
+   "Soon as we leave the inn, we make a beeline for Kyoto. We'll take the bullet train from there.",
+   "Too dangerous to get on at Shin-Osaka, you think?"
+  ]
+ },
+ {
+  "order": 20,
+  "word": "幹線",
+  "reading": "かんせん",
+  "meaning": "main line; trunk line",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "そこから先は新幹線だ。",
+  "parity": true,
+  "official_candidate": "Soon as we leave the inn, we make a beeline for Kyoto. We'll take the bullet train from there.",
+  "official_neighbors": [
+   "Okay, ready to do this? Here's the plan to get her out...",
+   "First, you head into the Benten Inn and collect the girl. I'll wait outside and keep an eye on who comes and goes.",
+   "Too dangerous to get on at Shin-Osaka, you think?",
+   "Just being cautious. It's possible Shibusawa and the Omi have eyes on the local stations."
+  ]
+ },
+ {
+  "order": 21,
+  "word": "寛ぐ",
+  "reading": "くつろぐ",
+  "meaning": "to relax; to feel at home",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "ま、くつろいで。",
+  "parity": true,
+  "official_candidate": "Make yourself cozy.",
+  "official_neighbors": [
+   "So is this your own private little fun room?",
+   "Tachibana-san was a big fan, too. He's the one who laid out the money to build it."
+  ]
+ },
+ {
+  "order": 22,
+  "word": "けち",
+  "reading": "ケチ",
+  "meaning": "stinginess; miserliness; penny-pinching; miser",
+  "pos": "na-adjective",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "ケチな愚連隊やっとった。",
+  "parity": true,
+  "official_candidate": "I've known Oda-san longer, actually. Me, him, and a couple other guys used to run a two-bit gang.",
+  "official_neighbors": [
+   "Didn't need it, when he was still livin' here in Sotenbori.",
+   "Do you and Tachibana go back far?",
+   "Then maybe two years ago, this lone wolf Tachibana turns up.",
+   "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something."
+  ]
+ },
+ {
+  "order": 23,
+  "word": "狼",
+  "reading": "おおかみ",
+  "meaning": "wolf (Canis lupus)",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "一匹狼やった立華さんが現れたんや。",
+  "parity": true,
+  "official_candidate": "Then maybe two years ago, this lone wolf Tachibana turns up.",
+  "official_neighbors": [
+   "Do you and Tachibana go back far?",
+   "I've known Oda-san longer, actually. Me, him, and a couple other guys used to run a two-bit gang.",
+   "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something.",
+   "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid."
+  ]
+ },
+ {
+  "order": 24,
+  "word": "いざこざ",
+  "reading": "いざこざ",
+  "meaning": "trouble; quarrel; difficulties; complication",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "しょーもないいざこざやったと思う。",
+  "parity": true,
+  "official_candidate": "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something.",
+  "official_neighbors": [
+   "I've known Oda-san longer, actually. Me, him, and a couple other guys used to run a two-bit gang.",
+   "Then maybe two years ago, this lone wolf Tachibana turns up.",
+   "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid.",
+   "Hard to picture that, the way Tachibana is now."
+  ]
+ },
+ {
+  "order": 25,
+  "word": "丸で",
+  "reading": "まるで",
+  "meaning": "as if; as though; just like; much as",
+  "pos": "adverb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "せやけどたったひとりの立華さんに、僕らまるで",
+  "parity": true,
+  "official_candidate": "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid.",
+  "official_neighbors": [
+   "Then maybe two years ago, this lone wolf Tachibana turns up.",
+   "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something.",
+   "Hard to picture that, the way Tachibana is now.",
+   "This was before he lost an arm. But even more mindbogglin' was Oda-san's reaction to gettin' his ass whooped."
+  ]
+ },
+ {
+  "order": 26,
+  "word": "敵う",
+  "reading": "かなう",
+  "meaning": "to match; to be a match for; to rival; to equal",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "かなわんかった。喧嘩で負けたことない尾田さんかて",
+  "parity": true,
+  "official_candidate": "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid.",
+  "official_neighbors": [
+   "Then maybe two years ago, this lone wolf Tachibana turns up.",
+   "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something.",
+   "Hard to picture that, the way Tachibana is now.",
+   "This was before he lost an arm. But even more mindbogglin' was Oda-san's reaction to gettin' his ass whooped."
+  ]
+ },
+ {
+  "order": 27,
+  "word": "片腕",
+  "reading": "かたうで",
+  "meaning": "one arm",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "まだあの人が片腕失くす前の話や。",
+  "parity": true,
+  "official_candidate": "This was before he lost an arm. But even more mindbogglin' was Oda-san's reaction to gettin' his ass whooped.",
+  "official_neighbors": [
+   "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid.",
+   "Hard to picture that, the way Tachibana is now.",
+   "Hm?",
+   "Fell in love with the guy's badassery on the spot, and wound up beggin' him to be our new leader."
+  ]
+ },
+ {
+  "order": 28,
+  "word": "貫禄",
+  "reading": "かんろく",
+  "meaning": "presence; dignity",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "まあ貫禄の差や。",
+  "parity": true,
+  "official_candidate": "The difference in caliber was apparent to anybody. Ain't no wonder, considerin' the kinda upbringing he got.",
+  "official_neighbors": [
+   "Hm?",
+   "Fell in love with the guy's badassery on the spot, and wound up beggin' him to be our new leader.",
+   "What do you mean?",
+   "You ain't heard? Tachibana-san's the kid of a Japanese war orphan left stranded in China."
+  ]
+ },
+ {
+  "order": 29,
+  "word": "生い立ち",
+  "reading": "おいたち",
+  "meaning": "growth; development",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "立華さんは生い立ちからして普通とちゃうしね。",
+  "parity": true,
+  "official_candidate": "The difference in caliber was apparent to anybody. Ain't no wonder, considerin' the kinda upbringing he got.",
+  "official_neighbors": [
+   "Hm?",
+   "Fell in love with the guy's badassery on the spot, and wound up beggin' him to be our new leader.",
+   "What do you mean?",
+   "You ain't heard? Tachibana-san's the kid of a Japanese war orphan left stranded in China."
+  ]
+ },
+ {
+  "order": 30,
+  "word": "残留",
+  "reading": "ざんりゅう",
+  "meaning": "staying behind; remaining; residual",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "……立華さんは、中国残留孤児の二世やで。",
+  "parity": true,
+  "official_candidate": "You ain't heard? Tachibana-san's the kid of a Japanese war orphan left stranded in China.",
+  "official_neighbors": [
+   "The difference in caliber was apparent to anybody. Ain't no wonder, considerin' the kinda upbringing he got.",
+   "What do you mean?",
+   "A war orphan?",
+   "Yeah, Tachibana-san's ma was Japanese."
+  ]
+ },
+ {
+  "order": 31,
+  "word": "取り残す",
+  "reading": "とりのこす",
+  "meaning": "to leave behind",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "旧満州に取り残されてな……",
+  "parity": true,
+  "official_candidate": "Just after she was born there in China, the war took a turn for the crazy, and she got separated from her parents. They booked it outta there, but she got left behind in Manchuria.",
+  "official_neighbors": [
+   "A war orphan?",
+   "Yeah, Tachibana-san's ma was Japanese.",
+   "Some Chinese farmers took her in, and when she came of age, they married her off to their son. That's Tachibana-san's parents."
+  ]
+ },
+ {
+  "order": 32,
+  "word": "苛める",
+  "reading": "いじめる",
+  "meaning": "to ill-treat; to bully; to torment; to pick on",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "まわりからえらいいじめられたそうや。",
+  "parity": true,
+  "official_candidate": "Half-Japanese kids like Tachibana-san weren't real popular, as you'd imagine. He had it damn rough, growin' up.",
+  "official_neighbors": [
+   "Some Chinese farmers took her in, and when she came of age, they married her off to their son. That's Tachibana-san's parents.",
+   "Chinese all hated his Japanese guts on account of the war. Said he coulda been killed for bein' a half-blood any day, and nobody woulda batted an eye.",
+   "Minus one exception. Apparently the local mafia were the only ones that never treated him rough for it."
+  ]
+ },
+ {
+  "order": 33,
+  "word": "年季",
+  "reading": "ねんき",
+  "meaning": "period of an apprentice's contract (usu. ten years)",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "僕らとじゃ年季がちゃう。",
+  "parity": true,
+  "official_candidate": "So Tachibana-san just naturally went down that road, too, from a real early age. He'd been walkin' the walk for a hell of a lot longer'n any of us.",
+  "official_neighbors": [
+   "Minus one exception. Apparently the local mafia were the only ones that never treated him rough for it.",
+   "Guess they were all outcast types. Nobody had any money, and most of 'em came from bad families, y'know?",
+   "Hell, Oda-san's the older one, but he started callin' Tachibana-san his big bro.",
+   "Oda..."
+  ]
+ },
+ {
+  "order": 34,
+  "word": "ほったらかし",
+  "reading": "ほったらかし",
+  "meaning": "neglecting; leaving alone",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "よお、店はほったらかしか？　客が困ってたぞ。",
+  "parity": true,
+  "official_candidate": "Yo, your shop gonna tend itself? You got a confused customer waiting out there.",
+  "official_neighbors": [
+   "Hell, Oda-san's the older one, but he started callin' Tachibana-san his big bro.",
+   "Oda...",
+   "Crap, really? Sorry, gotta go. Make yerselves at home."
+  ]
+ },
+ {
+  "order": 35,
+  "word": "惚れ込む",
+  "reading": "ほれこむ",
+  "meaning": "to be strongly attracted (by); to be utterly charmed (by); to be completely captivated (by); to admire greatly",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "もしかして俺が社長に惚れ込んでたとかって話か？",
+  "parity": true,
+  "official_candidate": "The one about how I jizzed my pants over the boss? Take it with a grain of salt.",
+  "official_neighbors": [
+   "He talk your ear off?",
+   "Yeah. He was telling me some of your crew's backstory.",
+   "Heh. How about you? I figured you'd take longer to get here.",
+   "Me, too. Heard an interesting tidbit, though. Apparently Makoto Makimura's corpse turned up floating in the river a few days back."
+  ]
+ },
+ {
+  "order": 36,
+  "word": "戻り",
+  "reading": "もどり",
+  "meaning": "return; reaction; recovery",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "013313fa",
+  "sentence": "案外戻りが早かったな。",
+  "parity": true,
+  "official_candidate": "Heh. How about you? I figured you'd take longer to get here.",
+  "official_neighbors": [
+   "Yeah. He was telling me some of your crew's backstory.",
+   "The one about how I jizzed my pants over the boss? Take it with a grain of salt.",
+   "Me, too. Heard an interesting tidbit, though. Apparently Makoto Makimura's corpse turned up floating in the river a few days back.",
+   "What?"
+  ]
+ },
+ {
+  "order": 37,
+  "word": "浮かぶ",
+  "reading": "うかぶ",
+  "meaning": "to float; to be suspended",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "蒼天堀に浮かんだらしい。",
+  "parity": true,
+  "official_candidate": "Me, too. Heard an interesting tidbit, though. Apparently Makoto Makimura's corpse turned up floating in the river a few days back.",
+  "official_neighbors": [
+   "The one about how I jizzed my pants over the boss? Take it with a grain of salt.",
+   "Heh. How about you? I figured you'd take longer to get here.",
+   "What?",
+   "The real one's alive, so it's gotta be somebody else. Heard about a few other incidents, too."
+  ]
+ },
+ {
+  "order": 38,
+  "word": "どんぱち",
+  "reading": "ドンパチ",
+  "meaning": "sound of pistol fire; sound of exploding gunpowder",
+  "pos": "adverb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "ほかにも何件かドンパチあったらしい。",
+  "parity": true,
+  "official_candidate": "The real one's alive, so it's gotta be somebody else. Heard about a few other incidents, too.",
+  "official_neighbors": [
+   "Me, too. Heard an interesting tidbit, though. Apparently Makoto Makimura's corpse turned up floating in the river a few days back.",
+   "What?",
+   "A body count like this means the Omi, Shibusawa's boys, or both are on the move, and you can bet they're still out for Makimura.",
+   "......"
+  ]
+ },
+ {
+  "order": 39,
+  "word": "愚痴る",
+  "reading": "ぐちる",
+  "meaning": "to grumble; to gripe; to complain",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313fa",
+  "sentence": "ま、愚痴っててもしょうがねえ。",
+  "parity": true,
+  "official_candidate": "But I guess bitching about it won't help much... I'll take over phone duty. Why don't you go grab a bite or something?",
+  "official_neighbors": [
+   "A body count like this means the Omi, Shibusawa's boys, or both are on the move, and you can bet they're still out for Makimura.",
+   "......",
+   "Huh?",
+   "Doesn't take two grown-ass men to wait for a phone call."
+  ]
+ },
+ {
+  "order": 40,
+  "word": "嗜好",
+  "reading": "しこう",
+  "meaning": "taste; liking; preference",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "どんな趣味嗜好でも絶対お好みのが見つかりますわ。",
+  "parity": true,
+  "official_candidate": "Hm? First time comin' in? Top quality stuff, every one. Whatever yer flavor, we got somethin' to get you there.",
+  "official_neighbors": [
+   "Welcome.",
+   "Just be careful whether you're grabbin' VHS or Beta, yeah?",
+   "I'm with Tachibana Real Estate. Oda said he talked to you?"
+  ]
+ },
+ {
+  "order": 41,
+  "word": "きょろきょろ",
+  "reading": "キョロキョロ",
+  "meaning": "(looking around) restlessly; (looking) all around; goggling",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "0133140d",
+  "sentence": "あんまりきょろきょろすんな。",
+  "parity": true,
+  "official_candidate": "Quit staring like a damn tourist. You ready? I'll be here watching for anybody suspicious coming in.",
+  "official_neighbors": [
+   "So this is Camellia Grove...",
+   "I know. See you in a few."
+  ]
+ },
+ {
+  "order": 42,
+  "word": "怪しい",
+  "reading": "あやしい",
+  "meaning": "suspicious; dubious; questionable; dodgy",
+  "pos": "i-adjective",
+  "speaker": "尾田",
+  "uid": "0133140d",
+  "sentence": "いいか？　俺はここで怪しいやつが",
+  "parity": true,
+  "official_candidate": "Quit staring like a damn tourist. You ready? I'll be here watching for anybody suspicious coming in.",
+  "official_neighbors": [
+   "So this is Camellia Grove...",
+   "I know. See you in a few."
+  ]
+ },
+ {
+  "order": 43,
+  "word": "護衛",
+  "reading": "ごえい",
+  "meaning": "guard; convoy; escort",
+  "pos": "verb",
+  "speaker": "マコト",
+  "uid": "01331410",
+  "sentence": "……護衛ってことですよね？",
+  "parity": true,
+  "official_candidate": "You're my bodyguards, then?",
+  "official_neighbors": [
+   "Makimura... Nice to meet you.",
+   "I'll be seeing you to Kamurocho, together with a colleague named Oda.",
+   "Yes.",
+   "I didn't even realize my grandfather had passed away until just now."
+  ]
+ },
+ {
+  "order": 44,
+  "word": "破滅",
+  "reading": "はめつ",
+  "meaning": "ruin; destruction; fall",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "破滅を覚悟で社長にあんたを会わせるか……",
+  "parity": true,
+  "official_candidate": "Let you meet him, knowing it would be the end of me... or double down. Erase you from the equation permanently, like none of it ever happened.",
+  "official_neighbors": [
+   "It was too late to do anything. It was a long time ago, but I knew that wouldn't make a damn bit of difference to Tachibana-san. I had one of two choices.",
+   "So... that's the real reason you tagged along to Osaka?",
+   "Yeah... Nobody but me had any clue I had reason to kill her. If I said it was Shibusawa's people or the Omi that got her, nobody'd question it."
+  ]
+ },
+ {
+  "order": 45,
+  "word": "動機",
+  "reading": "どうき",
+  "meaning": "motive; incentive",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "ああ……　俺の他に誰も、俺がその女を殺す動機を",
+  "parity": true,
+  "official_candidate": "Yeah... Nobody but me had any clue I had reason to kill her. If I said it was Shibusawa's people or the Omi that got her, nobody'd question it.",
+  "official_neighbors": [
+   "Let you meet him, knowing it would be the end of me... or double down. Erase you from the equation permanently, like none of it ever happened.",
+   "So... that's the real reason you tagged along to Osaka?",
+   "But now... Now that's all over."
+  ]
+ },
+ {
+  "order": 46,
+  "word": "めでたい",
+  "reading": "めでたい",
+  "meaning": "happy; auspicious; propitious; joyous",
+  "pos": "i-adjective",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "ったく。どこまでおめでたいんだよ……",
+  "parity": true,
+  "official_candidate": "...You still want me coming with you? Heh. Seriously, how naive can a person be?",
+  "official_neighbors": [
+   "You're...",
+   "Kiryu. Can I have my gun? I'll slow 'em down as best I can.",
+   "What?"
+  ]
+ },
+ {
+  "order": 47,
+  "word": "足留め",
+  "reading": "あしどめ",
+  "meaning": "preventing (someone) from leaving; confinement; keeping indoors; inducement to stay",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "桐生。銃くれねえか……　俺がやつらを足止めする。",
+  "parity": true,
+  "official_candidate": "Kiryu. Can I have my gun? I'll slow 'em down as best I can.",
+  "official_neighbors": [
+   "...You still want me coming with you? Heh. Seriously, how naive can a person be?",
+   "What?",
+   "Look at my leg. If I'm gonna die here, I want... I want to go out being useful to Tachibana-san."
+  ]
+ },
+ {
+  "order": 48,
+  "word": "杖",
+  "reading": "つえ",
+  "meaning": "cane; walking stick; staff; wand",
+  "pos": "noun",
+  "speaker": "桐生",
+  "uid": "01331415",
+  "sentence": "その杖は……？",
+  "parity": true,
+  "official_candidate": "That cane...?",
+  "official_neighbors": [
+   "You all right, Makimura-san?",
+   "Yes...",
+   "Sera-san gave it to me. Just in case, he said. I didn't expect to use it on someone from Tachibana Real Estate.",
+   "How about an explanation, Oda? Why turn on us? Aren't you supposed to be Tachibana's sworn brother!?"
+  ]
+ },
+ {
+  "order": 49,
+  "word": "護身",
+  "reading": "ごしん",
+  "meaning": "self-protection; self-defence",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331415",
+  "sentence": "世良さんから、万一の護身用にって。",
+  "parity": true,
+  "official_candidate": "Sera-san gave it to me. Just in case, he said. I didn't expect to use it on someone from Tachibana Real Estate.",
+  "official_neighbors": [
+   "Yes...",
+   "That cane...?",
+   "How about an explanation, Oda? Why turn on us? Aren't you supposed to be Tachibana's sworn brother!?",
+   "......"
+  ]
+ },
+ {
+  "order": 50,
+  "word": "左腕",
+  "reading": "ひだりうで",
+  "meaning": "left arm",
+  "pos": "noun",
+  "speaker": "マコト",
+  "uid": "01331415",
+  "sentence": "桐生さん。……その人の左腕。",
+  "parity": true,
+  "official_candidate": "Kiryu-san... On his left arm, does he have a tattoo? ...Of a bat.",
+  "official_neighbors": [
+   "How about an explanation, Oda? Why turn on us? Aren't you supposed to be Tachibana's sworn brother!?",
+   "......",
+   "Oda?",
+   "......"
+  ]
+ },
+ {
+  "order": 51,
+  "word": "メンバー",
+  "reading": "メンバー",
+  "meaning": "member; participant; attendee; lineup (sport)",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "俺が頭張ってた愚連隊の、メンバーの証だ。",
+  "parity": true,
+  "official_candidate": "...Fine. I'll talk. The tattoo... It was our mark. All the guys in the gang I headed up got one.",
+  "official_neighbors": [
+   "ODA!",
+   "......",
+   "I borrowed money from the mafia back on the mainland and stowed away on a ship to Japan five years ago..."
+  ]
+ },
+ {
+  "order": 52,
+  "word": "密航",
+  "reading": "みっこう",
+  "meaning": "stowing away; smuggling oneself; clandestine travel abroad",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "日本に密航してきたのは、５年前でね……",
+  "parity": true,
+  "official_candidate": "I borrowed money from the mafia back on the mainland and stowed away on a ship to Japan five years ago...",
+  "official_neighbors": [
+   "...Fine. I'll talk. The tattoo... It was our mark. All the guys in the gang I headed up got one.",
+   "......",
+   "Ever since, I took any work that'd pay in Sotenbori.",
+   "Burglary, armed robbery, you name it. Conned girls and sold 'em off more than a few times. She just happened to be one of them."
+  ]
+ },
+ {
+  "order": 53,
+  "word": "冷静",
+  "reading": "れいせい",
+  "meaning": "calmness; composure; coolness; serenity",
+  "pos": "na-adjective",
+  "speaker": "桐生",
+  "uid": "01331421",
+  "sentence": "普段は……　えらく冷静な感じだ。",
+  "parity": true,
+  "official_candidate": "Well, most of the time he's extremely calm. Smart. Keeps his emotions in check pretty much all the time.",
+  "official_neighbors": [
+   "I know.",
+   "What sort of person is my brother now?",
+   "I see. That's quite a change from the brother I knew.",
+   "How long since you saw him last?"
+  ]
+ },
+ {
+  "order": 54,
+  "word": "引き渡す",
+  "reading": "ひきわたす",
+  "meaning": "to deliver; to extradite; to stretch across; to hand over",
+  "pos": "verb",
+  "speaker": "尾田",
+  "uid": "013313f3",
+  "sentence": "電話で彼女を引き渡す段取りを伝えてくる。",
+  "parity": true,
+  "official_candidate": "He's the one looking after our Makoto Makimura right now. We'll work out the handoff details over the phone.",
+  "official_neighbors": [
+   "Sounds good.",
+   "You head to the video store and wait for a call from a guy named Sera.",
+   "Is this Sera another Tachibana Real Estate guy?",
+   "No, he's Tojo Clan. A group called the Nikkyo Consortium."
+  ]
+ },
+ {
+  "order": 55,
+  "word": "ぞっこん",
+  "reading": "ぞっこん",
+  "meaning": "madly in love; completely charmed (by); head over heels (for)",
+  "pos": "na-adjective",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "立華さんの器量にぞっこん惚れ込んで、",
+  "parity": true,
+  "official_candidate": "Fell in love with the guy's badassery on the spot, and wound up beggin' him to be our new leader.",
+  "official_neighbors": [
+   "This was before he lost an arm. But even more mindbogglin' was Oda-san's reaction to gettin' his ass whooped.",
+   "Hm?",
+   "The difference in caliber was apparent to anybody. Ain't no wonder, considerin' the kinda upbringing he got.",
+   "What do you mean?"
+  ]
+ },
+ {
+  "order": 56,
+  "word": "切っ掛け",
+  "reading": "きっかけ",
+  "meaning": "chance; start; cue; excuse",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "きっかけは肩がぶつかったとか、",
+  "parity": true,
+  "official_candidate": "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something.",
+  "official_neighbors": [
+   "I've known Oda-san longer, actually. Me, him, and a couple other guys used to run a two-bit gang.",
+   "Then maybe two years ago, this lone wolf Tachibana turns up.",
+   "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid.",
+   "Hard to picture that, the way Tachibana is now."
+  ]
+ },
+ {
+  "order": 57,
+  "word": "ぶつかる",
+  "reading": "ぶつかる",
+  "meaning": "to bump into; to run into; to collide with; to hit",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "きっかけは肩がぶつかったとか、",
+  "parity": true,
+  "official_candidate": "Got into a fight straight outta the gate over some stupid shit. Bumped shoulders or something.",
+  "official_neighbors": [
+   "I've known Oda-san longer, actually. Me, him, and a couple other guys used to run a two-bit gang.",
+   "Then maybe two years ago, this lone wolf Tachibana turns up.",
+   "Four of us versus just one, and Tachibana-san totally mopped the floor with us. Oda-san'd never lost a fight before, but Tachibana-san schooled him like a kid.",
+   "Hard to picture that, the way Tachibana is now."
+  ]
+ },
+ {
+  "order": 58,
+  "word": "混乱",
+  "reading": "こんらん",
+  "meaning": "disorder; chaos; confusion; mayhem",
+  "pos": "verb",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "大混乱で親と離れ離れんなって",
+  "parity": true,
+  "official_candidate": "Just after she was born there in China, the war took a turn for the crazy, and she got separated from her parents. They booked it outta there, but she got left behind in Manchuria.",
+  "official_neighbors": [
+   "A war orphan?",
+   "Yeah, Tachibana-san's ma was Japanese.",
+   "Some Chinese farmers took her in, and when she came of age, they married her off to their son. That's Tachibana-san's parents."
+  ]
+ },
+ {
+  "order": 59,
+  "word": "離れ離れ",
+  "reading": "はなればなれ",
+  "meaning": "separate; scattered; apart",
+  "pos": "na-adjective",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "大混乱で親と離れ離れんなって",
+  "parity": true,
+  "official_candidate": "Just after she was born there in China, the war took a turn for the crazy, and she got separated from her parents. They booked it outta there, but she got left behind in Manchuria.",
+  "official_neighbors": [
+   "A war orphan?",
+   "Yeah, Tachibana-san's ma was Japanese.",
+   "Some Chinese farmers took her in, and when she came of age, they married her off to their son. That's Tachibana-san's parents."
+  ]
+ },
+ {
+  "order": 60,
+  "word": "農家",
+  "reading": "のうか",
+  "meaning": "farmer; farming family",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "中国人農家に拾われて、年頃になると",
+  "parity": true,
+  "official_candidate": "Some Chinese farmers took her in, and when she came of age, they married her off to their son. That's Tachibana-san's parents.",
+  "official_neighbors": [
+   "Yeah, Tachibana-san's ma was Japanese.",
+   "Just after she was born there in China, the war took a turn for the crazy, and she got separated from her parents. They booked it outta there, but she got left behind in Manchuria.",
+   "Half-Japanese kids like Tachibana-san weren't real popular, as you'd imagine. He had it damn rough, growin' up."
+  ]
+ },
+ {
+  "order": 61,
+  "word": "年頃",
+  "reading": "としごろ",
+  "meaning": "approximate age; apparent age",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "中国人農家に拾われて、年頃になると",
+  "parity": true,
+  "official_candidate": "Some Chinese farmers took her in, and when she came of age, they married her off to their son. That's Tachibana-san's parents.",
+  "official_neighbors": [
+   "Yeah, Tachibana-san's ma was Japanese.",
+   "Just after she was born there in China, the war took a turn for the crazy, and she got separated from her parents. They booked it outta there, but she got left behind in Manchuria.",
+   "Half-Japanese kids like Tachibana-san weren't real popular, as you'd imagine. He had it damn rough, growin' up."
+  ]
+ },
+ {
+  "order": 62,
+  "word": "家柄",
+  "reading": "いえがら",
+  "meaning": "social standing of a family; lineage; parentage; pedigree",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "家柄悪かったりの鼻つまみやからな。",
+  "parity": true,
+  "official_candidate": "Guess they were all outcast types. Nobody had any money, and most of 'em came from bad families, y'know?",
+  "official_neighbors": [
+   "Chinese all hated his Japanese guts on account of the war. Said he coulda been killed for bein' a half-blood any day, and nobody woulda batted an eye.",
+   "Minus one exception. Apparently the local mafia were the only ones that never treated him rough for it.",
+   "So Tachibana-san just naturally went down that road, too, from a real early age. He'd been walkin' the walk for a hell of a lot longer'n any of us.",
+   "Hell, Oda-san's the older one, but he started callin' Tachibana-san his big bro."
+  ]
+ },
+ {
+  "order": 63,
+  "word": "鼻摘み",
+  "reading": "はなつまみ",
+  "meaning": "uncouth person; disgusting fellow; nuisance; outcast",
+  "pos": "noun",
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "sentence": "家柄悪かったりの鼻つまみやからな。",
+  "parity": true,
+  "official_candidate": "Guess they were all outcast types. Nobody had any money, and most of 'em came from bad families, y'know?",
+  "official_neighbors": [
+   "Chinese all hated his Japanese guts on account of the war. Said he coulda been killed for bein' a half-blood any day, and nobody woulda batted an eye.",
+   "Minus one exception. Apparently the local mafia were the only ones that never treated him rough for it.",
+   "So Tachibana-san just naturally went down that road, too, from a real early age. He'd been walkin' the walk for a hell of a lot longer'n any of us.",
+   "Hell, Oda-san's the older one, but he started callin' Tachibana-san his big bro."
+  ]
+ },
+ {
+  "order": 64,
+  "word": "盗み",
+  "reading": "ぬすみ",
+  "meaning": "stealing; theft",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "盗みもやったし強盗（たたき）もやった。",
+  "parity": true,
+  "official_candidate": "Burglary, armed robbery, you name it. Conned girls and sold 'em off more than a few times. She just happened to be one of them.",
+  "official_neighbors": [
+   "I borrowed money from the mafia back on the mainland and stowed away on a ship to Japan five years ago...",
+   "Ever since, I took any work that'd pay in Sotenbori.",
+   "......",
+   "What's that got to do with Tachibana?"
+  ]
+ },
+ {
+  "order": 65,
+  "word": "叩き",
+  "reading": "たたき",
+  "meaning": "finely chopped fish or meat (sometimes seared first); mince",
+  "pos": "noun",
+  "speaker": "尾田",
+  "uid": "01331415",
+  "sentence": "盗みもやったし強盗（たたき）もやった。",
+  "parity": true,
+  "official_candidate": "Burglary, armed robbery, you name it. Conned girls and sold 'em off more than a few times. She just happened to be one of them.",
+  "official_neighbors": [
+   "I borrowed money from the mafia back on the mainland and stowed away on a ship to Japan five years ago...",
+   "Ever since, I took any work that'd pay in Sotenbori.",
+   "......",
+   "What's that got to do with Tachibana?"
+  ]
+ },
+ {
+  "order": 66,
+  "word": "船頭",
+  "reading": "せんどう",
+  "meaning": "boatman; ferryman",
+  "pos": "noun",
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch13",
+  "sentence": "船頭の男",
+  "parity": true,
+  "official_candidate": "Skipper",
+  "official_neighbors": []
+ }
+]
