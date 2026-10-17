@@ -33,45 +33,6 @@
   ]
  },
  {
-  "order": 2,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "西谷って、グランドで暴れた<b>鬼</b>仁会のか……？",
-  "word": "鬼",
-  "reading": "おに",
-  "meaning": "ogre; demon; oni",
-  "pos": "noun",
-  "chapter": 11,
-  "speaker": "佐川",
-  "uid": "013313ba",
-  "candidates": [
-   "(noun) ogre; demon; oni",
-   "(noun) spirit of a deceased person",
-   "(noun) ogre-like person (i.e. fierce, relentless, merciless, etc.)",
-   "(noun) it (in a game of tag, hide-and-seek, etc.); seeker; chaser; tagger",
-   "(noun) Chinese \"ghost\" constellation (one of the 28 mansions)",
-   "(pref) very; extremely; super-"
-  ]
- },
- {
-  "order": 3,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "……<b>てこ</b>とは奴らグルかもしれないな。",
-  "word": "てこ",
-  "reading": "てこ",
-  "meaning": "lever",
-  "pos": "noun",
-  "chapter": 11,
-  "speaker": "佐川",
-  "uid": "013313ba",
-  "candidates": [
-   "(noun) lever",
-   "(noun) agent (causing something to happen); instrument; force",
-   "(noun) assistant; helper"
-  ]
- },
- {
   "order": 4,
   "kind": "i+1",
   "standalone": false,
@@ -122,26 +83,6 @@
   "uid": "013313ba",
   "candidates": [
    "(noun) roadside trees; row of trees"
-  ]
- },
- {
-  "order": 7,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>あない</b>なもんがあるとはなぁ……",
-  "word": "あない",
-  "reading": "あんない",
-  "meaning": "guidance; leading (the way); showing around",
-  "pos": "verb",
-  "chapter": 11,
-  "speaker": "真島",
-  "uid": "013313bd",
-  "candidates": [
-   "(verb) guidance; leading (the way); showing around",
-   "(verb) information; notice; notification",
-   "(noun) announcement (of a visitor's arrival); informing (someone) of a visitor's arrival",
-   "(verb) invitation",
-   "(noun) acquaintance; knowledge"
   ]
  },
  {
@@ -578,25 +519,6 @@
   ]
  },
  {
-  "order": 33,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "口の軽いヤクザは<b>好か</b>ん……",
-  "word": "好く",
-  "reading": "よく",
-  "meaning": "nicely; properly; well; skillfully",
-  "pos": "adverb",
-  "chapter": 11,
-  "speaker": "真島",
-  "uid": "013313c1",
-  "candidates": [
-   "(adverb) nicely; properly; well; skillfully",
-   "(adverb) frequently; often",
-   "(adverb) I'm glad that you ...; thank you for ...",
-   "(adverb) (you have) quite the nerve to; I don't know how you can ..."
-  ]
- },
- {
   "order": 34,
   "kind": "i+1",
   "standalone": false,
@@ -610,23 +532,6 @@
   "uid": "013313c1",
   "candidates": [
    "(noun) fist"
-  ]
- },
- {
-  "order": 35,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "懲り<b>ひん</b>奴っちゃな。しゃあない。",
-  "word": "干る",
-  "reading": "ひる",
-  "meaning": "to dry (up); to become parched",
-  "pos": "verb",
-  "chapter": 11,
-  "speaker": "真島",
-  "uid": "013313c1",
-  "candidates": [
-   "(verb) to dry (up); to become parched",
-   "(verb) to ebb; to recede"
   ]
  },
  {
@@ -696,24 +601,6 @@
   "uid": "013313cf",
   "candidates": [
    "(verb) consecutive victories; series of victories; winning streak"
-  ]
- },
- {
-  "order": 40,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>デッド</b>・バンチャー!!",
-  "word": "デッド",
-  "reading": "デッド",
-  "meaning": "dead (money, stock, etc.)",
-  "pos": "na-adjective",
-  "chapter": 11,
-  "speaker": "リングアナ",
-  "uid": "013313cf",
-  "candidates": [
-   "(na-adjective) dead (money, stock, etc.)",
-   "(noun) dead (ball)",
-   "(na-adjective) dead (sound, room); with little reverberation"
   ]
  },
  {
@@ -1253,23 +1140,6 @@
   ]
  },
  {
-  "order": 73,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "依頼<b>主</b>に渡すよう言われとんねん。",
-  "word": "主",
-  "reading": "おも",
-  "meaning": "chief; main; principal; important",
-  "pos": "na-adjective",
-  "chapter": 11,
-  "speaker": "西谷",
-  "uid": "013313da",
-  "candidates": [
-   "(na-adjective) chief; main; principal; important",
-   "(na-adjective) main secondary or supporting role (in kyogen)"
-  ]
- },
- {
   "order": 74,
   "kind": "i+1",
   "standalone": false,
@@ -1459,24 +1329,6 @@
   ]
  },
  {
-  "order": 85,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>そらそ</b>や。表向きには東城会の代紋を掲げとらん、",
-  "word": "逸らす",
-  "reading": "そらす",
-  "meaning": "to turn away (one's eyes, face, etc.); to avert; to divert (e.g. one's attention); to evade (e.g. a question)",
-  "pos": "verb",
-  "chapter": 11,
-  "speaker": "西谷",
-  "uid": "013313da",
-  "candidates": [
-   "(verb) to turn away (one's eyes, face, etc.); to avert; to divert (e.g. one's attention); to evade (e.g. a question)",
-   "(verb) to displease; to annoy; to offend; to upset",
-   "(verb) to miss (the target, ball, etc.)"
-  ]
- },
- {
   "order": 86,
   "kind": "i+1",
   "standalone": false,
@@ -1652,23 +1504,6 @@
    "(verb) to reveal oneself (as); to admit to being",
    "(verb) to adopt as one's name; to take (a name)",
    "(verb) to call out the goods one is selling"
-  ]
- },
- {
-  "order": 96,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "敵と名乗る奴をワザワザ<b>引き合わ</b>せると思うかぁ？",
-  "word": "引き合う",
-  "reading": "ひきあう",
-  "meaning": "to pay; to be profitable",
-  "pos": "verb",
-  "chapter": 11,
-  "speaker": "ビリケン",
-  "uid": "013313bd",
-  "candidates": [
-   "(verb) to pay; to be profitable",
-   "(verb) to pull against each other"
   ]
  },
  {
@@ -1955,24 +1790,6 @@
   "uid": "013313cf",
   "candidates": [
    "(adverb) in a great quantity; plentifully; greatly"
-  ]
- },
- {
-  "order": 114,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "政治の都合で<b>公</b>にできんテロリスト……",
-  "word": "公",
-  "reading": "きみ",
-  "meaning": "you; buddy; pal",
-  "pos": "pn",
-  "chapter": 11,
-  "speaker": "ビリケン",
-  "uid": "013313cf",
-  "candidates": [
-   "(pn) you; buddy; pal",
-   "(noun) monarch; ruler; sovereign; (one's) master",
-   "(pn) he; she"
   ]
  },
  {
