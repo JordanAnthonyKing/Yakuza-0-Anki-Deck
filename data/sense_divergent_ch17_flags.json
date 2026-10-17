@@ -1,0 +1,22 @@
+{
+ "侠": "fragment of proper name 日侠連 (read きょう, not きゃん)",
+ "真": "fragment of surname 真島 (Majima)",
+ "知れる": "かもしれない set phrase",
+ "何れ": "いずれ (eventually) does not match どれ candidates",
+ "斑": "ブチのめす prefix, not 斑",
+ "太平": "surface is 泰平 in a name",
+ "明く": "アカン = Kansai (あかん), not 明く",
+ "解す": "ほぐし is part of shop name ほぐし快館",
+ "怪しい": "sentence target is けしから(ん), not 怪しい",
+ "ウエート": "ウェイト! = 'Wait!' interjection, not weight/importance",
+ "違い": "に違いない = 'must be/no doubt' set phrase, not 'difference'",
+ "晒す": "死にさらせ = vulgar verb suffix (die!), not 'expose'",
+ "小屋": "と<b>こや</b> = fragment of ところや/set phrase, not hut",
+ "生": "クソ生意気 = fragment of 生意気",
+ "つく": "ついていく = 付く 'follow'; taught gloss/candidates are for 就く",
+ "返る": "帰らせて = 帰る (go home), misparse",
+ "如何に": "いかにも set phrase ('indeed')",
+ "裏": "裏路地 = ura (back alley), not うち",
+ "付け": "目ェ付けとった = verb 付ける (set eyes on), not tab noun",
+ "マッハ": "fragment of place name マッハボウル"
+}
