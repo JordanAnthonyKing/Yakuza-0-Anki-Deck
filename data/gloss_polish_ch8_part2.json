@@ -1,0 +1,29 @@
+{
+ "負う": "to take (responsibility); to assume; to accept; to bear (the blame, costs, etc.)",
+ "ぼんくら": "blockhead; idiot; dimwit",
+ "かりかり": "grumpily; touchily; edgily; irritably",
+ "収まり": "conclusion; end; settlement",
+ "どす": "dagger; dirk; knife",
+ "強盗": "robber; mugger",
+ "抜き": "leaving out; omitting; skipping; dispensing with",
+ "絆": "bond (between people); (emotional) ties; bonds; relationship",
+ "放る": "to neglect; to abandon; to leave alone; to give up on",
+ "籠もる": "to shut oneself in (e.g. one's room); to be confined in; to seclude oneself; to hide away",
+ "びくびく": "being afraid of; being fearful; being timid; being nervous",
+ "押し込む": "to break in; to burgle; to burglarize",
+ "鏝": "flat-iron",
+ "擬装": "camouflage; disguise",
+ "目障り": "eyesore; offensive sight; offense to the eye",
+ "働き": "work; labor; labour",
+ "着せる": "to put clothes on (someone); to dress; to clothe",
+ "跳ね": "(a) jump",
+ "明かす": "to reveal; to divulge; to disclose; to expose",
+ "元": "origin; source; beginning",
+ "辿る": "to follow (a clue, scent, tracks, plot, etc.); to trace (a route, history, family tree, etc.); to retrace (e.g. one's memory); to search",
+ "__flags__": {
+  "鏝": "使こて = 使(つか)って (Kansai te-form), not 'iron/trowel'",
+  "跳ね": "跳ねっかえり (tomboy/rebellious person) compound, not 'jump'",
+  "収まり": "おさまりつかん = idiom 'can't be settled', fine but verb-ish compound",
+  "元": "元をたどれば idiom 'if you trace it back to the origin'"
+ }
+}
