@@ -1,0 +1,14 @@
+{
+ "フロー": "fragment of フロートリガード (Float Trigger), not 'flow'",
+ "すか": "スカッとした (sukatto, refreshed) fragment, not 'miss/blank'",
+ "捕らえる": "sentence uses 捉え (to catch in view), tokenized under 捕らえる",
+ "ウエート": "reading ウェイト matches sentence; fine, spelling variant only",
+ "常": "常に = つねに (always), not ただ 'only'; adverbial 常に",
+ "返し": "fragment of compound 意趣返し (revenge)",
+ "意趣": "fragment of compound 意趣返し (revenge)",
+ "極み": "part of skill name 旋回砲火の極み",
+ "旋回": "part of skill name 旋回砲火の極み",
+ "置換": "part of move name 置換_Caution_ウィービング",
+ "成金": "成金そうな = 成金+そう, ok but 'looks like nouveau riche'",
+ "弾き": "ハジキ slang for gun, written katakana"
+}
