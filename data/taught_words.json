@@ -10,7 +10,8 @@
   8,
   9,
   10,
-  11
+  11,
+  12
  ],
  "entries": {
   "劇場": {
@@ -4806,7 +4807,8 @@
    "chapter": 1,
    "multi_sense": true,
    "glosses": [
-    "to ring; to sound; to beep"
+    "to ring; to sound; to beep",
+    "to be popular; to be esteemed; to be reputed"
    ],
    "candidates": [
     "(verb) to ring; to sound; to chime; to beat",
@@ -8047,7 +8049,8 @@
    "chapter": 2,
    "multi_sense": true,
    "glosses": [
-    "still; all the same; after all"
+    "still; all the same; after all",
+    "as one would expect; just as you'd expect (from); just like (someone)"
    ],
    "candidates": [
     "(na-adjective) as one would expect; just as you'd expect (from); just like (someone)",
@@ -26670,7 +26673,8 @@
    "chapter": 10,
    "multi_sense": true,
    "glosses": [
-    "to pay (fees, taxes, etc.); to deliver; to supply"
+    "to pay (fees, taxes, etc.); to deliver; to supply",
+    "to settle (事を収める: to settle a matter)"
    ],
    "candidates": [
     "(verb) to put (into); to put away (in); to put back (in); to keep (in)",
@@ -29917,6 +29921,419 @@
    ],
    "candidates": [
     "(noun) one's house; one's home; one's family"
+   ]
+  },
+  "返り討ち": {
+   "reading": "かえりうち",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "having the tables turned on someone (e.g. by a challenger); being beaten at one's own game"
+   ],
+   "candidates": [
+    "(noun) killing a would-be avenger",
+    "(noun) having the tables turned on someone (e.g. by a challenger); being beaten at one's own game"
+   ]
+  },
+  "失望": {
+   "reading": "しつぼう",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "disappointment; despair"
+   ],
+   "candidates": [
+    "(verb) disappointment; despair"
+   ]
+  },
+  "臆病": {
+   "reading": "おくびょう",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "cowardly; timid; easily frightened"
+   ],
+   "candidates": [
+    "(na-adjective) cowardly; timid; easily frightened"
+   ]
+  },
+  "えぐい": {
+   "reading": "えぐい",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "nasty; gross; disgusting; brutal"
+   ],
+   "candidates": [
+    "(i-adjective) harsh (taste, feeling, etc.); acrid; pungent; astringent",
+    "(i-adjective) sharp (language, question, etc.); biting; harsh",
+    "(i-adjective) nasty; gross; disgusting; brutal",
+    "(i-adjective) awesome; amazing; incredible; cool"
+   ]
+  },
+  "もてもて": {
+   "reading": "もてもて",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "sexy; popular; well-liked"
+   ],
+   "candidates": [
+    "(na-adjective) sexy; popular; well-liked"
+   ]
+  },
+  "違和": {
+   "reading": "いわ",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "incongruity (違和感: a sense that something is off)"
+   ],
+   "candidates": [
+    "(noun) physical disorder",
+    "(noun) incongruity; incompatibility; inconsistency"
+   ]
+  },
+  "飼い主": {
+   "reading": "かいぬし",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "(pet) owner; keeper"
+   ],
+   "candidates": [
+    "(noun) (pet) owner; keeper"
+   ]
+  },
+  "揺れる": {
+   "reading": "ゆれる",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "to become unstable; to become unsettled; to be shaken; to waver"
+   ],
+   "candidates": [
+    "(verb) to shake; to sway; to rock; to swing",
+    "(verb) to become unstable; to become unsettled; to be shaken; to waver"
+   ]
+  },
+  "齎す": {
+   "reading": "もたらす",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "to bring about; to cause; to produce (e.g. results)"
+   ],
+   "candidates": [
+    "(verb) to bring (news, knowledge, etc.); to introduce",
+    "(verb) to bring about; to cause; to produce (e.g. results)"
+   ]
+  },
+  "行き先": {
+   "reading": "いきさき",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "whereabouts"
+   ],
+   "candidates": [
+    "(noun) destination",
+    "(noun) whereabouts",
+    "(noun) future; prospects"
+   ]
+  },
+  "最良": {
+   "reading": "さいりょう",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "the best; ideal"
+   ],
+   "candidates": [
+    "(na-adjective) the best; ideal"
+   ]
+  },
+  "範疇": {
+   "reading": "はんちゅう",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "category"
+   ],
+   "candidates": [
+    "(noun) category",
+    "(noun) category"
+   ]
+  },
+  "忽然": {
+   "reading": "こつぜん",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "sudden; abrupt; unexpected"
+   ],
+   "candidates": [
+    "(adj-t) sudden; abrupt; unexpected"
+   ]
+  },
+  "犯す": {
+   "reading": "おかす",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "to risk; to brave (冒す: 危険を冒す, to brave danger)"
+   ],
+   "candidates": [
+    "(verb) to commit (e.g. crime); to perpetrate; to make (e.g. mistake)",
+    "(verb) to break (e.g. rule); to violate; to transgress; to contravene",
+    "(verb) to rape; to violate; to ravish; to deflower"
+   ]
+  },
+  "かっか": {
+   "reading": "かっか",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "your Excellency; his Excellency; her Excellency"
+   ],
+   "candidates": [
+    "(noun) your Excellency; his Excellency; her Excellency"
+   ]
+  },
+  "一心": {
+   "reading": "いっしん",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "wholeheartedness; one's whole heart"
+   ],
+   "candidates": [
+    "(adverb) one mind",
+    "(adverb) wholeheartedness; one's whole heart"
+   ]
+  },
+  "踏み躙る": {
+   "reading": "ふみにじる",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "to trample underfoot; to tread on; to crush with a foot"
+   ],
+   "candidates": [
+    "(verb) to trample underfoot; to tread on; to crush with a foot"
+   ]
+  },
+  "二言": {
+   "reading": "にごん",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "double-dealing; double tongue; going back on what one has said"
+   ],
+   "candidates": [
+    "(noun) double-dealing; double tongue; going back on what one has said",
+    "(noun) repeating oneself"
+   ]
+  },
+  "癪": {
+   "reading": "しゃく",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "annoyance; irritation; vexation"
+   ],
+   "candidates": [
+    "(na-adjective) annoyance; irritation; vexation",
+    "(noun) abdominal spasms; convulsions; cramps"
+   ]
+  },
+  "まどろっこしい": {
+   "reading": "まどろっこしい",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "(frustratingly) slow; tedious; sluggish; roundabout (e.g. explanation)"
+   ],
+   "candidates": [
+    "(i-adjective) (frustratingly) slow; tedious; sluggish; roundabout (e.g. explanation)"
+   ]
+  },
+  "情け": {
+   "reading": "なさけ",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "pity; sympathy; compassion; mercy"
+   ],
+   "candidates": [
+    "(noun) pity; sympathy; compassion; mercy",
+    "(noun) affection; love"
+   ]
+  },
+  "彷徨く": {
+   "reading": "うろつく",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "to loiter; to hang around; to wander around; to prowl"
+   ],
+   "candidates": [
+    "(verb) to loiter; to hang around; to wander around; to prowl"
+   ]
+  },
+  "くどくど": {
+   "reading": "くどくど",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "tediously (explain, complain, etc.); repeatedly; persistently; insistently"
+   ],
+   "candidates": [
+    "(verb) tediously (explain, complain, etc.); repeatedly; persistently; insistently"
+   ]
+  },
+  "付け所": {
+   "reading": "つけどころ",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "focus of one's attention; what one is looking for"
+   ],
+   "candidates": [
+    "(noun) focus of one's attention; what one is looking for"
+   ]
+  },
+  "乙": {
+   "reading": "おつ",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "stylish; chic; smart; witty"
+   ],
+   "candidates": [
+    "(noun) (the) second (party, rank, etc.); B (grade); the latter",
+    "(na-adjective) stylish; chic; smart; witty",
+    "(na-adjective) strange; quaint; queer",
+    "(exp) thank you; good job",
+    "(exp) see you; goodbye; goodnight"
+   ]
+  },
+  "非力": {
+   "reading": "ひりき",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "powerless; weak; lacking physical strength"
+   ],
+   "candidates": [
+    "(na-adjective) powerless; weak; lacking physical strength",
+    "(na-adjective) incompetent; lacking ability; powerless"
+   ]
+  },
+  "取り上げ": {
+   "reading": "とりあげ",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "adoption; acceptance; confiscation"
+   ],
+   "candidates": [
+    "(noun) adoption; acceptance; confiscation",
+    "(noun) midwifery; midwife"
+   ]
+  },
+  "危害": {
+   "reading": "きがい",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "injury; harm; danger"
+   ],
+   "candidates": [
+    "(noun) injury; harm; danger"
+   ]
+  },
+  "加える": {
+   "reading": "くわえる",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "to inflict (damage); to deal; to give"
+   ],
+   "candidates": [
+    "(verb) to add; to add up; to sum up; to append",
+    "(verb) to increase; to gather (e.g. speed); to pick up",
+    "(verb) to include; to count in; to let join",
+    "(verb) to inflict (damage); to deal; to give"
+   ]
+  },
+  "現に": {
+   "reading": "げんに",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "actually; really"
+   ],
+   "candidates": [
+    "(adverb) actually; really"
+   ]
+  },
+  "爆破": {
+   "reading": "ばくは",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "destructive blast; blowing up; explosion"
+   ],
+   "candidates": [
+    "(verb) destructive blast; blowing up; explosion"
+   ]
+  },
+  "ヒーロー": {
+   "reading": "ヒーロー",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "hero"
+   ],
+   "candidates": [
+    "(noun) hero"
+   ]
+  },
+  "気取り": {
+   "reading": "きどり",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "posing as; behaving as; acting like; pretending to be"
+   ],
+   "candidates": [
+    "(noun) affectation; pretension; posturing",
+    "(noun) posing as; behaving as; acting like; pretending to be"
+   ]
+  },
+  "二手": {
+   "reading": "ふたて",
+   "chapter": 12,
+   "multi_sense": false,
+   "glosses": [
+    "two groups; two bands"
+   ],
+   "candidates": [
+    "(noun) two groups; two bands"
+   ]
+  },
+  "分かれる": {
+   "reading": "わかれる",
+   "chapter": 12,
+   "multi_sense": true,
+   "glosses": [
+    "to separate; to split; to divide"
+   ],
+   "candidates": [
+    "(verb) to branch; to fork; to diverge",
+    "(verb) to separate; to split; to divide",
+    "(verb) to disperse; to scatter"
    ]
   }
  }
