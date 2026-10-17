@@ -1,69 +1,337 @@
 {
-"0": {"literal": "He picked up what I threw away... from the trash can in the park.", "official": "He musta picked it up after I threw it out. Pulled it from the park trash can.", "official_ok": true},
-"1": {"literal": "The Hogushi Kaikan uniform I took from you...", "official": "The Hogushi Kaikan uniform I got from you...", "official_ok": true},
-"2": {"literal": "...and the photos of the woman I was going to use as a stand-in.", "official": "and the photos of the girl.", "official_ok": true},
-"3": {"literal": "...The guy on the phone is someone else entirely.", "official": "This guy was someone else.", "official_ok": true},
-"4": {"literal": "But he knew that I'd been ordered to kill Makoto...", "official": "Though from the way he talked, he knew I'd been ordered to kill Makoto.", "official_ok": true},
-"5": {"literal": "So he should know why she's being targeted from all sides.", "official": "Besides, he's gotta know the reason why everybody's after her.", "official_ok": true},
-"6": {"literal": "It's about time I settled this.", "official": "I'm way past ready to get that nailed down.", "official_ok": true},
-"7": {"literal": "Damn, they were lying in wait for me...", "official": "(Shit, an ambush...)", "official_ok": true},
-"8": {"literal": "Where is Lee-san!? I have urgent business with Lee-san!", "official": "Where Lee-san now!? I must see Lee-san right away!", "official_ok": true},
-"9": {"literal": "I want to deliver his medicine. Lee-san's painkillers are running out.", "official": "He need drugs. Lee-san run out of painkiller soon.", "official_ok": true},
-"10": {"literal": "Thank you for everything that time.", "official": "The last couple times have been a real pleasure...", "official_ok": true},
-"11": {"literal": "Yes... I believe the boss gave you a call a little while ago.", "official": "Yes. I believe you received a phone call from him?", "official_ok": true},
-"12": {"literal": "About receiving Makoto Makimura's corpse...", "official": "And the gift of Makoto Makimura's dead body.", "official_ok": true},
-"13": {"literal": "I'm gonna get a good look at that face of his...!", "official": "", "official_ok": false},
-"14": {"literal": "...Anyway, it sure was noisy down there, huh?", "official": "Pretty wild scene down there on the floor, eh?", "official_ok": true},
-"15": {"literal": "Leaving her floating in Sotenbori — that's pretty flashy of you.", "official": "Leaving her floating down Sotenbori, now that was a bold move.", "official_ok": true},
-"16": {"literal": "It slipped my mind. I was just about to get in touch.", "official": "Look, I forgot. Till just now--I came up here to call you.", "official_ok": true},
-"17": {"literal": "Something about this just doesn't sit right with me.", "official": "I just can't figure it out.", "official_ok": true},
-"18": {"literal": "Say... why'd you go to the trouble of smashing the body's face?", "official": "Why go through the trouble of smashing her face in?", "official_ok": true},
-"19": {"literal": "Do you want to hide the body's identity or not?", "official": "Can't tell if you're trying to hide who she is or broadcast it.", "official_ok": true},
-"20": {"literal": "You say you were shaken up?", "official": "Still in shock?", "official_ok": true},
-"21": {"literal": "Believe it or not, he's just like me... a direct member of the Omi Alliance.", "official": "You wouldn't know it to look at him, but he's Omi Alliance brass, same as me.", "official_ok": true},
-"23": {"literal": "They do whatever they please, no matter whose turf it is.", "official": "They'll roll in on anybody's turf and do whatever they like.", "official_ok": true},
-"24": {"literal": "They're what you'd call Sotenbori's troublemakers.", "official": "Sotenbori's little band of troublemakers...", "official_ok": true},
-"25": {"literal": "Why have they been messing with you?", "official": "Why's the Kijin Clan throwing down in your club?", "official_ok": true},
-"26": {"literal": "Maybe he just wasn't used to drinking the good stuff?", "official": "Maybe the guy wasn't used to drinkin' the good stuff.", "official_ok": true},
-"27": {"literal": "There's no way you could keep secrets from me.", "official": "But you're right, there's no way you could keep something from me.", "official_ok": true},
-"28": {"literal": "After all, you know firsthand what would happen if you did.", "official": "...Because you've still got the scars to remind you what would happen to you if you did.", "official_ok": true},
-"29": {"literal": "Ahh... I can't get enough of this...", "official": "Ahh... That was fuckin' amazing...", "official_ok": true},
-"30": {"literal": "...You're one tough bastard to put down.", "official": "How are you even still talkin'?", "official_ok": true},
-"31": {"literal": "Aww... time's up already?", "official": "Aww, man... Time's up already?", "official_ok": true},
-"32": {"literal": "Officers!", "official": "Alright, copper!", "official_ok": true},
-"33": {"literal": "Who's giving you your orders...!", "official": "Who's givin' the order!?", "official_ok": true},
-"35": {"literal": "What about the customer who reserved the place...?", "official": "That was the customer who rented the club out, is he...?", "official_ok": true},
-"36": {"literal": "...Never mind that, you just handle the cops.", "official": "...You just deal with the police, would ya?", "official_ok": true},
-"37": {"literal": "Have the others get ready to open. We're back to regular business as of now.", "official": "And tell the others to get ready to open. We're back to regular business.", "official_ok": true},
-"38": {"literal": "U-Understood. We'll open the club as soon as we're ready.", "official": "U-Understood, sir. We'll have the doors open as soon as we're ready.", "official_ok": true},
-"39": {"literal": "But they said you were too much for them to handle...", "official": "But they came back sayin' you were too hot to handle.", "official_ok": true},
-"40": {"literal": "So you're the head of those numbskulls.", "official": "You're the one leadin' that idiot parade?", "official_ok": true},
-"41": {"literal": "Now, don't get all worked up — just hear me out.", "official": "No call for gettin' snotty, now. Hear me out.", "official_ok": true},
-"42": {"literal": "That idiot will never find out the body is someone else.", "official": "That braindead chimpanzee ain't gonna figure out the body's a fake.", "official_ok": true},
-"43": {"literal": "There's no settling this down now, is there!?", "official": "", "official_ok": false},
-"44": {"literal": "He's pulled a knife in my club!", "official": "I got this whack job of a yakuza in here right now wavin' a big ol' knife around!", "official_ok": true},
-"45": {"literal": "I'm a genuine robber, certified by the cops, y'know?", "official": "I'm a bona fide robber! Just ask the cops...", "official_ok": true},
-"46": {"literal": "This ain't about work for me anymore. I'm gonna enjoy myself, y'hear?", "official": "This ain't even about work anymore. Let's have some fun!", "official_ok": true},
-"47": {"literal": "Don't you let me down!!", "official": "Don't go lettin' me down, now!", "official_ok": true},
-"48": {"literal": "...Money over the bond between fellow Chinese, huh...", "official": "Take money over your countrymen...", "official_ok": true},
-"49": {"literal": "Leave him be. He's the man who betrayed you.", "official": "Leave him already. He betrayed you.", "official_ok": true},
-"50": {"literal": "Just staying shut away in here the whole time, being protected...", "official": "Staying shut in here while you two put yourselves in danger for me is... I can't.", "official_ok": true},
-"51": {"literal": "The guy on the phone I mentioned was their boss,", "official": "The guy on the phone was their boss.", "official_ok": true},
-"52": {"literal": "A man named Nishitani. He leads a clan called the Kijin Clan.", "official": "Went by Nishitani. He runs an outfit called the Kijin Clan.", "official_ok": true},
-"53": {"literal": "He's probably figured out... that I just let this girl slip away without lifting a finger.", "official": "I'm pretty sure he's wise to the fact I didn't kill his girl.", "official_ok": true},
-"54": {"literal": "How long is this girl gonna have to live in fear?", "official": "She gonna have to live the rest of her life waitin' for a bullet?", "official_ok": true},
-"55": {"literal": "I'm... a prisoner of this town.", "official": "This town's my prison.", "official_ok": true},
-"56": {"literal": "I'm the robber who broke into this place!", "official": "I'm the big, bad robber who busted in on this place!", "official_ok": true},
-"57": {"literal": "He's a robber! Please hurry and come help!!", "official": "He's a robber! Get down here quick, okay!?", "official_ok": true},
-"59": {"literal": "So he used that to disguise the body as Makoto's?", "official": "So then he takes that, whacks the girl, and plays Makoto dress-up with the body?", "official_ok": true},
-"60": {"literal": "...If he keeps sniffing around any longer, he'll just be an eyesore.", "official": "Better than having him sneakin' around me.", "official_ok": true},
-"61": {"literal": "...If he keeps sniffing around any longer, he'll just be an eyesore.", "official": "Better than having him sneakin' around me.", "official_ok": true},
-"62": {"literal": "And yet you left the body dressed in the clothes from the woman's workplace.", "official": "And then you turn around and leave her in her uniform?", "official_ok": true},
-"63": {"literal": "And yet you left the body dressed in the clothes from the woman's workplace.", "official": "And then you turn around and leave her in her uniform?", "official_ok": true},
-"64": {"literal": "The Kijin Clan are mavericks who don't team up with anyone.", "official": "Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.", "official_ok": true},
-"65": {"literal": "The Kijin Clan are mavericks who don't team up with anyone.", "official": "Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.", "official_ok": true},
-"66": {"literal": "I won't reveal the secret to anyone. I'll take it to my grave.", "official": "that secret stays with me. I'll carry it to the grave.", "official_ok": true},
-"67": {"literal": "I won't reveal the secret to anyone. I'll take it to my grave.", "official": "that secret stays with me. I'll carry it to the grave.", "official_ok": true},
-"68": {"literal": "Trace it back far enough, and it's all the same Omi Alliance.", "official": "Nishitani's part of the same group as the guy who hired me, Sagawa. The Omi Alliance.", "official_ok": true},
-"69": {"literal": "Trace it back far enough, and it's all the same Omi Alliance.", "official": "Nishitani's part of the same group as the guy who hired me, Sagawa. The Omi Alliance.", "official_ok": true}
+ "0": {
+  "literal": "He picked up what I threw away... from the trash can in the park.",
+  "official": "He musta picked it up after I threw it out. Pulled it from the park trash can.",
+  "official_ok": true
+ },
+ "1": {
+  "literal": "The Hogushi Kaikan uniform I took from you...",
+  "official": "The Hogushi Kaikan uniform I got from you...",
+  "official_ok": true
+ },
+ "2": {
+  "literal": "...and the photos of the woman I was going to use as a stand-in.",
+  "official": "and the photos of the girl.",
+  "official_ok": true
+ },
+ "3": {
+  "literal": "...The guy on the phone is someone else entirely.",
+  "official": "This guy was someone else.",
+  "official_ok": true
+ },
+ "4": {
+  "literal": "But he knew that I'd been ordered to kill Makoto...",
+  "official": "Though from the way he talked, he knew I'd been ordered to kill Makoto.",
+  "official_ok": true
+ },
+ "5": {
+  "literal": "So he should know why she's being targeted from all sides.",
+  "official": "Besides, he's gotta know the reason why everybody's after her.",
+  "official_ok": true
+ },
+ "6": {
+  "literal": "It's about time I settled this.",
+  "official": "I'm way past ready to get that nailed down.",
+  "official_ok": true
+ },
+ "7": {
+  "literal": "Damn, they were lying in wait for me...",
+  "official": "(Shit, an ambush...)",
+  "official_ok": true
+ },
+ "8": {
+  "literal": "Where is Lee-san!? I have urgent business with Lee-san!",
+  "official": "Where Lee-san now!? I must see Lee-san right away!",
+  "official_ok": true
+ },
+ "9": {
+  "literal": "I want to deliver his medicine. Lee-san's painkillers are running out.",
+  "official": "He need drugs. Lee-san run out of painkiller soon.",
+  "official_ok": true
+ },
+ "10": {
+  "literal": "Thank you for everything that time.",
+  "official": "The last couple times have been a real pleasure...",
+  "official_ok": true
+ },
+ "11": {
+  "literal": "Yes... I believe the boss gave you a call a little while ago.",
+  "official": "Yes. I believe you received a phone call from him?",
+  "official_ok": true
+ },
+ "12": {
+  "literal": "About receiving Makoto Makimura's corpse...",
+  "official": "And the gift of Makoto Makimura's dead body.",
+  "official_ok": true
+ },
+ "13": {
+  "literal": "I'm gonna get a good look at that face of his...!",
+  "official": "",
+  "official_ok": false
+ },
+ "14": {
+  "literal": "...Anyway, it sure was noisy down there, huh?",
+  "official": "Pretty wild scene down there on the floor, eh?",
+  "official_ok": true
+ },
+ "15": {
+  "literal": "Leaving her floating in Sotenbori — that's pretty flashy of you.",
+  "official": "Leaving her floating down Sotenbori, now that was a bold move.",
+  "official_ok": true
+ },
+ "16": {
+  "literal": "It slipped my mind. I was just about to get in touch.",
+  "official": "Look, I forgot. Till just now--I came up here to call you.",
+  "official_ok": true
+ },
+ "17": {
+  "literal": "Something about this just doesn't sit right with me.",
+  "official": "I just can't figure it out.",
+  "official_ok": true
+ },
+ "18": {
+  "literal": "Say... why'd you go to the trouble of smashing the body's face?",
+  "official": "Why go through the trouble of smashing her face in?",
+  "official_ok": true
+ },
+ "19": {
+  "literal": "Do you want to hide the body's identity or not?",
+  "official": "Can't tell if you're trying to hide who she is or broadcast it.",
+  "official_ok": true
+ },
+ "20": {
+  "literal": "You say you were shaken up?",
+  "official": "Still in shock?",
+  "official_ok": true
+ },
+ "21": {
+  "literal": "Believe it or not, he's just like me... a direct member of the Omi Alliance.",
+  "official": "You wouldn't know it to look at him, but he's Omi Alliance brass, same as me.",
+  "official_ok": true
+ },
+ "23": {
+  "literal": "They do whatever they please, no matter whose turf it is.",
+  "official": "They'll roll in on anybody's turf and do whatever they like.",
+  "official_ok": true
+ },
+ "24": {
+  "literal": "They're what you'd call Sotenbori's troublemakers.",
+  "official": "Sotenbori's little band of troublemakers...",
+  "official_ok": true
+ },
+ "25": {
+  "literal": "Why have they been messing with you?",
+  "official": "Why's the Kijin Clan throwing down in your club?",
+  "official_ok": true
+ },
+ "26": {
+  "literal": "Maybe he just wasn't used to drinking the good stuff?",
+  "official": "Maybe the guy wasn't used to drinkin' the good stuff.",
+  "official_ok": true
+ },
+ "27": {
+  "literal": "There's no way you could keep secrets from me.",
+  "official": "But you're right, there's no way you could keep something from me.",
+  "official_ok": true
+ },
+ "28": {
+  "literal": "After all, you know firsthand what would happen if you did.",
+  "official": "...Because you've still got the scars to remind you what would happen to you if you did.",
+  "official_ok": true
+ },
+ "29": {
+  "literal": "Ahh... I can't get enough of this...",
+  "official": "Ahh... That was fuckin' amazing...",
+  "official_ok": true
+ },
+ "30": {
+  "literal": "...You're one tough bastard to put down.",
+  "official": "How are you even still talkin'?",
+  "official_ok": true
+ },
+ "31": {
+  "literal": "Aww... time's up already?",
+  "official": "Aww, man... Time's up already?",
+  "official_ok": true
+ },
+ "32": {
+  "literal": "Officers!",
+  "official": "Alright, copper!",
+  "official_ok": true
+ },
+ "33": {
+  "literal": "Who's giving you your orders...!",
+  "official": "Who's givin' the order!?",
+  "official_ok": true
+ },
+ "35": {
+  "literal": "What about the customer who reserved the place...?",
+  "official": "That was the customer who rented the club out, is he...?",
+  "official_ok": true
+ },
+ "36": {
+  "literal": "...Never mind that, you just handle the cops.",
+  "official": "...You just deal with the police, would ya?",
+  "official_ok": true
+ },
+ "37": {
+  "literal": "Have the others get ready to open. We're back to regular business as of now.",
+  "official": "And tell the others to get ready to open. We're back to regular business.",
+  "official_ok": true
+ },
+ "38": {
+  "literal": "U-Understood. We'll open the club as soon as we're ready.",
+  "official": "U-Understood, sir. We'll have the doors open as soon as we're ready.",
+  "official_ok": true
+ },
+ "39": {
+  "literal": "But they said you were too much for them to handle...",
+  "official": "But they came back sayin' you were too hot to handle.",
+  "official_ok": true
+ },
+ "40": {
+  "literal": "So you're the head of those numbskulls.",
+  "official": "You're the one leadin' that idiot parade?",
+  "official_ok": true
+ },
+ "41": {
+  "literal": "Now, don't get all worked up — just hear me out.",
+  "official": "No call for gettin' snotty, now. Hear me out.",
+  "official_ok": true
+ },
+ "42": {
+  "literal": "That idiot will never find out the body is someone else.",
+  "official": "That braindead chimpanzee ain't gonna figure out the body's a fake.",
+  "official_ok": true
+ },
+ "43": {
+  "literal": "There's no settling this down now, is there!?",
+  "official": "But isn't this a predicament!?",
+  "official_ok": true
+ },
+ "44": {
+  "literal": "He's pulled a knife in my club!",
+  "official": "I got this whack job of a yakuza in here right now wavin' a big ol' knife around!",
+  "official_ok": true
+ },
+ "45": {
+  "literal": "I'm a genuine robber, certified by the cops, y'know?",
+  "official": "I'm a bona fide robber! Just ask the cops...",
+  "official_ok": true
+ },
+ "46": {
+  "literal": "This ain't about work for me anymore. I'm gonna enjoy myself, y'hear?",
+  "official": "This ain't even about work anymore. Let's have some fun!",
+  "official_ok": true
+ },
+ "47": {
+  "literal": "Don't you let me down!!",
+  "official": "Don't go lettin' me down, now!",
+  "official_ok": true
+ },
+ "48": {
+  "literal": "...Money over the bond between fellow Chinese, huh...",
+  "official": "Take money over your countrymen...",
+  "official_ok": true
+ },
+ "49": {
+  "literal": "Leave him be. He's the man who betrayed you.",
+  "official": "Leave him already. He betrayed you.",
+  "official_ok": true
+ },
+ "50": {
+  "literal": "Just staying shut away in here the whole time, being protected...",
+  "official": "Staying shut in here while you two put yourselves in danger for me is... I can't.",
+  "official_ok": true
+ },
+ "51": {
+  "literal": "The guy on the phone I mentioned was their boss,",
+  "official": "The guy on the phone was their boss.",
+  "official_ok": true
+ },
+ "52": {
+  "literal": "A man named Nishitani. He leads a clan called the Kijin Clan.",
+  "official": "Went by Nishitani. He runs an outfit called the Kijin Clan.",
+  "official_ok": true
+ },
+ "53": {
+  "literal": "He's probably figured out... that I just let this girl slip away without lifting a finger.",
+  "official": "I'm pretty sure he's wise to the fact I didn't kill his girl.",
+  "official_ok": true
+ },
+ "54": {
+  "literal": "How long is this girl gonna have to live in fear?",
+  "official": "She gonna have to live the rest of her life waitin' for a bullet?",
+  "official_ok": true
+ },
+ "55": {
+  "literal": "I'm... a prisoner of this town.",
+  "official": "This town's my prison.",
+  "official_ok": true
+ },
+ "56": {
+  "literal": "I'm the robber who broke into this place!",
+  "official": "I'm the big, bad robber who busted in on this place!",
+  "official_ok": true
+ },
+ "57": {
+  "literal": "He's a robber! Please hurry and come help!!",
+  "official": "He's a robber! Get down here quick, okay!?",
+  "official_ok": true
+ },
+ "59": {
+  "literal": "So he used that to disguise the body as Makoto's?",
+  "official": "So then he takes that, whacks the girl, and plays Makoto dress-up with the body?",
+  "official_ok": true
+ },
+ "60": {
+  "literal": "...If he keeps sniffing around any longer, he'll just be an eyesore.",
+  "official": "Better than having him sneakin' around me.",
+  "official_ok": true
+ },
+ "61": {
+  "literal": "...If he keeps sniffing around any longer, he'll just be an eyesore.",
+  "official": "Better than having him sneakin' around me.",
+  "official_ok": true
+ },
+ "62": {
+  "literal": "And yet you left the body dressed in the clothes from the woman's workplace.",
+  "official": "And then you turn around and leave her in her uniform?",
+  "official_ok": true
+ },
+ "63": {
+  "literal": "And yet you left the body dressed in the clothes from the woman's workplace.",
+  "official": "And then you turn around and leave her in her uniform?",
+  "official_ok": true
+ },
+ "64": {
+  "literal": "The Kijin Clan are mavericks who don't team up with anyone.",
+  "official": "Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.",
+  "official_ok": true
+ },
+ "65": {
+  "literal": "The Kijin Clan are mavericks who don't team up with anyone.",
+  "official": "Omi's got all kinds, but even by that standard, the Kijin Clan are loose cannons. Not exactly team players.",
+  "official_ok": true
+ },
+ "66": {
+  "literal": "I won't reveal the secret to anyone. I'll take it to my grave.",
+  "official": "that secret stays with me. I'll carry it to the grave.",
+  "official_ok": true
+ },
+ "67": {
+  "literal": "I won't reveal the secret to anyone. I'll take it to my grave.",
+  "official": "that secret stays with me. I'll carry it to the grave.",
+  "official_ok": true
+ },
+ "68": {
+  "literal": "Trace it back far enough, and it's all the same Omi Alliance.",
+  "official": "Nishitani's part of the same group as the guy who hired me, Sagawa. The Omi Alliance.",
+  "official_ok": true
+ },
+ "69": {
+  "literal": "Trace it back far enough, and it's all the same Omi Alliance.",
+  "official": "Nishitani's part of the same group as the guy who hired me, Sagawa. The Omi Alliance.",
+  "official_ok": true
+ }
 }
