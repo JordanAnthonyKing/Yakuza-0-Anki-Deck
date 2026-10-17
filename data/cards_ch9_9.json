@@ -1,0 +1,636 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "兄弟……　<b>手柄</b>はてめえにくれてやる。",
+  "word": "手柄",
+  "reading": "てがら",
+  "meaning": "achievement; feat; meritorious deed; distinguished service",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "久瀬",
+  "uid": "01331355",
+  "candidates": [
+   "(noun) achievement; feat; meritorious deed; distinguished service"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "桐生。お前が<b>かばっ</b>た立華はどうしてんだろうな？",
+  "word": "庇う",
+  "reading": "かばう",
+  "meaning": "to protect (someone); to look after (e.g. an injured leg); to defend; to cover for",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "candidates": [
+   "(verb) to protect (someone); to look after (e.g. an injured leg); to defend; to cover for"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここんとこ<b>バッタリ</b>姿消しちまってる。",
+  "word": "ばったり",
+  "reading": "ばったり",
+  "meaning": "with a clash; with a thud; with a bang; with a flop",
+  "pos": "adverb",
+  "chapter": 9,
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "candidates": [
+   "(adverb) with a clash; with a thud; with a bang; with a flop",
+   "(adverb) unexpectedly (meeting someone)",
+   "(adverb) suddenly (ending); abruptly (coming to a halt)"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……連中、お前を<b>見捨て</b>たってわけだ。",
+  "word": "見捨てる",
+  "reading": "みすてる",
+  "meaning": "to abandon; to fail; to desert; to forsake",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "candidates": [
+   "(verb) to abandon; to fail; to desert; to forsake"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……風間のカシラも、お前を<b>見殺し</b>にする気らしい。",
+  "word": "見殺し",
+  "reading": "みごろし",
+  "meaning": "letting (someone) die without helping",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "candidates": [
+   "(noun) letting (someone) die without helping"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>たっぷり</b>楽しましてもらうぜ、桐生!!",
+  "word": "たっぷり",
+  "reading": "たっぷり",
+  "meaning": "plentifully; amply; abundantly; copiously",
+  "pos": "na-adjective",
+  "chapter": 9,
+  "speaker": "久瀬",
+  "uid": "01331355",
+  "candidates": [
+   "(na-adjective) plentifully; amply; abundantly; copiously",
+   "(verb) loosely; with room to spare; with enough space; (large) enough",
+   "(adverb) a good (e.g. two weeks, ten kilometres); a full; at least; no less than"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ああ。だが……　こんだけ<b>道連れ</b>がいりゃ",
+  "word": "道連れ",
+  "reading": "みちづれ",
+  "meaning": "fellow traveler; fellow traveller; travelling companion",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "01331355",
+  "candidates": [
+   "(noun) fellow traveler; fellow traveller; travelling companion",
+   "(noun) taking someone along unwillingly (e.g. in death); forcing to take part"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あんたも俺にかまうな。<b>巻き添え</b>にしたくない。",
+  "word": "巻き添え",
+  "reading": "まきぞえ",
+  "meaning": "getting mixed up in; getting embroiled in; involvement; entanglement",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "01331355",
+  "candidates": [
+   "(noun) getting mixed up in; getting embroiled in; involvement; entanglement"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そんな風に言われて<b>引っ込める</b>と思う？",
+  "word": "引っ込める",
+  "reading": "ひっこめる",
+  "meaning": "to draw in; to take in; to retract",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "麗奈",
+  "uid": "01331355",
+  "candidates": [
+   "(verb) to draw in; to take in; to retract",
+   "(verb) to withdraw; to take back (e.g. words)"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "このガキ、なに<b>突っ立っ</b>てんだ、おらあ!!",
+  "word": "突き立つ",
+  "reading": "つきたつ",
+  "meaning": "to stick (in)",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "酔っ払い",
+  "uid": "01331355",
+  "candidates": [
+   "(verb) to stick (in)",
+   "(verb) to stick out; to rise sharply; to stand tall",
+   "(verb) to stand (doing nothing)"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>逮捕</b>されるかもしれないけど……",
+  "word": "逮捕",
+  "reading": "たいほ",
+  "meaning": "arrest; apprehension; capture",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "candidates": [
+   "(verb) arrest; apprehension; capture"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "サツが来たとこで<b>引き</b>はしない。",
+  "word": "引き",
+  "reading": "ひき",
+  "meaning": "pull; patronage; influence",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "candidates": [
+   "(noun) pull; patronage; influence",
+   "(noun) tug",
+   "(noun) room to move the camera back",
+   "(noun) drawing back; pulling back; retreat"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "組に逆らえば……　あいつは俺の<b>二の舞</b>になる。",
+  "word": "二の舞",
+  "reading": "にのまい",
+  "meaning": "... all over again (repeating the same failure)",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "candidates": [
+   "(noun) ... all over again (repeating the same failure)"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "とにかく頭の傷<b>手当</b>しなきゃ。",
+  "word": "手当て",
+  "reading": "てあて",
+  "meaning": "salary; pay; compensation; allowance (e.g. housing allowance)",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "candidates": [
+   "(verb) salary; pay; compensation; allowance (e.g. housing allowance)",
+   "(verb) medical care; treatment",
+   "(verb) advance preparation"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "傷、そこまで深くはないみたい。<b>消毒</b>だけするわ。",
+  "word": "消毒",
+  "reading": "しょうどく",
+  "meaning": "disinfection; sterilization; sterilisation",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "candidates": [
+   "(verb) disinfection; sterilization; sterilisation"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もう……兄弟を、<b>苦しめ</b>たくない。",
+  "word": "苦しめる",
+  "reading": "くるしめる",
+  "meaning": "to torment; to pain; to inflict (physical) pain; to hurt",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "candidates": [
+   "(verb) to torment; to pain; to inflict (physical) pain; to hurt",
+   "(verb) to harass; to cause (emotional) pain; to afflict; to distress"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日この店に<b>刑事</b>が来て、",
+  "word": "刑事",
+  "reading": "けいじ",
+  "meaning": "(police) detective",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "candidates": [
+   "(noun) (police) detective",
+   "(noun) criminal matter"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺への捜査を<b>押さえ</b>てくれてたんだ。",
+  "word": "押さえる",
+  "reading": "おさえる",
+  "meaning": "to pin down; to hold down; to press down; to hold in place",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "candidates": [
+   "(verb) to pin down; to hold down; to press down; to hold in place",
+   "(verb) to cover (esp. a part of one's body with one's hand); to clutch (a body part in pain); to press (a body part)",
+   "(verb) to get a hold of; to obtain; to seize; to catch",
+   "(verb) to grasp (a point); to comprehend",
+   "(verb) to reserve (time, space, or availability); to hold; to block off (a schedule); to secure",
+   "(verb) to quell; to subdue; to suppress; to repress"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "その<b>猶予</b>が、切れた……",
+  "word": "猶予",
+  "reading": "ゆうよ",
+  "meaning": "postponement; deferment; extension (of time)",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "0133135e",
+  "candidates": [
+   "(verb) postponement; deferment; extension (of time)"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もう<b>エレベーター</b>は動かないはずなのに……！",
+  "word": "エレベーター",
+  "reading": "エレベーター",
+  "meaning": "elevator; lift",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "麗奈",
+  "uid": "0133135e",
+  "candidates": [
+   "(noun) elevator; lift",
+   "(noun) elevator"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……堂島組の<b>しめつけ</b>で、ウチの情報網も",
+  "word": "締め付け",
+  "reading": "しめつけ",
+  "meaning": "pressure; clamping; tightening; fastening",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) pressure; clamping; tightening; fastening"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "動きが<b>鈍っ</b>ていましてね。",
+  "word": "鈍る",
+  "reading": "にぶる",
+  "meaning": "to become blunt; to grow dull",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(verb) to become blunt; to grow dull",
+   "(verb) to become less capable; to weaken; to falter"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>おかげ</b>で助かった。あんたが来なけりゃ……",
+  "word": "御陰",
+  "reading": "おかげ",
+  "meaning": "grace (of God); benevolence (of Buddha); blessing",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) grace (of God); benevolence (of Buddha); blessing",
+   "(noun) assistance; help; aid",
+   "(noun) effects; influence"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "思ってたんだ。だからどんなに<b>突っ走っ</b>たところで、",
+  "word": "突っ走る",
+  "reading": "つっぱしる",
+  "meaning": "to run swiftly; to speed; to dash; to rush",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "桐生",
+  "uid": "01331378",
+  "candidates": [
+   "(verb) to run swiftly; to speed; to dash; to rush",
+   "(verb) to charge ahead (in pursuit of some goal); to push forward"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "私の育ってきた<b>環境</b>では、誰もがそうしていました。",
+  "word": "環境",
+  "reading": "かんきょう",
+  "meaning": "environment; surroundings; circumstances",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) environment; surroundings; circumstances"
+  ]
+ },
+ {
+  "order": 25,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "金でもなんでも使って、<b>いかに</b>まわりの人間を",
+  "word": "如何に",
+  "reading": "いかに",
+  "meaning": "how; in what way",
+  "pos": "adverb",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(adverb) how; in what way",
+   "(adverb) how (much); to what extent",
+   "(adverb) however (much); no matter how",
+   "(int) hey; oi"
+  ]
+ },
+ {
+  "order": 26,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "自分の<b>損得</b>で動く人間でないことを知っている。",
+  "word": "損得",
+  "reading": "そんとく",
+  "meaning": "loss and gain; advantage and disadvantage",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) loss and gain; advantage and disadvantage"
+  ]
+ },
+ {
+  "order": 27,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "馬鹿みたいに<b>命がけ</b>で信じることができる。",
+  "word": "命懸け",
+  "reading": "いのちがけ",
+  "meaning": "putting one's life on the line; staking one's life (on); risking one's life; life and death situation",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) putting one's life on the line; staking one's life (on); risking one's life; life and death situation"
+  ]
+ },
+ {
+  "order": 28,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>滅多</b>にいるもんじゃありません。",
+  "word": "滅多",
+  "reading": "めった",
+  "meaning": "thoughtless; reckless; careless; rash",
+  "pos": "na-adjective",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(na-adjective) thoughtless; reckless; careless; rash",
+   "(na-adjective) ordinary; usual; common",
+   "(pref) excessive; indiscriminate"
+  ]
+ },
+ {
+  "order": 29,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今のは……　<b>シラフ</b>で言うことじゃ",
+  "word": "素面",
+  "reading": "すめん",
+  "meaning": "not wearing a mask (in kendo, noh, etc.)",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) not wearing a mask (in kendo, noh, etc.)",
+   "(noun) sober face",
+   "(noun) sobriety",
+   "(na-adjective) face with no make-up; unpainted face"
+  ]
+ },
+ {
+  "order": 30,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "おかげで……　自分で慣れない運転をする<b>羽目</b>に。",
+  "word": "羽目",
+  "reading": "はめ",
+  "meaning": "panel; wainscoting; wainscotting",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) panel; wainscoting; wainscotting",
+   "(noun) plight; fix; bind; awkward situation"
+  ]
+ },
+ {
+  "order": 31,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>報わ</b>れねえなぁ。いまどきの仁義ってやつはよ。",
+  "word": "報う",
+  "reading": "むくう",
+  "meaning": "to reward; to recompense; to repay",
+  "pos": "verb",
+  "chapter": 9,
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "candidates": [
+   "(verb) to reward; to recompense; to repay",
+   "(verb) to retaliate; to get revenge"
+  ]
+ },
+ {
+  "order": 32,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "報われねえなぁ。いまどきの<b>仁義</b>ってやつはよ。",
+  "word": "仁義",
+  "reading": "じんぎ",
+  "meaning": "humanity and justice (esp. in Confucianism); virtue",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "阿波野",
+  "uid": "01331355",
+  "candidates": [
+   "(noun) humanity and justice (esp. in Confucianism); virtue",
+   "(noun) duty",
+   "(noun) formal greeting (between yakuza, street vendors, gamblers, etc.)",
+   "(noun) (gang's) moral code"
+  ]
+ },
+ {
+  "order": 33,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "いわゆる<b>ペーパー</b>ドライバーっていうやつです。",
+  "word": "ペーパー",
+  "reading": "ペーパー",
+  "meaning": "paper",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) paper"
+  ]
+ },
+ {
+  "order": 34,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "いわゆるペーパー<b>ドライバー</b>っていうやつです。",
+  "word": "ドライバー",
+  "reading": "ドライバー",
+  "meaning": "driver (of a vehicle); motorist",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) driver (of a vehicle); motorist",
+   "(noun) screwdriver",
+   "(noun) driver (club)",
+   "(noun) (device) driver"
+  ]
+ },
+ {
+  "order": 35,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "どうも私にはその<b>方面</b>の才能があったようです。",
+  "word": "方面",
+  "reading": "ほうめん",
+  "meaning": "direction; district; area",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) direction; district; area",
+   "(noun) field (e.g. of study); sphere; quarter; aspect"
+  ]
+ },
+ {
+  "order": 36,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "どうも私にはその方面の<b>才能</b>があったようです。",
+  "word": "才能",
+  "reading": "さいのう",
+  "meaning": "talent; ability",
+  "pos": "noun",
+  "chapter": 9,
+  "speaker": "立華",
+  "uid": "01331378",
+  "candidates": [
+   "(noun) talent; ability"
+  ]
+ }
+]
