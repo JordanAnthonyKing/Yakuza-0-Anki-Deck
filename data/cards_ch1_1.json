@@ -2021,23 +2021,6 @@
   ]
  },
  {
-  "order": 117,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>カモジ</b>君はチョットガンバルだけネ。",
-  "word": "髢",
-  "reading": "かもじ",
-  "meaning": "hairpiece; false hair; switch",
-  "pos": "noun",
-  "chapter": 1,
-  "speaker": "初老の外国人",
-  "uid": "01331121",
-  "candidates": [
-   "(noun) hairpiece; false hair; switch",
-   "(noun) hair"
-  ]
- },
- {
   "order": 119,
   "kind": "i+1",
   "standalone": false,
@@ -10616,23 +10599,6 @@
    "(noun) gallery (in a theatre)",
    "(noun) driving (animals, fish, etc.); herding; chasing",
    "(noun) forcing another player to fold (so that oneself can participate in the game)"
-  ]
- },
- {
-  "order": 626,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "日<b>侠</b>連の世良だ。",
-  "word": "侠",
-  "reading": "きゃん",
-  "meaning": "pert; tomboyish; impudent; lively",
-  "pos": "na-adjective",
-  "chapter": 1,
-  "speaker": "世良",
-  "uid": "033317d8",
-  "candidates": [
-   "(na-adjective) pert; tomboyish; impudent; lively",
-   "(na-adjective) gallant; chivalrous"
   ]
  },
  {
