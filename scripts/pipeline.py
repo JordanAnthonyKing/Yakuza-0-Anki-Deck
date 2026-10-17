@@ -224,7 +224,9 @@ def steps(ch):
 # reviews that have nothing to look at are marked automatically
 _rg = lambda ch, pat: glob.glob(os.path.join(DATA, "translate", f"regate_ch{ch}", pat))
 REVIEW_SKIP = {
-    "bracket-review": lambda ch: not _rg(ch, "out_bracket*.json"),
+    # nothing to review when the bracket pass accepted nothing
+    "bracket-review": lambda ch: not any(v.get("official_ok") for p in _rg(ch, "out_bracket*.json")
+                                         for v in load(p).values()),
 }
 
 
