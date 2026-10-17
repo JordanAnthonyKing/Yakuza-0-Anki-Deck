@@ -473,24 +473,6 @@
   ]
  },
  {
-  "order": 28,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "ゆうべから何も食うと<b>らん</b>もんな？",
-  "word": "らん",
-  "reading": "らん",
-  "meaning": "section (e.g. in a newspaper); column; page",
-  "pos": "noun",
-  "chapter": 7,
-  "speaker": "真島",
-  "uid": "01331278",
-  "candidates": [
-   "(noun) section (e.g. in a newspaper); column; page",
-   "(noun) field (in a form, web page, etc.); blank",
-   "(noun) handrail; railing; banister; balustrade"
-  ]
- },
- {
   "order": 29,
   "kind": "i+1",
   "standalone": false,
@@ -1029,24 +1011,6 @@
   "candidates": [
    "(verb) work; workmanship; craftsmanship; handiwork",
    "(verb) artifice; trick; device; tampering"
-  ]
- },
- {
-  "order": 61,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "……お前が片目失くしても<b>たん</b>も、",
-  "word": "たん",
-  "reading": "きも",
-  "meaning": "liver; innards",
-  "pos": "noun",
-  "chapter": 7,
-  "speaker": "李",
-  "uid": "01331278",
-  "candidates": [
-   "(noun) liver; innards",
-   "(noun) courage; spirit; pluck; guts",
-   "(noun) crux; essential point; key"
   ]
  },
  {
@@ -1702,24 +1666,6 @@
   ]
  },
  {
-  "order": 100,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "いつ殺されても<b>おかし</b>ない。",
-  "word": "犯す",
-  "reading": "おかす",
-  "meaning": "to commit (e.g. crime); to perpetrate; to make (e.g. mistake)",
-  "pos": "verb",
-  "chapter": 7,
-  "speaker": "真島",
-  "uid": "0133127b",
-  "candidates": [
-   "(verb) to commit (e.g. crime); to perpetrate; to make (e.g. mistake)",
-   "(verb) to break (e.g. rule); to violate; to transgress; to contravene",
-   "(verb) to rape; to violate; to ravish; to deflower"
-  ]
- },
- {
   "order": 101,
   "kind": "i+1",
   "standalone": false,
@@ -2123,23 +2069,6 @@
   ]
  },
  {
-  "order": 125,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "せやったらあんたはマコトんとこに<b>早</b>よ帰り。",
-  "word": "早",
-  "reading": "はや",
-  "meaning": "already; now; by this time",
-  "pos": "adverb",
-  "chapter": 7,
-  "speaker": "李",
-  "uid": "01331282",
-  "candidates": [
-   "(adverb) already; now; by this time",
-   "(noun) quick; early; fast; rapid"
-  ]
- },
- {
   "order": 126,
   "kind": "i+1",
   "standalone": false,
@@ -2276,23 +2205,6 @@
   "candidates": [
    "(na-adjective) pitiful; unfortunate; poor; miserable",
    "(na-adjective) unpardonable; regrettable"
-  ]
- },
- {
-  "order": 134,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "ちゃんとアツアツの買うて<b>こな</b>アカンか",
-  "word": "粉",
-  "reading": "こな",
-  "meaning": "flour; meal; powder; dust",
-  "pos": "noun",
-  "chapter": 7,
-  "speaker": "真島",
-  "uid": "0133128b",
-  "candidates": [
-   "(noun) flour; meal; powder; dust",
-   "(noun) heroin"
   ]
  },
  {
@@ -3903,25 +3815,6 @@
   ]
  },
  {
-  "order": 229,
-  "kind": "grp3",
-  "standalone": false,
-  "sentence": "おんどれ……　余裕かましよって。何<b>笑</b>とんのや？",
-  "word": "笑い",
-  "reading": "わらい",
-  "meaning": "laugh; laughter",
-  "pos": "noun",
-  "chapter": 7,
-  "speaker": "ヤクザ",
-  "uid": "0133127b",
-  "candidates": [
-   "(noun) laugh; laughter",
-   "(noun) smile",
-   "(noun) sneer",
-   "(noun) sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)"
-  ]
- },
- {
   "order": 230,
   "kind": "grp3",
   "standalone": false,
@@ -4283,23 +4176,6 @@
    "(verb) to hear; to be told",
    "(verb) to implore (a god for an oracle); to seek direction (from your superior)",
    "(verb) to speak to (a large crowd at a theatre, etc.)"
-  ]
- },
- {
-  "order": 251,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "……ではまた、お伺いします<b>ゆえ</b>。",
-  "word": "故",
-  "reading": "ふる",
-  "meaning": "used item; secondhand item",
-  "pos": "noun",
-  "chapter": 7,
-  "speaker": "火野",
-  "uid": "01331307",
-  "candidates": [
-   "(noun) used item; secondhand item",
-   "(noun) old; used; previous"
   ]
  },
  {
