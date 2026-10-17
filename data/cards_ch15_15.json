@@ -602,27 +602,6 @@
   ]
  },
  {
-  "order": 35,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "それじゃ<b>つまん</b>ねえだろ。",
-  "word": "詰まる",
-  "reading": "つまる",
-  "meaning": "to be packed (with); to be filled; to be full (e.g. of a schedule)",
-  "pos": "verb",
-  "chapter": 15,
-  "speaker": "柏木",
-  "uid": "01331469",
-  "candidates": [
-   "(verb) to be packed (with); to be filled; to be full (e.g. of a schedule)",
-   "(verb) to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up",
-   "(verb) to be become shorter; to shrink; to narrow",
-   "(verb) to be at a loss (for); to be pressed (for); to be stuck (for)",
-   "(verb) to come to the end; to be settled",
-   "(verb) to become a geminate consonant"
-  ]
- },
- {
   "order": 36,
   "kind": "i+1",
   "standalone": false,
@@ -822,23 +801,6 @@
    "(verb) direction; management; guidance",
    "(verb) control (of one's destiny, public opinion, etc.); governing; influence; sway",
    "(verb) government"
-  ]
- },
- {
-  "order": 48,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "神室町の支配者の<b>座さ</b>。……近江連合側のね。",
-  "word": "座する",
-  "reading": "ざする",
-  "meaning": "to sit; to squat",
-  "pos": "verb",
-  "chapter": 15,
-  "speaker": "佐川",
-  "uid": "01331445",
-  "candidates": [
-   "(verb) to sit; to squat",
-   "(verb) to be implicated"
   ]
  },
  {
