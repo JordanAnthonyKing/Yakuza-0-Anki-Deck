@@ -1,3 +1,17 @@
 [
- {"surface": "錦", "reading": "にしき", "note": "Nishiki — short form of 錦山 (Nishikiyama); collides with common noun 錦 'brocade', so the POS proper-noun filter can't catch it. Both surface and reading are safe to block: 'brocade' never occurs as real vocab in this game."}
+ {
+  "surface": "錦",
+  "reading": "にしき",
+  "note": "Nishiki — short form of 錦山 (Nishikiyama); collides with common noun 錦 'brocade', so the POS proper-noun filter can't catch it. Both surface and reading are safe to block: 'brocade' never occurs as real vocab in this game."
+ },
+ {
+  "surface": "蒼天",
+  "reading": "",
+  "note": "Fragment of the place name 蒼天堀 (Sotenbori), which the tokenizer splits; leaked into ch3 as 'blue sky'. Reading そうてん left unblocked."
+ },
+ {
+  "surface": "堀",
+  "reading": "",
+  "note": "Fragment of 蒼天堀 (Sotenbori); leaked into ch3 as 'moat'. Reading ほり left unblocked (also a common surname/word)."
+ }
 ]

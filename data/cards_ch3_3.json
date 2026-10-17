@@ -2280,24 +2280,6 @@
   ]
  },
  {
-  "order": 132,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "（今日は<b>蒼天</b>堀通りの方に行ってみるか）",
-  "word": "蒼天",
-  "reading": "そうてん",
-  "meaning": "blue sky; azure sky",
-  "pos": "noun",
-  "chapter": 3,
-  "speaker": "真島",
-  "uid": "0102222d",
-  "candidates": [
-   "(noun) blue sky; azure sky",
-   "(noun) spring sky",
-   "(noun) God; the Creator"
-  ]
- },
- {
   "order": 133,
   "kind": "i+1",
   "standalone": false,
@@ -2452,23 +2434,6 @@
    "(na-adjective) extreme; excessive; great many; large number of",
    "(na-adjective) splendid; impressive; tremendous; immense",
    "(na-adjective) exaggerated"
-  ]
- },
- {
-  "order": 142,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "蒼天<b>堀</b>の方にでも行ってくるか……",
-  "word": "堀",
-  "reading": "ほり",
-  "meaning": "moat; fosse",
-  "pos": "noun",
-  "chapter": 3,
-  "speaker": "",
-  "uid": "01022239",
-  "candidates": [
-   "(noun) moat; fosse",
-   "(noun) canal; ditch"
   ]
  },
  {

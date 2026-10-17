@@ -21,6 +21,13 @@ line costs little; a wrong one teaches the wrong thing.
   in ch2 and ch3). Other past drops: ころ (コロっと), つく (について), 引け (手を引く).
 - `name_leak_scan.py` is noisy. Act only on real name collisions (錦 = Nishiki, not
   "brocade"). For those: add the name to `data/name_block.json` AND drop the card.
+- Place names split by the tokenizer leak as their pieces: 蒼天堀 → 蒼天 "blue sky" + 堀 "moat"
+  (found in Ch3 and fixed during Ch4). Watch for this with every multi-kanji place or org name.
+  If a leak is found in an already-finished chapter: block it, `drop_cards.py`, remove it from
+  the ledger, and set `ledger_words` in `data/pipeline/invariants.json` to the new count, then
+  `build_final.py N` (GUID-checked).
+- Set-phrase readings with the wrong gloss: 一丁 ("one round; let's give it a shot") was glossed
+  as 丁 "counter for long narrow things". Fix the gloss in place.
 - Fix an obviously wrong gloss directly in `gloss_polish_ch{N}.json` (e.g. 然も → "as if;
   seemingly").
 - More than ~10% of a chapter's cards flagged = something systematic → stop and tell the user.
