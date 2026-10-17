@@ -1,0 +1,4798 @@
+[
+ {
+  "order": 0,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "プレイヤー<b>キャラクター</b>を切り替えられます。",
+  "word": "キャラクター",
+  "reading": "キャラクター",
+  "meaning": "character; personality; disposition",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "003314d0",
+  "candidates": [
+   "(noun) character; personality; disposition",
+   "(noun) (fictional) character",
+   "(noun) character"
+  ]
+ },
+ {
+  "order": 1,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>再び</b>プレイヤーキャラクターを桐生に戻すことが",
+  "word": "再び",
+  "reading": "ふたたび",
+  "meaning": "again; once more; a second time",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "003314d0",
+  "candidates": [
+   "(adverb) again; once more; a second time"
+  ]
+ },
+ {
+  "order": 2,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "必死に<b>もがい</b>ている。",
+  "word": "もがく",
+  "reading": "もがく",
+  "meaning": "to struggle; to writhe; to wriggle; to squirm",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to struggle; to writhe; to wriggle; to squirm",
+   "(verb) to act frantically; to make desperate efforts"
+  ]
+ },
+ {
+  "order": 3,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あいつは日侠連に女を<b>かこわ</b>せて……",
+  "word": "囲う",
+  "reading": "かこう",
+  "meaning": "to enclose; to surround; to encircle; to fence",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to enclose; to surround; to encircle; to fence",
+   "(verb) to shelter (e.g. a criminal); to shield; to hide; to protect",
+   "(verb) to keep (e.g. a mistress)",
+   "(verb) to store (vegetables, fruit, etc.); to preserve",
+   "(verb) to protect"
+  ]
+ },
+ {
+  "order": 4,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "全員<b>根絶やし</b>にする……",
+  "word": "根絶やし",
+  "reading": "ねだやし",
+  "meaning": "rooting up (weeds, etc.)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(noun) rooting up (weeds, etc.)",
+   "(noun) eradication; rooting out; stamping out; getting rid of"
+  ]
+ },
+ {
+  "order": 5,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "てめぇは極道の……　一番<b>深け</b>えところに",
+  "word": "更ける",
+  "reading": "ふける",
+  "meaning": "to get late; to advance; to wear on",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to get late; to advance; to wear on"
+  ]
+ },
+ {
+  "order": 6,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "余計な<b>茶々</b>入れられたくねえんでな。",
+  "word": "茶々",
+  "reading": "ちゃちゃ",
+  "meaning": "interruption (e.g. of a conversation)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(noun) interruption (e.g. of a conversation)"
+  ]
+ },
+ {
+  "order": 7,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "フッ、今その<b>指揮</b>執ってんのは渋澤だがな、",
+  "word": "指揮",
+  "reading": "しき",
+  "meaning": "command; direction; supervision",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) command; direction; supervision",
+   "(verb) conducting (an orchestra, choir, etc.)"
+  ]
+ },
+ {
+  "order": 8,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "誰がやったって<b>さほど</b>難しい仕事じゃねえ。",
+  "word": "然程",
+  "reading": "さほど",
+  "meaning": "(not) so; (not) particularly; (not) very; (not) that much",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(adverb) (not) so; (not) particularly; (not) very; (not) that much"
+  ]
+ },
+ {
+  "order": 9,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "だが俺は……　<b>雑魚</b>がいくらかかってきたとこで",
+  "word": "雑魚",
+  "reading": "ざこ",
+  "meaning": "small fish; small fry",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(noun) small fish; small fry",
+   "(noun) (a) nobody; small fry; unimportant person",
+   "(noun) noob; weak player",
+   "(noun) small penis; short dick"
+  ]
+ },
+ {
+  "order": 10,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あんたは……　俺を<b>ぶちのめす</b>ためだけに",
+  "word": "打ちのめす",
+  "reading": "うちのめす",
+  "meaning": "to knock (someone) down; to floor; to beat up",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to knock (someone) down; to floor; to beat up",
+   "(verb) to deal a devastating blow (from which one cannot recover); to devastate (emotionally); to crush; to overwhelm"
+  ]
+ },
+ {
+  "order": 11,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>決着</b>つけさせてもらいます、久瀬の兄貴。",
+  "word": "決着",
+  "reading": "けっちゃく",
+  "meaning": "conclusion; decision; end; settlement",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) conclusion; decision; end; settlement"
+  ]
+ },
+ {
+  "order": 12,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>号令</b>かけてんのは、渋澤ってことか。",
+  "word": "号令",
+  "reading": "ごうれい",
+  "meaning": "order (esp. to a number of people); command",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) order (esp. to a number of people); command",
+   "(verb) ritual of bowing at start and end of school class"
+  ]
+ },
+ {
+  "order": 13,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "錦。マキムラマコトは日侠連の世良が<b>保護</b>してた。",
+  "word": "保護",
+  "reading": "ほご",
+  "meaning": "protection; safeguard; guardianship; custody",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) protection; safeguard; guardianship; custody",
+   "(verb) preservation; conservation"
+  ]
+ },
+ {
+  "order": 14,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "世良と風間の親っさんの<b>切り札</b>になる。",
+  "word": "切り札",
+  "reading": "きりふだ",
+  "meaning": "trump; trump card",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(noun) trump; trump card",
+   "(noun) ace up one's sleeve; secret weapon"
+  ]
+ },
+ {
+  "order": 15,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "この場をしのいで時間を<b>かせげ</b>ば",
+  "word": "稼ぐ",
+  "reading": "かせぐ",
+  "meaning": "to earn (income); to make (money)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to earn (income); to make (money)",
+   "(verb) to score (points, victory); to gain (time); to play (for time)",
+   "(verb) to work hard (at one's job); to labor; to labour; to toil"
+  ]
+ },
+ {
+  "order": 16,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "でけえ口たたくんじゃねえ。お前らは全員<b>皆殺し</b>だ。",
+  "word": "皆殺し",
+  "reading": "みなごろし",
+  "meaning": "massacre; annihilation; wholesale slaughter",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "堂島組組員",
+  "uid": "013314b4",
+  "candidates": [
+   "(noun) massacre; annihilation; wholesale slaughter"
+  ]
+ },
+ {
+  "order": 17,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "風間組の事務所に<b>押し入っ</b>て",
+  "word": "押し入る",
+  "reading": "おしいる",
+  "meaning": "to push in; to force into; to break in (e.g. into a house); to intrude",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "錦山",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to push in; to force into; to break in (e.g. into a house); to intrude"
+  ]
+ },
+ {
+  "order": 18,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "亜細亜街に住む中国人を<b>代表</b>して礼を言う。",
+  "word": "代表",
+  "reading": "だいひょう",
+  "meaning": "representation; representative; delegate; delegation",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "陳老人",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) representation; representative; delegate; delegation",
+   "(verb) exemplification; typification; being representative of; being typical of",
+   "(noun) leader",
+   "(noun) switchboard number; main number"
+  ]
+ },
+ {
+  "order": 19,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "一応<b>峠</b>は越えたがまだ危険な状態が続いている。",
+  "word": "峠",
+  "reading": "とうげ",
+  "meaning": "(mountain) pass; highest point on a mountain road; ridge",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) (mountain) pass; highest point on a mountain road; ridge",
+   "(noun) peak (e.g. of summer); worst (e.g. of an illness); crisis; critical point"
+  ]
+ },
+ {
+  "order": 20,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "早速、神室町再開発計画の本格<b>着手</b>に動き出した。",
+  "word": "着手",
+  "reading": "ちゃくしゅ",
+  "meaning": "starting work (on); setting to work (on); setting about (doing); beginning",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) starting work (on); setting to work (on); setting about (doing); beginning",
+   "(verb) commencing (a crime)",
+   "(verb) playing (a move)"
+  ]
+ },
+ {
+  "order": 21,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今は<b>心底</b>彼女を守ろうとしている。",
+  "word": "心底",
+  "reading": "しんそこ",
+  "meaning": "bottom of one's heart; depths of one's mind; innermost thoughts; real intentions",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) bottom of one's heart; depths of one's mind; innermost thoughts; real intentions",
+   "(adverb) from the bottom of one's heart; wholeheartedly; truly; sincerely"
+  ]
+ },
+ {
+  "order": 22,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "筋を通し耐え忍びながら力を<b>蓄え</b>ていた。",
+  "word": "蓄える",
+  "reading": "たくわえる",
+  "meaning": "to store; to save up; to stock up on; to lay in stock",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) to store; to save up; to stock up on; to lay in stock",
+   "(verb) to accumulate (e.g. knowledge); to build up (e.g. experience); to develop (e.g. one's skills)",
+   "(verb) to grow (a beard, moustache, etc.); to wear"
+  ]
+ },
+ {
+  "order": 23,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "強い力を<b>示す</b>必要がある。",
+  "word": "示す",
+  "reading": "しめす",
+  "meaning": "to (take out and) show; to demonstrate; to tell; to exemplify",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) to (take out and) show; to demonstrate; to tell; to exemplify",
+   "(verb) to point out (finger, clock hand, needle, etc.)",
+   "(verb) to indicate; to show; to represent; to signify"
+  ]
+ },
+ {
+  "order": 24,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "“旧風間派”の<b>徹底</b>的な排除。",
+  "word": "徹底",
+  "reading": "てってい",
+  "meaning": "thoroughness; completeness; consistency",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) thoroughness; completeness; consistency",
+   "(verb) thorough enforcement; seeing to it that a policy, etc. is carried out without exception"
+  ]
+ },
+ {
+  "order": 25,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "特にお前は<b>目の敵</b>にされるぞ。",
+  "word": "目の敵",
+  "reading": "めのかたき",
+  "meaning": "someone viewed with hatred; object of one's hostility",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) someone viewed with hatred; object of one's hostility"
+  ]
+ },
+ {
+  "order": 26,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あの人は、いま堂島組の<b>拡大</b>を止められる",
+  "word": "拡大",
+  "reading": "かくだい",
+  "meaning": "expansion; extension",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) expansion; extension",
+   "(verb) magnification; enlargement",
+   "(verb) escalation; spread"
+  ]
+ },
+ {
+  "order": 27,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "東城会の跡目に<b>据える</b>ためだ。",
+  "word": "据える",
+  "reading": "すえる",
+  "meaning": "to place (in position); to fix; to set (e.g. table); to lay (foundation)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) to place (in position); to fix; to set (e.g. table); to lay (foundation)",
+   "(verb) to install; to seat (someone)",
+   "(verb) to settle (upon something); to fix (e.g. one's gaze)",
+   "(verb) to apply (moxa)"
+  ]
+ },
+ {
+  "order": 28,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺に極道のイロハを<b>仕込ん</b>でくれたのはあの人だ。",
+  "word": "仕込む",
+  "reading": "しこむ",
+  "meaning": "to train; to teach; to educate",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) to train; to teach; to educate",
+   "(verb) to acquire (information); to learn; to cram",
+   "(verb) to stock; to stock up on",
+   "(verb) to prepare (esp. ingredients for brewing)",
+   "(verb) to insert; to build into; to fit"
+  ]
+ },
+ {
+  "order": 29,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "病院からは移動させた。芝浦に<b>停泊</b>している",
+  "word": "停泊",
+  "reading": "ていはく",
+  "meaning": "anchorage; anchoring; mooring",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) anchorage; anchoring; mooring"
+  ]
+ },
+ {
+  "order": 30,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "何の<b>未練</b>もないようにしとかな……",
+  "word": "未練",
+  "reading": "みれん",
+  "meaning": "lingering attachment; lingering affection; regret; reluctance",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314d4",
+  "candidates": [
+   "(na-adjective) lingering attachment; lingering affection; regret; reluctance"
+  ]
+ },
+ {
+  "order": 31,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ほんまに<b>思い残し</b>たことはないな？",
+  "word": "思い残す",
+  "reading": "おもいのこす",
+  "meaning": "to regret",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013314d5",
+  "candidates": [
+   "(verb) to regret"
+  ]
+ },
+ {
+  "order": 32,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>見とれよ</b>、マコト……！",
+  "word": "見惚れる",
+  "reading": "みとれる",
+  "meaning": "to be fascinated (by); to be captivated by; to be enchanted by; to gaze admiringly at",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314d5",
+  "candidates": [
+   "(verb) to be fascinated (by); to be captivated by; to be enchanted by; to gaze admiringly at"
+  ]
+ },
+ {
+  "order": 33,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "死んだ立華にも<b>顔向け</b>できねえだろ。",
+  "word": "顔向け",
+  "reading": "かおむけ",
+  "meaning": "showing one's face in public; facing another person",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "錦山",
+  "uid": "013314d8",
+  "candidates": [
+   "(verb) showing one's face in public; facing another person"
+  ]
+ },
+ {
+  "order": 34,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "渋澤をブチの<b>めす</b>のは、",
+  "word": "召す",
+  "reading": "めす",
+  "meaning": "to call; to summon; to send for; to invite",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "錦山",
+  "uid": "013314d8",
+  "candidates": [
+   "(verb) to call; to summon; to send for; to invite",
+   "(verb) to eat; to drink",
+   "(verb) to put on; to wear",
+   "(verb) to buy; to purchase",
+   "(verb) to take (a bath)",
+   "(verb) to ride; to get in (a vehicle); to take"
+  ]
+ },
+ {
+  "order": 35,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "やっぱりお前の<b>役目</b>だよ。",
+  "word": "役目",
+  "reading": "やくめ",
+  "meaning": "duty; role; function",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "錦山",
+  "uid": "013314d8",
+  "candidates": [
+   "(noun) duty; role; function"
+  ]
+ },
+ {
+  "order": 36,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今は堂島組長の<b>弾</b>避けか。",
+  "word": "弾",
+  "reading": "たま",
+  "meaning": "ball; sphere; globe; orb",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314db",
+  "candidates": [
+   "(noun) ball; sphere; globe; orb",
+   "(noun) bead (of sweat, dew, etc.); drop; droplet",
+   "(noun) ball (in sports); pitch (e.g. in baseball)",
+   "(noun) pile (of noodles, etc.)",
+   "(noun) bullet",
+   "(noun) bulb (i.e. a light bulb)"
+  ]
+ },
+ {
+  "order": 37,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "堂島組をここまで<b>攻め込ん</b>でくるとはな。",
+  "word": "攻め込む",
+  "reading": "せめこむ",
+  "meaning": "to invade; to attack; to breach; to penetrate",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to invade; to attack; to breach; to penetrate"
+  ]
+ },
+ {
+  "order": 38,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……賢く生きるつもりは<b>さらさら</b>ねえらしい。",
+  "word": "更々",
+  "reading": "さらさら",
+  "meaning": "(not) at all; (not) in the least; (none) whatsoever",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(adverb) (not) at all; (not) in the least; (none) whatsoever"
+  ]
+ },
+ {
+  "order": 39,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "極道が<b>小賢しく</b>生きる方が",
+  "word": "小賢しい",
+  "reading": "こざかしい",
+  "meaning": "smart-alecky; clever-clever; cheeky; impertinent",
+  "pos": "i-adjective",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314db",
+  "candidates": [
+   "(i-adjective) smart-alecky; clever-clever; cheeky; impertinent",
+   "(i-adjective) cunning; crafty; shrewd"
+  ]
+ },
+ {
+  "order": 40,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "生き方の<b>良し悪し</b>じゃねえ。",
+  "word": "善し悪し",
+  "reading": "よしあし",
+  "meaning": "right or wrong; good or bad; quality; suitability",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(noun) right or wrong; good or bad; quality; suitability",
+   "(noun) having both merits and demerits; having both advantages and disadvantages"
+  ]
+ },
+ {
+  "order": 41,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺に<b>言い訳</b>する前にさっさとかかってきたら",
+  "word": "言い訳",
+  "reading": "いいわけ",
+  "meaning": "excuse",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) excuse",
+   "(verb) explanation"
+  ]
+ },
+ {
+  "order": 42,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "自分の<b>くだら</b>ん生き方を",
+  "word": "下る",
+  "reading": "さがる",
+  "meaning": "to come down; to go down; to fall; to drop",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to come down; to go down; to fall; to drop",
+   "(verb) to hang; to dangle",
+   "(verb) to move back; to step back; to withdraw; to retire",
+   "(verb) to deteriorate; to fall off; to be downgraded",
+   "(verb) to get closer to the present day",
+   "(verb) to play a sagari; to extend downwards"
+  ]
+ },
+ {
+  "order": 43,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>つい</b>ごまかそうって頭が働いちまう……",
+  "word": "つい",
+  "reading": "つい",
+  "meaning": "just (now)",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(adverb) just (now)",
+   "(adverb) quite (near)",
+   "(adverb) unintentionally; subconsciously; by mistake; against one's better judgement (judgment)"
+  ]
+ },
+ {
+  "order": 44,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ゴルフに女に高い酒……　全部くだらねえ<b>戯言</b>だ。",
+  "word": "戯言",
+  "reading": "たわごと",
+  "meaning": "nonsense; silly talk; drivel; rubbish",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(noun) nonsense; silly talk; drivel; rubbish"
+  ]
+ },
+ {
+  "order": 45,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "えらく<b>色褪せ</b>ちまった……",
+  "word": "色褪せる",
+  "reading": "いろあせる",
+  "meaning": "to fade (of a colour); to grow dull in color (colour)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to fade (of a colour); to grow dull in color (colour)",
+   "(verb) to lose vividness; to lose freshness; to grow stale; to pale"
+  ]
+ },
+ {
+  "order": 46,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>根</b>っからの極道のくせにいつからか、",
+  "word": "根",
+  "reading": "ね",
+  "meaning": "root (of a plant)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(noun) root (of a plant)",
+   "(noun) root (of a tooth, hair, etc.); center (of a pimple, etc.)",
+   "(noun) root (of all evil, etc.); source; origin; cause",
+   "(noun) one's true nature",
+   "(noun) (fishing) reef"
+  ]
+ },
+ {
+  "order": 47,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "てめえの血流すのが<b>億劫</b>になってな……",
+  "word": "億劫",
+  "reading": "おっくう",
+  "meaning": "troublesome; bothersome; tiresome; annoying",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(na-adjective) troublesome; bothersome; tiresome; annoying"
+  ]
+ },
+ {
+  "order": 48,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "カネまみれの小賢しい極道を<b>演じる</b>のが",
+  "word": "演ずる",
+  "reading": "えんずる",
+  "meaning": "to act (a part); to play (a role)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to act (a part); to play (a role)",
+   "(verb) to perform (a play, etc.); to put on (a production)",
+   "(verb) to commit (a blunder); to pretend (e.g. to be a good father); to disgrace oneself"
+  ]
+ },
+ {
+  "order": 49,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もう二度とあの娘をお前らの戯言には<b>付き合わせ</b>ん。",
+  "word": "突き合わせる",
+  "reading": "つきあわせる",
+  "meaning": "to place persons opposite; to come face to face with",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to place persons opposite; to come face to face with",
+   "(verb) to compare (with); to check (against); to match; to tally"
+  ]
+ },
+ {
+  "order": 50,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>欺か</b>なアカン。寄り道しとる場合とちゃうで",
+  "word": "欺く",
+  "reading": "あざむく",
+  "meaning": "to deceive; to delude; to trick; to fool",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013314f6",
+  "candidates": [
+   "(verb) to deceive; to delude; to trick; to fool",
+   "(verb) to be as ... as ... (e.g. \"as bright as day\", \"as beautiful as a rose\")"
+  ]
+ },
+ {
+  "order": 51,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "いやぁ、実に<b>豪快</b>なばらまきだ！",
+  "word": "豪快",
+  "reading": "ごうかい",
+  "meaning": "hearty; tremendous; magnificent; glorious",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(na-adjective) hearty; tremendous; magnificent; glorious"
+  ]
+ },
+ {
+  "order": 52,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "とても一般<b>庶民</b>とは思えないよ。",
+  "word": "庶民",
+  "reading": "しょみん",
+  "meaning": "common people; ordinary people; masses",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) common people; ordinary people; masses"
+  ]
+ },
+ {
+  "order": 53,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "キミも<b>争い</b>に巻き込まれたくないと思うことが",
+  "word": "争い",
+  "reading": "あらそい",
+  "meaning": "fight; dispute; feud; conflict",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) fight; dispute; feud; conflict",
+   "(noun) competition; contest; rivalry"
+  ]
+ },
+ {
+  "order": 54,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そもそも、ボクに言わせれば<b>タイム</b>・イズ・マネー",
+  "word": "タイム",
+  "reading": "タイム",
+  "meaning": "time (for, to do)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) time (for, to do)",
+   "(noun) time (to finish a race, lap, etc.)",
+   "(noun) time-out"
+  ]
+ },
+ {
+  "order": 55,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なんてのは<b>嘘っぱち</b>もいいところだ。",
+  "word": "嘘っぱち",
+  "reading": "うそっぱち",
+  "meaning": "total lie; downright lie",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) total lie; downright lie"
+  ]
+ },
+ {
+  "order": 56,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "時間はお金よりも<b>貴重</b>なのにね。",
+  "word": "貴重",
+  "reading": "きちょう",
+  "meaning": "precious; valuable",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(na-adjective) precious; valuable"
+  ]
+ },
+ {
+  "order": 57,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お金を<b>ばらまい</b>てみるといいよ。",
+  "word": "ばら蒔く",
+  "reading": "ばらまく",
+  "meaning": "to scatter; to disseminate (e.g. a rumor); to spread (e.g. germs); to broadcast",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to scatter; to disseminate (e.g. a rumor); to spread (e.g. germs); to broadcast",
+   "(verb) to distribute widely (e.g. leaflets); to hand out freely; to spend recklessly"
+  ]
+ },
+ {
+  "order": 58,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "贅沢を言っているのは<b>重々</b>承知だ。",
+  "word": "重々",
+  "reading": "じゅうじゅう",
+  "meaning": "repeatedly; over and over again",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331504",
+  "candidates": [
+   "(adverb) repeatedly; over and over again",
+   "(adverb) fully (e.g. understand); very much; very well; exceedingly"
+  ]
+ },
+ {
+  "order": 59,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "劇場前広場に行って<b>ごらん</b>。キミが真の金持ちなら、",
+  "word": "御覧",
+  "reading": "ごらん",
+  "meaning": "(please) try to",
+  "pos": "int",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(int) (please) try to",
+   "(int) (please) look",
+   "(noun) seeing; looking; watching"
+  ]
+ },
+ {
+  "order": 60,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それで<b>多額</b>の利益を得ている。",
+  "word": "多額",
+  "reading": "たがく",
+  "meaning": "large (amount of money); huge; hefty; expensive",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(na-adjective) large (amount of money); huge; hefty; expensive"
+  ]
+ },
+ {
+  "order": 61,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>ヴィン</b>セントか……　わかった。",
+  "word": "バン",
+  "reading": "バン",
+  "meaning": "bun (hairstyle)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) bun (hairstyle)"
+  ]
+ },
+ {
+  "order": 62,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なかなか有<b>意義</b>な時間を過ごさせてもらったよ。",
+  "word": "意義",
+  "reading": "いぎ",
+  "meaning": "meaning; significance",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) meaning; significance"
+  ]
+ },
+ {
+  "order": 63,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それで<b>万事</b>が解決するわけでもねぇ。",
+  "word": "万事",
+  "reading": "ばんじ",
+  "meaning": "all; everything",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) all; everything"
+  ]
+ },
+ {
+  "order": 64,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>おいおい</b>兄ちゃん。ちょっと待てよ。",
+  "word": "追い追い",
+  "reading": "おいおい",
+  "meaning": "gradually; by degrees; little by little; step by step",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331504",
+  "candidates": [
+   "(adverb) gradually; by degrees; little by little; step by step"
+  ]
+ },
+ {
+  "order": 65,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "何黙って<b>通りすぎよう</b>としてんだ？",
+  "word": "通り過ぎる",
+  "reading": "とおりすぎる",
+  "meaning": "to go past; to pass; to pass by",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to go past; to pass; to pass by"
+  ]
+ },
+ {
+  "order": 66,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここを通りたかったら、<b>通行</b>料払ってもらおうか。",
+  "word": "通行",
+  "reading": "つうこう",
+  "meaning": "passage (of people or vehicles); passing (through); traffic",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) passage (of people or vehicles); passing (through); traffic",
+   "(verb) common usage; widespread use"
+  ]
+ },
+ {
+  "order": 67,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "うるせぇ！　お前こそ、その足<b>どけろ</b>！",
+  "word": "退ける",
+  "reading": "のける",
+  "meaning": "to put something out of the way; to move (something, someone) aside",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to put something out of the way; to move (something, someone) aside",
+   "(verb) to remove; to exclude; to take away",
+   "(verb) to set aside; to keep apart",
+   "(verb) to remove (someone) from the group; to shun",
+   "(verb) to do well despite difficulties; to accomplish despite adversity",
+   "(verb) to do resolutely; to do boldly"
+  ]
+ },
+ {
+  "order": 68,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まったく貧乏人ってのは、<b>あさましい</b>もんだなぁ。",
+  "word": "浅ましい",
+  "reading": "あさましい",
+  "meaning": "wretched; miserable; shameful; mean",
+  "pos": "i-adjective",
+  "chapter": 17,
+  "speaker": "青年",
+  "uid": "01331504",
+  "candidates": [
+   "(i-adjective) wretched; miserable; shameful; mean"
+  ]
+ },
+ {
+  "order": 69,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>わっ</b>かんないのかなぁ～？",
+  "word": "わっ",
+  "reading": "わっ",
+  "meaning": "boo! (sound used to scare someone)",
+  "pos": "int",
+  "chapter": 17,
+  "speaker": "青年",
+  "uid": "01331504",
+  "candidates": [
+   "(int) boo! (sound used to scare someone)",
+   "(int) ugh (dissatisfaction, aggravation)",
+   "(int) ulp (consternation)"
+  ]
+ },
+ {
+  "order": 70,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "時間を<b>ロス</b>しちゃうことの方が痛いんだ。",
+  "word": "ロス",
+  "reading": "ロス",
+  "meaning": "loss; waste (e.g. of time)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) loss; waste (e.g. of time)",
+   "(noun) feeling of loss"
+  ]
+ },
+ {
+  "order": 71,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "キミは思う存分、ばらまきを<b>堪能</b>するといい。",
+  "word": "堪能",
+  "reading": "たんのう",
+  "meaning": "proficient; skilled; skillful; good",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(na-adjective) proficient; skilled; skillful; good",
+   "(verb) enjoying to the full; full satisfaction; being satiated (with); having one's fill (of)"
+  ]
+ },
+ {
+  "order": 72,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……わかった。それじゃお言葉に<b>甘え</b>て、",
+  "word": "甘える",
+  "reading": "あまえる",
+  "meaning": "to behave like a spoiled child; to fawn on",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to behave like a spoiled child; to fawn on",
+   "(verb) to take advantage of; to presume upon (e.g. another's benevolence); to depend on"
+  ]
+ },
+ {
+  "order": 73,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アドベンチャー中を押すと、所持金を<b>消費</b>して",
+  "word": "消費",
+  "reading": "しょうひ",
+  "meaning": "consumption; expenditure; spending",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "お金をばらまく",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) consumption; expenditure; spending"
+  ]
+ },
+ {
+  "order": 74,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "試しに、<b>後方</b>の女性たちを",
+  "word": "後方",
+  "reading": "こうほう",
+  "meaning": "rear; back; behind",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "お金をばらまく",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) rear; back; behind"
+  ]
+ },
+ {
+  "order": 75,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "チンピラたちの注意を<b>逸らす</b>ことができます。",
+  "word": "逸らす",
+  "reading": "そらす",
+  "meaning": "to turn away (one's eyes, face, etc.); to avert; to divert (e.g. one's attention); to evade (e.g. a question)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "お金をばらまく",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to turn away (one's eyes, face, etc.); to avert; to divert (e.g. one's attention); to evade (e.g. a question)",
+   "(verb) to displease; to annoy; to offend; to upset",
+   "(verb) to miss (the target, ball, etc.)"
+  ]
+ },
+ {
+  "order": 76,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "チンピラたちがお金に<b>夢中</b>になっている隙に",
+  "word": "夢中",
+  "reading": "むちゅう",
+  "meaning": "absorbed in; immersed in; crazy about; obsessed with",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "お金をばらまく",
+  "uid": "01331504",
+  "candidates": [
+   "(na-adjective) absorbed in; immersed in; crazy about; obsessed with",
+   "(na-adjective) forgetting oneself; daze; trance; ecstasy",
+   "(noun) within a dream; while dreaming"
+  ]
+ },
+ {
+  "order": 77,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アナタ、なかなか<b>ナイス</b>パンチを打つが……",
+  "word": "ナイス",
+  "reading": "ナイス",
+  "meaning": "nice; good; well-executed",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(na-adjective) nice; good; well-executed"
+  ]
+ },
+ {
+  "order": 78,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "「<b>ジャパニーズ</b>マフィア」ネ？",
+  "word": "ジャパニーズ",
+  "reading": "ジャパニーズ",
+  "meaning": "Japanese (people, language, style)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(noun) Japanese (people, language, style)"
+  ]
+ },
+ {
+  "order": 79,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワタシから見たら<b>生まれたて</b>と変わらないヨ。",
+  "word": "生まれ立て",
+  "reading": "うまれたて",
+  "meaning": "newborn; newly born",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(noun) newborn; newly born"
+  ]
+ },
+ {
+  "order": 80,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "（面倒な酔っ払いだな……　<b>放っ</b>ておくか）",
+  "word": "放つ",
+  "reading": "はなつ",
+  "meaning": "to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "0133151c",
+  "candidates": [
+   "(verb) to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind",
+   "(verb) to set free; to release; to let loose",
+   "(verb) to emit (e.g. light); to give off (e.g. a scent)",
+   "(verb) to send out (a person to carry out a duty)",
+   "(verb) to set fire to"
+  ]
+ },
+ {
+  "order": 81,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オゥ！　これからダチと一緒に<b>夜遊び</b>ですか。",
+  "word": "夜遊び",
+  "reading": "よあそび",
+  "meaning": "nightlife; night amusements",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(verb) nightlife; night amusements"
+  ]
+ },
+ {
+  "order": 82,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "自分自身に<b>投資</b>……　どういうことだ？",
+  "word": "投資",
+  "reading": "とうし",
+  "meaning": "investment",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "0133151c",
+  "candidates": [
+   "(verb) investment"
+  ]
+ },
+ {
+  "order": 83,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "呑み<b>直し</b>に行ってくるヨ！　グッナイ、ボーイ！",
+  "word": "直し",
+  "reading": "なおし",
+  "meaning": "correction; rectification",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(noun) correction; rectification",
+   "(noun) mending; repair"
+  ]
+ },
+ {
+  "order": 84,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お主にひとつ、<b>頼み</b>がある。",
+  "word": "頼み",
+  "reading": "たのみ",
+  "meaning": "request; favor; favour",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) request; favor; favour",
+   "(noun) reliance; dependence; trust; hope"
+  ]
+ },
+ {
+  "order": 85,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "はぁ？　あの<b>夫婦</b>になんか問題でもあるんかいな？",
+  "word": "夫婦",
+  "reading": "ふうふ",
+  "meaning": "married couple; husband and wife; man and wife",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) married couple; husband and wife; man and wife"
+  ]
+ },
+ {
+  "order": 86,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あの店はそのうち、<b>とんでも</b>ない相手を",
+  "word": "とんでも",
+  "reading": "トンデモ",
+  "meaning": "unthinkable; unexpected; outrageous; offensive",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) unthinkable; unexpected; outrageous; offensive"
+  ]
+ },
+ {
+  "order": 87,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お主もせいぜい<b>精進</b>せえよ？",
+  "word": "精進",
+  "reading": "しょうじん",
+  "meaning": "concentration; diligence; devotion",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) concentration; diligence; devotion",
+   "(verb) asceticism; zeal in one's quest for enlightenment",
+   "(verb) adherence to a vegetarian diet"
+  ]
+ },
+ {
+  "order": 88,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>カチコミ</b>で使ってたのを思い出しただけや。",
+  "word": "かち込み",
+  "reading": "カチこみ",
+  "meaning": "raid",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) raid"
+  ]
+ },
+ {
+  "order": 89,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "昔より良く<b>振れ</b>とったと思うけどな。",
+  "word": "振れる",
+  "reading": "ふれる",
+  "meaning": "to swing; to shake; to wave",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to swing; to shake; to wave",
+   "(verb) to veer; to deflect; to lean towards"
+  ]
+ },
+ {
+  "order": 90,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "さすがのお主でもフェイフウ相手に付け<b>焼刃</b>では",
+  "word": "焼き刃",
+  "reading": "やきば",
+  "meaning": "tempered blade",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) tempered blade"
+  ]
+ },
+ {
+  "order": 91,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "辛いかと思ったが……　<b>杞憂</b>じゃったか。",
+  "word": "杞憂",
+  "reading": "きゆう",
+  "meaning": "needless fear; groundless apprehension; unfounded worry",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) needless fear; groundless apprehension; unfounded worry"
+  ]
+ },
+ {
+  "order": 92,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "俺のバット<b>さばき</b>はどないやったんや？",
+  "word": "捌き",
+  "reading": "さばき",
+  "meaning": "handling (e.g. knife, reins); control; use; -work (e.g. footwork)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) handling (e.g. knife, reins); control; use; -work (e.g. footwork)",
+   "(noun) dealing with (e.g. customers); management; disposal (esp. sale of goods)",
+   "(noun) sabaki; properly treating one's weak stones under attack"
+  ]
+ },
+ {
+  "order": 93,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もちろん<b>合格</b>です。あなたのような人にこそ、",
+  "word": "合格",
+  "reading": "ごうかく",
+  "meaning": "passing (an exam); pass; success; passing grade",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) passing (an exam); pass; success; passing grade",
+   "(verb) meeting (specifications, standards, etc.); passing (inspection); qualification; being found eligible"
+  ]
+ },
+ {
+  "order": 94,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "フフッ、むしろ好都合です。私はただ武器を<b>横流し</b>",
+  "word": "横流し",
+  "reading": "よこながし",
+  "meaning": "diversion into illegal channels; putting on the black market; selling through illegal channels",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) diversion into illegal channels; putting on the black market; selling through illegal channels"
+  ]
+ },
+ {
+  "order": 95,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "しているだけの<b>売人</b>ではないのですから。",
+  "word": "売人",
+  "reading": "ばいにん",
+  "meaning": "trader; smuggler; pusher; drug dealer",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) trader; smuggler; pusher; drug dealer"
+  ]
+ },
+ {
+  "order": 96,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "これはまた面白い<b>対決</b>になりそうじゃ。",
+  "word": "対決",
+  "reading": "たいけつ",
+  "meaning": "confrontation; showdown",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) confrontation; showdown"
+  ]
+ },
+ {
+  "order": 97,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まともな<b>武術</b>とちゃうのに、相手の刀の動きを",
+  "word": "武術",
+  "reading": "ぶじゅつ",
+  "meaning": "martial arts; military arts",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) martial arts; military arts",
+   "(noun) wushu (Chinese martial art)"
+  ]
+ },
+ {
+  "order": 98,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "完全に<b>封じ</b>とったで……！",
+  "word": "封ずる",
+  "reading": "ふうずる",
+  "meaning": "to seal (letter)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to seal (letter)",
+   "(verb) to prevent; to forbid; to block"
+  ]
+ },
+ {
+  "order": 99,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "これはどこにでもあるただの<b>棍</b>だ。",
+  "word": "棍",
+  "reading": "こん",
+  "meaning": "stick; club",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "目つきの鋭い男",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) stick; club"
+  ]
+ },
+ {
+  "order": 100,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "むしろその刀の方こそ、私が特別に<b>拵え</b>た",
+  "word": "拵える",
+  "reading": "こしらえる",
+  "meaning": "to make; to manufacture; to fabricate",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "目つきの鋭い男",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to make; to manufacture; to fabricate",
+   "(verb) to build; to construct",
+   "(verb) to prepare; to get ready; to make (in advance)",
+   "(verb) to dress (oneself in); to dress up (in); to put on (one's makeup, a dress, etc.); to adorn (oneself in)",
+   "(verb) to raise money (for); to gather (a sum); to save up; to incur (a debt)",
+   "(verb) to have (a child, partner, lover, etc.); to make (a friend); to start (an affair)"
+  ]
+ },
+ {
+  "order": 101,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>業物</b>だったのだが……",
+  "word": "業物",
+  "reading": "わざもの",
+  "meaning": "sharp sword",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "目つきの鋭い男",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) sharp sword"
+  ]
+ },
+ {
+  "order": 102,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まったく、<b>腕利き</b>の武具屋がおるっちゅう噂聞いて",
+  "word": "腕利き",
+  "reading": "うできき",
+  "meaning": "highly skilled; skillful; very capable; competent",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331531",
+  "candidates": [
+   "(na-adjective) highly skilled; skillful; very capable; competent",
+   "(noun) particularly able person; master-hand; person of ability"
+  ]
+ },
+ {
+  "order": 103,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "わざわざ来たのに、<b>詐欺</b>もええとこやったわ！",
+  "word": "詐欺",
+  "reading": "さぎ",
+  "meaning": "fraud; swindle; graft; cheating",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) fraud; swindle; graft; cheating",
+   "(noun) saying you're going to do something but in the end not doing it; making promises without keeping them; flaking out"
+  ]
+ },
+ {
+  "order": 104,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ゴメンや。見つからんうちに早いとこ<b>立ち去ら</b>な",
+  "word": "立ち去る",
+  "reading": "たちさる",
+  "meaning": "to leave; to depart; to take one's leave",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to leave; to depart; to take one's leave"
+  ]
+ },
+ {
+  "order": 105,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ちょうど今、お主と存分に<b>手合せ</b>できる場所を",
+  "word": "手合わせ",
+  "reading": "てあわせ",
+  "meaning": "game; contest; bout",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) game; contest; bout"
+  ]
+ },
+ {
+  "order": 106,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あっちには<b>先客</b>がおるで。",
+  "word": "先客",
+  "reading": "せんきゃく",
+  "meaning": "the preceding visitor",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) the preceding visitor"
+  ]
+ },
+ {
+  "order": 107,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……あの男は飛虎（フェイ<b>フウ</b>）という者じゃ。",
+  "word": "楓",
+  "reading": "かえで",
+  "meaning": "maple (Acer spp.); maple tree",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) maple (Acer spp.); maple tree"
+  ]
+ },
+ {
+  "order": 108,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……ほれ、さっさとこの男にも<b>試験</b>とやらをせんか！",
+  "word": "試験",
+  "reading": "しけん",
+  "meaning": "examination; exam; test",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) examination; exam; test",
+   "(verb) trial; experiment; test"
+  ]
+ },
+ {
+  "order": 109,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>図星</b>か……",
+  "word": "図星",
+  "reading": "ずぼし",
+  "meaning": "bull's-eye; the mark",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) bull's-eye; the mark"
+  ]
+ },
+ {
+  "order": 110,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "だがもし、そのしょうもない<b>思いつき</b>が、",
+  "word": "思い付き",
+  "reading": "おもいつき",
+  "meaning": "idea; plan; fancy; impulse",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) idea; plan; fancy; impulse"
+  ]
+ },
+ {
+  "order": 111,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>閃き</b>を生かすも殺すもお主次第。",
+  "word": "閃き",
+  "reading": "ひらめき",
+  "meaning": "flair; flash",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) flair; flash",
+   "(noun) insight; flash (of inspiration, wit, etc.)",
+   "(noun) waving (e.g. of a flag in the wind)"
+  ]
+ },
+ {
+  "order": 112,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "フン……　今日は色々あって<b>クタクタ</b>なんや。",
+  "word": "くたくた",
+  "reading": "くたくた",
+  "meaning": "exhausted; worn out; dead tired",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(na-adjective) exhausted; worn out; dead tired",
+   "(na-adjective) battered (esp. of clothing); worn out; ragged; tattered",
+   "(na-adjective) (boiling) to a pulp; to a mash; to a mush"
+  ]
+ },
+ {
+  "order": 113,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>決まり</b>じゃ！　さぁ、お主は何を使う？",
+  "word": "決まり",
+  "reading": "きまり",
+  "meaning": "rule; regulation",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) rule; regulation",
+   "(noun) settlement; conclusion; end; agreement",
+   "(noun) habit; custom; habitual way",
+   "(noun) countenance in front of another person; face",
+   "(noun) love relationship between a customer and a prostitute"
+  ]
+ },
+ {
+  "order": 114,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "その<b>青龍</b>刀の良さが分からないのか？",
+  "word": "青竜",
+  "reading": "せいりょう",
+  "meaning": "blue dragon (an auspicious creature in Chinese mythology)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "目つきの鋭い男",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) blue dragon (an auspicious creature in Chinese mythology)",
+   "(noun) Azure Dragon (god said to rule over the eastern heavens)"
+  ]
+ },
+ {
+  "order": 115,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なんやとぉ!?　<b>密売</b>人風情がナメやがって……",
+  "word": "密売",
+  "reading": "みつばい",
+  "meaning": "illicit sale; smuggling; bootlegging; trafficking",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) illicit sale; smuggling; bootlegging; trafficking"
+  ]
+ },
+ {
+  "order": 116,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "私を<b>唸ら</b>せることができれば合格だ。",
+  "word": "唸る",
+  "reading": "うなる",
+  "meaning": "to groan; to moan",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "目つきの鋭い男",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to groan; to moan",
+   "(verb) to roar; to howl; to growl",
+   "(verb) to hum (engine, wind, etc.); to buzz; to whiz; to sough",
+   "(verb) to ooh and aah (in admiration)",
+   "(verb) to sing in a strong, low voice (esp. traditional chant or recitation)",
+   "(verb) to be about to burst; to overflow"
+  ]
+ },
+ {
+  "order": 117,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "武器の<b>扱い</b>を見るための試験だからな。",
+  "word": "扱い",
+  "reading": "あつかい",
+  "meaning": "treatment; service; dealing (with); handling",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "目つきの鋭い男",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) treatment; service; dealing (with); handling",
+   "(noun) handling (of a machine, tool, etc.); operation; use",
+   "(noun) treating as; treating like"
+  ]
+ },
+ {
+  "order": 118,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ふむ……　ワシの眼に<b>狂い</b>は無かったようじゃ。",
+  "word": "狂い",
+  "reading": "くるい",
+  "meaning": "madness; insanity",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) madness; insanity",
+   "(noun) irregularity; deviation; being out of order",
+   "(noun) fanaticism; fanatic; enthusiast; nut"
+  ]
+ },
+ {
+  "order": 119,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>かれこれ</b>数十年、素手でのみの闘いで",
+  "word": "彼此",
+  "reading": "あれこれ",
+  "meaning": "this and that; this or that; one thing or another; this way and that",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(adverb) this and that; this or that; one thing or another; this way and that",
+   "(adverb) around; about; round about; roughly"
+  ]
+ },
+ {
+  "order": 120,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "命の<b>やりとり</b>を繰り返してきたんじゃ。",
+  "word": "遣り取り",
+  "reading": "やりとり",
+  "meaning": "giving and taking; exchange (of letters); arguing back and forth; (conversational) exchange",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) giving and taking; exchange (of letters); arguing back and forth; (conversational) exchange"
+  ]
+ },
+ {
+  "order": 121,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "現に、お主の内にも<b>変化</b>があったじゃろ？",
+  "word": "変化",
+  "reading": "へんか",
+  "meaning": "change; variation; alteration; mutation",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) change; variation; alteration; mutation",
+   "(noun) variety; diversity",
+   "(verb) inflection; declension; conjugation",
+   "(verb) henka; evasive sidestep at the beginning of a bout"
+  ]
+ },
+ {
+  "order": 122,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワシはお主と手合せし、<b>全盛</b>期を取り戻す。",
+  "word": "全盛",
+  "reading": "ぜんせい",
+  "meaning": "height of prosperity",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) height of prosperity"
+  ]
+ },
+ {
+  "order": 123,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "相手が<b>しわがれ</b>たオッサンっちゅうのが",
+  "word": "嗄れる",
+  "reading": "しゃがれる",
+  "meaning": "to become hoarse; to become husky",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to become hoarse; to become husky"
+  ]
+ },
+ {
+  "order": 124,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>衰え</b>たとはいえ、まだまだ若い者には負けぬ。",
+  "word": "衰える",
+  "reading": "おとろえる",
+  "meaning": "to become weak; to decline; to wear; to abate",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to become weak; to decline; to wear; to abate"
+  ]
+ },
+ {
+  "order": 125,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワシは最近、闘いぶりに<b>衰え</b>を感じておってな。",
+  "word": "衰え",
+  "reading": "おとろえ",
+  "meaning": "weakening; emaciation; decline",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) weakening; emaciation; decline"
+  ]
+ },
+ {
+  "order": 126,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "で？　その<b>武者</b>修行しとるオッサンが",
+  "word": "武者",
+  "reading": "むしゃ",
+  "meaning": "warrior",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) warrior"
+  ]
+ },
+ {
+  "order": 127,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "その<b>才覚</b>、眠らせたままにしておくのは惜しい！",
+  "word": "才覚",
+  "reading": "さいかく",
+  "meaning": "ready wit; quick wits; resourcefulness; talent",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) ready wit; quick wits; resourcefulness; talent",
+   "(verb) raising (money)"
+  ]
+ },
+ {
+  "order": 128,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワシにはわかる。そんな真っ当な<b>生業</b>をしていても、",
+  "word": "生業",
+  "reading": "なりわい",
+  "meaning": "occupation; calling",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) occupation; calling",
+   "(noun) livelihood"
+  ]
+ },
+ {
+  "order": 129,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お主の中におる“<b>鬼</b>”は全く満足しておるまい。",
+  "word": "鬼",
+  "reading": "おに",
+  "meaning": "ogre; demon; oni",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) ogre; demon; oni",
+   "(noun) spirit of a deceased person",
+   "(noun) ogre-like person (i.e. fierce, relentless, merciless, etc.)",
+   "(noun) it (in a game of tag, hide-and-seek, etc.); seeker; chaser; tagger",
+   "(noun) Chinese \"ghost\" constellation (one of the 28 mansions)",
+   "(pref) very; extremely; super-"
+  ]
+ },
+ {
+  "order": 130,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>解き放た</b>せることじゃ。",
+  "word": "解き放つ",
+  "reading": "ときはなつ",
+  "meaning": "to release",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to release"
+  ]
+ },
+ {
+  "order": 131,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタがその<b>強者</b>って言いたいんか？",
+  "word": "強者",
+  "reading": "きょうしゃ",
+  "meaning": "strong person; the strong; the powerful",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) strong person; the strong; the powerful"
+  ]
+ },
+ {
+  "order": 132,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それでは喧嘩を<b>押し売り</b>させてもらうぞ！",
+  "word": "押し売り",
+  "reading": "おしうり",
+  "meaning": "high-pressure selling; aggressive peddling; the hard sell; high-pressure salesman",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) high-pressure selling; aggressive peddling; the hard sell; high-pressure salesman",
+   "(verb) forcing on someone (e.g. kindness)"
+  ]
+ },
+ {
+  "order": 133,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "話の<b>通じ</b>んオッサンやな……",
+  "word": "通ずる",
+  "reading": "つうずる",
+  "meaning": "to be open (to traffic); to lead (to); to connect (to); to run (from, between; e.g. bus service)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to be open (to traffic); to lead (to); to connect (to); to run (from, between; e.g. bus service)",
+   "(verb) to flow (of a liquid, current, etc.); to pass (through); to get through (e.g. of a signal); to connect (e.g. of a call)",
+   "(verb) to be conveyed (of an intention, meaning, etc.); to be understood (by); to be comprehended; to get across (e.g. of an idea)",
+   "(verb) to be well versed (in); to be proficient (in); to know a lot (about); to be familiar (with)",
+   "(verb) to be widespread; to be commonly known; to be prevalent",
+   "(verb) to have an effect; to work; to be on par (with)"
+  ]
+ },
+ {
+  "order": 134,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "目つきの<b>鋭い</b>男",
+  "word": "鋭い",
+  "reading": "するどい",
+  "meaning": "sharp (knife, claws, etc.); pointed",
+  "pos": "i-adjective",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "01331531",
+  "candidates": [
+   "(i-adjective) sharp (knife, claws, etc.); pointed",
+   "(i-adjective) sharp (pain, tone, etc.); acute; stabbing; cutting (remark, criticism, etc.)",
+   "(i-adjective) keen (intuition, sense of smell, etc.); acute; sharp (eye, mind, etc.); astute"
+  ]
+ },
+ {
+  "order": 135,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "いわば、オーダー<b>メイド</b>の武器なのです。",
+  "word": "メード",
+  "reading": "メイド",
+  "meaning": "maid",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) maid"
+  ]
+ },
+ {
+  "order": 136,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なるほど……　アンタは武器<b>商人</b>やのうて、",
+  "word": "商人",
+  "reading": "しょうにん",
+  "meaning": "merchant; trader; tradesman; dealer",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) merchant; trader; tradesman; dealer"
+  ]
+ },
+ {
+  "order": 137,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "武具<b>探索</b>のプロに様々な仕事を依頼することができます。",
+  "word": "探索",
+  "reading": "たんさく",
+  "meaning": "search; lookup; hunt; (item of) research",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(verb) search; lookup; hunt; (item of) research"
+  ]
+ },
+ {
+  "order": 138,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "・「武具」作成方法（<b>レシピ</b>）の入手",
+  "word": "レシピ",
+  "reading": "レシピ",
+  "meaning": "recipe",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) recipe",
+   "(noun) (medical) prescription",
+   "(noun) how-to guide (e.g. for crafts)"
+  ]
+ },
+ {
+  "order": 139,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>エージェント</b>の力を駆使して",
+  "word": "エージェント",
+  "reading": "エージェント",
+  "meaning": "agent",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) agent",
+   "(noun) agent"
+  ]
+ },
+ {
+  "order": 140,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なかなか変わった<b>趣向</b>の店やな。",
+  "word": "趣向",
+  "reading": "しゅこう",
+  "meaning": "plan; idea; design; plot",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) plan; idea; design; plot",
+   "(noun) taste; liking; preference"
+  ]
+ },
+ {
+  "order": 141,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "エージェントによっては<b>ジャングル</b>にも行きます。",
+  "word": "ジャングル",
+  "reading": "ジャングル",
+  "meaning": "jungle",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) jungle",
+   "(noun) jungle; jungle music"
+  ]
+ },
+ {
+  "order": 142,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ジャングルにお<b>宝探し</b>かいな。",
+  "word": "宝探し",
+  "reading": "たからさがし",
+  "meaning": "treasure hunting; treasure hunt",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) treasure hunting; treasure hunt",
+   "(noun) lucky dip; game involving finding hidden prizes from a sand box, barrel of leaves, etc."
+  ]
+ },
+ {
+  "order": 143,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "美しさを<b>追求</b>した武具が出てくる事もあります。",
+  "word": "追求",
+  "reading": "ついきゅう",
+  "meaning": "pursuit (of a goal, ideal, etc.); search; chase; seeking after",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(verb) pursuit (of a goal, ideal, etc.); search; chase; seeking after"
+  ]
+ },
+ {
+  "order": 144,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "私はそういう武具も<b>取扱い</b>たいと考えています。",
+  "word": "取り扱う",
+  "reading": "とりあつかう",
+  "meaning": "to handle; to operate (a machine, etc.); to use",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(verb) to handle; to operate (a machine, etc.); to use",
+   "(verb) to deal with (an issue); to manage",
+   "(verb) to treat (someone); to deal with (someone)",
+   "(verb) to deal in; to carry; to sell"
+  ]
+ },
+ {
+  "order": 145,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それじゃ<b>とびっきり</b>のご馳走、用意するネ！",
+  "word": "飛び切り",
+  "reading": "とびきり",
+  "meaning": "best; extra-fine; superfine; unequalled",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "ロンファ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) best; extra-fine; superfine; unequalled",
+   "(adverb) exceptionally; extraordinarily; by far",
+   "(noun) jumping and slashing (e.g. at an enemy)"
+  ]
+ },
+ {
+  "order": 146,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "堂島組の手が及ばない<b>区画</b>、亜細亜街か……",
+  "word": "区画",
+  "reading": "くかく",
+  "meaning": "division; section; compartment; block",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "0133154b",
+  "candidates": [
+   "(verb) division; section; compartment; block"
+  ]
+ },
+ {
+  "order": 147,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "隠れ家としては<b>絶好</b>の場所だったが、",
+  "word": "絶好",
+  "reading": "ぜっこう",
+  "meaning": "best; ideal; perfect",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "0133154b",
+  "candidates": [
+   "(na-adjective) best; ideal; perfect"
+  ]
+ },
+ {
+  "order": 148,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "連中が元堂島組の俺を<b>拒絶</b>するのも無理は無い",
+  "word": "拒絶",
+  "reading": "きょぜつ",
+  "meaning": "refusal; rejection",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "0133154b",
+  "candidates": [
+   "(verb) refusal; rejection"
+  ]
+ },
+ {
+  "order": 149,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "１発ぶん殴ってやらねぇと、気が<b>収まら</b>ねぇ……！",
+  "word": "収まる",
+  "reading": "おさまる",
+  "meaning": "to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "ガラの悪そうな男",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget)",
+   "(verb) to settle down (into); to be installed (in one's rightful place); to be returned (to one's original position)",
+   "(verb) to settle into (one's position); to take up (a post); to occupy (a role)",
+   "(verb) to be delivered; to be paid (e.g. taxes)",
+   "(verb) to be settled (dispute, conflict, etc.); to be sorted; to subside (e.g. wind); to calm down",
+   "(verb) to be satisfied (e.g. with an answer); to consent; to agree"
+  ]
+ },
+ {
+  "order": 150,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "お<b>やおや</b>……　お前ら、あの男の仲間だね？",
+  "word": "八百屋",
+  "reading": "やおや",
+  "meaning": "greengrocer; fruit and vegetable shop",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) greengrocer; fruit and vegetable shop",
+   "(noun) jack of all trades"
+  ]
+ },
+ {
+  "order": 151,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アタシの<b>聞き違い</b>かねぇ……",
+  "word": "聞き違い",
+  "reading": "ききちがい",
+  "meaning": "mishearing",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) mishearing"
+  ]
+ },
+ {
+  "order": 152,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "女を殴るだなんて、そんな<b>ダセェ</b>ことするヤツ、",
+  "word": "ダセェ",
+  "reading": "だせー",
+  "meaning": "uncool; tacky; lame; corny",
+  "pos": "exp",
+  "chapter": 17,
+  "speaker": "ガラの悪そうな男",
+  "uid": "01331576",
+  "candidates": [
+   "(exp) uncool; tacky; lame; corny"
+  ]
+ },
+ {
+  "order": 153,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "男の<b>風上</b>にも置けませんよねぇ！",
+  "word": "風上",
+  "reading": "かざかみ",
+  "meaning": "windward; upwind",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "ガラの悪そうな男",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) windward; upwind"
+  ]
+ },
+ {
+  "order": 154,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここから<b>消え失せ</b>な！",
+  "word": "消え失せる",
+  "reading": "きえうせる",
+  "meaning": "to disappear; to vanish",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to disappear; to vanish",
+   "(verb) to die"
+  ]
+ },
+ {
+  "order": 155,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワタシが見つけたダイヤモンドの<b>原石</b>ヨ！",
+  "word": "原石",
+  "reading": "げんせき",
+  "meaning": "(raw) ore",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) (raw) ore",
+   "(noun) unpolished gemstone"
+  ]
+ },
+ {
+  "order": 156,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタ、この桐生に稼いでもらう<b>魂胆</b>だね？",
+  "word": "魂胆",
+  "reading": "こんたん",
+  "meaning": "ulterior motive; plot; scheme",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) ulterior motive; plot; scheme",
+   "(noun) complicated circumstances; intricacies"
+  ]
+ },
+ {
+  "order": 157,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……何を<b>やぶ</b>から棒に!?",
+  "word": "藪",
+  "reading": "やぶ",
+  "meaning": "thicket; bush; grove; scrub",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) thicket; bush; grove; scrub",
+   "(noun) (medical) quack"
+  ]
+ },
+ {
+  "order": 158,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それでチャンピオンになって、<b>ウハウハ</b>ネ！",
+  "word": "うはうは",
+  "reading": "ウハウハ",
+  "meaning": "exhilarated; all smiles; tickled pink; pleased as punch",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) exhilarated; all smiles; tickled pink; pleased as punch"
+  ]
+ },
+ {
+  "order": 159,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それに姐さん、本当は世話焼き<b>ニョーボ</b>タイプネ！",
+  "word": "女房",
+  "reading": "にょうぼう",
+  "meaning": "wife (esp. one's own wife)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) wife (esp. one's own wife)",
+   "(noun) court lady; female court attache; woman who served at the imperial palace",
+   "(noun) woman (esp. as a love interest)"
+  ]
+ },
+ {
+  "order": 160,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "姐さんに<b>鍛え</b>てもらえば、",
+  "word": "鍛える",
+  "reading": "きたえる",
+  "meaning": "to forge; to temper",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to forge; to temper",
+   "(verb) to drill; to train; to discipline"
+  ]
+ },
+ {
+  "order": 161,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "チャンピオンへの<b>近道</b>になるヨ！",
+  "word": "近道",
+  "reading": "ちかみち",
+  "meaning": "shorter way; shortcut",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) shorter way; shortcut"
+  ]
+ },
+ {
+  "order": 162,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "チャンピオンの話は<b>さておき</b>、",
+  "word": "扠置く",
+  "reading": "さておく",
+  "meaning": "to set aside",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to set aside"
+  ]
+ },
+ {
+  "order": 163,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そこにアタシの<b>特訓</b>所があるからさ。",
+  "word": "特訓",
+  "reading": "とっくん",
+  "meaning": "special training; intensive training; crash course",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) special training; intensive training; crash course"
+  ]
+ },
+ {
+  "order": 164,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そう、<b>埠頭</b>の特訓所。",
+  "word": "埠頭",
+  "reading": "ふとう",
+  "meaning": "pier; wharf; quay; dock",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) pier; wharf; quay; dock"
+  ]
+ },
+ {
+  "order": 165,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "さて、気を<b>取り直し</b>て立華不動産に関する情報を",
+  "word": "取り直す",
+  "reading": "とりなおす",
+  "meaning": "to re-grip; to re-wrestle",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to re-grip; to re-wrestle",
+   "(verb) to regroup (after some adverse event)"
+  ]
+ },
+ {
+  "order": 166,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あーあ、ジン君、<b>タコ</b>殴りにされてんなぁ。",
+  "word": "蛸",
+  "reading": "タコ",
+  "meaning": "octopus",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "ガラの悪そうな男",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) octopus",
+   "(noun) fool; idiot"
+  ]
+ },
+ {
+  "order": 167,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オトコの<b>生き様</b>を教えてやりなヨ！",
+  "word": "生き様",
+  "reading": "いきざま",
+  "meaning": "attitude to life; form of existence; way of life",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) attitude to life; form of existence; way of life"
+  ]
+ },
+ {
+  "order": 168,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "強いといっても、あれじゃ多勢に<b>無勢</b>だ。",
+  "word": "無勢",
+  "reading": "ぶぜい",
+  "meaning": "numerical inferiority; being outnumbered",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) numerical inferiority; being outnumbered"
+  ]
+ },
+ {
+  "order": 169,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>助太刀</b>させてもらうぜ。",
+  "word": "助太刀",
+  "reading": "すけだち",
+  "meaning": "assistance (in a fight); help; aid; backup",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) assistance (in a fight); help; aid; backup",
+   "(noun) helper; supporter"
+  ]
+ },
+ {
+  "order": 170,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "てめぇら、あの女を後ろから殴ろうって<b>算段</b>か？",
+  "word": "算段",
+  "reading": "さんだん",
+  "meaning": "trying to think of a way (to do); devising means (to do); working out (how to do)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) trying to think of a way (to do); devising means (to do); working out (how to do)",
+   "(verb) contriving (to raise money); managing"
+  ]
+ },
+ {
+  "order": 171,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "強かろうが弱かろうが女を殴るなんざ<b>論外</b>だ。",
+  "word": "論外",
+  "reading": "ろんがい",
+  "meaning": "out of the question; outrageous; impossible",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "桐生",
+  "uid": "01331576",
+  "candidates": [
+   "(na-adjective) out of the question; outrageous; impossible",
+   "(na-adjective) irrelevant; not pertinent"
+  ]
+ },
+ {
+  "order": 172,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>やかましい</b>！",
+  "word": "喧しい",
+  "reading": "やかましい",
+  "meaning": "noisy; loud; clamorous; boisterous",
+  "pos": "i-adjective",
+  "chapter": 17,
+  "speaker": "荒っぽい女",
+  "uid": "01331576",
+  "candidates": [
+   "(i-adjective) noisy; loud; clamorous; boisterous",
+   "(i-adjective) much talked of; much-discussed; vexed",
+   "(i-adjective) strict; severe; stern",
+   "(i-adjective) particular; fussy; fastidious; fault-finding"
+  ]
+ },
+ {
+  "order": 173,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アタシはね、ゆうべオマエが<b>ソープ</b>から",
+  "word": "ソープ",
+  "reading": "ソープ",
+  "meaning": "soap",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "荒っぽい女",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) soap",
+   "(noun) soapland; brothel where one can bathe with prostitutes"
+  ]
+ },
+ {
+  "order": 174,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "当たり前さ！　オマエのおかげでどれだけの<b>街金</b>が",
+  "word": "街金",
+  "reading": "まちきん",
+  "meaning": "loan shark; high-interest consumer finance firm",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "荒っぽい女",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) loan shark; high-interest consumer finance firm"
+  ]
+ },
+ {
+  "order": 175,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>泣き</b>を見ているか知ってるのかい？",
+  "word": "泣き",
+  "reading": "なき",
+  "meaning": "weeping; lamenting",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "荒っぽい女",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) weeping; lamenting"
+  ]
+ },
+ {
+  "order": 176,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日こそは<b>ギタギタ</b>にしてやるよ！",
+  "word": "ぎたぎた",
+  "reading": "ギトギト",
+  "meaning": "oily; greasy; sticky",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "荒っぽい女",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) oily; greasy; sticky"
+  ]
+ },
+ {
+  "order": 177,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "カノジョこそ、<b>ハマ</b>で伝説の借金取り、",
+  "word": "浜",
+  "reading": "はま",
+  "meaning": "beach; seashore",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) beach; seashore",
+   "(noun) captured pieces; captured stones",
+   "(noun) Yokohama",
+   "(noun) riverbank; riverside"
+  ]
+ },
+ {
+  "order": 178,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "取り立てを<b>成し遂げる</b>レディだネ。",
+  "word": "成し遂げる",
+  "reading": "なしとげる",
+  "meaning": "to accomplish; to achieve; to complete; to carry out",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to accomplish; to achieve; to complete; to carry out"
+  ]
+ },
+ {
+  "order": 179,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オー！　ボーイ！　<b>ルック</b>！",
+  "word": "ルック",
+  "reading": "ルック",
+  "meaning": "look",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) look"
+  ]
+ },
+ {
+  "order": 180,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>チャラチャラ</b>した男",
+  "word": "ちゃらちゃら",
+  "reading": "チャラチャラ",
+  "meaning": "jingle; jangle; clinking; jingling",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) jingle; jangle; clinking; jingling",
+   "(verb) chatty; nattering; chattering away; yatter",
+   "(verb) coquettish; tawdry; flirty; flashy"
+  ]
+ },
+ {
+  "order": 181,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……どエラい<b>感動</b>した！",
+  "word": "感動",
+  "reading": "かんどう",
+  "meaning": "being deeply moved emotionally; excitement; passion; inspiration",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "小柄な若者",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) being deeply moved emotionally; excitement; passion; inspiration"
+  ]
+ },
+ {
+  "order": 182,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せや、チーム「<b>Ａ</b>－ＲｅＳｉ（アレシ）」！",
+  "word": "Ａ",
+  "reading": "エー",
+  "meaning": "A; a",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "小柄な若者",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) A; a"
+  ]
+ },
+ {
+  "order": 183,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタが<b>加わっ</b>てくれれば、",
+  "word": "加わる",
+  "reading": "くわわる",
+  "meaning": "to be added to; to be appended",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "小柄な若者",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to be added to; to be appended",
+   "(verb) to join in (e.g. a group of friends); to participate",
+   "(verb) to increase (e.g. heat); to gain in (e.g. influence); to grow; to gather (speed)",
+   "(verb) to be applied (e.g. heat, pressure); to be exerted"
+  ]
+ },
+ {
+  "order": 184,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あ、<b>ちなみ</b>にアレシっちゅうのは",
+  "word": "因み",
+  "reading": "ちなみ",
+  "meaning": "association; link; connection",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "小柄な若者",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) association; link; connection",
+   "(noun) pledge (esp. for marriage); promise"
+  ]
+ },
+ {
+  "order": 185,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "アンタのバトル見て<b>閃い</b>たんや。",
+  "word": "閃く",
+  "reading": "ひらめく",
+  "meaning": "to flash (e.g. lightning); to flicker; to glitter; to sparkle",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "アレシ",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to flash (e.g. lightning); to flicker; to glitter; to sparkle",
+   "(verb) to flutter (e.g. flag); to wave; to undulate",
+   "(verb) to flash into one's mind (e.g. an idea); to come to one suddenly"
+  ]
+ },
+ {
+  "order": 186,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それをアンタが<b>マスター</b>したら、",
+  "word": "マスター",
+  "reading": "マスター",
+  "meaning": "to master (a skill)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "アレシ",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to master (a skill)",
+   "(noun) proprietor; manager; owner; barkeeper",
+   "(noun) leader; chief; head",
+   "(noun) master (of arts, science, etc.)",
+   "(noun) master (recording)",
+   "(noun) master (device)"
+  ]
+ },
+ {
+  "order": 187,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "先ほどの<b>舞踊</b>を見て何か思いついたんじゃろう？",
+  "word": "舞踊",
+  "reading": "ぶよう",
+  "meaning": "dancing; dance",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) dancing; dance"
+  ]
+ },
+ {
+  "order": 188,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "若い娘とデェトなる<b>行い</b>をすることがか？",
+  "word": "行い",
+  "reading": "おこない",
+  "meaning": "deed; act; action",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) deed; act; action",
+   "(noun) conduct; behavior; behaviour",
+   "(noun) asceticism"
+  ]
+ },
+ {
+  "order": 189,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここは前からオレらの<b>ステージ</b>って決まっとるんや。",
+  "word": "ステージ",
+  "reading": "ステージ",
+  "meaning": "stage (platform)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "小柄な若者",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) stage (platform)",
+   "(noun) performance; show",
+   "(noun) stage (phase); part",
+   "(noun) stage; level"
+  ]
+ },
+ {
+  "order": 190,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "さっさと場所空<b>けんかい</b>！",
+  "word": "狷介",
+  "reading": "けんかい",
+  "meaning": "obstinate; stubborn; headstrong; self-centred",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "小柄な若者",
+  "uid": "01331583",
+  "candidates": [
+   "(na-adjective) obstinate; stubborn; headstrong; self-centred"
+  ]
+ },
+ {
+  "order": 191,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あ奴らは舞踊で決着をつける<b>習わし</b>と聞いておる。",
+  "word": "習わし",
+  "reading": "ならわし",
+  "meaning": "custom; habit; customary practice",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) custom; habit; customary practice"
+  ]
+ },
+ {
+  "order": 192,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "どっかの<b>色気</b>づいた鳥やあるまいし、",
+  "word": "色気",
+  "reading": "いろけ",
+  "meaning": "colouring; coloring; shade of colour (color)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) colouring; coloring; shade of colour (color)",
+   "(noun) sex appeal (esp. of women); sexiness; sexual allure; seductiveness",
+   "(noun) interest in the opposite sex; sexual feelings; sexual urge",
+   "(noun) charm; elegance; romance; graciousness",
+   "(noun) feminine presence",
+   "(noun) desire; interest; ambition; inclination"
+  ]
+ },
+ {
+  "order": 193,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "気が立った<b>若者</b>",
+  "word": "若者",
+  "reading": "わかもの",
+  "meaning": "young person; youngster; young people; (the) youth",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) young person; youngster; young people; (the) youth"
+  ]
+ },
+ {
+  "order": 194,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>ダミー</b>。",
+  "word": "ダミー",
+  "reading": "ダミー",
+  "meaning": "dummy",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013315a1",
+  "candidates": [
+   "(noun) dummy"
+  ]
+ },
+ {
+  "order": 195,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>立ち上がる</b>。",
+  "word": "立ち上がる",
+  "reading": "たちあがる",
+  "meaning": "to stand up; to get up; to rise (to one's feet)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013315a1",
+  "candidates": [
+   "(verb) to stand up; to get up; to rise (to one's feet)",
+   "(verb) to recover; to regain one's energy; to rise",
+   "(verb) to (stand up and) take action; to rise up (against); to start (doing)",
+   "(verb) to rise (from a crouch) and make the initial charge",
+   "(verb) to start up; to boot up",
+   "(verb) to be established; to be set up; to be formed; to be created"
+  ]
+ },
+ {
+  "order": 196,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>文字</b>通り、自分自身に投資しなきゃダメネ。",
+  "word": "文字",
+  "reading": "もじ",
+  "meaning": "letter (of an alphabet); character",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(noun) letter (of an alphabet); character",
+   "(noun) writing"
+  ]
+ },
+ {
+  "order": 197,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "探索の<b>発注</b>をしてやってくれ。",
+  "word": "発注",
+  "reading": "はっちゅう",
+  "meaning": "ordering (materials); placing an order; order",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) ordering (materials); placing an order; order"
+  ]
+ },
+ {
+  "order": 198,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ワシはこれから<b>野</b>に出て鍛えて参る。",
+  "word": "野",
+  "reading": "の",
+  "meaning": "field; plain",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) field; plain",
+   "(noun) hidden interior part (of a structure or object)",
+   "(noun) wild (of an animal or plant)"
+  ]
+ },
+ {
+  "order": 199,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "この武器の<b>達人</b>フェイフウに通じたとしたら？",
+  "word": "達人",
+  "reading": "たつじん",
+  "meaning": "master; expert",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) master; expert"
+  ]
+ },
+ {
+  "order": 200,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>腕試し</b>に東京を離れて武者修行に出てきておる。",
+  "word": "腕試し",
+  "reading": "うでだめし",
+  "meaning": "trying one's ability",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) trying one's ability"
+  ]
+ },
+ {
+  "order": 201,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "この店で<b>主</b>に取り扱っているのは、",
+  "word": "主",
+  "reading": "おも",
+  "meaning": "chief; main; principal; important",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(na-adjective) chief; main; principal; important",
+   "(na-adjective) main secondary or supporting role (in kyogen)"
+  ]
+ },
+ {
+  "order": 202,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "埠頭（<b>ふとう</b>）までおいで。",
+  "word": "不当",
+  "reading": "ふとう",
+  "meaning": "unfair; unjust; wrongful; improper",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "タツ姐",
+  "uid": "01331576",
+  "candidates": [
+   "(na-adjective) unfair; unjust; wrongful; improper"
+  ]
+ },
+ {
+  "order": 203,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "あの<b>赤色</b>の舞踊着を着た若者が勝ったようじゃな。",
+  "word": "赤色",
+  "reading": "あかいろ",
+  "meaning": "red; red color",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) red; red color",
+   "(adj-f) communist; socialist; left-wing"
+  ]
+ },
+ {
+  "order": 204,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "F#<b>小柄</b>な若者",
+  "word": "小柄",
+  "reading": "こがら",
+  "meaning": "small build; small stature; petite",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "01331583",
+  "candidates": [
+   "(na-adjective) small build; small stature; petite",
+   "(na-adjective) small pattern"
+  ]
+ },
+ {
+  "order": 205,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "これが<b>最終</b>決戦に向かう前の、",
+  "word": "最終",
+  "reading": "さいしゅう",
+  "meaning": "last; final; closing",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "003314d0",
+  "candidates": [
+   "(noun) last; final; closing",
+   "(noun) last train (bus, flight, etc.; of the day)"
+  ]
+ },
+ {
+  "order": 206,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "これが最終<b>決戦</b>に向かう前の、",
+  "word": "決戦",
+  "reading": "けっせん",
+  "meaning": "decisive battle; deciding match; play-off",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "003314d0",
+  "candidates": [
+   "(verb) decisive battle; deciding match; play-off"
+  ]
+ },
+ {
+  "order": 207,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "その<b>封印</b>を、解いちまったんだよ。堂島組は……",
+  "word": "封印",
+  "reading": "ふういん",
+  "meaning": "seal",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(noun) seal",
+   "(verb) to seal (e.g. a letter); to affix a seal; to seal up"
+  ]
+ },
+ {
+  "order": 208,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "その封印を、<b>解い</b>ちまったんだよ。堂島組は……",
+  "word": "解く",
+  "reading": "とく",
+  "meaning": "to untie; to unfasten; to unwrap; to undo",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "久瀬",
+  "uid": "013314b4",
+  "candidates": [
+   "(verb) to untie; to unfasten; to unwrap; to undo",
+   "(verb) to unsew; to unstitch",
+   "(verb) to solve; to work out; to answer",
+   "(verb) to dispel (misunderstanding, etc.); to clear up; to remove (suspicion); to appease",
+   "(verb) to dissolve (a contract); to cancel; to remove (a prohibition); to lift (a ban)",
+   "(verb) to release (from duty); to relieve; to dismiss"
+  ]
+ },
+ {
+  "order": 209,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "少し<b>光</b>を感じる程度だがな……　それより幸い、",
+  "word": "光",
+  "reading": "ひかり",
+  "meaning": "light",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) light",
+   "(noun) illumination; ray; beam; gleam",
+   "(noun) happiness; hope",
+   "(noun) influence; power",
+   "(noun) vision; eyesight",
+   "(noun) optical fiber; optical fibre"
+  ]
+ },
+ {
+  "order": 210,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "少し光を<b>感じる</b>程度だがな……　それより幸い、",
+  "word": "感ずる",
+  "reading": "かんずる",
+  "meaning": "to feel; to sense; to experience",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(verb) to feel; to sense; to experience",
+   "(verb) to be moved (by); to be touched (by); to be impressed (by); to respond (to)",
+   "(verb) to become infected with (an illness); to catch"
+  ]
+ },
+ {
+  "order": 211,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "俺の日侠連に<b>白羽</b>の矢を立てた。",
+  "word": "白羽",
+  "reading": "しらは",
+  "meaning": "white feather",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) white feather"
+  ]
+ },
+ {
+  "order": 212,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "俺の日侠連に白羽の<b>矢</b>を立てた。",
+  "word": "矢",
+  "reading": "や",
+  "meaning": "arrow",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) arrow",
+   "(noun) wedge; chock"
+  ]
+ },
+ {
+  "order": 213,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>にやけ</b>ヅラでごまかさんで済むで。",
+  "word": "にやける",
+  "reading": "にやける",
+  "meaning": "to be effeminate; to be a fop",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to be effeminate; to be a fop",
+   "(verb) to break into a smile; to grin"
+  ]
+ },
+ {
+  "order": 214,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "にやけ<b>ヅラ</b>でごまかさんで済むで。",
+  "word": "づら",
+  "reading": "ヅラ",
+  "meaning": "wig; hairpiece (esp. to cover hair loss); toupee",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "013314db",
+  "candidates": [
+   "(noun) wig; hairpiece (esp. to cover hair loss); toupee"
+  ]
+ },
+ {
+  "order": 215,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そいつを<b>漁っ</b>てるうちに俺の背中に背負った墨も",
+  "word": "漁る",
+  "reading": "あさる",
+  "meaning": "to fish",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to fish",
+   "(verb) to look for; to search for; to hunt for; to scavenge",
+   "(verb) to go on a spree (spending, reading, etc.); to binge"
+  ]
+ },
+ {
+  "order": 216,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そいつを漁ってるうちに俺の背中に<b>背負っ</b>た墨も",
+  "word": "背負う",
+  "reading": "せおう",
+  "meaning": "to carry on one's back",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "阿波野",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to carry on one's back",
+   "(verb) to be burdened with; to take responsibility for",
+   "(verb) to have (something) in the background; to be in front (of something)",
+   "(verb) to be conceited; to think highly of oneself"
+  ]
+ },
+ {
+  "order": 217,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>群れ</b>んなってマコトを引き裂いた……",
+  "word": "群れる",
+  "reading": "むれる",
+  "meaning": "to crowd; to flock; to swarm",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to crowd; to flock; to swarm"
+  ]
+ },
+ {
+  "order": 218,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "群れんなってマコトを<b>引き裂い</b>た……",
+  "word": "引き裂く",
+  "reading": "ひきさく",
+  "meaning": "to tear up; to tear off; to rip up; to tear to pieces",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "",
+  "uid": "013314db",
+  "candidates": [
+   "(verb) to tear up; to tear off; to rip up; to tear to pieces",
+   "(verb) to (forcibly) separate (a couple, family, etc.); to force apart; to tear apart"
+  ]
+ },
+ {
+  "order": 219,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "俺、こんな<b>大量</b>のお札、見たの初めてだ！",
+  "word": "大量",
+  "reading": "たいりょう",
+  "meaning": "large quantity; massive (quantity); mass (e.g. mass production, mass transit, mass destruction)",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331504",
+  "candidates": [
+   "(na-adjective) large quantity; massive (quantity); mass (e.g. mass production, mass transit, mass destruction)"
+  ]
+ },
+ {
+  "order": 220,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "俺、こんな大量のお<b>札</b>、見たの初めてだ！",
+  "word": "札",
+  "reading": "さつ",
+  "meaning": "banknote; bill; note; paper money",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "ガラの悪い男",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) banknote; bill; note; paper money"
+  ]
+ },
+ {
+  "order": 221,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "あんな<b>はした金</b>、いくら払っても痛くも痒くもない。",
+  "word": "端金",
+  "reading": "はしたがね",
+  "meaning": "paltry sum of money; small change; odd money; pittance",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) paltry sum of money; small change; odd money; pittance"
+  ]
+ },
+ {
+  "order": 222,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "あんなはした金、いくら払っても痛くも<b>痒く</b>もない。",
+  "word": "痒い",
+  "reading": "かゆい",
+  "meaning": "itchy",
+  "pos": "i-adjective",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(i-adjective) itchy"
+  ]
+ },
+ {
+  "order": 223,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "きっと、邪魔な通行人を<b>どかす</b>ことの快感ってのが",
+  "word": "退かす",
+  "reading": "どかす",
+  "meaning": "to remove; to move out of the way",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to remove; to move out of the way"
+  ]
+ },
+ {
+  "order": 224,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "きっと、邪魔な通行人をどかすことの<b>快感</b>ってのが",
+  "word": "快感",
+  "reading": "かいかん",
+  "meaning": "pleasant feeling; pleasant sensation; pleasure",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "金持ち君・福島",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) pleasant feeling; pleasant sensation; pleasure"
+  ]
+ },
+ {
+  "order": 225,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>脇</b>を通り抜けましょう。",
+  "word": "脇",
+  "reading": "わき",
+  "meaning": "armpit; under one's arm; side; flank",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "お金をばらまく",
+  "uid": "01331504",
+  "candidates": [
+   "(noun) armpit; under one's arm; side; flank",
+   "(noun) beside; close to; near; by",
+   "(noun) aside; to the side; away; out of the way",
+   "(noun) off-track; off-topic",
+   "(noun) deuteragonist; supporting role",
+   "(noun) second verse (in a linked series of poems)"
+  ]
+ },
+ {
+  "order": 226,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "脇を<b>通り抜け</b>ましょう。",
+  "word": "通り抜ける",
+  "reading": "とおりぬける",
+  "meaning": "to go through; to pass through; to get through; to cut across",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "お金をばらまく",
+  "uid": "01331504",
+  "candidates": [
+   "(verb) to go through; to pass through; to get through; to cut across"
+  ]
+ },
+ {
+  "order": 227,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ふーん……　<b>呑み残し</b>の酒みたいにもったいないネ。",
+  "word": "飲み残す",
+  "reading": "のみのこす",
+  "meaning": "to leave undrunk; to not finish (a drink)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(verb) to leave undrunk; to not finish (a drink)"
+  ]
+ },
+ {
+  "order": 228,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ふーん……　呑み残しの酒みたいに<b>もったい</b>ないネ。",
+  "word": "勿体",
+  "reading": "もったい",
+  "meaning": "superior airs; air of importance",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "初老の外国人",
+  "uid": "0133151c",
+  "candidates": [
+   "(noun) superior airs; air of importance",
+   "(noun) overemphasis"
+  ]
+ },
+ {
+  "order": 229,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "お主はいつかワシを<b>超える</b>であろう逸材じゃな。",
+  "word": "越える",
+  "reading": "こえる",
+  "meaning": "to cross over; to cross; to pass through; to pass over (out of)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to cross over; to cross; to pass through; to pass over (out of)",
+   "(verb) to exceed; to surpass; to be more (than)"
+  ]
+ },
+ {
+  "order": 230,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "お主はいつかワシを超えるであろう<b>逸材</b>じゃな。",
+  "word": "逸材",
+  "reading": "いつざい",
+  "meaning": "outstanding talent; person of exceptional talent; gifted person",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) outstanding talent; person of exceptional talent; gifted person"
+  ]
+ },
+ {
+  "order": 231,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "<b>鞘</b>にしまったまま錆び付かせてしまっては、",
+  "word": "鞘",
+  "reading": "さや",
+  "meaning": "scabbard; sheath",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) scabbard; sheath",
+   "(noun) cap (on a brush, pen, etc.); case; sleeve",
+   "(noun) margin (between two prices); spread; markup; commission",
+   "(noun) enclosure; outer fence"
+  ]
+ },
+ {
+  "order": 232,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "鞘にしまったまま<b>錆び付か</b>せてしまっては、",
+  "word": "錆び付く",
+  "reading": "さびつく",
+  "meaning": "to become rusted together; to become rusted shut",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to become rusted together; to become rusted shut",
+   "(verb) to rust; to become (completely) rusty; to be covered with rust",
+   "(verb) to become rusty (of a skill or ability); to become less effective"
+  ]
+ },
+ {
+  "order": 233,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "とある武術を<b>継承</b>し、今に受け継ぐ者じゃ。",
+  "word": "継承",
+  "reading": "けいしょう",
+  "meaning": "inheritance; succession; accession",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "謎の男",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) inheritance; succession; accession",
+   "(noun) share-alike",
+   "(verb) inheritance"
+  ]
+ },
+ {
+  "order": 234,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "とある武術を継承し、今に<b>受け継ぐ</b>者じゃ。",
+  "word": "受け継ぐ",
+  "reading": "うけつぐ",
+  "meaning": "to inherit; to succeed; to take over",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "謎の男",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to inherit; to succeed; to take over"
+  ]
+ },
+ {
+  "order": 235,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "じゃが、<b>近頃</b>は飽食の時代などと言って、",
+  "word": "近頃",
+  "reading": "ちかごろ",
+  "meaning": "lately; recently; nowadays",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(adverb) lately; recently; nowadays",
+   "(adverb) terribly; awfully; extremely"
+  ]
+ },
+ {
+  "order": 236,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "じゃが、近頃は<b>飽食</b>の時代などと言って、",
+  "word": "飽食",
+  "reading": "ほうしょく",
+  "meaning": "eating until one is full; eating one's fill; gorging (on); satiation",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) eating until one is full; eating one's fill; gorging (on); satiation",
+   "(verb) having adequate food; having all one needs (for daily living); plenty"
+  ]
+ },
+ {
+  "order": 237,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "オナゴを<b>侍ら</b>せて酒を飲むなど堕落の極み。",
+  "word": "侍る",
+  "reading": "はべる",
+  "meaning": "to wait upon; to serve",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to wait upon; to serve"
+  ]
+ },
+ {
+  "order": 238,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "オナゴを侍らせて酒を飲むなど<b>堕落</b>の極み。",
+  "word": "堕落",
+  "reading": "だらく",
+  "meaning": "depravity; corruption; degradation",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) depravity; corruption; degradation"
+  ]
+ },
+ {
+  "order": 239,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "最近<b>試合っ</b>て来た者とは格別じゃ！",
+  "word": "為合う",
+  "reading": "しあう",
+  "meaning": "to do together",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to do together"
+  ]
+ },
+ {
+  "order": 240,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "最近試合って来た者とは<b>格別</b>じゃ！",
+  "word": "格別",
+  "reading": "かくべつ",
+  "meaning": "particular; special; exceptional; especial",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(na-adjective) particular; special; exceptional; especial",
+   "(adverb) particularly; especially; exceptionally"
+  ]
+ },
+ {
+  "order": 241,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "それは強者と闘い、内に<b>秘め</b>た闘争本能を",
+  "word": "秘める",
+  "reading": "ひめる",
+  "meaning": "to hide; to keep to oneself",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to hide; to keep to oneself"
+  ]
+ },
+ {
+  "order": 242,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "それは強者と闘い、内に秘めた闘争<b>本能</b>を",
+  "word": "本能",
+  "reading": "ほんのう",
+  "meaning": "instinct",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) instinct"
+  ]
+ },
+ {
+  "order": 243,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ここが私達の店、<b>龍虎</b>飯店です。",
+  "word": "竜虎",
+  "reading": "りゅうこ",
+  "meaning": "two mighty rivals; dragon and tiger",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) two mighty rivals; dragon and tiger"
+  ]
+ },
+ {
+  "order": 244,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ここが私達の店、龍虎<b>飯店</b>です。",
+  "word": "飯店",
+  "reading": "はんてん",
+  "meaning": "Chinese restaurant",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) Chinese restaurant"
+  ]
+ },
+ {
+  "order": 245,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "私自らが<b>魂</b>を込めて錬成した武器の数々。",
+  "word": "魂",
+  "reading": "たましい",
+  "meaning": "soul; spirit; mind",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) soul; spirit; mind",
+   "(noun) willpower; vitality",
+   "(noun) something as important as one's own life; something invaluable",
+   "(noun) inherent spirit of something; state of mind"
+  ]
+ },
+ {
+  "order": 246,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "私自らが魂を込めて<b>錬成</b>した武器の数々。",
+  "word": "錬成",
+  "reading": "れんせい",
+  "meaning": "training; drilling; strengthening",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(verb) training; drilling; strengthening",
+   "(verb) use of alchemy; producing (gold, etc.) with alchemy"
+  ]
+ },
+ {
+  "order": 247,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "私自らが魂を込めて錬成した武器の<b>数々</b>。",
+  "word": "数々",
+  "reading": "しばしば",
+  "meaning": "often; again and again; frequently; repeatedly",
+  "pos": "adverb",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(adverb) often; again and again; frequently; repeatedly"
+  ]
+ },
+ {
+  "order": 248,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "龍虎飯店では、世界<b>各地</b>にいる「エージェント」と呼ばれる",
+  "word": "各地",
+  "reading": "かくち",
+  "meaning": "each place; every place; various places; all parts (of the country, world, etc.)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) each place; every place; various places; all parts (of the country, world, etc.)"
+  ]
+ },
+ {
+  "order": 249,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "依頼の<b>内容</b>は、下記３種類あります。",
+  "word": "内容",
+  "reading": "ないよう",
+  "meaning": "contents; content; substance; matter",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) contents; content; substance; matter"
+  ]
+ },
+ {
+  "order": 250,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "依頼の内容は、<b>下記</b>３種類あります。",
+  "word": "下記",
+  "reading": "かき",
+  "meaning": "the following",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) the following"
+  ]
+ },
+ {
+  "order": 251,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "依頼の内容は、下記３<b>種類</b>あります。",
+  "word": "種類",
+  "reading": "しゅるい",
+  "meaning": "variety; kind; type; category",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "武具探索と作成",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) variety; kind; type; category",
+   "(ctr) counter for kinds, species, etc."
+  ]
+ },
+ {
+  "order": 252,
+  "kind": "grp1",
+  "standalone": false,
+  "sentence": "世界各地の武器商人と太い<b>パイプ</b>を作るのが",
+  "word": "パイプ",
+  "reading": "パイプ",
+  "meaning": "pipe; tube",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) pipe; tube",
+   "(noun) (tobacco) pipe",
+   "(noun) cigarette holder",
+   "(noun) go-between; intermediary; mediator; connections (with)"
+  ]
+ },
+ {
+  "order": 253,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そういった<b>古代</b>文明があった場所からは",
+  "word": "古代",
+  "reading": "こだい",
+  "meaning": "ancient times; distant past; antiquity",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) ancient times; distant past; antiquity"
+  ]
+ },
+ {
+  "order": 254,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そういった古代<b>文明</b>があった場所からは",
+  "word": "文明",
+  "reading": "ぶんめい",
+  "meaning": "civilization; civilisation; culture",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "フェイフウ",
+  "uid": "0133153b",
+  "candidates": [
+   "(noun) civilization; civilisation; culture",
+   "(noun) Bunmei era (1469.4.28-1487.7.20)"
+  ]
+ },
+ {
+  "order": 255,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "“バッカス”が<b>酔いつぶれ</b>たら笑い者ヨ！",
+  "word": "酔い潰れる",
+  "reading": "よいつぶれる",
+  "meaning": "to drink oneself dead drunk; to drink oneself unconscious",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to drink oneself dead drunk; to drink oneself unconscious"
+  ]
+ },
+ {
+  "order": 256,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "“バッカス”が酔いつぶれたら<b>笑い者</b>ヨ！",
+  "word": "笑い物",
+  "reading": "わらいもの",
+  "meaning": "laughingstock; butt of ridicule",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) laughingstock; butt of ridicule"
+  ]
+ },
+ {
+  "order": 257,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ホラ！　向こうから<b>バッド</b>ガイのフレンドが",
+  "word": "バッド",
+  "reading": "バッド",
+  "meaning": "bad",
+  "pos": "adj-f",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(adj-f) bad"
+  ]
+ },
+ {
+  "order": 258,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ホラ！　向こうからバッド<b>ガイ</b>のフレンドが",
+  "word": "ガイ",
+  "reading": "ガイ",
+  "meaning": "guy",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) guy"
+  ]
+ },
+ {
+  "order": 259,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "ホラ！　向こうからバッドガイの<b>フレンド</b>が",
+  "word": "フレンド",
+  "reading": "フレンド",
+  "meaning": "friend",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) friend"
+  ]
+ },
+ {
+  "order": 260,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そのスタイルは<b>強引</b>で横暴で大胆ネ。",
+  "word": "強引",
+  "reading": "ごういん",
+  "meaning": "overbearing; coercive; pushy; forcible",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(na-adjective) overbearing; coercive; pushy; forcible"
+  ]
+ },
+ {
+  "order": 261,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "そのスタイルは強引で<b>横暴</b>で大胆ネ。",
+  "word": "横暴",
+  "reading": "おうぼう",
+  "meaning": "violence; oppression; high-handedness; tyranny",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(na-adjective) violence; oppression; high-handedness; tyranny"
+  ]
+ },
+ {
+  "order": 262,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "相手を追い詰める<b>執念</b>深さも兼ね備えてるヨ。",
+  "word": "執念",
+  "reading": "しゅうねん",
+  "meaning": "tenacity; persistence; obsession; implacability",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(noun) tenacity; persistence; obsession; implacability"
+  ]
+ },
+ {
+  "order": 263,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "相手を追い詰める執念深さも<b>兼ね備え</b>てるヨ。",
+  "word": "兼ね備える",
+  "reading": "かねそなえる",
+  "meaning": "to have both; to possess both; to combine with",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": [
+   "(verb) to have both; to possess both; to combine with"
+  ]
+ },
+ {
+  "order": 264,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "あれをもっと<b>ダンサブル</b>に仕上げれば、",
+  "word": "ダンサブル",
+  "reading": "ダンサブル",
+  "meaning": "danceable",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "アレシ",
+  "uid": "01331583",
+  "candidates": [
+   "(na-adjective) danceable"
+  ]
+ },
+ {
+  "order": 265,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "あれをもっとダンサブルに<b>仕上げれ</b>ば、",
+  "word": "仕上げる",
+  "reading": "しあげる",
+  "meaning": "to finish up; to complete; to finish off; to get through",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "アレシ",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to finish up; to complete; to finish off; to get through"
+  ]
+ },
+ {
+  "order": 266,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "踊りによって<b>雌雄</b>を決するのも面白かろう？",
+  "word": "雌雄",
+  "reading": "しゆう",
+  "meaning": "male and female (animals); the two sexes",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) male and female (animals); the two sexes",
+   "(noun) victory and defeat; strengths and weaknesses"
+  ]
+ },
+ {
+  "order": 267,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "踊りによって雌雄を<b>決する</b>のも面白かろう？",
+  "word": "決する",
+  "reading": "けっする",
+  "meaning": "to decide; to determine; to resolve; to be decided",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to decide; to determine; to resolve; to be decided",
+   "(verb) to break and overflow (e.g. levee); to collapse; to give way; to breach"
+  ]
+ },
+ {
+  "order": 268,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "まぁ……　<b>大道</b>芸としてはおもろかったわ。",
+  "word": "大道",
+  "reading": "だいどう",
+  "meaning": "main street; avenue",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) main street; avenue"
+  ]
+ },
+ {
+  "order": 269,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "まぁ……　大道<b>芸</b>としてはおもろかったわ。",
+  "word": "芸",
+  "reading": "げい",
+  "meaning": "art; craft; accomplishment; artistic skill",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) art; craft; accomplishment; artistic skill"
+  ]
+ },
+ {
+  "order": 270,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "えらく<b>眼差し</b>が真剣じゃったぞ？",
+  "word": "眼差し",
+  "reading": "まなざし",
+  "meaning": "(a) look; gaze",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) (a) look; gaze"
+  ]
+ },
+ {
+  "order": 271,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "えらく眼差しが<b>真剣</b>じゃったぞ？",
+  "word": "真剣",
+  "reading": "しんけん",
+  "meaning": "serious; earnest",
+  "pos": "na-adjective",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(na-adjective) serious; earnest",
+   "(noun) real sword (as opposed to a wooden practice weapon)"
+  ]
+ },
+ {
+  "order": 272,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ワシもそこで<b>鍛錬</b>に励んでおくとしよう。",
+  "word": "鍛練",
+  "reading": "たんれん",
+  "meaning": "tempering (metal); annealing; forging",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) tempering (metal); annealing; forging",
+   "(verb) toughening; disciplining; training"
+  ]
+ },
+ {
+  "order": 273,
+  "kind": "grp2",
+  "standalone": false,
+  "sentence": "ワシもそこで鍛錬に<b>励ん</b>でおくとしよう。",
+  "word": "励む",
+  "reading": "はげむ",
+  "meaning": "to work hard; to try hard; to strive; to endeavour",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to work hard; to try hard; to strive; to endeavour"
+  ]
+ },
+ {
+  "order": 274,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "あの<b>風体</b>、巷の若者踊りで主流になりつつある",
+  "word": "風体",
+  "reading": "ふうてい",
+  "meaning": "appearance; look; dress",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) appearance; look; dress"
+  ]
+ },
+ {
+  "order": 275,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "あの風体、<b>巷</b>の若者踊りで主流になりつつある",
+  "word": "巷",
+  "reading": "ちまた",
+  "meaning": "the public; the street (e.g. \"word on the street\")",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) the public; the street (e.g. \"word on the street\")",
+   "(noun) street; district; quarters",
+   "(noun) location (e.g. of a battle); scene (e.g. of carnage)",
+   "(noun) divide (e.g. between life and death)",
+   "(noun) fork (in a road); crossroads"
+  ]
+ },
+ {
+  "order": 276,
+  "kind": "grp3",
+  "standalone": false,
+  "sentence": "あの風体、巷の若者踊りで<b>主流</b>になりつつある",
+  "word": "主流",
+  "reading": "しゅりゅう",
+  "meaning": "(the) mainstream",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) (the) mainstream",
+   "(noun) main course (of a river); main stream"
+  ]
+ },
+ {
+  "order": 277,
+  "kind": "solo",
+  "standalone": true,
+  "sentence": "「<b>ぶれ</b>いくだんす」なる流派の使い手たちじゃ。",
+  "word": "ぶれる",
+  "reading": "ぶれる",
+  "meaning": "to be blurred (due to motion; of a photo, video, etc.); to be shaken (of a camera)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(verb) to be blurred (due to motion; of a photo, video, etc.); to be shaken (of a camera)",
+   "(verb) to waver (in one's beliefs, policy, etc.)",
+   "(verb) to shift (position); to be slightly off"
+  ]
+ },
+ {
+  "order": 278,
+  "kind": "solo",
+  "standalone": true,
+  "sentence": "「ぶれいく<b>だんす</b>」なる流派の使い手たちじゃ。",
+  "word": "箪笥",
+  "reading": "たんす",
+  "meaning": "chest of drawers; bureau; cabinet; tansu",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) chest of drawers; bureau; cabinet; tansu"
+  ]
+ },
+ {
+  "order": 279,
+  "kind": "solo",
+  "standalone": true,
+  "sentence": "「ぶれいくだんす」なる<b>流派</b>の使い手たちじゃ。",
+  "word": "流派",
+  "reading": "りゅうは",
+  "meaning": "school (of painting, ikebana, etc.)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) school (of painting, ikebana, etc.)"
+  ]
+ },
+ {
+  "order": 280,
+  "kind": "solo",
+  "standalone": true,
+  "sentence": "「ぶれいくだんす」なる流派の<b>使い手</b>たちじゃ。",
+  "word": "使い手",
+  "reading": "つかいて",
+  "meaning": "user; consumer; employer",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331583",
+  "candidates": [
+   "(noun) user; consumer; employer",
+   "(noun) master (e.g. of swordsmanship)",
+   "(noun) prodigal; spendthrift"
+  ]
+ },
+ {
+  "order": 281,
+  "kind": "label",
+  "standalone": true,
+  "sentence": "首<b>曲げ</b>男",
+  "word": "曲げる",
+  "reading": "まげる",
+  "meaning": "to bend; to crook; to bow; to curve",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "〔人物呼称〕",
+  "uid": "label-ch17",
+  "candidates": [
+   "(verb) to bend; to crook; to bow; to curve",
+   "(verb) to lean; to tilt; to incline; to slant",
+   "(verb) to bend (the truth); to distort; to twist; to pervert",
+   "(verb) to yield (a point); to depart (from a principle); to ignore (what one really thinks)",
+   "(verb) to pawn"
+  ]
+ }
+]
