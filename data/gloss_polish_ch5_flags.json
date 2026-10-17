@@ -1,0 +1,20 @@
+{
+ "突き合わせる": "sentence has 付き合わせて (付き合わせる, make someone accompany), not 突き合わせる",
+ "沸く": "sentence is 湧く (spring up/crop up), not 沸く; no candidate fits well",
+ "辻": "name of a person (Tsuji, the squatter), not 'crossroads'",
+ "鈍い": "sentence is にぶい (dull/slow-witted), but candidates are for おそい",
+ "ぴったり": "adverb/ピッタリ 'fits perfectly', pos tagged verb",
+ "崖": "二人がけ = counter-suffix 'seating for N', not 'cliff'",
+ "常": "常に (つねに) 'always'; reading ただ is wrong",
+ "撥ねる": "スジはねんだ = スジ+はねえ (ない), not 撥ねる",
+ "文": "ビタ一文 = 'not a single mon (coin)', set phrase; 文 as monetary unit, not 'literature'",
+ "突き立つ": "突っ立ってる = 突っ立つ 'stand around idly'",
+ "大目": "大目に見る set phrase 'overlook leniently'",
+ "詰まる": "つまらない = boring/trifling (adjective), not 'to be packed'",
+ "共": "と共に 'together with' (set phrase), not suffix ども",
+ "放つ": "放っといて = 放っておく 'leave alone/neglect', not 放つ 'release'",
+ "感心": "感心しない = 'doesn't impress/is not admirable' (suru verb)",
+ "みっちり": "sentence fragment ends at 体にみっちり; likely みっちり(叩き込む) context, usable as word",
+ "下部": "下部組織 compound; reading かぶ questionable (normally かぶ for 下部 but fine)",
+ "入れ": "裏口から入れ = imperative of 入る (go in), not noun 入れ 'container'"
+}
