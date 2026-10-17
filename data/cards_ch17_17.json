@@ -583,27 +583,6 @@
   ]
  },
  {
-  "order": 34,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "渋澤をブチの<b>めす</b>のは、",
-  "word": "召す",
-  "reading": "めす",
-  "meaning": "to call; to summon; to send for; to invite",
-  "pos": "verb",
-  "chapter": 17,
-  "speaker": "錦山",
-  "uid": "013314d8",
-  "candidates": [
-   "(verb) to call; to summon; to send for; to invite",
-   "(verb) to eat; to drink",
-   "(verb) to put on; to wear",
-   "(verb) to buy; to purchase",
-   "(verb) to take (a bath)",
-   "(verb) to ride; to get in (a vehicle); to take"
-  ]
- },
- {
   "order": 35,
   "kind": "i+1",
   "standalone": false,
@@ -724,27 +703,6 @@
   ]
  },
  {
-  "order": 42,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "自分の<b>くだら</b>ん生き方を",
-  "word": "下る",
-  "reading": "さがる",
-  "meaning": "to come down; to go down; to fall; to drop",
-  "pos": "verb",
-  "chapter": 17,
-  "speaker": "真島",
-  "uid": "013314db",
-  "candidates": [
-   "(verb) to come down; to go down; to fall; to drop",
-   "(verb) to hang; to dangle",
-   "(verb) to move back; to step back; to withdraw; to retire",
-   "(verb) to deteriorate; to fall off; to be downgraded",
-   "(verb) to get closer to the present day",
-   "(verb) to play a sagari; to extend downwards"
-  ]
- },
- {
   "order": 43,
   "kind": "i+1",
   "standalone": false,
@@ -847,23 +805,6 @@
    "(verb) to act (a part); to play (a role)",
    "(verb) to perform (a play, etc.); to put on (a production)",
    "(verb) to commit (a blunder); to pretend (e.g. to be a good father); to disgrace oneself"
-  ]
- },
- {
-  "order": 49,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "もう二度とあの娘をお前らの戯言には<b>付き合わせ</b>ん。",
-  "word": "突き合わせる",
-  "reading": "つきあわせる",
-  "meaning": "to place persons opposite; to come face to face with",
-  "pos": "verb",
-  "chapter": 17,
-  "speaker": "",
-  "uid": "013314db",
-  "candidates": [
-   "(verb) to place persons opposite; to come face to face with",
-   "(verb) to compare (with); to check (against); to match; to tally"
   ]
  },
  {
@@ -1185,24 +1126,6 @@
   ]
  },
  {
-  "order": 69,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>わっ</b>かんないのかなぁ～？",
-  "word": "わっ",
-  "reading": "わっ",
-  "meaning": "boo! (sound used to scare someone)",
-  "pos": "int",
-  "chapter": 17,
-  "speaker": "青年",
-  "uid": "01331504",
-  "candidates": [
-   "(int) boo! (sound used to scare someone)",
-   "(int) ugh (dissatisfaction, aggravation)",
-   "(int) ulp (consternation)"
-  ]
- },
- {
   "order": 70,
   "kind": "i+1",
   "standalone": false,
@@ -1367,26 +1290,6 @@
   "uid": "0133151c",
   "candidates": [
    "(noun) newborn; newly born"
-  ]
- },
- {
-  "order": 80,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "（面倒な酔っ払いだな……　<b>放っ</b>ておくか）",
-  "word": "放つ",
-  "reading": "はなつ",
-  "meaning": "to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind",
-  "pos": "verb",
-  "chapter": 17,
-  "speaker": "桐生",
-  "uid": "0133151c",
-  "candidates": [
-   "(verb) to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind",
-   "(verb) to set free; to release; to let loose",
-   "(verb) to emit (e.g. light); to give off (e.g. a scent)",
-   "(verb) to send out (a person to carry out a duty)",
-   "(verb) to set fire to"
   ]
  },
  {
@@ -2562,23 +2465,6 @@
    "(verb) to be delivered; to be paid (e.g. taxes)",
    "(verb) to be settled (dispute, conflict, etc.); to be sorted; to subside (e.g. wind); to calm down",
    "(verb) to be satisfied (e.g. with an answer); to consent; to agree"
-  ]
- },
- {
-  "order": 150,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "お<b>やおや</b>……　お前ら、あの男の仲間だね？",
-  "word": "八百屋",
-  "reading": "やおや",
-  "meaning": "greengrocer; fruit and vegetable shop",
-  "pos": "noun",
-  "chapter": 17,
-  "speaker": "タツ姐",
-  "uid": "01331576",
-  "candidates": [
-   "(noun) greengrocer; fruit and vegetable shop",
-   "(noun) jack of all trades"
   ]
  },
  {
@@ -3894,23 +3780,6 @@
   ]
  },
  {
-  "order": 228,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "ふーん……　呑み残しの酒みたいに<b>もったい</b>ないネ。",
-  "word": "勿体",
-  "reading": "もったい",
-  "meaning": "superior airs; air of importance",
-  "pos": "noun",
-  "chapter": 17,
-  "speaker": "初老の外国人",
-  "uid": "0133151c",
-  "candidates": [
-   "(noun) superior airs; air of importance",
-   "(noun) overemphasis"
-  ]
- },
- {
   "order": 229,
   "kind": "grp2",
   "standalone": false,
@@ -4705,24 +4574,6 @@
   "candidates": [
    "(noun) (the) mainstream",
    "(noun) main course (of a river); main stream"
-  ]
- },
- {
-  "order": 277,
-  "kind": "solo",
-  "standalone": true,
-  "sentence": "「<b>ぶれ</b>いくだんす」なる流派の使い手たちじゃ。",
-  "word": "ぶれる",
-  "reading": "ぶれる",
-  "meaning": "to be blurred (due to motion; of a photo, video, etc.); to be shaken (of a camera)",
-  "pos": "verb",
-  "chapter": 17,
-  "speaker": "米木",
-  "uid": "01331583",
-  "candidates": [
-   "(verb) to be blurred (due to motion; of a photo, video, etc.); to be shaken (of a camera)",
-   "(verb) to waver (in one's beliefs, policy, etc.)",
-   "(verb) to shift (position); to be slightly off"
   ]
  },
  {
