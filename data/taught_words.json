@@ -14,7 +14,8 @@
   12,
   13,
   14,
-  15
+  15,
+  16
  ],
  "entries": {
   "劇場": {
@@ -2503,7 +2504,8 @@
    "chapter": 1,
    "multi_sense": true,
    "glosses": [
-    "skillful; well; good"
+    "skillful; well; good",
+    "delicious; tasty; good; nice"
    ],
    "candidates": [
     "(i-adjective) skillful; skilful; skilled; good",
@@ -7737,7 +7739,8 @@
    "chapter": 1,
    "multi_sense": true,
    "glosses": [
-    "acceptable; an option; okay"
+    "acceptable; an option; okay",
+    "毎度あり: thanks for your business! (shopkeeper's phrase)"
    ],
    "candidates": [
     "(noun) existing (at the present moment)",
@@ -33281,6 +33284,240 @@
     "(verb) to gouge; to hollow out; to bore; to excavate",
     "(verb) to greatly perturb; to cause emotional pain",
     "(verb) to get to the bottom of things; to relentlessly bring the truth to light"
+   ]
+  },
+  "食欲": {
+   "reading": "しょくよく",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "appetite (for food)"
+   ],
+   "candidates": [
+    "(noun) appetite (for food)"
+   ]
+  },
+  "児童": {
+   "reading": "じどう",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "children; juvenile"
+   ],
+   "candidates": [
+    "(noun) children; juvenile"
+   ]
+  },
+  "早": {
+   "reading": "はや",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "quick; early; fast; rapid"
+   ],
+   "candidates": [
+    "(adverb) already; now; by this time",
+    "(noun) quick; early; fast; rapid"
+   ]
+  },
+  "ほっつき歩く": {
+   "reading": "ほっつきあるく",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "to loiter around; to wander about"
+   ],
+   "candidates": [
+    "(verb) to loiter around; to wander about"
+   ]
+  },
+  "譲る": {
+   "reading": "ゆずる",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "to hand over; to transfer; to turn over; to assign"
+   ],
+   "candidates": [
+    "(verb) to hand over; to transfer; to turn over; to assign",
+    "(verb) to give up (e.g. one's seat); to give way",
+    "(verb) to yield; to concede; to give ground; to surrender",
+    "(verb) to sell",
+    "(verb) to postpone; to put off; to defer"
+   ]
+  },
+  "丁重": {
+   "reading": "ていちょう",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "polite; courteous; hospitable"
+   ],
+   "candidates": [
+    "(na-adjective) polite; courteous; hospitable"
+   ]
+  },
+  "付き纏う": {
+   "reading": "つきまとう",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "to follow around; to shadow; to tag along"
+   ],
+   "candidates": [
+    "(verb) to follow around; to shadow; to tag along",
+    "(verb) to haunt one (e.g. feeling, failure); to follow one"
+   ]
+  },
+  "彼の世": {
+   "reading": "あのよ",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "the other world; the next world; the world beyond; world after death"
+   ],
+   "candidates": [
+    "(noun) the other world; the next world; the world beyond; world after death"
+   ]
+  },
+  "迷う": {
+   "reading": "まよう",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "to waver; to hesitate; to vacillate; to be of two minds (about)"
+   ],
+   "candidates": [
+    "(verb) to lose one's way; to get lost; to go astray",
+    "(verb) to waver; to hesitate; to vacillate; to be of two minds (about)",
+    "(verb) to be captivated (by); to be infatuated (with); to be charmed (by); to be carried away (by)",
+    "(verb) to linger (of a departed soul); to be restless in one's grave; to be unable to rest in peace"
+   ]
+  },
+  "指定": {
+   "reading": "してい",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "designation; specification; assignment; appointment"
+   ],
+   "candidates": [
+    "(verb) designation; specification; assignment; appointment"
+   ]
+  },
+  "乗車": {
+   "reading": "じょうしゃ",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "boarding (a train, bus, etc.); getting into (e.g. a taxi)"
+   ],
+   "candidates": [
+    "(verb) boarding (a train, bus, etc.); getting into (e.g. a taxi)"
+   ]
+  },
+  "初乗り": {
+   "reading": "はつのり",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "base fare; minimum fare; starting fare"
+   ],
+   "candidates": [
+    "(verb) first ride (in a new vehicle, in the new year, etc.)",
+    "(noun) base-fare zone (of a train, taxi, etc.)",
+    "(noun) base fare; minimum fare; starting fare"
+   ]
+  },
+  "急用": {
+   "reading": "きゅうよう",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "urgent business"
+   ],
+   "candidates": [
+    "(noun) urgent business"
+   ]
+  },
+  "都市": {
+   "reading": "とし",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "town; city; municipal; urban"
+   ],
+   "candidates": [
+    "(noun) town; city; municipal; urban"
+   ]
+  },
+  "どかん": {
+   "reading": "どかん",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "earthen pipe"
+   ],
+   "candidates": [
+    "(noun) earthen pipe"
+   ]
+  },
+  "細身": {
+   "reading": "ほそみ",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "slender (figure, build); thin"
+   ],
+   "candidates": [
+    "(adj-no) narrow (blade)",
+    "(adj-no) slender (figure, build); thin"
+   ]
+  },
+  "太め": {
+   "reading": "ふとめ",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "plump; somewhat large"
+   ],
+   "candidates": [
+    "(na-adjective) plump; somewhat large"
+   ]
+  },
+  "毎度": {
+   "reading": "まいど",
+   "chapter": 16,
+   "multi_sense": true,
+   "glosses": [
+    "thank you for your continued patronage; thank you for your support; greetings!; welcome!"
+   ],
+   "candidates": [
+    "(adverb) each time; every time; always; often",
+    "(int) thank you for your continued patronage; thank you for your support; greetings!; welcome!",
+    "(int) hello; I'm coming in"
+   ]
+  },
+  "展望": {
+   "reading": "てんぼう",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "view; outlook; prospect"
+   ],
+   "candidates": [
+    "(verb) view; outlook; prospect"
+   ]
+  },
+  "テラス": {
+   "reading": "テラス",
+   "chapter": 16,
+   "multi_sense": false,
+   "glosses": [
+    "terrace"
+   ],
+   "candidates": [
+    "(noun) terrace"
    ]
   }
  }
