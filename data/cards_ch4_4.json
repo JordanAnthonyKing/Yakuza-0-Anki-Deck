@@ -587,24 +587,6 @@
   ]
  },
  {
-  "order": 34,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>食</b>えん男やな",
-  "word": "食",
-  "reading": "しょく",
-  "meaning": "food; foodstuff",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "01022264",
-  "candidates": [
-   "(noun) food; foodstuff",
-   "(noun) eating; appetite",
-   "(noun) meal; portion"
-  ]
- },
- {
   "order": 35,
   "kind": "i+1",
   "standalone": false,
@@ -691,23 +673,6 @@
   "uid": "01022264",
   "candidates": [
    "(adj-ku) good; excellent; fine; nice"
-  ]
- },
- {
-  "order": 40,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "ん？　他<b>やと</b>……？",
-  "word": "野兎",
-  "reading": "のうさぎ",
-  "meaning": "hare (esp. the Japanese hare, Lepus brachyurus)",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "01022264",
-  "candidates": [
-   "(noun) hare (esp. the Japanese hare, Lepus brachyurus)",
-   "(noun) wild rabbit"
   ]
  },
  {
@@ -1116,44 +1081,6 @@
   ]
  },
  {
-  "order": 65,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "なんだよ、<b>つまん</b>ねえ奴だな。",
-  "word": "詰まる",
-  "reading": "つまる",
-  "meaning": "to be packed (with); to be filled; to be full (e.g. of a schedule)",
-  "pos": "verb",
-  "chapter": 4,
-  "speaker": "佐川",
-  "uid": "0102226b",
-  "candidates": [
-   "(verb) to be packed (with); to be filled; to be full (e.g. of a schedule)",
-   "(verb) to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up",
-   "(verb) to be become shorter; to shrink; to narrow",
-   "(verb) to be at a loss (for); to be pressed (for); to be stuck (for)",
-   "(verb) to come to the end; to be settled",
-   "(verb) to become a geminate consonant"
-  ]
- },
- {
-  "order": 66,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "冴島<b>大河</b>、だっけか。",
-  "word": "大河",
-  "reading": "たいが",
-  "meaning": "large river",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "佐川",
-  "uid": "0102226b",
-  "candidates": [
-   "(noun) large river",
-   "(noun) epic (of a novel, drama, etc.); long-form; large-scale"
-  ]
- },
- {
   "order": 67,
   "kind": "i+1",
   "standalone": false,
@@ -1372,26 +1299,6 @@
   "candidates": [
    "(noun) waste; scrap; garbage; dregs",
    "(noun) scum; piece of trash; loser"
-  ]
- },
- {
-  "order": 80,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "マキムラは女たちにテレクラで男を<b>釣ら</b>せてる。",
-  "word": "吊る",
-  "reading": "つる",
-  "meaning": "to hang; to suspend; to sling; to wear (e.g. a sword)",
-  "pos": "verb",
-  "chapter": 4,
-  "speaker": "佐川",
-  "uid": "0102226b",
-  "candidates": [
-   "(verb) to hang; to suspend; to sling; to wear (e.g. a sword)",
-   "(verb) to hang oneself",
-   "(verb) to hoist an opponent off of his feet by his loincloth",
-   "(verb) to turn upwards (as if being pulled); to be slanted (of eyes)",
-   "(verb) to pucker (e.g. of a seam); to be pulled tight"
   ]
  },
  {
@@ -1741,23 +1648,6 @@
   ]
  },
  {
-  "order": 101,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "せやったら、今から<b>巌</b>橋に来て。",
-  "word": "岩",
-  "reading": "いわ",
-  "meaning": "rock; boulder",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "アッコ",
-  "uid": "01022279",
-  "candidates": [
-   "(noun) rock; boulder",
-   "(noun) crag"
-  ]
- },
- {
   "order": 102,
   "kind": "i+1",
   "standalone": false,
@@ -1891,23 +1781,6 @@
    "(noun) ladder",
    "(noun) stairs",
    "(verb) going to several places in succession (e.g. barhopping)"
-  ]
- },
- {
-  "order": 110,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "１日３回でもまだ足り<b>ひん</b>って……",
-  "word": "干る",
-  "reading": "ひる",
-  "meaning": "to dry (up); to become parched",
-  "pos": "verb",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "0102227a",
-  "candidates": [
-   "(verb) to dry (up); to become parched",
-   "(verb) to ebb; to recede"
   ]
  },
  {
@@ -2364,23 +2237,6 @@
   ]
  },
  {
-  "order": 137,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "お茶？　ウチ、お腹へっ<b>てんねん</b>けど。",
-  "word": "天然",
-  "reading": "てんねん",
-  "meaning": "nature; spontaneity",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "アッコ",
-  "uid": "0102227b",
-  "candidates": [
-   "(noun) nature; spontaneity",
-   "(noun) natural airhead"
-  ]
- },
- {
   "order": 138,
   "kind": "i+1",
   "standalone": false,
@@ -2448,23 +2304,6 @@
   ]
  },
  {
-  "order": 142,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "えー!?　<b>早</b>よしてや～。",
-  "word": "早",
-  "reading": "はや",
-  "meaning": "already; now; by this time",
-  "pos": "adverb",
-  "chapter": 4,
-  "speaker": "アッコ",
-  "uid": "0102227b",
-  "candidates": [
-   "(adverb) already; now; by this time",
-   "(noun) quick; early; fast; rapid"
-  ]
- },
- {
   "order": 143,
   "kind": "i+1",
   "standalone": false,
@@ -2480,24 +2319,6 @@
    "(na-adjective) grand; luxurious; lavish; sumptuous",
    "(na-adjective) great; large; big (e.g. storm)",
    "(adverb) very; greatly; extremely"
-  ]
- },
- {
-  "order": 144,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "情報のためやったらなんぼでも<b>払</b>たるわ",
-  "word": "払い",
-  "reading": "はらい",
-  "meaning": "payment; bill; account",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "0102227b",
-  "candidates": [
-   "(noun) payment; bill; account",
-   "(noun) sweeping; clearing away",
-   "(noun) sweeping stroke (e.g. when writing kanji)"
   ]
  },
  {
@@ -2583,24 +2404,6 @@
   "uid": "01022280",
   "candidates": [
    "(adverb) comparatively; relatively; fairly; rather"
-  ]
- },
- {
-  "order": 150,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "このバイトのええと<b>こや</b>のに。",
-  "word": "小屋",
-  "reading": "こや",
-  "meaning": "hut; cabin; shed; (animal) pen",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "アッコ",
-  "uid": "01022280",
-  "candidates": [
-   "(noun) hut; cabin; shed; (animal) pen",
-   "(noun) small theatre (theater); temporary playhouse; circus tent; booth",
-   "(noun) one's own house"
   ]
  },
  {
@@ -2719,23 +2522,6 @@
   "uid": "01022280",
   "candidates": [
    "(noun) mid-sized konoshiro gizzard shad (i.e. about 15 cm in size)"
-  ]
- },
- {
-  "order": 158,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "口も<b>軽</b>なるやろし……",
-  "word": "軽",
-  "reading": "けい",
-  "meaning": "light (e.g. aircraft, truck)",
-  "pos": "pref",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "01022280",
-  "candidates": [
-   "(pref) light (e.g. aircraft, truck)",
-   "(noun) light motor vehicle (up to 660cc and 64bhp); kei car"
   ]
  },
  {
@@ -2976,23 +2762,6 @@
   ]
  },
  {
-  "order": 172,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "そない踊りたいんやったら、<b>踊らし</b>たるわ。",
-  "word": "躍らす",
-  "reading": "おどらす",
-  "meaning": "to throw (oneself); to hurl; to cast; to fling",
-  "pos": "verb",
-  "chapter": 4,
-  "speaker": "気の立った男",
-  "uid": "0102228f",
-  "candidates": [
-   "(verb) to throw (oneself); to hurl; to cast; to fling",
-   "(verb) to stir (one's feelings); to get excited; to make (one's heart) pound; to make (one's heart) leap"
-  ]
- },
- {
   "order": 173,
   "kind": "i+1",
   "standalone": false,
@@ -3163,26 +2932,6 @@
   "candidates": [
    "(noun) just before; on the verge of; on the brink of",
    "(noun) just in front of; just ahead of"
-  ]
- },
- {
-  "order": 183,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "<b>あない</b>ええ人疑ったら、罰当たるわ！",
-  "word": "あない",
-  "reading": "あんない",
-  "meaning": "guidance; leading (the way); showing around",
-  "pos": "verb",
-  "chapter": 4,
-  "speaker": "アッコ",
-  "uid": "0102229a",
-  "candidates": [
-   "(verb) guidance; leading (the way); showing around",
-   "(verb) information; notice; notification",
-   "(noun) announcement (of a visitor's arrival); informing (someone) of a visitor's arrival",
-   "(verb) invitation",
-   "(noun) acquaintance; knowledge"
   ]
  },
  {
@@ -3569,27 +3318,6 @@
   "uid": "010222a1",
   "candidates": [
    "(noun) shriek; scream"
-  ]
- },
- {
-  "order": 207,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "は？　いや、そういう意味やの<b>うてな</b>……",
-  "word": "台",
-  "reading": "だい",
-  "meaning": "stand; rest; base; pedestal",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "010222a1",
-  "candidates": [
-   "(noun) stand; rest; base; pedestal",
-   "(noun) setting (of a gem); mounting",
-   "(noun) stock (in grafting)",
-   "(ctr) counter for machines and vehicles",
-   "(suf) level (e.g. price level); mark; range; decade (of one's life)",
-   "(noun) tall building (with a fine view); (observation) platform"
   ]
  },
  {
@@ -4022,24 +3750,6 @@
    "(noun) one's hand",
    "(noun) name tag; nameplate; business card",
    "(noun) wallet-sized (photo)"
-  ]
- },
- {
-  "order": 234,
-  "kind": "grp3",
-  "standalone": false,
-  "sentence": "手札がもっとあれば<b>ちご</b>たかもな……",
-  "word": "稚児",
-  "reading": "ちご",
-  "meaning": "infant; child",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "真島",
-  "uid": "01022264",
-  "candidates": [
-   "(noun) infant; child",
-   "(noun) pageboy; page",
-   "(noun) child in a traditional festival procession"
   ]
  },
  {
@@ -4794,23 +4504,6 @@
   ]
  },
  {
-  "order": 280,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "きゃ～、<b>美味</b>しそ～♪",
-  "word": "美味",
-  "reading": "びみ",
-  "meaning": "exquisite flavor (flavour); delectable flavor; delicious flavor; highly palatable flavor",
-  "pos": "na-adjective",
-  "chapter": 4,
-  "speaker": "アッコ",
-  "uid": "01022280",
-  "candidates": [
-   "(na-adjective) exquisite flavor (flavour); delectable flavor; delicious flavor; highly palatable flavor",
-   "(noun) delicacy; delectable dish"
-  ]
- },
- {
   "order": 281,
   "kind": "grp2",
   "standalone": false,
@@ -5287,42 +4980,6 @@
   "uid": "010222a1",
   "candidates": [
    "(verb) imagination; supposition; guess"
-  ]
- },
- {
-  "order": 309,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "<b>もみ</b>返しが起こることが全然ないって、",
-  "word": "籾",
-  "reading": "もみ",
-  "meaning": "unhulled rice; rice in the husk; paddy",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "整体師の女",
-  "uid": "010222a1",
-  "candidates": [
-   "(noun) unhulled rice; rice in the husk; paddy",
-   "(noun) rice husks; chaff"
-  ]
- },
- {
-  "order": 310,
-  "kind": "grp2",
-  "standalone": false,
-  "sentence": "もみ<b>返し</b>が起こることが全然ないって、",
-  "word": "返し",
-  "reading": "かえし",
-  "meaning": "reversal; return",
-  "pos": "noun",
-  "chapter": 4,
-  "speaker": "整体師の女",
-  "uid": "010222a1",
-  "candidates": [
-   "(noun) reversal; return",
-   "(noun) return gift; return favour",
-   "(noun) barb (on a fishing hook)",
-   "(noun) mixture of soy sauce, sugar and mirin"
   ]
  },
  {
