@@ -26,6 +26,10 @@ line costs little; a wrong one teaches the wrong thing.
   If a leak is found in an already-finished chapter: block it, `drop_cards.py`, remove it from
   the ledger, and set `ledger_words` in `data/pipeline/invariants.json` to the new count, then
   `build_final.py N` (GUID-checked).
+- Other leaks found and fixed so far: 山形 (Yamagata, ch4), 雀 (shop name 雀薔薇屋, ch7),
+  狒々 (the ヒヒ laugh, ch2 and ch8), 一通り (天下一通り, ch1). 鬼 recurs as part of 鬼仁会 (Onijin
+  Clan): drop it per chapter rather than blocking 鬼 outright, since 鬼 "demon" is a real word.
+  `speaker_name_scan.py` catches leaked character names.
 - Set-phrase readings with the wrong gloss: 一丁 ("one round; let's give it a shot") was glossed
   as 丁 "counter for long narrow things". Fix the gloss in place.
 - Fix an obviously wrong gloss directly in `gloss_polish_ch{N}.json` (e.g. 然も → "as if;
