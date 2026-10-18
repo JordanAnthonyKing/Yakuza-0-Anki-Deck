@@ -294,16 +294,17 @@
   "kind": "i+1",
   "standalone": false,
   "sentence": "次からは<b>サンタ</b>にお願いするんだな。",
-  "word": "セント",
-  "reading": "セント",
-  "meaning": "cent (monetary unit)",
+  "word": "サンタ",
+  "reading": "さんた",
+  "meaning": "Santa Claus",
   "pos": "noun",
   "chapter": 2,
   "speaker": "桐生",
   "uid": "003311e8",
   "candidates": [
-   "(noun) cent (monetary unit)"
-  ]
+   "(noun) Santa Claus"
+  ],
+  "guid": "xI?kEd7m2c"
  },
  {
   "order": 18,

@@ -18,3 +18,8 @@ data/translate/**/*.pre_regate
 
 # Batch inputs for agent jobs (regenerated deterministically by the prep scripts)
 data/work/
+data/audio/soundpar/
+data/audio/v2_ch*/
+data/audio/clips/
+data/audio/words/
+data/audio/*.log

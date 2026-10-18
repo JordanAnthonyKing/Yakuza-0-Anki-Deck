@@ -1,0 +1,167 @@
+<title>Word Audio Check</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one sticky tally bar, then a single column of clip rows; keyboard drives a cursor row. */
+:root{
+  --bg:#f6f5f2; --panel:#ffffff; --ink:#1d1b1f; --muted:#6c6873; --line:#e2dfe6;
+  --accent:#d0246a; --ok:#1f8a4c; --ok-soft:#e3f4ea; --bad:#c23b22; --bad-soft:#fbe6e1; --cur:#fbe9f1;
+  --jp:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic","Meiryo",sans-serif;
+  --ui:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141317; --panel:#1d1c21; --ink:#ecebf0; --muted:#a19ca9; --line:#2f2d35;
+  --accent:#ff5c9a; --ok:#4fc483; --ok-soft:#163323; --bad:#ff7a5e; --bad-soft:#3a1d17; --cur:#2c1a24; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141317; --panel:#1d1c21; --ink:#ecebf0; --muted:#a19ca9; --line:#2f2d35;
+  --accent:#ff5c9a; --ok:#4fc483; --ok-soft:#163323; --bad:#ff7a5e; --bad-soft:#3a1d17; --cur:#2c1a24; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-size:15px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:880px;margin:0 auto}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:18px 12px;border-bottom:1px solid var(--line)}
+h1{font-family:var(--ui);font-weight:600;font-size:20px;margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 12px;max-width:65ch;line-height:1.45}
+.tally{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;font-family:var(--mono);font-size:13px;font-variant-numeric:tabular-nums}
+.tally b{font-weight:500}.t-ok{color:var(--ok)}.t-bad{color:var(--bad)}
+.bar{flex:1 1 160px;height:6px;border-radius:3px;background:var(--line);overflow:hidden;display:flex}
+.bar i{display:block;height:100%}.bar .o{background:var(--ok)}.bar .x{background:var(--bad)}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px;font-size:13px;color:var(--muted)}
+.ctl label{display:flex;gap:6px;align-items:center;cursor:pointer}
+kbd{font-family:var(--mono);font-size:12px;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 5px;background:var(--panel);color:var(--ink)}
+.save{margin-left:auto;font-family:var(--mono);font-size:12px}
+.save.warn{color:var(--bad)}
+ol{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-direction:column;gap:8px}
+li{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:14px;align-items:center;background:var(--panel);
+  border:1px solid var(--line);border-radius:8px;padding:12px 14px;scroll-margin-top:170px}
+li.cur{background:var(--cur);border-color:var(--accent)}
+li.ok{box-shadow:inset 4px 0 0 var(--ok)} li.bad{box-shadow:inset 4px 0 0 var(--bad)}
+.play{width:44px;height:44px;border-radius:50%;border:2px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;
+  display:grid;place-items:center}
+.play svg{width:16px;height:16px;fill:currentColor}
+.play.on{background:var(--accent);color:var(--panel)}
+.info{min-width:0;display:flex;flex-direction:column;gap:3px}
+.w{font-family:var(--jp);font-size:24px;font-weight:700;line-height:1.2;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.w .r{font-size:15px;font-weight:400;color:var(--muted)}
+.m{color:var(--muted);font-size:13.5px;overflow-wrap:anywhere}
+.h{font-size:13.5px;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}
+.h .lab{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.h .jp{font-family:var(--jp)}
+.h .sc{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.vb{display:flex;gap:6px}
+.vb button{font-family:var(--ui);font-size:13px;font-weight:600;border-radius:6px;padding:9px 12px;cursor:pointer;border:1.5px solid var(--line);background:var(--panel);color:var(--ink);min-width:84px}
+.vb .y[aria-pressed="true"]{background:var(--ok-soft);border-color:var(--ok);color:var(--ok)}
+.vb .n[aria-pressed="true"]{background:var(--bad-soft);border-color:var(--bad);color:var(--bad)}
+.vb button:hover{border-color:var(--muted)}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+@media (max-width:560px){li{grid-template-columns:auto minmax(0,1fr)}.vb{grid-column:1/-1}.vb button{flex:1}.save{margin-left:0}}
+@media (prefers-reduced-motion:no-preference){li{transition:background .15s,border-color .15s}}
+</style>
+
+<div class="wrap">
+<header>
+  <h1>Word audio flagged by the speech check</h1>
+  <p class="sub">Whisper heard something different from the card's reading on these JapanesePod101 clips. Play each one and mark whether the recording says the word. Clips marked wrong lose their audio in the decks.</p>
+  <div class="tally">
+    <span><b id="nDone">0</b> / <span id="nAll">0</span> marked</span>
+    <span class="t-ok"><b id="nOk">0</b> correct</span>
+    <span class="t-bad"><b id="nBad">0</b> wrong</span>
+    <span class="bar" aria-hidden="true"><i class="o" id="barO"></i><i class="x" id="barX"></i></span>
+  </div>
+  <div class="ctl">
+    <label><input type="checkbox" id="hideDone"> Hide marked</label>
+    <label><input type="checkbox" id="autoplay" checked> Play next automatically</label>
+    <span><kbd>Space</kbd> play · <kbd>Y</kbd> correct · <kbd>N</kbd> wrong · <kbd>↑</kbd><kbd>↓</kbd> move</span>
+    <span class="save" id="save">Connecting…</span>
+  </div>
+</header>
+<ol id="list"></ol>
+</div>
+
+<script>
+const ROWS = /*ROWS*/[];
+const verdicts = {};             // id -> "ok" | "bad"
+let cur = 0, db = null, audio = new Audio(), playing = null;
+const $ = id => document.getElementById(id);
+const PLAY = '<svg viewBox="0 0 16 16"><path d="M4 2.5v11l9.5-5.5z"/></svg>';
+
+function render(){
+  const hide = $("hideDone").checked, list = $("list");
+  list.textContent = "";
+  ROWS.forEach((r, i) => {
+    const v = verdicts[r.id];
+    if (hide && v && i !== cur) return;
+    const li = document.createElement("li");
+    li.id = "row-" + i; li.className = (i === cur ? "cur " : "") + (v || "");
+    li.innerHTML = `<button class="play${playing === i ? " on" : ""}" aria-label="Play">${PLAY}</button>
+      <div class="info"><div class="w"><span></span><span class="r"></span></div><div class="m"></div>
+      <div class="h"><span class="lab">heard</span><span class="jp"></span><span class="sc"></span></div></div>
+      <div class="vb"><button class="y" aria-pressed="${v === "ok"}">✓ Correct</button><button class="n" aria-pressed="${v === "bad"}">✗ Wrong</button></div>`;
+    li.querySelector(".w span").textContent = r.word;
+    li.querySelector(".w .r").textContent = r.reading;
+    li.querySelector(".m").textContent = r.meaning;
+    li.querySelector(".h .jp").textContent = r.heard || "(nothing)";
+    li.querySelector(".h .sc").textContent = "match " + Math.round(r.score * 100) + "%";
+    li.querySelector(".play").onclick = () => { cur = i; play(i); };
+    li.querySelector(".y").onclick = () => { cur = i; mark(i, "ok"); };
+    li.querySelector(".n").onclick = () => { cur = i; mark(i, "bad"); };
+    list.appendChild(li);
+  });
+  if (!ROWS.length) list.innerHTML = '<p class="empty">Nothing flagged.</p>';
+  const ok = ROWS.filter(r => verdicts[r.id] === "ok").length, bad = ROWS.filter(r => verdicts[r.id] === "bad").length;
+  $("nAll").textContent = ROWS.length; $("nDone").textContent = ok + bad; $("nOk").textContent = ok; $("nBad").textContent = bad;
+  $("barO").style.width = (ROWS.length ? ok / ROWS.length * 100 : 0) + "%";
+  $("barX").style.width = (ROWS.length ? bad / ROWS.length * 100 : 0) + "%";
+}
+
+function play(i){
+  audio.pause(); audio = new Audio(ROWS[i].src); playing = i;
+  audio.onended = () => { playing = null; render(); };
+  audio.play().catch(() => { playing = null; render(); });
+  render(); focusRow();
+}
+
+async function mark(i, v){
+  const r = ROWS[i];
+  verdicts[r.id] = v;
+  const next = ROWS.findIndex((x, j) => j > i && !verdicts[x.id]);
+  if (next >= 0) cur = next;
+  render(); focusRow();
+  if (next >= 0 && $("autoplay").checked) play(next);
+  if (db) {
+    try { await db.collection("verdicts").doc(r.id).set({ key: r.key, verdict: v }); setSave("Saved", false); }
+    catch (e) { setSave("Couldn't save the last mark. Check you're signed in, then mark it again.", true); }
+  } else {
+    try { localStorage.setItem("verdicts", JSON.stringify(verdicts)); } catch (e) {}
+  }
+}
+
+function setSave(t, warn){ const s = $("save"); s.textContent = t; s.classList.toggle("warn", warn); }
+function focusRow(){ const el = $("row-" + cur); if (el) el.scrollIntoView({ block: "nearest" }); }
+
+document.addEventListener("keydown", e => {
+  if (e.target.matches("input")) return;
+  const k = e.key.toLowerCase();
+  if (k === " ") { e.preventDefault(); play(cur); }
+  else if (k === "y" || k === "1") mark(cur, "ok");
+  else if (k === "n" || k === "2") mark(cur, "bad");
+  else if (k === "arrowdown" || k === "j") { e.preventDefault(); cur = Math.min(ROWS.length - 1, cur + 1); render(); focusRow(); }
+  else if (k === "arrowup" || k === "k") { e.preventDefault(); cur = Math.max(0, cur - 1); render(); focusRow(); }
+});
+$("hideDone").onchange = render;
+
+try { Object.assign(verdicts, JSON.parse(localStorage.getItem("verdicts") || "{}")); } catch (e) {}
+render();
+(async () => {
+  db = window.claude ? await window.claude.use("db") : null;
+  if (!db) { setSave("Marks are kept in this browser only. Tell Claude when you're done.", true); return; }
+  setSave("Marks save automatically", false);
+  db.collection("verdicts").onSnapshot(snap => {
+    const first = !Object.keys(verdicts).length;
+    snap.docs.forEach(d => { const x = d.data(); if (x && x.verdict) verdicts[d.id] = x.verdict; });
+    if (first) { const i = ROWS.findIndex(r => !verdicts[r.id]); if (i >= 0) cur = i; }
+    render(); focusRow();
+  }, () => setSave("Lost connection to saved marks; new marks may not save.", true));
+})();
+</script>

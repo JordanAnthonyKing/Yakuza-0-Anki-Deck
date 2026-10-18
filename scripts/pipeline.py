@@ -227,7 +227,13 @@ def steps(ch):
          f"Check the verifier's vetoes and ~10 surviving bracket accepts (`pipeline.py sample {ch} bracket`); "
          f"then the pipeline applies vetoes and merges. Veto rate > {VETO_MAX:.0%} = look harder."),
         ("bracket-merge", "py", (None, [f"data/translate/ch{ch}/", f"data/translate/regate_ch{ch}/"], False)),
+        # game voice clip + full text box per card, then JPod101 word audio (cached, network)
+        ("sentence-audio", "py", (["audio/sentence_audio.py", str(ch)], [f"data/audio/sentence_ch{ch}.json"], False)),
+        ("word-audio", "py", (["audio/word_audio.py", str(ch)], ["data/audio/word_audio.json"], False)),
+        # JPod101's data has errors: speech-check new clips; failures are dropped by audio_policy
+        ("word-verify", "py", (["audio/verify_stage.py", str(ch)], ["data/audio/word_verify.json"], False)),
         ("final", "py", (["build_final.py", str(ch)], [f"data/decks/yakuza0_ch{ch}.apkg", f"data/pipeline/ch{ch}/"], True)),
+        ("all-in-one", "py", (["build_all_in_one.py"], ["data/decks/"], False)),
     ]
     return S
 

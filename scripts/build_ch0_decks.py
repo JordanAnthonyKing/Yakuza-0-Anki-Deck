@@ -12,7 +12,7 @@ import os, json, glob, re
 import genanki
 from build_deck import DATA, kata2hira, strip_orphan_brackets
 from keep_guids import old_guids, guid
-from term_model import MODEL
+from term_model import MODEL, extra_fields
 
 # word -> {reading,pos} from the candidate pool
 cand = {c["word"]: c for c in json.load(open(os.path.join(DATA, "candidates_ch0.json"), encoding="utf-8"))}
@@ -62,14 +62,15 @@ def build(cards, bucket, deck_id, name, fname):
     path = os.path.join(out, fname)
     old = old_guids(path)                    # key (Word, Reading) -> guid already in Anki
     deck = genanki.Deck(deck_id, name)
-    n_en = 0
+    n_en = 0; media = []
     for c in cards:
         eng, off = ex_en.get((bucket, c["word"]), ("", "")) if c["example"] else ("", "")
         n_en += bool(eng)
-        fields = [c["word"], c["reading"], c["meaning"], c["example"], c["pos"], eng, off]
+        fields = [c["word"], c["reading"], c["meaning"], c["example"], c["pos"], eng, off,
+                  *extra_fields(c["word"], c["reading"], media)]
         deck.add_note(genanki.Note(model=MODEL, fields=fields, guid=guid(old, fields)))
-    genanki.Package(deck).write_to_file(path)
-    print("wrote", path, f"({len(cards)} cards, {n_en} examples with English)")
+    genanki.Package(deck, media_files=media).write_to_file(path)
+    print("wrote", path, f"({len(cards)} cards, {n_en} examples with English, {len(media)} word audio)")
 
 from deck_names import GAME_BASICS, MINIGAME as MINIGAME_DECK
 build(buckets["CORE"], "CORE", 2059400100, GAME_BASICS, "yakuza0_ch0.apkg")
