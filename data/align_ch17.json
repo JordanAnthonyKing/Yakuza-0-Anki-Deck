@@ -1,5 +1,23 @@
 [
  {
+  "order": 282,
+  "word": "交わす",
+  "reading": "かわす",
+  "meaning": "to exchange (messages, greetings, arguments, etc.)",
+  "pos": "verb",
+  "speaker": "米木",
+  "uid": "01331531",
+  "sentence": "これで拳を交わす理由はわかったな？",
+  "parity": true,
+  "official_candidate": "Hoh hoh, as it happens, I am. Now do you see a reason to face me? Not that it will stay my hand either way.",
+  "official_neighbors": [
+   "There's only one way to appease the demon, son. Face the strong in combat and set loose those fighting instincts struggling to burst free.",
+   "And you're tellin' me you're that strong guy?",
+   "There's no talkin' sense to you, is there?",
+   "...Fine, you win. I was just thinkin' it'd been a while since I really cut loose. Not here, though."
+  ]
+ },
+ {
   "order": 0,
   "word": "キャラクター",
   "reading": "キャラクター",

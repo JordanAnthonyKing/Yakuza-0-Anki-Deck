@@ -1350,6 +1350,23 @@
   ]
  },
  {
+  "order": 246,
+  "word": "抜く",
+  "reading": "ぬく",
+  "meaning": "to pull out; to draw out; to extract; to unplug",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102220e",
+  "sentence": "オデッセイはグランドを抜こうと必死みたいやな。",
+  "parity": true,
+  "official_candidate": "(Looks like they're really desperate to beat the Grand here. Problem is, they're runnin' out of steam. I'll bet they'd kill for some fresh clients.)",
+  "official_neighbors": [
+   "And honestly, even if we go out with them before comin' in, it's not like our regulars are droppin' hundreds of thousands in here every day. We need new customers.",
+   "Hmmm, you make a good point...",
+   "I'm still reelin' at how many cuties there are here! About how many girls are on staff here in all?"
+  ]
+ },
+ {
   "order": 77,
   "word": "頭打ち",
   "reading": "あたまうち",
@@ -1683,6 +1700,19 @@
   "reading": "な",
   "meaning": "name; given name",
   "pos": "noun",
+  "speaker": "オデッセイのボーイ",
+  "uid": "0102220e",
+  "sentence": "１名様ご案内いたします。こちらへどうぞ。",
+  "parity": true,
+  "official_candidate": "So sorry to keep you waiting. We're ready for you, sir. Please follow me.",
+  "official_neighbors": []
+ },
+ {
+  "order": 247,
+  "word": "致す",
+  "reading": "いたす",
+  "meaning": "to do",
+  "pos": "verb",
   "speaker": "オデッセイのボーイ",
   "uid": "0102220e",
   "sentence": "１名様ご案内いたします。こちらへどうぞ。",

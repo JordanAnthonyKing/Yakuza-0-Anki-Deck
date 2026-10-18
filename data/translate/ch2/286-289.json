@@ -1,0 +1,22 @@
+{
+ "286": {
+  "literal": "When it's this cold, my tongue won't work.",
+  "official": "It's too cold. My tongue's frozen stiff.",
+  "official_ok": true
+ },
+ "287": {
+  "literal": "Well, after you've just finished a job,",
+  "official": "There's just no beating a beer at the end of a job!",
+  "official_ok": true
+ },
+ "288": {
+  "literal": "Have I made myself understood, Kiryu-san?",
+  "official": "Have I earned your understanding, Kiryu-san?",
+  "official_ok": true
+ },
+ "289": {
+  "literal": "It's the least I can do to take responsibility, Nishiki. I'll handle this properly.",
+  "official": "This is about me taking accountability, Nishiki. Let me do this right.",
+  "official_ok": true
+ }
+}

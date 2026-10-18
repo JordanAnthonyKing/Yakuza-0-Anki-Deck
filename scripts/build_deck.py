@@ -86,24 +86,39 @@ def gloss_pos(tags):
     if any(t.startswith("n") for t in tags): return "noun"
     return tags[0] if tags else ""
 
+def standalone_aux_verb(t, before):
+    """unidic tags verbs that can ALSO be auxiliaries 非自立可能 (抜ける as in 走り抜ける,
+    しまう as in 食べてしまう). Skipping them all dropped real words (組を抜ける, 迷惑を掛ける)
+    from every deck, so such a verb counts unless it follows a verb, te-form, auxiliary or
+    adjective (its helper use) or the honorific prefix お/御 (お願い)."""
+    if t.feature.pos1 != "動詞" or t.feature.pos2 != "非自立可能":
+        return False
+    if before is None:
+        return True
+    return not (before.feature.pos1 in ("動詞", "助動詞", "形容詞", "接頭辞")
+                or before.surface in ("て", "で"))
+
 def content_tokens(line, tagger, known_w, known_r, jm):
     """Yield the minable content tokens of a line: content POS, not a stoplemma, not
     known/suppressed, and glossable in JMdict. Shared by build_deck and the divergence gate
     so both see the exact same token stream."""
+    prev = None
     for t in tagger(line):
         p1 = t.feature.pos1; p2 = t.feature.pos2
-        if p1 not in CONTENT_POS or p2 in SKIP_POS2:
+        before, prev = prev, t
+        if p1 not in CONTENT_POS or (p2 in SKIP_POS2 and not standalone_aux_verb(t, before)):
             continue
         lemma = t.feature.lemma or t.surface
         lemma = re.sub(r"-.*$", "", lemma)          # strip unidic lemma suffixes
         reading = kata2hira(t.feature.kana or "")
         if lemma in STOPLEMMA:
             continue
-        if lemma in known_w or reading in known_r:
+        base = kata2hira(t.feature.lForm or "")     # dictionary-form reading: やっ -> やる
+        if lemma in known_w or reading in known_r or base in known_r:
             continue
         if lemma not in jm:                          # need a gloss
             continue
-        yield {"lemma": lemma, "surface": t.surface, "reading": reading}
+        yield {"lemma": lemma, "surface": t.surface, "reading": reading, "base_reading": base}
 
 # ---------- main ----------
 def main():

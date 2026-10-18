@@ -1902,6 +1902,24 @@
   ]
  },
  {
+  "order": 360,
+  "word": "願う",
+  "reading": "ねがう",
+  "meaning": "to desire; to wish; to hope",
+  "pos": "verb",
+  "speaker": "阿波野",
+  "uid": "01331210",
+  "sentence": "そのあと部外者には御退場願う。",
+  "parity": true,
+  "official_candidate": "Beat every bit of intel he's got on the Empty Lot outta him. That's all. Well, that, and send a message to outsiders who wanna meddle with shit that don't concern 'em.",
+  "official_neighbors": [
+   "You keep this up, he's collateral damage. Your damage. Do the guy a favor.",
+   "And you... What do you plan to do if you meet Tachibana?",
+   "Meaning... have him killed?",
+   "I'll give you till morning to decide. Hand over Tachibana, or die in his place. Take your pick and call me tonight."
+  ]
+ },
+ {
   "order": 114,
   "word": "狩り",
   "reading": "かり",

@@ -1321,6 +1321,27 @@
   ]
  },
  {
+  "order": 246,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "オデッセイはグランドを<b>抜こう</b>と必死みたいやな。",
+  "word": "抜く",
+  "reading": "ぬく",
+  "meaning": "to pull out; to draw out; to extract; to unplug",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to pull out; to draw out; to extract; to unplug",
+   "(verb) to omit; to leave out; to go without; to skip",
+   "(verb) to do to the end; to do thoroughly; to do completely; to do severely",
+   "(verb) to let out (e.g. air from a tyre); to drain (e.g. water from a bath); to empty",
+   "(verb) to pick out; to choose; to select; to extract",
+   "(verb) to pilfer; to steal"
+  ]
+ },
+ {
   "order": 77,
   "kind": "i+1",
   "standalone": false,
@@ -1669,6 +1690,22 @@
    "(noun) title",
    "(noun) fame; renown; reputation",
    "(noun) pretext; pretense; justification; appearance"
+  ]
+ },
+ {
+  "order": 247,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "１名様ご案内<b>いたし</b>ます。こちらへどうぞ。",
+  "word": "致す",
+  "reading": "いたす",
+  "meaning": "to do",
+  "pos": "verb",
+  "chapter": 3,
+  "speaker": "オデッセイのボーイ",
+  "uid": "0102220e",
+  "candidates": [
+   "(verb) to do"
   ]
  },
  {

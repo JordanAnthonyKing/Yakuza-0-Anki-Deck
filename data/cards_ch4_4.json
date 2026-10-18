@@ -1,5 +1,21 @@
 [
  {
+  "order": 317,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ご利用はどれくらいに<b>なさい</b>ますか？",
+  "word": "為さる",
+  "reading": "なさる",
+  "meaning": "to do",
+  "pos": "verb",
+  "chapter": 4,
+  "speaker": "テレクラ受付",
+  "uid": "01022274",
+  "candidates": [
+   "(verb) to do"
+  ]
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -2161,6 +2177,26 @@
   "uid": "0102227b",
   "candidates": [
    "(verb) disguise; masquerade"
+  ]
+ },
+ {
+  "order": 318,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>しも</b>た～！　やっぱりこない変装しても、",
+  "word": "仕舞う",
+  "reading": "しまう",
+  "meaning": "to finish; to stop; to end; to put an end to",
+  "pos": "verb",
+  "chapter": 4,
+  "speaker": "真島",
+  "uid": "0102227b",
+  "candidates": [
+   "(verb) to finish; to stop; to end; to put an end to",
+   "(verb) to close (a business, etc.); to close down; to shut down; to shut up",
+   "(verb) to put away; to put back; to keep; to store",
+   "(verb) to do completely; to finish",
+   "(verb) to do accidentally; to do without meaning to; to happen to do; to end up ..."
   ]
  },
  {

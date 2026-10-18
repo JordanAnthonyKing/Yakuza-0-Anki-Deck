@@ -1,5 +1,39 @@
 [
  {
+  "order": 151,
+  "word": "尽くす",
+  "reading": "つくす",
+  "meaning": "to use up; to exhaust; to run out of",
+  "pos": "verb",
+  "speaker": "陳老人",
+  "uid": "0133142d",
+  "sentence": "約束はできんが手は尽くしている。",
+  "parity": true,
+  "official_candidate": "I can't promise anything, but we're doing all we can. I'd even considered naming the boy my successor. I do want to help him. Truly.",
+  "official_neighbors": [
+   "That is what I would do, were I him.",
+   "Damn. But you really think you can find where they took him?",
+   "......",
+   "...Perhaps you were already aware."
+  ]
+ },
+ {
+  "order": 150,
+  "word": "去る",
+  "reading": "さる",
+  "meaning": "to leave; to go away",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "0133142d",
+  "sentence": "ただ、私が中国を去った後、",
+  "parity": true,
+  "official_candidate": "I only knew I could not live not knowing what misery I had caused them by abandoning them in China.",
+  "official_neighbors": [
+   "What I would do once I found them, I had no idea.",
+   "In the end, all I learned was that my sister had vanished from Kamurocho just before I could find her, and that my mother and grandfather had already died."
+  ]
+ },
+ {
   "order": 0,
   "word": "後戻り",
   "reading": "あともどり",

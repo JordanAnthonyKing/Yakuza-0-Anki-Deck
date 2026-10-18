@@ -1,5 +1,44 @@
 [
  {
+  "order": 287,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そりゃあひと仕事<b>終え</b>た後っつったら、",
+  "word": "終える",
+  "reading": "おえる",
+  "meaning": "to finish; to get through with; to complete; to bring (something) to an end",
+  "pos": "verb",
+  "chapter": 2,
+  "speaker": "髭のホームレス",
+  "uid": "003311e4",
+  "candidates": [
+   "(verb) to finish; to get through with; to complete; to bring (something) to an end",
+   "(verb) to graduate",
+   "(verb) to come to an end; to end",
+   "(verb) to finish doing ...; to be done doing ..."
+  ]
+ },
+ {
+  "order": 286,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "こう寒くちゃ舌が<b>まわん</b>ねえよ。",
+  "word": "回る",
+  "reading": "まわる",
+  "meaning": "to go around; to make a circle around",
+  "pos": "verb",
+  "chapter": 2,
+  "speaker": "髭のホームレス",
+  "uid": "003311e4",
+  "candidates": [
+   "(verb) to go around; to make a circle around",
+   "(verb) to surround; to circle; to enclose",
+   "(verb) to come around (of a season, anniversary, turn, etc.); to return; to repeat; to circulate (of blood, money, etc.)",
+   "(verb) to travel around; to make a tour of",
+   "(verb) to concern (a matter); to surround"
+  ]
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -648,6 +687,26 @@
   "candidates": [
    "(verb) understanding; comprehension; appreciation",
    "(verb) sympathy"
+  ]
+ },
+ {
+  "order": 288,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ご理解<b>いただけ</b>ましたか、桐生さん？",
+  "word": "頂く",
+  "reading": "いただく",
+  "meaning": "to receive; to get; to accept; to take",
+  "pos": "verb",
+  "chapter": 2,
+  "speaker": "立華",
+  "uid": "013311b5",
+  "candidates": [
+   "(verb) to receive; to get; to accept; to take",
+   "(verb) to eat; to drink",
+   "(verb) to be crowned with; to wear (on one's head); to have (on top)",
+   "(verb) to have (as one's leader); to live under (a ruler); to install (a president)",
+   "(verb) to get someone to do something"
   ]
  },
  {
@@ -1406,6 +1465,27 @@
    "(noun) line; stripe; streak",
    "(noun) reason; logic",
    "(noun) plot; storyline"
+  ]
+ },
+ {
+  "order": 289,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せめてものケジメだ、錦。きっちり筋は<b>通す</b>。",
+  "word": "通す",
+  "reading": "とおす",
+  "meaning": "to let pass; to allow through; to let through; to make way (for)",
+  "pos": "verb",
+  "chapter": 2,
+  "speaker": "桐生",
+  "uid": "013311b9",
+  "candidates": [
+   "(verb) to let pass; to allow through; to let through; to make way (for)",
+   "(verb) to transmit (e.g. light, sound, etc.); to conduct (electricity); to let permeate (e.g. water through a fabric); to permit through",
+   "(verb) to stick through (e.g. a hole); to force through (e.g. an opening); to thread (e.g. a needle); to put through",
+   "(verb) to connect (e.g. two places); to open (a route, path, etc.); to link (e.g. by a road); to establish (a connection between)",
+   "(verb) to pass (a student, applicant, etc.); to admit (e.g. a student); to let through; to let in",
+   "(verb) to lead (someone) into (a house, room, etc.); to show in; to guide in; to admit (someone)"
   ]
  },
  {

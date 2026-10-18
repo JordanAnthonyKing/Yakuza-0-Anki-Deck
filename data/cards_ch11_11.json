@@ -1,5 +1,26 @@
 [
  {
+  "order": 130,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……それでは早速<b>参り</b>ましょう。",
+  "word": "参る",
+  "reading": "まいる",
+  "meaning": "to go; to come",
+  "pos": "verb",
+  "chapter": 11,
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "candidates": [
+   "(verb) to go; to come",
+   "(verb) to lose; to be defeated; to give up; to be beaten",
+   "(verb) to be stumped (by); to be at a loss; to be nonplussed (by); to be confused",
+   "(verb) to visit (a shrine, grave, etc.); to go to worship (at a temple)",
+   "(verb) to give in (of one's body); to be exhausted (by); to weaken; to collapse (e.g. in the heat)",
+   "(verb) to have one's heart stolen (by); to be madly in love (with); to be infatuated (with)"
+  ]
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -1086,6 +1107,27 @@
    "(verb) to publish; to print; to carry (e.g. an article)",
    "(verb) to tuck up (e.g. sleeves); to roll up",
    "(verb) to stoke (a fire); to fan (a flame)"
+  ]
+ },
+ {
+  "order": 131,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "東城会の代紋掲げては出来へん汚い仕事を<b>こなし</b>とる",
+  "word": "熟す",
+  "reading": "こなす",
+  "meaning": "to digest",
+  "pos": "verb",
+  "chapter": 11,
+  "speaker": "西谷",
+  "uid": "013313da",
+  "candidates": [
+   "(verb) to digest",
+   "(verb) to break down; to break to pieces; to crush",
+   "(verb) to be able to use; to be good at; to have a good command of",
+   "(verb) to finish; to complete; to manage; to perform",
+   "(verb) to sell",
+   "(verb) to do ... well; to do ... completely"
   ]
  },
  {

@@ -1,5 +1,21 @@
 [
  {
+  "order": 317,
+  "word": "為さる",
+  "reading": "なさる",
+  "meaning": "to do",
+  "pos": "verb",
+  "speaker": "テレクラ受付",
+  "uid": "01022274",
+  "sentence": "ご利用はどれくらいになさいますか？",
+  "parity": true,
+  "official_candidate": "Welcome. How much time would you like today?",
+  "official_neighbors": [
+   "...Gimme two hours.",
+   "Thank you, sir. Please head down the hall to room number five."
+  ]
+ },
+ {
   "order": 0,
   "word": "糞",
   "reading": "くそ",
@@ -518,24 +534,6 @@
   "speaker": "真島",
   "uid": "01022264",
   "sentence": "ま、敵に塩を送られたようで複雑ではあるが……",
-  "parity": true,
-  "official_candidate": "(Nice surprises are always a little creepy when they're comin' from your enemies, but I'll take it. That Yamagata's a tough guy to read.)",
-  "official_neighbors": [
-   "(Looks like my little talk with Yamagata went better'n I thought.)",
-   "(Glad I walked around town gatherin' dirt. And I guess the ol' eye didn't let me down once I got there, either.)",
-   "Still, that was quite the surprise to wake up to! Why didn't you tell me two other girls were coming besides Nozomi?",
-   "Two what now?"
-  ]
- },
- {
-  "order": 33,
-  "word": "山形",
-  "reading": "やまがた",
-  "meaning": "Yamagata (city, prefecture)",
-  "pos": "noun",
-  "speaker": "真島",
-  "uid": "01022264",
-  "sentence": "フン、オデッセイの支配人、山形か……",
   "parity": true,
   "official_candidate": "(Nice surprises are always a little creepy when they're comin' from your enemies, but I'll take it. That Yamagata's a tough guy to read.)",
   "official_neighbors": [
@@ -2128,6 +2126,23 @@
   "word": "変装",
   "reading": "へんそう",
   "meaning": "disguise; masquerade",
+  "pos": "verb",
+  "speaker": "真島",
+  "uid": "0102227b",
+  "sentence": "しもた～！　やっぱりこない変装しても、",
+  "parity": true,
+  "official_candidate": "Nuts! I guess not even a getup like this was enough to disguise myself from a sharp kid like you! It's a real curse bein' this handsome sometimes, y'know?",
+  "official_neighbors": [
+   "Don't tell me. Ya figured out I'm a celebrity, didn't ya?",
+   "Huh?",
+   "Aw, but don't clam up! I'll autograph anythin' ya want. Just keep it our little secret, yeah?"
+  ]
+ },
+ {
+  "order": 318,
+  "word": "仕舞う",
+  "reading": "しまう",
+  "meaning": "to finish; to stop; to end; to put an end to",
   "pos": "verb",
   "speaker": "真島",
   "uid": "0102227b",

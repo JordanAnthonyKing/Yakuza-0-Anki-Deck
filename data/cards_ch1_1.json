@@ -37,6 +37,27 @@
   ]
  },
  {
+  "order": 641,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "兄弟……　お前が組を<b>抜ける</b>と言ったって、",
+  "word": "抜ける",
+  "reading": "ぬける",
+  "meaning": "to come out; to fall out; to be omitted; to be missing",
+  "pos": "verb",
+  "chapter": 1,
+  "speaker": "錦山",
+  "uid": "00331122",
+  "candidates": [
+   "(verb) to come out; to fall out; to be omitted; to be missing",
+   "(verb) to fade; to discolour",
+   "(verb) to wear a hole (e.g. clothes)",
+   "(verb) to leave (e.g. a meeting)",
+   "(verb) to be clear; to be transparent (e.g. of the sky)",
+   "(verb) to be absentminded; to be careless; to be inattentive; to be foolish"
+  ]
+ },
+ {
   "order": 2,
   "kind": "i+1",
   "standalone": false,
@@ -4074,6 +4095,24 @@
   ]
  },
  {
+  "order": 642,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "はい。<b>間違っ</b>ても俺は銃を撃ったりはしていません。",
+  "word": "間違う",
+  "reading": "まちがう",
+  "meaning": "to be mistaken; to be incorrect; to be wrong",
+  "pos": "verb",
+  "chapter": 1,
+  "speaker": "桐生",
+  "uid": "0133119a",
+  "candidates": [
+   "(verb) to be mistaken; to be incorrect; to be wrong",
+   "(verb) to make a mistake (in); to do incorrectly; to get wrong",
+   "(verb) to mistake (one thing with another); to confuse"
+  ]
+ },
+ {
   "order": 240,
   "kind": "i+1",
   "standalone": false,
@@ -7857,6 +7896,23 @@
    "(noun) point (in a loyalty program); points",
    "(noun) (percentage) point",
    "(noun) (decimal) point"
+  ]
+ },
+ {
+  "order": 643,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ＣＰ（コンプリート・ポイント）を<b>得る</b>ことができます。",
+  "word": "得る",
+  "reading": "える",
+  "meaning": "to be able to ...; can ...",
+  "pos": "verb",
+  "chapter": 1,
+  "speaker": "達成目録について",
+  "uid": "01331121",
+  "candidates": [
+   "(verb) to be able to ...; can ...",
+   "(verb) to get; to acquire; to obtain; to procure"
   ]
  },
  {

@@ -29,6 +29,22 @@
   ]
  },
  {
+  "order": 641,
+  "word": "抜ける",
+  "reading": "ぬける",
+  "meaning": "to come out; to fall out; to be omitted; to be missing",
+  "pos": "verb",
+  "speaker": "錦山",
+  "uid": "00331122",
+  "sentence": "兄弟……　お前が組を抜けると言ったって、",
+  "parity": true,
+  "official_candidate": "Bro... Just because you say you want out doesn't mean Kuze's gonna just let you go.",
+  "official_neighbors": [
+   "Who knows what's going to happen in there? Just... be ready.",
+   "I am. Let's go."
+  ]
+ },
+ {
   "order": 2,
   "word": "覚悟",
   "reading": "かくご",
@@ -4021,6 +4037,24 @@
   ]
  },
  {
+  "order": 642,
+  "word": "間違う",
+  "reading": "まちがう",
+  "meaning": "to be mistaken; to be incorrect; to be wrong",
+  "pos": "verb",
+  "speaker": "桐生",
+  "uid": "0133119a",
+  "sentence": "はい。間違っても俺は銃を撃ったりはしていません。",
+  "parity": true,
+  "official_candidate": "Yes, sir. No matter what happened there, I didn't shoot him.",
+  "official_neighbors": [
+   "Then it wasn't me that killed him. I roughed him up with my bare hands, and that's all. That's the truth!",
+   "If that's true, it would mean somebody's set you up here. Is that what you're saying?",
+   "So says the accused. And what say we all?",
+   "I think it's a load of shit, and you're trying to worm your way out of this. Who the fuck bothers to frame a nobody like you?"
+  ]
+ },
+ {
   "order": 240,
   "word": "末路",
   "reading": "まつろ",
@@ -7752,6 +7786,22 @@
   "reading": "ポイント",
   "meaning": "point (of a story, argument, etc.); key point; important part",
   "pos": "noun",
+  "speaker": "達成目録について",
+  "uid": "01331121",
+  "sentence": "ＣＰ（コンプリート・ポイント）を得ることができます。",
+  "parity": true,
+  "official_candidate": "Completing certain challenges will earn you CP (Completion Points). You can view them from the Pause menu, under Completion List. Some are things that will probably happen on their own as you play the game, but others will require more deliberate effort.",
+  "official_neighbors": [
+   "Yeah.",
+   "Visit temples or shrines to access the CP Exchange menu, where you can spend CP to earn special blessings ranging from being able to sprint for longer distances to earning more cash from fights. They're a big help, so take a look!"
+  ]
+ },
+ {
+  "order": 643,
+  "word": "得る",
+  "reading": "える",
+  "meaning": "to be able to ...; can ...",
+  "pos": "verb",
   "speaker": "達成目録について",
   "uid": "01331121",
   "sentence": "ＣＰ（コンプリート・ポイント）を得ることができます。",

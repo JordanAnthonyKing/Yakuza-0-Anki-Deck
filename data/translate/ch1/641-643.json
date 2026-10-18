@@ -1,0 +1,17 @@
+{
+ "641": {
+  "literal": "Brother... even if you say you're leaving the family,",
+  "official": "Bro... Just because you say you want out",
+  "official_ok": true
+ },
+ "642": {
+  "literal": "Yes. I certainly never fired a gun at anyone.",
+  "official": "Yes, sir. No matter what happened there, I didn't shoot him.",
+  "official_ok": true
+ },
+ "643": {
+  "literal": "You can earn CP (Completion Points).",
+  "official": "Completing certain challenges will earn you CP (Completion Points).",
+  "official_ok": true
+ }
+}

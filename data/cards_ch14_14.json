@@ -1,5 +1,44 @@
 [
  {
+  "order": 151,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "約束はできんが手は<b>尽くし</b>ている。",
+  "word": "尽くす",
+  "reading": "つくす",
+  "meaning": "to use up; to exhaust; to run out of",
+  "pos": "verb",
+  "chapter": 14,
+  "speaker": "陳老人",
+  "uid": "0133142d",
+  "candidates": [
+   "(verb) to use up; to exhaust; to run out of",
+   "(verb) to devote oneself (to); to do one's utmost (for); to serve; to work (for a cause)",
+   "(verb) to do to exhaustion; to do completely; to do fully"
+  ]
+ },
+ {
+  "order": 150,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ただ、私が中国を<b>去っ</b>た後、",
+  "word": "去る",
+  "reading": "さる",
+  "meaning": "to leave; to go away",
+  "pos": "verb",
+  "chapter": 14,
+  "speaker": "立華",
+  "uid": "0133142d",
+  "candidates": [
+   "(verb) to leave; to go away",
+   "(verb) to pass; to elapse",
+   "(verb) to be distant",
+   "(verb) to send away; to drive off; to divorce",
+   "(verb) to (do) completely",
+   "(adj-pn) last ... (e.g. \"last April\")"
+  ]
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,

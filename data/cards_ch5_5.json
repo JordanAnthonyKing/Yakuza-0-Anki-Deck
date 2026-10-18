@@ -1889,6 +1889,24 @@
   ]
  },
  {
+  "order": 360,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そのあと部外者には御退場<b>願う</b>。",
+  "word": "願う",
+  "reading": "ねがう",
+  "meaning": "to desire; to wish; to hope",
+  "pos": "verb",
+  "chapter": 5,
+  "speaker": "阿波野",
+  "uid": "01331210",
+  "candidates": [
+   "(verb) to desire; to wish; to hope",
+   "(verb) to beg; to request; to implore; to pray",
+   "(verb) to have something done for oneself"
+  ]
+ },
+ {
   "order": 114,
   "kind": "i+1",
   "standalone": false,

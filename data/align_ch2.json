@@ -1,5 +1,41 @@
 [
  {
+  "order": 287,
+  "word": "終える",
+  "reading": "おえる",
+  "meaning": "to finish; to get through with; to complete; to bring (something) to an end",
+  "pos": "verb",
+  "speaker": "髭のホームレス",
+  "uid": "003311e4",
+  "sentence": "そりゃあひと仕事終えた後っつったら、",
+  "parity": true,
+  "official_candidate": "Yeah, well. There's just no beating a beer at the end of a job!",
+  "official_neighbors": [
+   "Me, I'll stick with beer.",
+   "Heh, after all that talk, I was expecting fancier.",
+   "What job?",
+   "Whoa, you almost got me there. Nope! First the beer. And I got a bottle opener on me, so I don't care if it's a can or a bottle. Whichever works."
+  ]
+ },
+ {
+  "order": 286,
+  "word": "回る",
+  "reading": "まわる",
+  "meaning": "to go around; to make a circle around",
+  "pos": "verb",
+  "speaker": "髭のホームレス",
+  "uid": "003311e4",
+  "sentence": "こう寒くちゃ舌がまわんねえよ。",
+  "parity": true,
+  "official_candidate": "Huh? Yeah, I don't mind. ...Actually, wait. Sorry. It's too cold. My tongue's frozen stiff.",
+  "official_neighbors": [
+   "(Looks like these are the homeless guys Tachibana employed.)",
+   "I was hoping you guys could answer a few questions. Is this a good time?",
+   "What?",
+   "Hmm, if only I had some booze. That'd thaw it right out."
+  ]
+ },
+ {
   "order": 0,
   "word": "御陰",
   "reading": "おかげ",
@@ -289,9 +325,9 @@
  },
  {
   "order": 17,
-  "word": "セント",
-  "reading": "セント",
-  "meaning": "cent (monetary unit)",
+  "word": "サンタ",
+  "reading": "さんた",
+  "meaning": "Santa Claus",
   "pos": "noun",
   "speaker": "桐生",
   "uid": "003311e8",
@@ -637,6 +673,22 @@
   "word": "理解",
   "reading": "りかい",
   "meaning": "understanding; comprehension; appreciation",
+  "pos": "verb",
+  "speaker": "立華",
+  "uid": "013311b5",
+  "sentence": "ご理解いただけましたか、桐生さん？",
+  "parity": true,
+  "official_candidate": "Have I earned your understanding, Kiryu-san?",
+  "official_neighbors": [
+   "What? That's insane...",
+   "Tachibana... What proof have you got that you're the guy Kazama-san entrusted all this to?"
+  ]
+ },
+ {
+  "order": 288,
+  "word": "頂く",
+  "reading": "いただく",
+  "meaning": "to receive; to get; to accept; to take",
   "pos": "verb",
   "speaker": "立華",
   "uid": "013311b5",
@@ -1377,6 +1429,24 @@
   "reading": "すじ",
   "meaning": "muscle; tendon; sinew",
   "pos": "noun",
+  "speaker": "桐生",
+  "uid": "013311b9",
+  "sentence": "せめてものケジメだ、錦。きっちり筋は通す。",
+  "parity": true,
+  "official_candidate": "This is about me taking accountability, Nishiki. Let me do this right.",
+  "official_neighbors": [
+   "No... I've been expelled from the Tojo Clan. I can't be in the Kazama Family office. You go tell him for me.",
+   "Oh, come on. Don't be like that. It's fine, come inside.",
+   "Accountability for what, though? You didn't do anything.",
+   "Fine. You're heading back to your apartment then? I'll meet you there in a bit. You can fill me in on everything."
+  ]
+ },
+ {
+  "order": 289,
+  "word": "通す",
+  "reading": "とおす",
+  "meaning": "to let pass; to allow through; to let through; to make way (for)",
+  "pos": "verb",
   "speaker": "桐生",
   "uid": "013311b9",
   "sentence": "せめてものケジメだ、錦。きっちり筋は通す。",

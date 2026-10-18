@@ -1,0 +1,12 @@
+{
+ "317": {
+  "literal": "How long would you like to use our services for?",
+  "official": "How much time would you like today?",
+  "official_ok": true
+ },
+ "318": {
+  "literal": "Dang it! Even in a disguise like this, after all,",
+  "official": "Nuts! I guess not even a getup like this was enough to disguise myself",
+  "official_ok": true
+ }
+}

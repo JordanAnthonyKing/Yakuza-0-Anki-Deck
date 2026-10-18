@@ -1,5 +1,21 @@
 [
  {
+  "order": 130,
+  "word": "参る",
+  "reading": "まいる",
+  "meaning": "to go; to come",
+  "pos": "verb",
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "sentence": "……それでは早速参りましょう。",
+  "parity": true,
+  "official_candidate": "Expectations for round two are soaring! Let's get right to it, folks. The next killer to take the ring is this man!",
+  "official_neighbors": [
+   "WHAT AN UPSET! The one-eyed monster, Goro Majima, appears out of nowhere with a resounding win in his debut match!",
+   "The pleasure-killing practitioner who passed his patients' deaths off as natural causes... Doctor Kirihitoooo!"
+  ]
+ },
+ {
   "order": 0,
   "word": "リング",
   "reading": "リング",
@@ -1104,6 +1120,23 @@
   "word": "掲げる",
   "reading": "かかげる",
   "meaning": "to put up (a notice, sign, etc.); to hang out (e.g. a banner); to fly (e.g. a flag); to hoist",
+  "pos": "verb",
+  "speaker": "西谷",
+  "uid": "013313da",
+  "sentence": "東城会の代紋掲げては出来へん汚い仕事をこなしとる",
+  "parity": true,
+  "official_candidate": "They do the kinda work even the Tojo don't want their names on. Black ops shit. They're like the CIA in America or the Soviet KGB.",
+  "official_neighbors": [
+   "Majima-kun, you've shown me how strong ya are, but... those Nikkyo fucks aren't the kinda guys ya take on alone.",
+   "And why's that?",
+   "That said... You and me team up, and things start to get more stimulatin'."
+  ]
+ },
+ {
+  "order": 131,
+  "word": "熟す",
+  "reading": "こなす",
+  "meaning": "to digest",
   "pos": "verb",
   "speaker": "西谷",
   "uid": "013313da",

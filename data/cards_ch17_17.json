@@ -1,5 +1,23 @@
 [
  {
+  "order": 282,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "これで拳を<b>交わす</b>理由はわかったな？",
+  "word": "交わす",
+  "reading": "かわす",
+  "meaning": "to exchange (messages, greetings, arguments, etc.)",
+  "pos": "verb",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(verb) to exchange (messages, greetings, arguments, etc.)",
+   "(verb) to intersect; to cross; to interlace",
+   "(verb) ... with one another; ... to each other"
+  ]
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,

@@ -314,7 +314,8 @@
    "chapter": 1,
    "multi_sense": true,
    "glosses": [
-    "to be known; to be understood"
+    "to be known; to be understood",
+    "かもしれない: might; may (lit. 'can't be known')"
    ],
    "candidates": [
     "(verb) to become known; to come to light; to be discovered",
@@ -7097,7 +7098,9 @@
    "multi_sense": true,
    "glosses": [
     "degree; extent; amount",
-    "degree; extent; amount; balance"
+    "degree; extent; amount; balance",
+    "いい加減: seriously; just about (いい加減爆発しそう: about ready to explode)",
+    "いい加減: by now; surely (いい加減、次は落ちる: surely he'll fall this time)"
    ],
    "candidates": [
     "(noun) degree; extent; amount; balance",
@@ -11718,7 +11721,8 @@
    "chapter": 3,
    "multi_sense": false,
    "glosses": [
-    "counter for long and narrow things (e.g. guns, spades, hoes, oars, ink sticks, candles, abacuses, kitchen knives, scissors, shamisen, violins); counter for palanquins, rickshaws, and similar vehicles"
+    "counter for long and narrow things (e.g. guns, spades, hoes, oars, ink sticks, candles, abacuses, kitchen knives, scissors, shamisen, violins); counter for palanquins, rickshaws, and similar vehicles",
+    "one round; one go (一丁: \"let's give it a shot\")"
    ],
    "candidates": [
     "(ctr) counter for long and narrow things (e.g. guns, spades, hoes, oars, ink sticks, candles, abacuses, kitchen knives, scissors, shamisen, violins); counter for palanquins, rickshaws, and similar vehicles"
@@ -19565,7 +19569,8 @@
    "chapter": 5,
    "multi_sense": true,
    "glosses": [
-    "to take (responsibility); to assume; to accept; to bear (the blame, costs, etc.)"
+    "to take (responsibility); to assume; to accept; to bear (the blame, costs, etc.)",
+    "手に負えない: to be beyond one's control; to be too much to handle"
    ],
    "candidates": [
     "(verb) to carry on one's back; to bear; to shoulder",
@@ -36635,6 +36640,258 @@
     "(verb) to bend (the truth); to distort; to twist; to pervert",
     "(verb) to yield (a point); to depart (from a principle); to ignore (what one really thinks)",
     "(verb) to pawn"
+   ]
+  },
+  "抜ける": {
+   "reading": "ぬける",
+   "chapter": 1,
+   "multi_sense": true,
+   "glosses": [
+    "to leave (a group, e.g. a gang); to quit; to come out"
+   ],
+   "candidates": [
+    "(verb) to come out; to fall out; to be omitted; to be missing",
+    "(verb) to fade; to discolour",
+    "(verb) to wear a hole (e.g. clothes)",
+    "(verb) to leave (e.g. a meeting)",
+    "(verb) to be clear; to be transparent (e.g. of the sky)",
+    "(verb) to be absentminded; to be careless; to be inattentive; to be foolish"
+   ]
+  },
+  "間違う": {
+   "reading": "まちがう",
+   "chapter": 1,
+   "multi_sense": true,
+   "glosses": [
+    "to be mistaken; to be wrong (間違っても: never, not even by mistake)"
+   ],
+   "candidates": [
+    "(verb) to be mistaken; to be incorrect; to be wrong",
+    "(verb) to make a mistake (in); to do incorrectly; to get wrong",
+    "(verb) to mistake (one thing with another); to confuse"
+   ]
+  },
+  "得る": {
+   "reading": "える",
+   "chapter": 1,
+   "multi_sense": true,
+   "glosses": [
+    "to get; to obtain; to acquire"
+   ],
+   "candidates": [
+    "(verb) to be able to ...; can ...",
+    "(verb) to get; to acquire; to obtain; to procure"
+   ]
+  },
+  "終える": {
+   "reading": "おえる",
+   "chapter": 2,
+   "multi_sense": true,
+   "glosses": [
+    "to finish; to complete"
+   ],
+   "candidates": [
+    "(verb) to finish; to get through with; to complete; to bring (something) to an end",
+    "(verb) to graduate",
+    "(verb) to come to an end; to end",
+    "(verb) to finish doing ...; to be done doing ..."
+   ]
+  },
+  "回る": {
+   "reading": "まわる",
+   "chapter": 2,
+   "multi_sense": true,
+   "glosses": [
+    "to turn; to go around (舌が回る: to speak fluently)"
+   ],
+   "candidates": [
+    "(verb) to go around; to make a circle around",
+    "(verb) to surround; to circle; to enclose",
+    "(verb) to come around (of a season, anniversary, turn, etc.); to return; to repeat; to circulate (of blood, money, etc.)",
+    "(verb) to travel around; to make a tour of",
+    "(verb) to concern (a matter); to surround"
+   ]
+  },
+  "サンタ": {
+   "reading": "さんた",
+   "chapter": 2,
+   "multi_sense": false,
+   "glosses": [
+    "Santa Claus"
+   ],
+   "candidates": [
+    "(noun) Santa Claus"
+   ]
+  },
+  "頂く": {
+   "reading": "いただく",
+   "chapter": 2,
+   "multi_sense": true,
+   "glosses": [
+    "to receive (humble); 〜ていただく: to have someone (kindly) do"
+   ],
+   "candidates": [
+    "(verb) to receive; to get; to accept; to take",
+    "(verb) to eat; to drink",
+    "(verb) to be crowned with; to wear (on one's head); to have (on top)",
+    "(verb) to have (as one's leader); to live under (a ruler); to install (a president)",
+    "(verb) to get someone to do something"
+   ]
+  },
+  "通す": {
+   "reading": "とおす",
+   "chapter": 2,
+   "multi_sense": true,
+   "glosses": [
+    "to stick to; to see through (筋を通す: to do things properly, keep to one's principles)"
+   ],
+   "candidates": [
+    "(verb) to let pass; to allow through; to let through; to make way (for)",
+    "(verb) to transmit (e.g. light, sound, etc.); to conduct (electricity); to let permeate (e.g. water through a fabric); to permit through",
+    "(verb) to stick through (e.g. a hole); to force through (e.g. an opening); to thread (e.g. a needle); to put through",
+    "(verb) to connect (e.g. two places); to open (a route, path, etc.); to link (e.g. by a road); to establish (a connection between)",
+    "(verb) to pass (a student, applicant, etc.); to admit (e.g. a student); to let through; to let in",
+    "(verb) to lead (someone) into (a house, room, etc.); to show in; to guide in; to admit (someone)"
+   ]
+  },
+  "抜く": {
+   "reading": "ぬく",
+   "chapter": 3,
+   "multi_sense": true,
+   "glosses": [
+    "to overtake; to pass; to pull out"
+   ],
+   "candidates": [
+    "(verb) to pull out; to draw out; to extract; to unplug",
+    "(verb) to omit; to leave out; to go without; to skip",
+    "(verb) to do to the end; to do thoroughly; to do completely; to do severely",
+    "(verb) to let out (e.g. air from a tyre); to drain (e.g. water from a bath); to empty",
+    "(verb) to pick out; to choose; to select; to extract",
+    "(verb) to pilfer; to steal"
+   ]
+  },
+  "致す": {
+   "reading": "いたす",
+   "chapter": 3,
+   "multi_sense": false,
+   "glosses": [
+    "to do (humble)"
+   ],
+   "candidates": [
+    "(verb) to do"
+   ]
+  },
+  "為さる": {
+   "reading": "なさる",
+   "chapter": 4,
+   "multi_sense": false,
+   "glosses": [
+    "to do (honorific)"
+   ],
+   "candidates": [
+    "(verb) to do"
+   ]
+  },
+  "仕舞う": {
+   "reading": "しまう",
+   "chapter": 4,
+   "multi_sense": true,
+   "glosses": [
+    "to finish; to put away (しまった! / Kansai しもた!: oh no!; damn!)"
+   ],
+   "candidates": [
+    "(verb) to finish; to stop; to end; to put an end to",
+    "(verb) to close (a business, etc.); to close down; to shut down; to shut up",
+    "(verb) to put away; to put back; to keep; to store",
+    "(verb) to do completely; to finish",
+    "(verb) to do accidentally; to do without meaning to; to happen to do; to end up ..."
+   ]
+  },
+  "願う": {
+   "reading": "ねがう",
+   "chapter": 5,
+   "multi_sense": true,
+   "glosses": [
+    "to request; to ask; to wish"
+   ],
+   "candidates": [
+    "(verb) to desire; to wish; to hope",
+    "(verb) to beg; to request; to implore; to pray",
+    "(verb) to have something done for oneself"
+   ]
+  },
+  "参る": {
+   "reading": "まいる",
+   "chapter": 11,
+   "multi_sense": true,
+   "glosses": [
+    "to go; to come (humble)"
+   ],
+   "candidates": [
+    "(verb) to go; to come",
+    "(verb) to lose; to be defeated; to give up; to be beaten",
+    "(verb) to be stumped (by); to be at a loss; to be nonplussed (by); to be confused",
+    "(verb) to visit (a shrine, grave, etc.); to go to worship (at a temple)",
+    "(verb) to give in (of one's body); to be exhausted (by); to weaken; to collapse (e.g. in the heat)",
+    "(verb) to have one's heart stolen (by); to be madly in love (with); to be infatuated (with)"
+   ]
+  },
+  "熟す": {
+   "reading": "こなす",
+   "chapter": 11,
+   "multi_sense": true,
+   "glosses": [
+    "to handle; to get through (work, tasks); to manage"
+   ],
+   "candidates": [
+    "(verb) to digest",
+    "(verb) to break down; to break to pieces; to crush",
+    "(verb) to be able to use; to be good at; to have a good command of",
+    "(verb) to finish; to complete; to manage; to perform",
+    "(verb) to sell",
+    "(verb) to do ... well; to do ... completely"
+   ]
+  },
+  "尽くす": {
+   "reading": "つくす",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to do everything possible (手を尽くす: to try every means)"
+   ],
+   "candidates": [
+    "(verb) to use up; to exhaust; to run out of",
+    "(verb) to devote oneself (to); to do one's utmost (for); to serve; to work (for a cause)",
+    "(verb) to do to exhaustion; to do completely; to do fully"
+   ]
+  },
+  "去る": {
+   "reading": "さる",
+   "chapter": 14,
+   "multi_sense": true,
+   "glosses": [
+    "to leave; to go away"
+   ],
+   "candidates": [
+    "(verb) to leave; to go away",
+    "(verb) to pass; to elapse",
+    "(verb) to be distant",
+    "(verb) to send away; to drive off; to divorce",
+    "(verb) to (do) completely",
+    "(adj-pn) last ... (e.g. \"last April\")"
+   ]
+  },
+  "交わす": {
+   "reading": "かわす",
+   "chapter": 17,
+   "multi_sense": true,
+   "glosses": [
+    "to exchange (拳を交わす: to exchange blows; to fight)"
+   ],
+   "candidates": [
+    "(verb) to exchange (messages, greetings, arguments, etc.)",
+    "(verb) to intersect; to cross; to interlace",
+    "(verb) ... with one another; ... to each other"
    ]
   }
  }
