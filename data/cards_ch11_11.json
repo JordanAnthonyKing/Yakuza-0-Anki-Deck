@@ -1,5 +1,19 @@
 [
  {
+  "order": 132,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……昔、この川に<b>女子高生</b>の死体が上がってなぁ。",
+  "word": "女子高生",
+  "reading": "じょしこうせい",
+  "meaning": "high-school girl",
+  "pos": "noun",
+  "chapter": 11,
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "candidates": []
+ },
+ {
   "order": 130,
   "kind": "i+1",
   "standalone": false,
@@ -656,6 +670,20 @@
   "candidates": [
    "(noun) trace; vestige; evidence"
   ]
+ },
+ {
+  "order": 133,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "死体を跡形も無く食べて証拠を消した連続<b>殺人鬼</b>、",
+  "word": "殺人鬼",
+  "reading": "さつじんき",
+  "meaning": "murderous fiend; serial killer",
+  "pos": "noun",
+  "chapter": 11,
+  "speaker": "リングアナ",
+  "uid": "013313cf",
+  "candidates": []
  },
  {
   "order": 43,
@@ -1513,6 +1541,20 @@
   ]
  },
  {
+  "order": 134,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "法で裁かれることなく、<b>少年院</b>を出たガキは、",
+  "word": "少年院",
+  "reading": "しょうねんいん",
+  "meaning": "juvenile detention centre; reform school",
+  "pos": "noun",
+  "chapter": 11,
+  "speaker": "ビリケン",
+  "uid": "013313bd",
+  "candidates": []
+ },
+ {
   "order": 94,
   "kind": "grp2",
   "standalone": false,
@@ -1622,17 +1664,16 @@
   "order": 101,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "……しかし、謎のルーキーの快<b>進撃</b>も、",
-  "word": "進撃",
-  "reading": "しんげき",
-  "meaning": "advance; charge",
-  "pos": "verb",
+  "sentence": "……しかし、謎のルーキーの<b>快進撃</b>も、",
+  "word": "快進撃",
+  "reading": "かいしんげき",
+  "meaning": "winning streak; unstoppable advance",
+  "pos": "noun",
   "chapter": 11,
   "speaker": "リングアナ",
   "uid": "013313cf",
-  "candidates": [
-   "(verb) advance; charge"
-  ]
+  "candidates": [],
+  "guid": "gLnm}p97k4"
  },
  {
   "order": 102,

@@ -1,5 +1,19 @@
 [
  {
+  "order": 56,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そいつは<b>納得ずく</b>のはずだろ？",
+  "word": "納得ずく",
+  "reading": "なっとくずく",
+  "meaning": "by mutual agreement; with full consent",
+  "pos": "noun",
+  "chapter": 15,
+  "speaker": "佐川",
+  "uid": "01331445",
+  "candidates": []
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -295,18 +309,16 @@
   "order": 17,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "でなきゃこんなお<b>膳立て</b>はしねえもんな。",
-  "word": "膳立て",
-  "reading": "ぜんだて",
-  "meaning": "setting the table; laying the table",
-  "pos": "verb",
+  "sentence": "でなきゃこんな<b>お膳立て</b>はしねえもんな。",
+  "word": "お膳立て",
+  "reading": "おぜんだて",
+  "meaning": "setting things up; preparing the stage (for something)",
+  "pos": "noun",
   "chapter": 15,
   "speaker": "佐川",
   "uid": "0133145e",
-  "candidates": [
-   "(verb) setting the table; laying the table",
-   "(verb) setting up; getting one's ducks in a row; running interference; setting the stage"
-  ]
+  "candidates": [],
+  "guid": "jrD8(%GVUf"
  },
  {
   "order": 18,

@@ -32,3 +32,97 @@ if __name__ == "__main__":
     for w, r in [("隠し持つ", "かくしもつ"), ("酒盛り", "さかもり"), ("ありがたい", "ありがたい"),
                  ("お陰", "おかげ"), ("神室町", "かむろちょう"), ("ドス黒い", "どすぐろい"), ("糞", "くそ")]:
         print(w, r, "->", furigana(w, r))
+
+
+# ---------- whole-sentence ruby (story card backs) ----------
+# Sentences carry <b>…</b> around the target word, which Anki's bracket syntax can't nest
+# with, so this emits HTML <ruby> directly. The card CSS hides each <rt> until its word is
+# hovered (tapped on mobile).
+import html as _html
+import json as _json
+import os as _os
+
+_NAMES = None
+_tagger = None
+# unidic's reading is wrong for every story line using these surfaces
+READING_FIX = {"１日": "いちにち", "1日": "いちにち"}
+
+def _names():
+    """Curated character/place readings, longest first: unidic misreads several
+    (錦山 -> きんざん, 立華 -> りっか)."""
+    global _NAMES
+    if _NAMES is None:
+        p = _os.path.join(_os.path.dirname(__file__), "..", "data", "names_curated.json")
+        _NAMES = sorted(((e["word"], _hira(e["reading"])) for e in _json.load(open(p, encoding="utf-8"))
+                         if re.search(KANJI, e["word"])), key=lambda x: -len(x[0]))
+    return _NAMES
+
+def _ruby_units(word, reading, start):
+    """(start, end, html) units for one token: kanji runs carry ruby, kana stay bare."""
+    if not reading or not re.search(KANJI, word):
+        return [(start + i, start + i + 1, _html.escape(ch)) for i, ch in enumerate(word)]
+    runs = re.findall(rf"{KANJI}+|[^一-龯㐀-䶿々〆ヶ]+", word)
+    pat = "".join("(.+?)" if re.match(KANJI, r) else "(" + re.escape(_hira(r)) + ")" for r in runs)
+    m = re.fullmatch(pat, _hira(reading))
+    if not m:                                  # unalignable: one ruby over the whole token
+        return [(start, start + len(word),
+                 f"<ruby>{_html.escape(word)}<rt>{_html.escape(_hira(reading))}</rt></ruby>")]
+    out, pos = [], start
+    for run, got in zip(runs, m.groups()):
+        if re.match(KANJI, run):
+            out.append((pos, pos + len(run), f"<ruby>{run}<rt>{got}</rt></ruby>"))
+        else:
+            out += [(pos + i, pos + i + 1, _html.escape(ch)) for i, ch in enumerate(run)]
+        pos += len(run)
+    return out
+
+def sentence_ruby(sentence, word="", reading=""):
+    """Story-card sentence HTML -> same HTML with <ruby> over every kanji run.
+    Only <b>/</b> tags are expected in the input; a tag that falls inside a ruby unit is
+    moved to the unit's edge. The bolded target word uses the card's own reading when the
+    bold text is exactly the dictionary word."""
+    global _tagger
+    if _tagger is None:
+        import fugashi
+        _tagger = fugashi.Tagger()
+    plain, tags = "", []                       # tags: (offset in plain, tag)
+    for part in re.split(r"(<[^>]+>)", sentence):
+        if part.startswith("<"):
+            tags.append((len(plain), part))
+        else:
+            plain += _html.unescape(part)
+    fixed = {}                                 # start -> (word, reading): names + target word
+    bold = re.search(r"<b>(.*?)</b>", sentence)
+    if bold and word and reading and _html.unescape(bold.group(1)) == word:
+        s = len(re.sub(r"<[^>]+>", "", sentence[:bold.start()]))
+        fixed[s] = (word, reading)
+    for name, r in _names():
+        for m in re.finditer(re.escape(name), plain):
+            if not any(a <= m.start() < a + len(w) or m.start() <= a < m.end() for a, (w, _) in fixed.items()):
+                fixed[m.start()] = (name, r)
+    units, i = [], 0
+    while i < len(plain):                      # fixed spans first, tokenize the gaps between
+        nxt = min((a for a in fixed if a >= i), default=len(plain))
+        if nxt == i:
+            w, r = fixed[i]
+            units += _ruby_units(w, r, i); i += len(w); continue
+        pos = i
+        for t in _tagger(plain[i:nxt]):
+            k = plain.index(t.surface, pos) if t.surface and t.surface in plain[pos:nxt] else pos
+            for j in range(pos, k):            # whitespace the tagger skipped
+                units.append((j, j + 1, _html.escape(plain[j])))
+            r = READING_FIX.get(t.surface) or (t.feature.kana if t.feature.kana not in (None, "*") else "")
+            units += _ruby_units(t.surface, r, k)
+            pos = k + len(t.surface)
+        for j in range(pos, nxt):
+            units.append((j, j + 1, _html.escape(plain[j])))
+        i = nxt
+    out, ti = "", 0
+    for s, e, h in units:
+        while ti < len(tags) and tags[ti][0] <= s:
+            out += tags[ti][1]; ti += 1
+        out += h
+        while ti < len(tags) and tags[ti][0] < e and tags[ti][1].startswith("</"):
+            out += tags[ti][1]; ti += 1        # a closing tag inside the unit goes after it
+    out += "".join(t for _, t in tags[ti:])
+    return out

@@ -11,7 +11,7 @@ import os, re, json, glob, sys
 import genanki
 from build_deck import DATA, strip_orphan_brackets
 from keep_guids import old_guids, guid
-from furigana import furigana
+from furigana import furigana, sentence_ruby
 from audio_policy import word_clip
 
 lo = hi = next((int(a) for a in sys.argv[1:] if a.isdigit()), 1)
@@ -34,11 +34,15 @@ MODEL = genanki.Model(
     1607392320, "Yakuza0 i+1 (translated)",
     fields=[{"name": n} for n in ["Sentence", "Word", "Reading", "Meaning",
                                    "English", "Official", "POS", "Chapter", "Speaker", "UID",
-                                   "FullLine", "WordAudio", "SentenceAudio", "Furigana"]],
+                                   "FullLine", "WordAudio", "SentenceAudio", "Furigana",
+                                   "SentenceFurigana"]],
     templates=[{
         "name": "Recognition",
         "qfmt": '<div class="sent">{{Sentence}}</div><div class="spk">{{Speaker}} · Ch.{{Chapter}}</div>',
-        "afmt": '{{FrontSide}}<hr id="answer"><div class="word">{{furigana:Furigana}}</div>'
+        # back repeats the sentence with ruby that shows per word on hover (tap on mobile)
+        "afmt": '<div class="sent rb">{{SentenceFurigana}}</div>'
+                '<div class="spk">{{Speaker}} · Ch.{{Chapter}}</div>'
+                '<hr id="answer"><div class="word">{{furigana:Furigana}}</div>'
                 '{{WordAudio}}<div class="mean">{{Meaning}}</div>'
                 '<div class="pos">{{POS}}</div>'
                 '<div class="eng">{{English}}</div>'
@@ -46,7 +50,10 @@ MODEL = genanki.Model(
                 '{{#SentenceAudio}}<div class="full">{{FullLine}}</div>{{SentenceAudio}}{{/SentenceAudio}}',
     }],
     css=".card{font-family:'Meiryo','Yu Gothic',sans-serif;font-size:22px;text-align:center;color:#111;background:#fff}"
-        ".sent{font-size:26px;margin:14px}.spk{color:#888;font-size:14px}"
+        ".sent{font-size:26px;margin:14px;line-height:2.2}"
+        ".rb rt{font-size:13px;color:#0a7;visibility:hidden}.rb ruby:hover rt{visibility:visible}"
+        ".rb ruby:hover{background:#eef8f3;border-radius:3px}.nightMode .rb ruby:hover{background:#1f3a30}"
+        ".spk{color:#888;font-size:14px}"
         ".word{font-size:34px;font-weight:700;margin-top:12px}.word rt{font-size:15px;font-weight:400;color:#0a7}.read{color:#0a7;font-size:20px}"
         ".mean{margin:8px;font-size:20px}.pos{color:#999;font-size:14px} b{color:#c00}"
         ".eng{margin-top:14px;font-size:19px;color:#234}"
@@ -82,10 +89,12 @@ for c in cards:
     for m in (sa.get("clip"), wa):
         if m:
             media.add(m)
-    fields = [strip_orphan_brackets(c["sentence"]), c["word"], c["reading"], meaning, english, official,
+    sent = strip_orphan_brackets(c["sentence"])
+    fields = [sent, c["word"], c["reading"], meaning, english, official,
               c["pos"], str(c["chapter"]), c.get("speaker", ""), c["uid"],
               sa.get("full", ""), f"[sound:{wa}]" if wa else "",
-              f'[sound:{sa["clip"]}]' if sa.get("clip") else "", furigana(c["word"], c["reading"])]
+              f'[sound:{sa["clip"]}]' if sa.get("clip") else "", furigana(c["word"], c["reading"]),
+              sentence_ruby(sent, c["word"], c["reading"])]
     # a card whose Word was corrected after import carries its original guid
     deck.add_note(genanki.Note(model=MODEL, fields=fields, guid=c.get("guid") or guid(old, fields)))
     added += 1

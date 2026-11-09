@@ -1,0 +1,616 @@
+{
+ "不動産": {
+  "reading": "ふどうさん",
+  "meaning": "real estate; property (land and buildings)",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    331
+   ]
+  ]
+ },
+ "刑務所": {
+  "reading": "けいむしょ",
+  "meaning": "prison",
+  "pos": "noun",
+  "repoint": [
+   [
+    2,
+    33
+   ]
+  ]
+ },
+ "修羅場": {
+  "reading": "しゅらば",
+  "meaning": "bloodbath; scene of carnage; hellish situation",
+  "pos": "noun",
+  "repoint": [
+   [
+    10,
+    8
+   ]
+  ]
+ },
+ "グラサン": {
+  "reading": "ぐらさん",
+  "meaning": "sunglasses (slang)",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    266
+   ]
+  ]
+ },
+ "キレ者": {
+  "reading": "きれもの",
+  "meaning": "sharp operator; shrewd, highly capable person",
+  "pos": "noun",
+  "repoint": [
+   [
+    6,
+    50
+   ]
+  ]
+ },
+ "留置場": {
+  "reading": "りゅうちじょう",
+  "meaning": "police holding cell; lockup",
+  "pos": "noun",
+  "repoint": [
+   [
+    10,
+    3
+   ]
+  ]
+ },
+ "留置所": {
+  "reading": "りゅうちじょ",
+  "meaning": "",
+  "pos": "noun",
+  "alias": "留置場"
+ },
+ "少年院": {
+  "reading": "しょうねんいん",
+  "meaning": "juvenile detention centre; reform school",
+  "pos": "noun"
+ },
+ "下水道": {
+  "reading": "げすいどう",
+  "meaning": "sewer; sewer system",
+  "pos": "noun",
+  "repoint": [
+   [
+    6,
+    21
+   ]
+  ]
+ },
+ "選択肢": {
+  "reading": "せんたくし",
+  "meaning": "choices; options",
+  "pos": "noun"
+ },
+ "鍼師": {
+  "reading": "はりし",
+  "meaning": "acupuncturist",
+  "pos": "noun"
+ },
+ "未成年": {
+  "reading": "みせいねん",
+  "meaning": "minor; underage person",
+  "pos": "noun"
+ },
+ "快進撃": {
+  "reading": "かいしんげき",
+  "meaning": "winning streak; unstoppable advance",
+  "pos": "noun",
+  "repoint": [
+   [
+    11,
+    101
+   ]
+  ]
+ },
+ "愚連隊": {
+  "reading": "ぐれんたい",
+  "meaning": "gang of street thugs; hoodlums",
+  "pos": "noun"
+ },
+ "意気込み": {
+  "reading": "いきごみ",
+  "meaning": "enthusiasm; determination; eagerness",
+  "pos": "noun"
+ },
+ "不気味": {
+  "reading": "ぶきみ",
+  "meaning": "eerie; creepy; ominous",
+  "pos": "na-adjective"
+ },
+ "歓楽街": {
+  "reading": "かんらくがい",
+  "meaning": "entertainment district; red-light district",
+  "pos": "noun",
+  "repoint": [
+   [
+    5,
+    329
+   ]
+  ]
+ },
+ "廃ビル": {
+  "reading": "はいびる",
+  "meaning": "abandoned building",
+  "pos": "noun"
+ },
+ "秘蔵っ子": {
+  "reading": "ひぞっこ",
+  "meaning": "protégé; favourite pupil",
+  "pos": "noun",
+  "repoint": [
+   [
+    3,
+    122
+   ]
+  ]
+ },
+ "地上げ屋": {
+  "reading": "じあげや",
+  "meaning": "land shark (thug who forces owners to sell their land)",
+  "pos": "noun"
+ },
+ "情報網": {
+  "reading": "じょうほうもう",
+  "meaning": "information network; network of informants",
+  "pos": "noun"
+ },
+ "情報源": {
+  "reading": "じょうほうげん",
+  "meaning": "source (of information)",
+  "pos": "noun"
+ },
+ "上納金": {
+  "reading": "じょうのうきん",
+  "meaning": "tribute money (paid up the chain to a parent yakuza family)",
+  "pos": "noun",
+  "repoint": [
+   [
+    2,
+    251
+   ]
+  ]
+ },
+ "立ち退き料": {
+  "reading": "たちのきりょう",
+  "meaning": "eviction compensation; payment to move out",
+  "pos": "noun"
+ },
+ "殺人鬼": {
+  "reading": "さつじんき",
+  "meaning": "murderous fiend; serial killer",
+  "pos": "noun"
+ },
+ "主人公": {
+  "reading": "しゅじんこう",
+  "meaning": "protagonist; main character; hero",
+  "pos": "noun"
+ },
+ "女子大生": {
+  "reading": "じょしだいせい",
+  "meaning": "female university student; college girl",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    479
+   ]
+  ]
+ },
+ "女子高生": {
+  "reading": "じょしこうせい",
+  "meaning": "high-school girl",
+  "pos": "noun"
+ },
+ "社会人": {
+  "reading": "しゃかいじん",
+  "meaning": "working adult; grown-up with a proper job",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    139
+   ]
+  ]
+ },
+ "真犯人": {
+  "reading": "しんはんにん",
+  "meaning": "the real culprit",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    243
+   ]
+  ],
+  "drop": [
+   [
+    2,
+    81
+   ]
+  ]
+ },
+ "小細工": {
+  "reading": "こざいく",
+  "meaning": "petty trick; cheap ploy",
+  "pos": "noun",
+  "repoint": [
+   [
+    7,
+    60
+   ]
+  ]
+ },
+ "良心的": {
+  "reading": "りょうしんてき",
+  "meaning": "conscientious; fair, reasonable (e.g. a price)",
+  "pos": "na-adjective"
+ },
+ "本格的": {
+  "reading": "ほんかくてき",
+  "meaning": "in earnest; full-scale; proper",
+  "pos": "na-adjective",
+  "repoint": [
+   [
+    4,
+    50
+   ]
+  ]
+ },
+ "面倒くさい": {
+  "reading": "めんどうくさい",
+  "meaning": "bothersome; such a pain; can't be bothered",
+  "pos": "i-adjective"
+ },
+ "邪魔くさい": {
+  "reading": "じゃまくさい",
+  "meaning": "annoying; a nuisance; a pain",
+  "pos": "i-adjective"
+ },
+ "アホくさ": {
+  "reading": "あほくさ",
+  "meaning": "how stupid; what a joke (Kansai; short for アホくさい)",
+  "pos": "expression"
+ },
+ "力ずく": {
+  "reading": "ちからずく",
+  "meaning": "by force; with brute force",
+  "pos": "noun"
+ },
+ "納得ずく": {
+  "reading": "なっとくずく",
+  "meaning": "by mutual agreement; with full consent",
+  "pos": "noun"
+ },
+ "世話焼き": {
+  "reading": "せわやき",
+  "meaning": "busybody; someone who loves looking after others",
+  "pos": "noun"
+ },
+ "筋金入り": {
+  "reading": "すじがねいり",
+  "meaning": "hardcore; dyed-in-the-wool; through and through",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    272
+   ]
+  ]
+ },
+ "姐さん": {
+  "reading": "ねえさん",
+  "meaning": "big sister (respectful address to an older woman; in yakuza use, the boss's wife)",
+  "pos": "noun"
+ },
+ "オッサン": {
+  "reading": "おっさん",
+  "meaning": "old man; middle-aged guy (rough)",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    65
+   ]
+  ]
+ },
+ "おっさん": {
+  "reading": "おっさん",
+  "meaning": "",
+  "pos": "noun",
+  "alias": "オッサン"
+ },
+ "不始末": {
+  "reading": "ふしまつ",
+  "meaning": "mess-up; misconduct; screw-up",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    164
+   ]
+  ]
+ },
+ "構成員": {
+  "reading": "こうせいいん",
+  "meaning": "member (of an organization)",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    201
+   ]
+  ]
+ },
+ "お見通し": {
+  "reading": "おみとおし",
+  "meaning": "seeing right through (someone or their plans)",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    328
+   ]
+  ],
+  "drop": [
+   [
+    3,
+    116
+   ]
+  ]
+ },
+ "お門違い": {
+  "reading": "おかどちがい",
+  "meaning": "barking up the wrong tree; misdirected (blame etc.)",
+  "pos": "noun",
+  "repoint": [
+   [
+    10,
+    179
+   ]
+  ]
+ },
+ "お膳立て": {
+  "reading": "おぜんだて",
+  "meaning": "setting things up; preparing the stage (for something)",
+  "pos": "noun",
+  "repoint": [
+   [
+    15,
+    17
+   ]
+  ]
+ },
+ "お達し": {
+  "reading": "おたっし",
+  "meaning": "orders from above; official instructions",
+  "pos": "noun",
+  "repoint": [
+   [
+    14,
+    54
+   ]
+  ]
+ },
+ "お膝元": {
+  "reading": "おひざもと",
+  "meaning": "home turf; stronghold; right under (someone's) nose",
+  "pos": "noun",
+  "repoint": [
+   [
+    10,
+    98
+   ]
+  ]
+ },
+ "お構い": {
+  "reading": "おかまい",
+  "meaning": "hospitality (大したお構いもできず = sorry I couldn't treat you better)",
+  "pos": "noun"
+ },
+ "ご利益": {
+  "reading": "ごりやく",
+  "meaning": "divine favour; blessing (from gods or Buddha)",
+  "pos": "noun"
+ },
+ "ご時世": {
+  "reading": "ごじせい",
+  "meaning": "the times; these days",
+  "pos": "noun",
+  "repoint": [
+   [
+    7,
+    191
+   ]
+  ]
+ },
+ "お題": {
+  "reading": "おだい",
+  "meaning": "set task; challenge; topic",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    458
+   ]
+  ]
+ },
+ "お世辞": {
+  "reading": "おせじ",
+  "meaning": "flattery; compliment (お世辞にも〜ない = even being generous, can't say ...)",
+  "pos": "noun",
+  "repoint": [
+   [
+    7,
+    202
+   ]
+  ]
+ },
+ "おしまい": {
+  "reading": "おしまい",
+  "meaning": "the end; it's all over; done for",
+  "pos": "noun"
+ },
+ "おまかせ": {
+  "reading": "おまかせ",
+  "meaning": "leaving it up to (someone)",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    145
+   ]
+  ]
+ },
+ "お手数": {
+  "reading": "おてすう",
+  "meaning": "trouble; bother (お手数ですが = sorry to trouble you, but)",
+  "pos": "noun",
+  "repoint": [
+   [
+    3,
+    6
+   ]
+  ]
+ },
+ "ごちそう": {
+  "reading": "ごちそう",
+  "meaning": "treat; feast (ごちそうさん = thanks for the treat)",
+  "pos": "noun",
+  "repoint": [
+   [
+    3,
+    130
+   ]
+  ],
+  "match": [
+   "ご馳走",
+   "ごちそう"
+  ]
+ },
+ "御存知": {
+  "reading": "ごぞんじ",
+  "meaning": "knowing; being aware (honorific)",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    224
+   ]
+  ]
+ },
+ "ご存知": {
+  "reading": "ごぞんじ",
+  "meaning": "",
+  "pos": "noun",
+  "alias": "御存知"
+ },
+ "お疲れ様": {
+  "reading": "おつかれさま",
+  "meaning": "thanks for your hard work; good work (greeting to colleagues)",
+  "pos": "expression",
+  "repoint": [
+   [
+    1,
+    287
+   ]
+  ],
+  "match": [
+   "お疲れ様",
+   "お疲れさま",
+   "お疲れ"
+  ]
+ },
+ "お使い": {
+  "reading": "おつかい",
+  "meaning": "errand",
+  "pos": "noun",
+  "repoint": [
+   [
+    7,
+    138
+   ]
+  ],
+  "skip_lines": [
+   "お使いください"
+  ]
+ },
+ "お造り": {
+  "reading": "おつくり",
+  "meaning": "sashimi",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    146
+   ]
+  ]
+ },
+ "お守り": {
+  "reading": "おもり",
+  "meaning": "babysitting; looking after (someone)",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    287
+   ]
+  ]
+ },
+ "不自由": {
+  "reading": "ふじゆう",
+  "meaning": "hardship; going without; inconvenience",
+  "pos": "noun"
+ },
+ "情報屋": {
+  "reading": "じょうほうや",
+  "meaning": "informant; information broker (someone who sells information)",
+  "pos": "noun"
+ },
+ "占有屋": {
+  "reading": "せんゆうや",
+  "meaning": "squatter racketeer (occupies a property to extort money from the owner)",
+  "pos": "noun",
+  "repoint": [
+   [
+    5,
+    2
+   ]
+  ]
+ },
+ "みかじめ": {
+  "reading": "みかじめ",
+  "meaning": "protection money (paid to the yakuza)",
+  "pos": "noun",
+  "match": [
+   "みかじめ料",
+   "みかじめ"
+  ]
+ },
+ "整体師": {
+  "reading": "せいたいし",
+  "meaning": "chiropractor; bodywork therapist",
+  "pos": "noun",
+  "repoint": [
+   [
+    4,
+    119
+   ]
+  ]
+ },
+ "裏社会": {
+  "reading": "うらしゃかい",
+  "meaning": "the underworld; criminal society",
+  "pos": "noun"
+ }
+}

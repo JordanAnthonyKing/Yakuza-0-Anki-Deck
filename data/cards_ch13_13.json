@@ -355,6 +355,20 @@
   ]
  },
  {
+  "order": 67,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ケチな<b>愚連隊</b>やっとった。",
+  "word": "愚連隊",
+  "reading": "ぐれんたい",
+  "meaning": "gang of street thugs; hoodlums",
+  "pos": "noun",
+  "chapter": 13,
+  "speaker": "ビデオショップの店長",
+  "uid": "013313fa",
+  "candidates": []
+ },
+ {
   "order": 23,
   "kind": "i+1",
   "standalone": false,

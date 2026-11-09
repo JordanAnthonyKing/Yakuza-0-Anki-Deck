@@ -936,17 +936,16 @@
   "order": 54,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "上からのお<b>達し</b>でな。見つけ次第始末しろとさ。",
-  "word": "達し",
-  "reading": "たっし",
-  "meaning": "official notice; notification",
+  "sentence": "上からの<b>お達し</b>でな。見つけ次第始末しろとさ。",
+  "word": "お達し",
+  "reading": "おたっし",
+  "meaning": "orders from above; official instructions",
   "pos": "noun",
   "chapter": 14,
   "speaker": "堂島組組員",
   "uid": "01331429",
-  "candidates": [
-   "(noun) official notice; notification"
-  ]
+  "candidates": [],
+  "guid": "v+!V7g#W6x"
  },
  {
   "order": 55,
@@ -1594,6 +1593,20 @@
   ]
  },
  {
+  "order": 152,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "「カラの一坪」に隣接してる<b>廃ビル</b>だ。",
+  "word": "廃ビル",
+  "reading": "はいびる",
+  "meaning": "abandoned building",
+  "pos": "noun",
+  "chapter": 14,
+  "speaker": "陳老人",
+  "uid": "033317ae",
+  "candidates": []
+ },
+ {
   "order": 94,
   "kind": "i+1",
   "standalone": false,
@@ -1706,6 +1719,22 @@
   "uid": "0033164e",
   "candidates": [
    "(noun) rate; ratio; proportion; percentage"
+  ]
+ },
+ {
+  "order": 153,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "人材を増やす。そうすれば<b>占有</b>率は上がって、",
+  "word": "占有",
+  "reading": "せんゆう",
+  "meaning": "possession; occupation; occupancy",
+  "pos": "verb",
+  "chapter": 14,
+  "speaker": "山野井",
+  "uid": "0033164e",
+  "candidates": [
+   "(verb) possession; occupation; occupancy"
   ]
  },
  {

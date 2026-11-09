@@ -1,5 +1,47 @@
 [
  {
+  "order": 363,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それじゃ、あんまり<b>選択肢</b>はないな。",
+  "word": "選択肢",
+  "reading": "せんたくし",
+  "meaning": "choices; options",
+  "pos": "noun",
+  "chapter": 5,
+  "speaker": "錦山",
+  "uid": "01331210",
+  "candidates": []
+ },
+ {
+  "order": 362,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "７００なんて<b>良心的</b>だと思わない？",
+  "word": "良心的",
+  "reading": "りょうしんてき",
+  "meaning": "conscientious; fair, reasonable (e.g. a price)",
+  "pos": "na-adjective",
+  "chapter": 5,
+  "speaker": "ヤクザ",
+  "uid": "01331210",
+  "candidates": []
+ },
+ {
+  "order": 361,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "まあ、<b>立ち退き料</b>はできるだけ安く済ませますよ。",
+  "word": "立ち退き料",
+  "reading": "たちのきりょう",
+  "meaning": "eviction compensation; payment to move out",
+  "pos": "noun",
+  "chapter": 5,
+  "speaker": "尾田",
+  "uid": "0133121e",
+  "candidates": []
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -38,17 +80,16 @@
   "order": 2,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "ここに<b>占有</b>屋が居座っているわけか。",
-  "word": "占有",
-  "reading": "せんゆう",
-  "meaning": "possession; occupation; occupancy",
-  "pos": "verb",
+  "sentence": "ここに<b>占有屋</b>が居座っているわけか。",
+  "word": "占有屋",
+  "reading": "せんゆうや",
+  "meaning": "squatter racketeer (occupies a property to extort money from the owner)",
+  "pos": "noun",
   "chapter": 5,
   "speaker": "桐生",
   "uid": "00331217",
-  "candidates": [
-   "(verb) possession; occupation; occupancy"
-  ]
+  "candidates": [],
+  "guid": "D,u2i#!D9C"
  },
  {
   "order": 3,
@@ -3792,6 +3833,20 @@
   ]
  },
  {
+  "order": 364,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>主人公</b>の切り替えが行えるようになるほか、",
+  "word": "主人公",
+  "reading": "しゅじんこう",
+  "meaning": "protagonist; main character; hero",
+  "pos": "noun",
+  "chapter": 5,
+  "speaker": "アジトについて",
+  "uid": "0133164d",
+  "candidates": []
+ },
+ {
   "order": 230,
   "kind": "i+1",
   "standalone": false,
@@ -5479,17 +5534,16 @@
   "order": 329,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "東洋一の<b>歓楽</b>街・神室町の物件は、特にね。",
-  "word": "歓楽",
-  "reading": "かんらく",
-  "meaning": "pleasure; fun; enjoyment",
+  "sentence": "東洋一の<b>歓楽街</b>・神室町の物件は、特にね。",
+  "word": "歓楽街",
+  "reading": "かんらくがい",
+  "meaning": "entertainment district; red-light district",
   "pos": "noun",
   "chapter": 5,
   "speaker": "山野井",
   "uid": "01331234",
-  "candidates": [
-   "(noun) pleasure; fun; enjoyment"
-  ]
+  "candidates": [],
+  "guid": "Clq*WO+Eyj"
  },
  {
   "order": 330,

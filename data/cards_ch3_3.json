@@ -103,23 +103,33 @@
   ]
  },
  {
+  "order": 248,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "女っちゅうのはホンマ<b>面倒くさい</b>のう。",
+  "word": "面倒くさい",
+  "reading": "めんどうくさい",
+  "meaning": "bothersome; such a pain; can't be bothered",
+  "pos": "i-adjective",
+  "chapter": 3,
+  "speaker": "真島",
+  "uid": "010221ea",
+  "candidates": []
+ },
+ {
   "order": 6,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "すみません、お<b>手数</b>ですがお願いします。",
-  "word": "手数",
-  "reading": "てすう",
-  "meaning": "trouble; bother",
+  "sentence": "すみません、<b>お手数</b>ですがお願いします。",
+  "word": "お手数",
+  "reading": "おてすう",
+  "meaning": "trouble; bother (お手数ですが = sorry to trouble you, but)",
   "pos": "noun",
   "chapter": 3,
   "speaker": "店長",
   "uid": "010221ea",
-  "candidates": [
-   "(noun) trouble; bother",
-   "(noun) number of moves",
-   "(noun) number of punches",
-   "(noun) number of liberties"
-  ]
+  "candidates": [],
+  "guid": "QXVilH][LU"
  },
  {
   "order": 7,
@@ -2038,24 +2048,6 @@
   ]
  },
  {
-  "order": 116,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "こちらの事情はすべてお<b>見通し</b>ってわけやな。",
-  "word": "見通し",
-  "reading": "みとおし",
-  "meaning": "unobstructed view; perspective; visibility; vista",
-  "pos": "noun",
-  "chapter": 3,
-  "speaker": "山形",
-  "uid": "01022229",
-  "candidates": [
-   "(noun) unobstructed view; perspective; visibility; vista",
-   "(noun) forecast; outlook; prospect; prediction",
-   "(noun) insight; foresight"
-  ]
- },
- {
   "order": 117,
   "kind": "i+1",
   "standalone": false,
@@ -2147,17 +2139,16 @@
   "order": 122,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "真島はん、アンタが目ぇ付けた<b>秘蔵</b>っ子を",
-  "word": "秘蔵",
-  "reading": "ひぞう",
-  "meaning": "treasuring; cherishing; prizing; holding dear",
-  "pos": "verb",
+  "sentence": "真島はん、アンタが目ぇ付けた<b>秘蔵っ子</b>を",
+  "word": "秘蔵っ子",
+  "reading": "ひぞっこ",
+  "meaning": "protégé; favourite pupil",
+  "pos": "noun",
   "chapter": 3,
   "speaker": "山形",
   "uid": "01022229",
-  "candidates": [
-   "(verb) treasuring; cherishing; prizing; holding dear"
-  ]
+  "candidates": [],
+  "guid": "iIqCPwH^gl"
  },
  {
   "order": 123,
@@ -2285,18 +2276,16 @@
   "order": 130,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "そらご<b>ちそう</b>さん。ほな。",
-  "word": "馳走",
-  "reading": "ちそう",
-  "meaning": "treating someone (to food or drink); dinner; wonderful food",
-  "pos": "verb",
+  "sentence": "そら<b>ごちそう</b>さん。ほな。",
+  "word": "ごちそう",
+  "reading": "ごちそう",
+  "meaning": "treat; feast (ごちそうさん = thanks for the treat)",
+  "pos": "noun",
   "chapter": 3,
   "speaker": "真島",
   "uid": "01022229",
-  "candidates": [
-   "(verb) treating someone (to food or drink); dinner; wonderful food",
-   "(verb) running about"
-  ]
+  "candidates": [],
+  "guid": "y}o[51>IsO"
  },
  {
   "order": 131,

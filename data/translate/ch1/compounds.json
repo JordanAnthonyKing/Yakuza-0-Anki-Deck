@@ -1,0 +1,22 @@
+{
+ "645": {
+  "literal": "Maybe that informant, too, has been bought off.",
+  "official": "he's paid them all enough to keep quiet. If he's really the kind of guy they say he is, it's possible.",
+  "official_ok": true
+ },
+ "646": {
+  "literal": "It looks awfully creepy today.",
+  "official": "I've seen this place a million times, but it never looked as scary as it does now.",
+  "official_ok": true
+ },
+ "647": {
+  "literal": "At the town's \"shrines and temples,\" you can exchange the CP you've saved up for blessings,",
+  "official": "Visit temples or shrines to access the CP Exchange menu, where you can spend CP to earn special blessings",
+  "official_ok": true
+ },
+ "644": {
+  "literal": "Huh? But the culprit...",
+  "official": "",
+  "official_ok": false
+ }
+}

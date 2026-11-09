@@ -1,5 +1,38 @@
 [
  {
+  "order": 320,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……今日中に<b>始末</b>つけたる！",
+  "word": "始末",
+  "reading": "しまつ",
+  "meaning": "management; dealing with; settlement; cleaning up",
+  "pos": "verb",
+  "chapter": 4,
+  "speaker": "真島",
+  "uid": "0102229a",
+  "candidates": [
+   "(verb) management; dealing with; settlement; cleaning up",
+   "(noun) course of events; circumstances; particulars",
+   "(noun) end result (usu. bad); outcome",
+   "(verb) economizing; economising; frugality; being thrifty"
+  ]
+ },
+ {
+  "order": 319,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ここで逃げられたら<b>おしまい</b>や。",
+  "word": "おしまい",
+  "reading": "おしまい",
+  "meaning": "the end; it's all over; done for",
+  "pos": "noun",
+  "chapter": 4,
+  "speaker": "真島",
+  "uid": "0102227b",
+  "candidates": []
+ },
+ {
   "order": 317,
   "kind": "i+1",
   "standalone": false,
@@ -826,17 +859,16 @@
   "order": 50,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "<b>本格</b>的に動くのは明日からにして、",
-  "word": "本格",
-  "reading": "ほんかく",
-  "meaning": "original method; original procedure; genuine way (of doing something)",
-  "pos": "noun",
+  "sentence": "<b>本格的</b>に動くのは明日からにして、",
+  "word": "本格的",
+  "reading": "ほんかくてき",
+  "meaning": "in earnest; full-scale; proper",
+  "pos": "na-adjective",
   "chapter": 4,
   "speaker": "真島",
   "uid": "0102226b",
-  "candidates": [
-   "(noun) original method; original procedure; genuine way (of doing something)"
-  ]
+  "candidates": [],
+  "guid": "jBiG]I#Ifs"
  },
  {
   "order": 51,
@@ -1927,17 +1959,16 @@
   "order": 119,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "マコトさんな、普段<b>整体</b>師やってはるの。",
-  "word": "整体",
-  "reading": "せいたい",
-  "meaning": "seitai; manipulative therapy based on Chinese and Japanese traditions, and encompassing osteopathy, massage and chiropractic",
+  "sentence": "マコトさんな、普段<b>整体師</b>やってはるの。",
+  "word": "整体師",
+  "reading": "せいたいし",
+  "meaning": "chiropractor; bodywork therapist",
   "pos": "noun",
   "chapter": 4,
   "speaker": "アッコ",
   "uid": "0102227b",
-  "candidates": [
-   "(noun) seitai; manipulative therapy based on Chinese and Japanese traditions, and encompassing osteopathy, massage and chiropractic"
-  ]
+  "candidates": [],
+  "guid": "sN}G{ZwA4*"
  },
  {
   "order": 120,
@@ -2275,18 +2306,16 @@
   "order": 139,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "ゴローさん、<b>社会</b>人ならそれくらい持っとるやろ？",
-  "word": "社会",
-  "reading": "しゃかい",
-  "meaning": "society; public; community; the world",
+  "sentence": "ゴローさん、<b>社会人</b>ならそれくらい持っとるやろ？",
+  "word": "社会人",
+  "reading": "しゃかいじん",
+  "meaning": "working adult; grown-up with a proper job",
   "pos": "noun",
   "chapter": 4,
   "speaker": "アッコ",
   "uid": "0102227b",
-  "candidates": [
-   "(noun) society; public; community; the world",
-   "(noun) social studies"
-  ]
+  "candidates": [],
+  "guid": "rT:/4w4N06"
  },
  {
   "order": 140,
@@ -2344,37 +2373,31 @@
   "order": 145,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "ほな１万くらいでお<b>まかせ</b>するわ。",
-  "word": "任せ",
-  "reading": "まかせ",
-  "meaning": "leaving everything up to someone else",
+  "sentence": "ほな１万くらいで<b>おまかせ</b>するわ。",
+  "word": "おまかせ",
+  "reading": "おまかせ",
+  "meaning": "leaving it up to (someone)",
   "pos": "noun",
   "chapter": 4,
   "speaker": "真島",
   "uid": "01022280",
-  "candidates": [
-   "(noun) leaving everything up to someone else"
-  ]
+  "candidates": [],
+  "guid": "MK31{jh]/~"
  },
  {
   "order": 146,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "あと、今日のええとこ、お<b>造り</b>にしてくれや。",
-  "word": "作り",
-  "reading": "つくり",
-  "meaning": "making; producing; manufacturing; building",
+  "sentence": "あと、今日のええとこ、<b>お造り</b>にしてくれや。",
+  "word": "お造り",
+  "reading": "おつくり",
+  "meaning": "sashimi",
   "pos": "noun",
   "chapter": 4,
   "speaker": "真島",
   "uid": "01022280",
-  "candidates": [
-   "(noun) making; producing; manufacturing; building",
-   "(noun) appearance (attire, make-up, etc.)",
-   "(noun) build; physique",
-   "(noun) sashimi",
-   "(noun) forced (smile, etc.)"
-  ]
+  "candidates": [],
+  "guid": "C]tg[qo2#R"
  },
  {
   "order": 147,
@@ -4290,17 +4313,16 @@
   "order": 266,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "<b>グラ</b>サンに黒のジャケット。",
-  "word": "グラ",
-  "reading": "グラ",
-  "meaning": "graphics",
+  "sentence": "<b>グラサン</b>に黒のジャケット。",
+  "word": "グラサン",
+  "reading": "ぐらさん",
+  "meaning": "sunglasses (slang)",
   "pos": "noun",
   "chapter": 4,
   "speaker": "真島",
   "uid": "01022279",
-  "candidates": [
-   "(noun) graphics"
-  ]
+  "candidates": [],
+  "guid": "JY^?_J/dps"
  },
  {
   "order": 267,
@@ -4395,17 +4417,16 @@
   "order": 272,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "お前、<b>筋金</b>入りのドスケベやな……",
-  "word": "筋金",
-  "reading": "すじがね",
-  "meaning": "a metal reinforcement",
+  "sentence": "お前、<b>筋金入り</b>のドスケベやな……",
+  "word": "筋金入り",
+  "reading": "すじがねいり",
+  "meaning": "hardcore; dyed-in-the-wool; through and through",
   "pos": "noun",
   "chapter": 4,
   "speaker": "真島",
   "uid": "0102227a",
-  "candidates": [
-   "(noun) a metal reinforcement"
-  ]
+  "candidates": [],
+  "guid": "gIh.|)$^l_"
  },
  {
   "order": 273,
@@ -4625,18 +4646,16 @@
   "order": 287,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "自分もこのアマのお<b>守り</b>なんか？",
-  "word": "守り",
-  "reading": "もり",
-  "meaning": "babysitting; babysitter",
+  "sentence": "自分もこのアマの<b>お守り</b>なんか？",
+  "word": "お守り",
+  "reading": "おもり",
+  "meaning": "babysitting; looking after (someone)",
   "pos": "noun",
   "chapter": 4,
   "speaker": "気の立った男",
   "uid": "0102228f",
-  "candidates": [
-   "(noun) babysitting; babysitter",
-   "(noun) protecting; keeping; keeper"
-  ]
+  "candidates": [],
+  "guid": "uPP^jZvp=["
  },
  {
   "order": 288,

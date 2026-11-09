@@ -351,18 +351,16 @@
   "order": 21,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "裏から<b>下水</b>道に降りて行けるの。",
-  "word": "下水",
-  "reading": "げすい",
-  "meaning": "drainage; ditch; gutter; sewerage",
+  "sentence": "裏から<b>下水道</b>に降りて行けるの。",
+  "word": "下水道",
+  "reading": "げすいどう",
+  "meaning": "sewer; sewer system",
   "pos": "noun",
   "chapter": 6,
   "speaker": "ストリッパーの女",
   "uid": "01331252",
-  "candidates": [
-   "(noun) drainage; ditch; gutter; sewerage",
-   "(noun) sewage; black water"
-  ]
+  "candidates": [],
+  "guid": "Hu_%HK,TUz"
  },
  {
   "order": 23,
@@ -835,21 +833,16 @@
   "order": 50,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "久瀬なんかとは比べものにならねえよ。<b>キレ</b>者だ。",
-  "word": "切れ",
-  "reading": "きれ",
-  "meaning": "piece; slice; strip; scrap",
+  "sentence": "久瀬なんかとは比べものにならねえよ。<b>キレ者</b>だ。",
+  "word": "キレ者",
+  "reading": "きれもの",
+  "meaning": "sharp operator; shrewd, highly capable person",
   "pos": "noun",
   "chapter": 6,
   "speaker": "錦山",
   "uid": "0133124d",
-  "candidates": [
-   "(noun) piece; slice; strip; scrap",
-   "(noun) cloth",
-   "(noun) sharpness",
-   "(noun) agility",
-   "(ctr) counter for scraps, pieces, etc."
-  ]
+  "candidates": [],
+  "guid": "c7zj*,ueAU"
  },
  {
   "order": 51,

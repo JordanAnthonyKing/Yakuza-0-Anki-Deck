@@ -1,5 +1,21 @@
 [
  {
+  "order": 644,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "え？　でも<b>犯人</b>を。",
+  "word": "犯人",
+  "reading": "はんにん",
+  "meaning": "offender; criminal; culprit",
+  "pos": "noun",
+  "chapter": 1,
+  "speaker": "桐生",
+  "uid": "013311a9",
+  "candidates": [
+   "(noun) offender; criminal; culprit"
+  ]
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -91,6 +107,20 @@
    "(verb) possibly; perhaps; perchance",
    "(verb) unintentionally; accidentally"
   ]
+ },
+ {
+  "order": 645,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ひょっとすると、その<b>情報屋</b>も",
+  "word": "情報屋",
+  "reading": "じょうほうや",
+  "meaning": "informant; information broker (someone who sells information)",
+  "pos": "noun",
+  "chapter": 1,
+  "speaker": "とある組織の幹部組員",
+  "uid": "003311ce",
+  "candidates": []
  },
  {
   "order": 4,
@@ -1139,17 +1169,16 @@
   "order": 65,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "<b>オッ</b>サンってな何だ、このやろう！",
-  "word": "伯父",
-  "reading": "おじ",
-  "meaning": "uncle",
+  "sentence": "<b>オッサン</b>ってな何だ、このやろう！",
+  "word": "オッサン",
+  "reading": "おっさん",
+  "meaning": "old man; middle-aged guy (rough)",
   "pos": "noun",
   "chapter": 1,
   "speaker": "中年の男",
   "uid": "01331121",
-  "candidates": [
-   "(noun) uncle"
-  ]
+  "candidates": [],
+  "guid": "r?5c65sR2`"
  },
  {
   "order": 66,
@@ -2787,20 +2816,16 @@
   "order": 164,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "だからよ、俺らの不<b>始末</b>は",
-  "word": "始末",
-  "reading": "しまつ",
-  "meaning": "management; dealing with; settlement; cleaning up",
-  "pos": "verb",
+  "sentence": "だからよ、俺らの<b>不始末</b>は",
+  "word": "不始末",
+  "reading": "ふしまつ",
+  "meaning": "mess-up; misconduct; screw-up",
+  "pos": "noun",
   "chapter": 1,
   "speaker": "錦山",
   "uid": "01331132",
-  "candidates": [
-   "(verb) management; dealing with; settlement; cleaning up",
-   "(noun) course of events; circumstances; particulars",
-   "(noun) end result (usu. bad); outcome",
-   "(verb) economizing; economising; frugality; being thrifty"
-  ]
+  "candidates": [],
+  "guid": "s!nIut?JQw"
  },
  {
   "order": 165,
@@ -3425,17 +3450,16 @@
   "order": 201,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "<b>構成</b>員２万５０００の東城会……",
-  "word": "構成",
-  "reading": "こうせい",
-  "meaning": "composition; construction; formation; makeup",
-  "pos": "verb",
+  "sentence": "<b>構成員</b>２万５０００の東城会……",
+  "word": "構成員",
+  "reading": "こうせいいん",
+  "meaning": "member (of an organization)",
+  "pos": "noun",
   "chapter": 1,
   "speaker": "久瀬",
   "uid": "0133113a",
-  "candidates": [
-   "(verb) composition; construction; formation; makeup"
-  ]
+  "candidates": [],
+  "guid": "H9qQrwFV8w"
  },
  {
   "order": 202,
@@ -3804,17 +3828,16 @@
   "order": 224,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "ええ。柏木さんはくわしく御<b>存知</b>なんスか？",
-  "word": "存知",
-  "reading": "ぞんじ",
-  "meaning": "knowing; being aware (of)",
+  "sentence": "ええ。柏木さんはくわしく<b>御存知</b>なんスか？",
+  "word": "御存知",
+  "reading": "ごぞんじ",
+  "meaning": "knowing; being aware (honorific)",
   "pos": "noun",
   "chapter": 1,
   "speaker": "桐生",
   "uid": "01331143",
-  "candidates": [
-   "(noun) knowing; being aware (of)"
-  ]
+  "candidates": [],
+  "guid": "yp%%Xr0sb]"
  },
  {
   "order": 225,
@@ -4166,17 +4189,16 @@
   "order": 243,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "そうだ。だが……　久瀬が真<b>犯人</b>を握ってる以上、",
-  "word": "犯人",
-  "reading": "はんにん",
-  "meaning": "offender; criminal; culprit",
+  "sentence": "そうだ。だが……　久瀬が<b>真犯人</b>を握ってる以上、",
+  "word": "真犯人",
+  "reading": "しんはんにん",
+  "meaning": "the real culprit",
   "pos": "noun",
   "chapter": 1,
   "speaker": "柏木",
   "uid": "01331143",
-  "candidates": [
-   "(noun) offender; criminal; culprit"
-  ]
+  "candidates": [],
+  "guid": "H8`[=OB/Qm"
  },
  {
   "order": 244,
@@ -4931,20 +4953,33 @@
   ]
  },
  {
+  "order": 646,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "今日はやけに<b>不気味</b>に見えるな。",
+  "word": "不気味",
+  "reading": "ぶきみ",
+  "meaning": "eerie; creepy; ominous",
+  "pos": "na-adjective",
+  "chapter": 1,
+  "speaker": "錦山",
+  "uid": "013311a7",
+  "candidates": []
+ },
+ {
   "order": 287,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "お<b>疲れ</b>さまっす！",
-  "word": "疲れ",
-  "reading": "つかれ",
-  "meaning": "tiredness; fatigue",
-  "pos": "noun",
+  "sentence": "<b>お疲れさま</b>っす！",
+  "word": "お疲れ様",
+  "reading": "おつかれさま",
+  "meaning": "thanks for your hard work; good work (greeting to colleagues)",
+  "pos": "expression",
   "chapter": 1,
   "speaker": "守衛の組員",
   "uid": "013311a7",
-  "candidates": [
-   "(noun) tiredness; fatigue"
-  ]
+  "candidates": [],
+  "guid": "mCA.EV]x%<"
  },
  {
   "order": 288,
@@ -5641,20 +5676,16 @@
   "order": 328,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "どうやら柏木さんは何もかもお<b>見通し</b>らしいな。",
-  "word": "見通す",
-  "reading": "みとおす",
-  "meaning": "to see without obstruction; to get an unobstructed view (of); to see through",
-  "pos": "verb",
+  "sentence": "どうやら柏木さんは何もかも<b>お見通し</b>らしいな。",
+  "word": "お見通し",
+  "reading": "おみとおし",
+  "meaning": "seeing right through (someone or their plans)",
+  "pos": "noun",
   "chapter": 1,
   "speaker": "桐生",
   "uid": "033317d8",
-  "candidates": [
-   "(verb) to see without obstruction; to get an unobstructed view (of); to see through",
-   "(verb) to see into (someone's thoughts); to read (someone's feelings, intentions, etc.); to see through (e.g. someone's plans)",
-   "(verb) to foresee; to predict; to forecast; to anticipate",
-   "(verb) to watch from start to finish"
-  ]
+  "candidates": [],
+  "guid": "BRP/NjjhP2"
  },
  {
   "order": 329,
@@ -5692,17 +5723,16 @@
   "order": 331,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "例の、立華不<b>動産</b>の社長。",
-  "word": "動産",
-  "reading": "どうさん",
-  "meaning": "personal property; personal effects",
+  "sentence": "例の、立華<b>不動産</b>の社長。",
+  "word": "不動産",
+  "reading": "ふどうさん",
+  "meaning": "real estate; property (land and buildings)",
   "pos": "noun",
   "chapter": 1,
   "speaker": "",
   "uid": "003311ce",
-  "candidates": [
-   "(noun) personal property; personal effects"
-  ]
+  "candidates": [],
+  "guid": "l1w82E58LJ"
  },
  {
   "order": 332,
@@ -7825,19 +7855,16 @@
   "order": 458,
   "kind": "grp3",
   "standalone": false,
-  "sentence": "「達成目録」に書かれたお<b>題</b>を達成することで、",
-  "word": "題",
-  "reading": "だい",
-  "meaning": "title; subject; theme; topic",
+  "sentence": "「達成目録」に書かれた<b>お題</b>を達成することで、",
+  "word": "お題",
+  "reading": "おだい",
+  "meaning": "set task; challenge; topic",
   "pos": "noun",
   "chapter": 1,
   "speaker": "達成目録について",
   "uid": "01331121",
-  "candidates": [
-   "(noun) title; subject; theme; topic",
-   "(noun) problem (on a test); question",
-   "(noun) counter for questions (on a test)"
-  ]
+  "candidates": [],
+  "guid": "j{G{?4E=?u"
  },
  {
   "order": 459,
@@ -8055,6 +8082,20 @@
   ]
  },
  {
+  "order": 647,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "街にある「神社・お寺」では、貯めたＣＰを<b>ご利益</b>に交換できる、",
+  "word": "ご利益",
+  "reading": "ごりやく",
+  "meaning": "divine favour; blessing (from gods or Buddha)",
+  "pos": "noun",
+  "chapter": 1,
+  "speaker": "ＣＰの交換について",
+  "uid": "01331121",
+  "candidates": []
+ },
+ {
   "order": 471,
   "kind": "solo",
   "standalone": true,
@@ -8162,17 +8203,16 @@
   "order": 479,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "へへ、“現役<b>女子</b>大生ホステス”の",
-  "word": "女子",
-  "reading": "じょし",
-  "meaning": "woman; girl",
+  "sentence": "へへ、“現役<b>女子大生</b>ホステス”の",
+  "word": "女子大生",
+  "reading": "じょしだいせい",
+  "meaning": "female university student; college girl",
   "pos": "noun",
   "chapter": 1,
   "speaker": "錦山",
   "uid": "01331121",
-  "candidates": [
-   "(noun) woman; girl"
-  ]
+  "candidates": [],
+  "guid": "hXpkc3.IOz"
  },
  {
   "order": 480,

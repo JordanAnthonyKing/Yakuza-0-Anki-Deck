@@ -1,5 +1,61 @@
 [
  {
+  "order": 293,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "神室町における、我が社の<b>情報網</b>は",
+  "word": "情報網",
+  "reading": "じょうほうもう",
+  "meaning": "information network; network of informants",
+  "pos": "noun",
+  "chapter": 2,
+  "speaker": "立華",
+  "uid": "013311b5",
+  "candidates": []
+ },
+ {
+  "order": 292,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "たいした<b>情報源</b>を持ってるらしい。",
+  "word": "情報源",
+  "reading": "じょうほうげん",
+  "meaning": "source (of information)",
+  "pos": "noun",
+  "chapter": 2,
+  "speaker": "桐生",
+  "uid": "013311b5",
+  "candidates": []
+ },
+ {
+  "order": 291,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "その連中も<b>地上げ屋</b>だ。",
+  "word": "地上げ屋",
+  "reading": "じあげや",
+  "meaning": "land shark (thug who forces owners to sell their land)",
+  "pos": "noun",
+  "chapter": 2,
+  "speaker": "髭のホームレス",
+  "uid": "013311b9",
+  "candidates": []
+ },
+ {
+  "order": 290,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それでもまた<b>みかじめ</b>払えっていうんですか!?",
+  "word": "みかじめ",
+  "reading": "みかじめ",
+  "meaning": "protection money (paid to the yakuza)",
+  "pos": "noun",
+  "chapter": 2,
+  "speaker": "「ブレンド」のマスター",
+  "uid": "013311b9",
+  "candidates": []
+ },
+ {
   "order": 287,
   "kind": "i+1",
   "standalone": false,
@@ -588,17 +644,16 @@
   "order": 33,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "半年前、あの人が<b>刑務</b>所に入るよりも前のことです。",
-  "word": "刑務",
-  "reading": "けいむ",
-  "meaning": "correctional matters (of a crime); prison affairs",
+  "sentence": "半年前、あの人が<b>刑務所</b>に入るよりも前のことです。",
+  "word": "刑務所",
+  "reading": "けいむしょ",
+  "meaning": "prison",
   "pos": "noun",
   "chapter": 2,
   "speaker": "立華",
   "uid": "013311b5",
-  "candidates": [
-   "(noun) correctional matters (of a crime); prison affairs"
-  ]
+  "candidates": [],
+  "guid": "Qs#5t>JQ?*"
  },
  {
   "order": 34,
@@ -615,6 +670,25 @@
   "candidates": [
    "(adverb) almost; nearly; for the most part",
    "(adverb) roughly; approximately; about; around"
+  ]
+ },
+ {
+  "order": 294,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ほぼ<b>見通し</b>ていました。",
+  "word": "見通す",
+  "reading": "みとおす",
+  "meaning": "to see without obstruction; to get an unobstructed view (of); to see through",
+  "pos": "verb",
+  "chapter": 2,
+  "speaker": "立華",
+  "uid": "013311b5",
+  "candidates": [
+   "(verb) to see without obstruction; to get an unobstructed view (of); to see through",
+   "(verb) to see into (someone's thoughts); to read (someone's feelings, intentions, etc.); to see through (e.g. someone's plans)",
+   "(verb) to foresee; to predict; to forecast; to anticipate",
+   "(verb) to watch from start to finish"
   ]
  },
  {
@@ -1410,26 +1484,6 @@
   ]
  },
  {
-  "order": 81,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "久瀬を捕まえて<b>真</b>犯人の居所を吐かせてやる。",
-  "word": "真",
-  "reading": "しん",
-  "meaning": "truth; reality; genuineness",
-  "pos": "noun",
-  "chapter": 2,
-  "speaker": "桐生",
-  "uid": "013311b9",
-  "candidates": [
-   "(noun) truth; reality; genuineness",
-   "(noun) seriousness",
-   "(noun) truth",
-   "(noun) printed style writing",
-   "(noun) star performer"
-  ]
- },
- {
   "order": 82,
   "kind": "i+1",
   "standalone": false,
@@ -1551,6 +1605,20 @@
   "candidates": [
    "(verb) to plunder; to grab; to snatch"
   ]
+ },
+ {
+  "order": 295,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "では、<b>力ずく</b>で奪い取るとしよう。",
+  "word": "力ずく",
+  "reading": "ちからずく",
+  "meaning": "by force; with brute force",
+  "pos": "noun",
+  "chapter": 2,
+  "speaker": "大男",
+  "uid": "013311b9",
+  "candidates": []
  },
  {
   "order": 88,
@@ -4288,18 +4356,16 @@
   "order": 251,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "本家への<b>上納</b>金ちょろまかしてんのが",
-  "word": "上納",
-  "reading": "じょうのう",
-  "meaning": "payment (to the government, authorities, etc.)",
-  "pos": "verb",
+  "sentence": "本家への<b>上納金</b>ちょろまかしてんのが",
+  "word": "上納金",
+  "reading": "じょうのうきん",
+  "meaning": "tribute money (paid up the chain to a parent yakuza family)",
+  "pos": "noun",
   "chapter": 2,
   "speaker": "ホームレス",
   "uid": "013311b9",
-  "candidates": [
-   "(verb) payment (to the government, authorities, etc.)",
-   "(noun) land tax (often paid in rice); tribute"
-  ]
+  "candidates": [],
+  "guid": "Dbw8i7V7UU"
  },
  {
   "order": 252,

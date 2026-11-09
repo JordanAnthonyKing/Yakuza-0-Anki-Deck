@@ -1,5 +1,47 @@
 [
  {
+  "order": 265,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ただの<b>鍼師</b>とちゃうやろ？",
+  "word": "鍼師",
+  "reading": "はりし",
+  "meaning": "acupuncturist",
+  "pos": "noun",
+  "chapter": 7,
+  "speaker": "真島",
+  "uid": "01331278",
+  "candidates": []
+ },
+ {
+  "order": 264,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "せやけどそれは……　蒼天堀の<b>裏社会</b>にとっては",
+  "word": "裏社会",
+  "reading": "うらしゃかい",
+  "meaning": "the underworld; criminal society",
+  "pos": "noun",
+  "chapter": 7,
+  "speaker": "李",
+  "uid": "01331282",
+  "candidates": []
+ },
+ {
+  "order": 263,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "もう慣れとる。そない<b>不自由</b>しとらんわ。",
+  "word": "不自由",
+  "reading": "ふじゆう",
+  "meaning": "hardship; going without; inconvenience",
+  "pos": "noun",
+  "chapter": 7,
+  "speaker": "真島",
+  "uid": "01331278",
+  "candidates": []
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -1000,18 +1042,16 @@
   "order": 60,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "極道ナメすぎや。……そない小<b>細工</b>すぐバレる。",
-  "word": "細工",
-  "reading": "さいく",
-  "meaning": "work; workmanship; craftsmanship; handiwork",
-  "pos": "verb",
+  "sentence": "極道ナメすぎや。……そない<b>小細工</b>すぐバレる。",
+  "word": "小細工",
+  "reading": "こざいく",
+  "meaning": "petty trick; cheap ploy",
+  "pos": "noun",
   "chapter": 7,
   "speaker": "真島",
   "uid": "01331278",
-  "candidates": [
-   "(verb) work; workmanship; craftsmanship; handiwork",
-   "(verb) artifice; trick; device; tampering"
-  ]
+  "candidates": [],
+  "guid": "g~*@msI37B"
  },
  {
   "order": 62,
@@ -2245,20 +2285,16 @@
   "order": 138,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "ああ！　そうそう！　私、李さんのお<b>使い</b>で来たよ。",
-  "word": "使い",
-  "reading": "つかい",
-  "meaning": "errand; mission; going on an errand",
+  "sentence": "ああ！　そうそう！　私、李さんの<b>お使い</b>で来たよ。",
+  "word": "お使い",
+  "reading": "おつかい",
+  "meaning": "errand",
   "pos": "noun",
   "chapter": 7,
   "speaker": "中国人の闇医者",
   "uid": "01331293",
-  "candidates": [
-   "(noun) errand; mission; going on an errand",
-   "(noun) messenger; bearer; errand boy; errand girl",
-   "(noun) familiar spirit",
-   "(noun) use; usage; user; trainer"
-  ]
+  "candidates": [],
+  "guid": "wPfjs:$zBc"
  },
  {
   "order": 139,
@@ -3149,17 +3185,16 @@
   "order": 191,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "限らないですよね。このご<b>時世</b>ですから。",
-  "word": "時世",
-  "reading": "じせい",
-  "meaning": "the times; an age; a day and age",
+  "sentence": "限らないですよね。この<b>ご時世</b>ですから。",
+  "word": "ご時世",
+  "reading": "ごじせい",
+  "meaning": "the times; these days",
   "pos": "noun",
   "chapter": 7,
   "speaker": "火野",
   "uid": "01331307",
-  "candidates": [
-   "(noun) the times; an age; a day and age"
-  ]
+  "candidates": [],
+  "guid": "Bj546FJJ.u"
  },
  {
   "order": 192,
@@ -3335,17 +3370,16 @@
   "order": 202,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "……まぁ、お<b>世辞</b>にも良い状態とは言えんな。",
-  "word": "世辞",
-  "reading": "せじ",
-  "meaning": "flattery; compliment",
+  "sentence": "……まぁ、<b>お世辞</b>にも良い状態とは言えんな。",
+  "word": "お世辞",
+  "reading": "おせじ",
+  "meaning": "flattery; compliment (お世辞にも〜ない = even being generous, can't say ...)",
   "pos": "noun",
   "chapter": 7,
   "speaker": "真島",
   "uid": "01331307",
-  "candidates": [
-   "(noun) flattery; compliment"
-  ]
+  "candidates": [],
+  "guid": "mrtT-r`W9s"
  },
  {
   "order": 203,

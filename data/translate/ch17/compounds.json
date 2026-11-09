@@ -1,0 +1,37 @@
+{
+ "287": {
+  "literal": "They've wasted no time and started moving to get the Kamurocho redevelopment project underway in earnest.",
+  "official": "They're back to work on the Kamurocho Revitalization Project in earnest now.",
+  "official_ok": true
+ },
+ "288": {
+  "literal": "Besides, sis, deep down you're the doting-wife type!",
+  "official": "Besides, I know you're secretly the doting type.",
+  "official_ok": true
+ },
+ "289": {
+  "literal": "Drinking with women waiting on you is the height of depravity.",
+  "official": "Guzzling booze with painted ladies hanging all over you? Bah! Wanton excess!",
+  "official_ok": true
+ },
+ "286": {
+  "literal": "What's this, a fight? What a pain.",
+  "official": "",
+  "official_ok": false
+ },
+ "285": {
+  "literal": "Well, that's some fine enthusiasm, but...",
+  "official": "",
+  "official_ok": false
+ },
+ "284": {
+  "literal": "Big sis, strong as ever!",
+  "official": "",
+  "official_ok": false
+ },
+ "283": {
+  "literal": "...What a joke. Don't talk to me about stuff that won't earn a single yen.",
+  "official": "",
+  "official_ok": false
+ }
+}

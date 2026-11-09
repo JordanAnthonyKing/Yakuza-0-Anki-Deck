@@ -1,5 +1,19 @@
 [
  {
+  "order": 213,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そうでーす、ぼくらガキの<b>未成年</b>でぇす。",
+  "word": "未成年",
+  "reading": "みせいねん",
+  "meaning": "minor; underage person",
+  "pos": "noun",
+  "chapter": 10,
+  "speaker": "ホームレス狩りの少年",
+  "uid": "0133138f",
+  "candidates": []
+ },
+ {
   "order": 0,
   "kind": "i+1",
   "standalone": false,
@@ -51,17 +65,16 @@
   "order": 3,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "今から<b>留置</b>場に案内したるけど、",
-  "word": "留置",
-  "reading": "りゅうち",
-  "meaning": "detention (usu. during investigation); imprisonment; poundage; custody",
-  "pos": "verb",
+  "sentence": "今から<b>留置場</b>に案内したるけど、",
+  "word": "留置場",
+  "reading": "りゅうちじょう",
+  "meaning": "police holding cell; lockup",
+  "pos": "noun",
   "chapter": 10,
   "speaker": "ビリケン",
   "uid": "003313c8",
-  "candidates": [
-   "(verb) detention (usu. during investigation); imprisonment; poundage; custody"
-  ]
+  "candidates": [],
+  "guid": "JsL<l0vXwN"
  },
  {
   "order": 4,
@@ -134,20 +147,16 @@
   "order": 8,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "これくらいの<b>修羅</b>場なら、",
-  "word": "修羅",
-  "reading": "しゅら",
-  "meaning": "Asura; demigod; anti-god; titan",
+  "sentence": "これくらいの<b>修羅場</b>なら、",
+  "word": "修羅場",
+  "reading": "しゅらば",
+  "meaning": "bloodbath; scene of carnage; hellish situation",
   "pos": "noun",
   "chapter": 10,
   "speaker": "立華",
   "uid": "01261547",
-  "candidates": [
-   "(noun) Asura; demigod; anti-god; titan",
-   "(noun) fighting; carnage; conflict; strife",
-   "(noun) sledge (for conveying large rocks, logs, etc.)",
-   "(noun) log slide; chute; flume"
-  ]
+  "candidates": [],
+  "guid": "x2j3gc0NF&"
  },
  {
   "order": 9,
@@ -1533,6 +1542,25 @@
   ]
  },
  {
+  "order": 214,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "さっきいった顔役の<b>使い</b>だ。",
+  "word": "使い",
+  "reading": "つかい",
+  "meaning": "errand; mission; going on an errand",
+  "pos": "noun",
+  "chapter": 10,
+  "speaker": "尾田",
+  "uid": "0133137b",
+  "candidates": [
+   "(noun) errand; mission; going on an errand",
+   "(noun) messenger; bearer; errand boy; errand girl",
+   "(noun) familiar spirit",
+   "(noun) use; usage; user; trainer"
+  ]
+ },
+ {
   "order": 92,
   "kind": "i+1",
   "standalone": false,
@@ -1637,21 +1665,16 @@
   "order": 98,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "ただ、どちらにしろ大阪は近江連合のお<b>膝元</b>……",
-  "word": "膝元",
-  "reading": "ひざもと",
-  "meaning": "near one's knee",
+  "sentence": "ただ、どちらにしろ大阪は近江連合の<b>お膝元</b>……",
+  "word": "お膝元",
+  "reading": "おひざもと",
+  "meaning": "home turf; stronghold; right under (someone's) nose",
   "pos": "noun",
   "chapter": 10,
   "speaker": "立華",
   "uid": "01331384",
-  "candidates": [
-   "(noun) near one's knee",
-   "(noun) (by) one's side; (at) one's hand",
-   "(noun) place under the protection (of one's parents, etc.); (under) the care (of)",
-   "(noun) territory of a powerful person",
-   "(noun) address used after the names of one's parents, grandparents, etc. in a letter"
-  ]
+  "candidates": [],
+  "guid": "Fx^I@oWava"
  },
  {
   "order": 99,
@@ -1734,6 +1757,20 @@
   "candidates": [
    "(verb) apology; excuse"
   ]
+ },
+ {
+  "order": 215,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "大した<b>お構い</b>もできず申し訳ない。",
+  "word": "お構い",
+  "reading": "おかまい",
+  "meaning": "hospitality (大したお構いもできず = sorry I couldn't treat you better)",
+  "pos": "noun",
+  "chapter": 10,
+  "speaker": "陳老人",
+  "uid": "01331384",
+  "candidates": []
  },
  {
   "order": 104,
@@ -2066,6 +2103,23 @@
   "uid": "013313a4",
   "candidates": [
    "(noun) (political) power; authority; influence"
+  ]
+ },
+ {
+  "order": 216,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "東日本における極道<b>社会</b>の……　最高権力者。",
+  "word": "社会",
+  "reading": "しゃかい",
+  "meaning": "society; public; community; the world",
+  "pos": "noun",
+  "chapter": 10,
+  "speaker": "立華",
+  "uid": "013313a4",
+  "candidates": [
+   "(noun) society; public; community; the world",
+   "(noun) social studies"
   ]
  },
  {
@@ -2990,17 +3044,16 @@
   "order": 179,
   "kind": "grp2",
   "standalone": false,
-  "sentence": "……俺を恨むのはお<b>門違い</b>だろ？",
-  "word": "門違い",
-  "reading": "かどちがい",
-  "meaning": "barking up the wrong tree; calling at the wrong house",
+  "sentence": "……俺を恨むのは<b>お門違い</b>だろ？",
+  "word": "お門違い",
+  "reading": "おかどちがい",
+  "meaning": "barking up the wrong tree; misdirected (blame etc.)",
   "pos": "noun",
   "chapter": 10,
   "speaker": "",
   "uid": "01261727",
-  "candidates": [
-   "(noun) barking up the wrong tree; calling at the wrong house"
-  ]
+  "candidates": [],
+  "guid": "ElT9A-;3vp"
  },
  {
   "order": 180,

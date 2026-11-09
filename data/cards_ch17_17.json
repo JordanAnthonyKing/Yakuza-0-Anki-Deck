@@ -1,5 +1,61 @@
 [
  {
+  "order": 286,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "なんや喧嘩か？　<b>邪魔くさい</b>のぅ",
+  "word": "邪魔くさい",
+  "reading": "じゃまくさい",
+  "meaning": "annoying; a nuisance; a pain",
+  "pos": "i-adjective",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331583",
+  "candidates": []
+ },
+ {
+  "order": 285,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "そら結構な<b>意気込み</b>やけどな。",
+  "word": "意気込み",
+  "reading": "いきごみ",
+  "meaning": "enthusiasm; determination; eagerness",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331583",
+  "candidates": []
+ },
+ {
+  "order": 284,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>姐さん</b>、相変わらず強いネ！",
+  "word": "姐さん",
+  "reading": "ねえさん",
+  "meaning": "big sister (respectful address to an older woman; in yakuza use, the boss's wife)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": []
+ },
+ {
+  "order": 283,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "……<b>アホくさ</b>。一文の得にもならん話すんなや。",
+  "word": "アホくさ",
+  "reading": "あほくさ",
+  "meaning": "how stupid; what a joke (Kansai; short for アホくさい)",
+  "pos": "expression",
+  "chapter": 17,
+  "speaker": "真島",
+  "uid": "01331531",
+  "candidates": []
+ },
+ {
   "order": 282,
   "kind": "i+1",
   "standalone": false,
@@ -375,6 +431,22 @@
    "(verb) starting work (on); setting to work (on); setting about (doing); beginning",
    "(verb) commencing (a crime)",
    "(verb) playing (a move)"
+  ]
+ },
+ {
+  "order": 287,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "早速、神室町再開発計画の<b>本格</b>着手に動き出した。",
+  "word": "本格",
+  "reading": "ほんかく",
+  "meaning": "original method; original procedure; genuine way (of doing something)",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "世良",
+  "uid": "013314bd",
+  "candidates": [
+   "(noun) original method; original procedure; genuine way (of doing something)"
   ]
  },
  {
@@ -2636,6 +2708,20 @@
   ]
  },
  {
+  "order": 288,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "それに姐さん、本当は<b>世話焼き</b>ニョーボタイプネ！",
+  "word": "世話焼き",
+  "reading": "せわやき",
+  "meaning": "busybody; someone who loves looking after others",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "バッカス",
+  "uid": "01331576",
+  "candidates": []
+ },
+ {
   "order": 160,
   "kind": "i+1",
   "standalone": false,
@@ -3965,6 +4051,22 @@
   "uid": "01331531",
   "candidates": [
    "(verb) depravity; corruption; degradation"
+  ]
+ },
+ {
+  "order": 289,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "<b>オナゴ</b>を侍らせて酒を飲むなど堕落の極み。",
+  "word": "女子",
+  "reading": "おなご",
+  "meaning": "woman; girl",
+  "pos": "noun",
+  "chapter": 17,
+  "speaker": "米木",
+  "uid": "01331531",
+  "candidates": [
+   "(noun) woman; girl"
   ]
  },
  {

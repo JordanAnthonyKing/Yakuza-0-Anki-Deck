@@ -1,0 +1,32 @@
+{
+ "290": {
+  "literal": "And you're still telling me to pay protection money again!?",
+  "official": "And you have the gall to ask for MORE!?",
+  "official_ok": true
+ },
+ "294": {
+  "literal": "He had foreseen very nearly all of it.",
+  "official": "Even then, he knew with considerable certainty that Kuze would set his sights on you, and that you would find yourself unable to remain in the family.",
+  "official_ok": true
+ },
+ "295": {
+  "literal": "Then I'll just take it by force.",
+  "official": "Then I guess we'll do this the hard way.",
+  "official_ok": true
+ },
+ "293": {
+  "literal": "Our company's information network in Kamurocho is...",
+  "official": "",
+  "official_ok": false
+ },
+ "292": {
+  "literal": "Apparently he has some pretty serious sources of information.",
+  "official": "",
+  "official_ok": false
+ },
+ "291": {
+  "literal": "Those guys are land sharks too.",
+  "official": "",
+  "official_ok": false
+ }
+}

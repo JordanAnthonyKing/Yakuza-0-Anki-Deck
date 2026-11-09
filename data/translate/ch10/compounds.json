@@ -1,0 +1,22 @@
+{
+ "215": {
+  "literal": "I'm sorry we can't offer you much in the way of hospitality.",
+  "official": "I'm sorry we can't offer much in the way of hospitality.",
+  "official_ok": true
+ },
+ "216": {
+  "literal": "the highest authority in the yakuza world of eastern Japan.",
+  "official": "The highest authority within Japanese yakuza organizations.",
+  "official_ok": true
+ },
+ "213": {
+  "literal": "That's riiight, we're just underage brats.",
+  "official": "",
+  "official_ok": false
+ },
+ "214": {
+  "literal": "He's a messenger from the bigshot I mentioned earlier.",
+  "official": "",
+  "official_ok": false
+ }
+}
