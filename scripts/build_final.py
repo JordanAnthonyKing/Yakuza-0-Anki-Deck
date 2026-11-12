@@ -11,7 +11,7 @@ import os, re, json, glob, sys
 import genanki
 from build_deck import DATA, strip_orphan_brackets
 from keep_guids import old_guids, guid
-from furigana import furigana, sentence_ruby
+from furigana import furigana, sentence_ruby, widen_bold
 from audio_policy import word_clip
 
 lo = hi = next((int(a) for a in sys.argv[1:] if a.isdigit()), 1)
@@ -89,7 +89,7 @@ for c in cards:
     for m in (sa.get("clip"), wa):
         if m:
             media.add(m)
-    sent = strip_orphan_brackets(c["sentence"])
+    sent = widen_bold(strip_orphan_brackets(c["sentence"]), c["pos"])
     fields = [sent, c["word"], c["reading"], meaning, english, official,
               c["pos"], str(c["chapter"]), c.get("speaker", ""), c["uid"],
               sa.get("full", ""), f"[sound:{wa}]" if wa else "",

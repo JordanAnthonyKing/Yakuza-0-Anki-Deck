@@ -80,7 +80,7 @@ def sentence_ruby(sentence, word="", reading=""):
     """Story-card sentence HTML -> same HTML with <ruby> over every kanji run.
     Only <b>/</b> tags are expected in the input; a tag that falls inside a ruby unit is
     moved to the unit's edge. The bolded target word uses the card's own reading when the
-    bold text is exactly the dictionary word."""
+    bold text starts with the dictionary word (it may run on over a conjugation)."""
     global _tagger
     if _tagger is None:
         import fugashi
@@ -93,7 +93,7 @@ def sentence_ruby(sentence, word="", reading=""):
             plain += _html.unescape(part)
     fixed = {}                                 # start -> (word, reading): names + target word
     bold = re.search(r"<b>(.*?)</b>", sentence)
-    if bold and word and reading and _html.unescape(bold.group(1)) == word:
+    if bold and word and reading and _html.unescape(bold.group(1)).startswith(word):
         s = len(re.sub(r"<[^>]+>", "", sentence[:bold.start()]))
         fixed[s] = (word, reading)
     for name, r in _names():
@@ -126,3 +126,65 @@ def sentence_ruby(sentence, word="", reading=""):
             out += tags[ti][1]; ti += 1        # a closing tag inside the unit goes after it
     out += "".join(t for _, t in tags[ti:])
     return out
+
+
+# ---------- highlight the whole conjugated word ----------
+# Cards bold only the dictionary token, which for an inflected verb is its bare stem
+# (<b>見かけ</b>たぜ). widen_bold() extends the bold over the word's own endings
+# (見かけた, 勧められたら, 知らされて, 改造して) but stops before helper verbs (ている,
+# しまう, いただく and unidic's contracted forms てる/とる/ちまう/とく/てく, which it tags as
+# auxiliaries), copulas, quotatives and particles -- those are separate, already-known words.
+# Rendering only: card files keep the original bold, and the GUID key ignores tags.
+# `pos` is the card's own part of speech: JMdict knows ドキドキ/交換 take する even where
+# unidic tags them as adverbs or plain nouns.
+CONJ_AUX = {"た", "れる", "られる", "せる", "させる", "ます", "ない", "ず", "ぬ", "たい",
+            "う", "よう", "まい", "やがる",
+            "へん",                            # Kansai negative: 持ち込めへん
+            "り"}                              # unidic misreads 詫び入れ|る as classical り
+TE = {"て", "で"}
+CONJ_PARTICLE = {"ば", "ちゃ", "じゃ"}
+SURU = {"為る", "出来る"}                       # 改造して, 交換できる
+
+def widen_bold(sentence, pos=""):
+    global _tagger
+    if _tagger is None:
+        import fugashi
+        _tagger = fugashi.Tagger()
+    m = re.fullmatch(r"(.*?)<b>(.*?)</b>(.*)", sentence, re.S)
+    if not m or "<" in m.group(2) or "<" in m.group(3)[:1]:
+        return sentence
+    head, body, tail = m.groups()
+    toks = list(_tagger(body + re.sub(r"<[^>]+>", "", tail)))
+    i, text = 0, ""
+    while i < len(toks) and len(text) < len(body):
+        text += toks[i].surface; i += 1
+    if text != body:                           # bold doesn't end on a token boundary:
+        if pos == "verb" and tail[:1] in ("て", "で", "た", "だ"):
+            return f"{head}<b>{body}{tail[0]}</b>{tail[1:]}"   # <b>つい</b>で = 継いで
+        return sentence
+    i0, f = i, toks[i - 1].feature
+    if i < len(toks) and toks[i].feature.lemma in SURU and (
+            f.pos1 == "名詞" and "サ変" in (f.pos3 or "") or pos in ("verb", "adverb") and f.pos1 not in ("動詞", "形容詞")):
+        i += 1
+    elif f.pos1 not in ("動詞", "形容詞"):
+        return sentence
+    j = i
+    while j < len(toks):
+        t, tf = toks[j], toks[j].feature
+        if (toks[j - 1].feature.cForm or "").startswith(("終止形", "連体形")):
+            break                              # 駆け込む|だなんて: already a finished word
+        if t.surface in TE and (tf.pos2 == "接続助詞" or tf.lemma == "てる"):
+            j += 1; break                      # te-form: the next word is a helper
+        if tf.pos1 == "助動詞" and tf.lemma in CONJ_AUX:
+            j += 1; continue
+        if tf.pos1 == "助詞" and tf.pos2 == "接続助詞" and t.surface in CONJ_PARTICLE:
+            j += 1; break
+        if tf.pos1 == "形容詞" and tf.lemma == "無い" and toks[j - 1].feature.pos1 == "形容詞":
+            j += 1; continue                   # 荒っぽく + ない
+        if tf.lemma == "そう-様態" and j == i0:
+            j += 1; break                      # 素早そう "looks quick"
+        break
+    add = "".join(t.surface for t in toks[i0:j])
+    if not add or not tail.startswith(add):    # nothing to add, or a tag sits in the way
+        return sentence
+    return f"{head}<b>{body}{add}</b>{tail[len(add):]}"

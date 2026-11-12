@@ -10,8 +10,9 @@ import genanki
 
 def _key(fields, nkey):
     # brackets/whitespace dropped so the polish-layer deck (raw sentence) and the translated
-    # deck (strip_orphan_brackets'd sentence) key the same note identically
-    return tuple(re.sub(r"[（）()\s　]", "", f) for f in fields[:nkey])
+    # deck (strip_orphan_brackets'd sentence) key the same note identically; tags dropped so
+    # widening the <b> highlight over a conjugation doesn't orphan the learner's note
+    return tuple(re.sub(r"<[^>]+>|[（）()\s　]", "", f) for f in fields[:nkey])
 
 def old_guids(apkg, nkey=2):
     """{key of first nkey fields: guid} from an existing .apkg ({} if none)."""

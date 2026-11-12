@@ -141,13 +141,14 @@
    ]
   },
   "社": {
-   "reading": "やしろ",
+   "reading": "しゃ",
    "chapter": 1,
-   "multi_sense": false,
+   "multi_sense": true,
    "glosses": [
-    "(Shinto) shrine"
+    "company; firm (我が社 = \"our company\")"
    ],
    "candidates": [
+    "(noun) company; firm",
     "(noun) (Shinto) shrine"
    ]
   },
@@ -372,29 +373,6 @@
     "(noun) Yankee; Yank; American"
    ]
   },
-  "主体": {
-   "reading": "しゅたい",
-   "chapter": 1,
-   "multi_sense": true,
-   "glosses": [
-    "main constituent; core (independence, initiative)"
-   ],
-   "candidates": [
-    "(noun) main constituent; core; nucleus",
-    "(noun) subject"
-   ]
-  },
-  "抜け目": {
-   "reading": "ぬけめ",
-   "chapter": 1,
-   "multi_sense": false,
-   "glosses": [
-    "imprudence; oversight; omission; mistake"
-   ],
-   "candidates": [
-    "(noun) imprudence; oversight; omission; mistake"
-   ]
-  },
   "御免": {
    "reading": "ごめん",
    "chapter": 1,
@@ -414,14 +392,11 @@
   "金貸し": {
    "reading": "かねかし",
    "chapter": 1,
-   "multi_sense": true,
+   "multi_sense": false,
    "glosses": [
-    "moneylender; moneylending"
+    "moneylender; loan shark"
    ],
-   "candidates": [
-    "(verb) moneylending",
-    "(noun) moneylender"
-   ]
+   "candidates": []
   },
   "勘弁": {
    "reading": "かんべん",
@@ -35816,17 +35791,6 @@
     "(verb) depravity; corruption; degradation"
    ]
   },
-  "為合う": {
-   "reading": "しあう",
-   "chapter": 17,
-   "multi_sense": false,
-   "glosses": [
-    "to do together"
-   ],
-   "candidates": [
-    "(verb) to do together"
-   ]
-  },
   "格別": {
    "reading": "かくべつ",
    "chapter": 17,
@@ -37164,6 +37128,33 @@
    "multi_sense": false,
    "glosses": [
     "busybody; someone who loves looking after others"
+   ],
+   "candidates": []
+  },
+  "主体性": {
+   "reading": "しゅたいせい",
+   "chapter": 1,
+   "multi_sense": false,
+   "glosses": [
+    "independence; having a mind of one's own; initiative"
+   ],
+   "candidates": []
+  },
+  "抜け目ない": {
+   "reading": "ぬけめない",
+   "chapter": 1,
+   "multi_sense": false,
+   "glosses": [
+    "shrewd; sharp; astute; never misses a trick"
+   ],
+   "candidates": []
+  },
+  "試合う": {
+   "reading": "しあう",
+   "chapter": 17,
+   "multi_sense": false,
+   "glosses": [
+    "to spar; to have a match (with someone); to fight each other"
    ],
    "candidates": []
   }

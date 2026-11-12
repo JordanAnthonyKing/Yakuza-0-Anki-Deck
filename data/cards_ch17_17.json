@@ -4074,16 +4074,15 @@
   "kind": "grp2",
   "standalone": false,
   "sentence": "最近<b>試合っ</b>て来た者とは格別じゃ！",
-  "word": "為合う",
+  "word": "試合う",
   "reading": "しあう",
-  "meaning": "to do together",
+  "meaning": "to spar; to have a match (with someone); to fight each other",
   "pos": "verb",
   "chapter": 17,
   "speaker": "米木",
   "uid": "01331531",
-  "candidates": [
-   "(verb) to do together"
-  ]
+  "candidates": [],
+  "guid": "byR{1V[SnB"
  },
  {
   "order": 240,

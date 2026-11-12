@@ -11,7 +11,7 @@ reappear later in their other meaning.
 import os, json, glob, re
 import genanki
 from build_deck import DATA, kata2hira, strip_orphan_brackets
-from keep_guids import old_guids, guid
+from keep_guids import old_guids, guid, _key
 from term_model import MODEL, extra_fields
 
 # word -> {reading,pos} from the candidate pool
@@ -23,6 +23,10 @@ for p in sorted(glob.glob(os.path.join(DATA, "classify_ch0_part*.json"))):
     cls.update(json.load(open(p, encoding="utf-8")))
 print(f"merged {len(cls)} classified words")
 
+# unidic/JMdict picked the wrong reading for these terms: word -> (old reading, right one).
+# The old reading still finds the note's GUID, so fixing it keeps the learner's card.
+READING_FIX = {"長押": ("なげし", "ながおし")}   # 長押し "long press", not the beam
+
 buckets = {"CORE": [], "MINIGAME": [], "GENERAL": []}
 divergent = []
 for word, v in cls.items():
@@ -32,7 +36,7 @@ for word, v in cls.items():
     meta = cand.get(word, {})
     card = {
         "word": word,
-        "reading": meta.get("reading", ""),
+        "reading": READING_FIX.get(word, (0, meta.get("reading", "")))[1],
         "meaning": (v.get("meaning") or "").strip(),
         "example": strip_orphan_brackets((v.get("example") or "").strip()),
         "pos": meta.get("pos", ""),
@@ -68,7 +72,9 @@ def build(cards, bucket, deck_id, name, fname):
         n_en += bool(eng)
         fields = [c["word"], c["reading"], c["meaning"], c["example"], c["pos"], eng, off,
                   *extra_fields(c["word"], c["reading"], media)]
-        deck.add_note(genanki.Note(model=MODEL, fields=fields, guid=guid(old, fields)))
+        was = READING_FIX.get(c["word"], (c["reading"],))[0]
+        g = old.get(_key([c["word"], was], 2)) or guid(old, fields)
+        deck.add_note(genanki.Note(model=MODEL, fields=fields, guid=g))
     genanki.Package(deck, media_files=media).write_to_file(path)
     print("wrote", path, f"({len(cards)} cards, {n_en} examples with English, {len(media)} word audio)")
 

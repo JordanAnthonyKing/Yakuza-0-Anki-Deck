@@ -63,13 +63,15 @@ def spans(line):
 def line_words(line):
     """(content tokens outside compound spans, compounds present) for one line."""
     sp = spans(line)
+    # a skip line must not teach the word through a misparsed token either (金貸せ -> 金貸し)
+    skip = {w for w, e in COMP.items() if any(x in line for x in e.get("skip_lines", []))}
     toks, pos = [], 0
     for t in content_tokens(line, tagger, base_w, base_r, jm):
         k = line.find(t["surface"], pos)
         if k < 0:
             k = pos
         pos = k + len(t["surface"])
-        if not any(a <= k < b for a, b, _ in sp):
+        if t["lemma"] not in skip and not any(a <= k < b for a, b, _ in sp):
             toks.append(t)
     return toks, [w for _, _, w in sp]
 

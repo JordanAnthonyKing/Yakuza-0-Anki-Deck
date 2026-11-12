@@ -25,7 +25,9 @@ from deck_names import NAMES
 deck = genanki.Deck(2059400050, NAMES); media = []
 for c in cards:
     ex = f"first appears: Ch.{c['first_chapter']}" if c.get("first_chapter") else ""
-    fields = [c["word"], c["reading"], c["meaning"], ex, c["kind"], "", "",
+    # reading_display only spaces out a reading that reads like a typo (しまの の きょうけん);
+    # the GUID key ignores whitespace, so the note stays the same
+    fields = [c["word"], c.get("reading_display") or c["reading"], c["meaning"], ex, c["kind"], "", "",
               *extra_fields(c["word"], c["reading"], media, audio=False)]
     deck.add_note(genanki.Note(model=MODEL, fields=fields, guid=guid(old, fields)))
 genanki.Package(deck, media_files=media).write_to_file(path)

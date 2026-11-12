@@ -227,8 +227,8 @@
   "standalone": false,
   "sentence": "部長、このビルに我が<b>社</b>の神室町店が",
   "word": "社",
-  "reading": "やしろ",
-  "meaning": "(Shinto) shrine",
+  "reading": "しゃ",
+  "meaning": "company; firm (我が社 = \"our company\")",
   "pos": "noun",
   "chapter": 1,
   "speaker": "",
@@ -549,34 +549,31 @@
   "order": 29,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "<b>主体</b>性のないヤンキー",
-  "word": "主体",
-  "reading": "しゅたい",
-  "meaning": "main constituent; core; nucleus",
+  "sentence": "<b>主体性</b>のないヤンキー",
+  "word": "主体性",
+  "reading": "しゅたいせい",
+  "meaning": "independence; having a mind of one's own; initiative",
   "pos": "noun",
   "chapter": 1,
   "speaker": "",
   "uid": "003311e2",
-  "candidates": [
-   "(noun) main constituent; core; nucleus",
-   "(noun) subject"
-  ]
+  "candidates": [],
+  "guid": "c%RbmF_HwO"
  },
  {
   "order": 30,
   "kind": "i+1",
   "standalone": false,
-  "sentence": "<b>抜け目</b>ないヤンキー",
-  "word": "抜け目",
-  "reading": "ぬけめ",
-  "meaning": "imprudence; oversight; omission; mistake",
-  "pos": "noun",
+  "sentence": "<b>抜け目ない</b>ヤンキー",
+  "word": "抜け目ない",
+  "reading": "ぬけめない",
+  "meaning": "shrewd; sharp; astute; never misses a trick",
+  "pos": "i-adjective",
   "chapter": 1,
   "speaker": "",
   "uid": "003311e2",
-  "candidates": [
-   "(noun) imprudence; oversight; omission; mistake"
-  ]
+  "candidates": [],
+  "guid": "B2ie*^Cz}S"
  },
  {
   "order": 31,
@@ -596,23 +593,6 @@
    "(noun) permission; leave; license",
    "(noun) dismissal; discharge",
    "(noun) not wanting; objecting to; being fed up with; wishing to avoid"
-  ]
- },
- {
-  "order": 32,
-  "kind": "i+1",
-  "standalone": false,
-  "sentence": "おら、早く<b>金貸</b>せって。",
-  "word": "金貸し",
-  "reading": "かねかし",
-  "meaning": "moneylending",
-  "pos": "verb",
-  "chapter": 1,
-  "speaker": "ヨッチャン",
-  "uid": "0133111b",
-  "candidates": [
-   "(verb) moneylending",
-   "(noun) moneylender"
   ]
  },
  {
@@ -1660,6 +1640,21 @@
    "(verb) to throw into",
    "(verb) to have sex; to fuck"
   ]
+ },
+ {
+  "order": 648,
+  "kind": "i+1",
+  "standalone": false,
+  "sentence": "ハメたのは、あの<b>金貸し</b>だ",
+  "word": "金貸し",
+  "reading": "かねかし",
+  "meaning": "moneylender; loan shark",
+  "pos": "noun",
+  "chapter": 1,
+  "speaker": "桐生",
+  "uid": "01331121",
+  "candidates": [],
+  "guid": "pFJ,_02Bv|"
  },
  {
   "order": 94,

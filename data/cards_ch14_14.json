@@ -1804,22 +1804,6 @@
   ]
  },
  {
-  "order": 105,
-  "kind": "grp3",
-  "standalone": false,
-  "sentence": "を<b>長押</b>しすると表示される操作パネルで、曲の再生や停止などが可能です。",
-  "word": "長押",
-  "reading": "なげし",
-  "meaning": "beam running between columns in traditional Japanese architecture, esp. within Japanese-style rooms",
-  "pos": "noun",
-  "chapter": 14,
-  "speaker": "ウォークマンについて",
-  "uid": "00331696",
-  "candidates": [
-   "(noun) beam running between columns in traditional Japanese architecture, esp. within Japanese-style rooms"
-  ]
- },
- {
   "order": 106,
   "kind": "grp3",
   "standalone": false,

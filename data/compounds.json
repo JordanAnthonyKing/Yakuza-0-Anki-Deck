@@ -612,5 +612,49 @@
   "reading": "うらしゃかい",
   "meaning": "the underworld; criminal society",
   "pos": "noun"
+ },
+ "主体性": {
+  "reading": "しゅたいせい",
+  "meaning": "independence; having a mind of one's own; initiative",
+  "pos": "noun",
+  "repoint": [
+   [
+    1,
+    29
+   ]
+  ]
+ },
+ "抜け目ない": {
+  "reading": "ぬけめない",
+  "meaning": "shrewd; sharp; astute; never misses a trick",
+  "pos": "i-adjective",
+  "repoint": [
+   [
+    1,
+    30
+   ]
+  ]
+ },
+ "試合う": {
+  "reading": "しあう",
+  "meaning": "to spar; to have a match (with someone); to fight each other",
+  "pos": "verb",
+  "match": [
+   "試合っ"
+  ],
+  "repoint": [
+   [
+    17,
+    239
+   ]
+  ]
+ },
+ "金貸し": {
+  "reading": "かねかし",
+  "meaning": "moneylender; loan shark",
+  "pos": "noun",
+  "skip_lines": [
+   "金貸せ"
+  ]
  }
 }
